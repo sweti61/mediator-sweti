@@ -1,0 +1,62 @@
+{{ $formID := .Get "id" }}
+{{ $downloadLink := .Get "link" | default "/downloads/leadmagnet.pdf" }}
+{{ $downloadLabel := .Get "label" | default "Lead Magnet" }}
+{{ $downloadLeadsource := .Get "leadsource" | default "Lead Magnet Source" }}
+
+<form
+  id="leadForm"
+  action="https://formspree.io/f/{{ $formID }}"
+  method="POST"
+  style="background: #fff; padding: 1.5em; box-shadow: 0 2px 10px rgba(0,0,0,0.08); border-radius: 8px; max-width: 600px; margin: auto;"
+>
+  <label style="display:block; margin-bottom:1em;">
+    <span style="display:block; margin-bottom:0.3em; font-weight:bold;">Deine E-Mail</span>
+    <input type="email" name="email" required style="width:100%; padding:0.6em; border: 1px solid #ccc; border-radius: 5px;">
+  </label>
+
+  <label style="display:block; margin-bottom:1em;">
+    <span style="display:block; margin-bottom:0.3em; font-weight:bold;">Nachricht (optional)</span>
+    <textarea name="message" style="width:100%; padding:0.6em; border: 1px solid #ccc; border-radius: 5px; height:100px;"></textarea>
+  </label>
+
+  <label style="display:block; margin-bottom:1.5em;">
+    <input type="checkbox" name="newsletter" value="ja" style="margin-right:0.5em;">
+    Ich möchte den kostenlosen Newsletter erhalten.
+  </label>
+  <input type="hidden" name="leadsource" value="{{ $downloadLeadsource }}">
+  <button type="submit"
+    style="background-color:#00449e; color:white; padding:0.6em 1.2em; border:none; border-radius:5px; cursor:pointer; font-weight:bold;">
+    📩 Absenden
+  </button>
+</form>
+
+<div id="successMessage" style="display:none; margin-top:2em; background: #f6fff6; padding: 1.5em; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 128, 0, 0.1); max-width: 600px; margin: 2em auto;">
+  <p>✅ Danke! Hier kannst du den {{ $downloadLabel }} herunterladen:</p>
+  <a href="{{ $downloadLink }}" target="_blank" style="display:inline-block; margin-top:1em; background:#22c55e; color:white; padding:0.6em 1.2em; border-radius:5px; text-decoration:none;">
+    📥 Jetzt herunterladen
+  </a>
+</div>
+
+<script>
+  const form = document.getElementById("leadForm");
+  const successMessage = document.getElementById("successMessage");
+
+  form.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    const data = new FormData(form);
+    const response = await fetch(form.action, {
+      method: form.method,
+      body: data,
+      headers: {
+        'Accept': 'application/json'
+      }
+    });
+
+    if (response.ok) {
+      form.style.display = "none";
+      successMessage.style.display = "block";
+    } else {
+      alert("Es gab ein Problem. Bitte versuche es später erneut.");
+    }
+  });
+</script>

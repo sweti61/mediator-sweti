@@ -1,0 +1,43 @@
+
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Paginator.Pages }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+			<div class="flip-card">
+			  <div class="flip-inner">
+				<!-- Vorderseite -->
+				<div class="flip-front">
+				  <h3>{{ .Title }}</h3>
+				  <p>{{ .Params.description }}</p>
+				  <p><em>Klick für mehr Details</em></p>
+				</div>
+
+				<!-- Rückseite -->
+				<div class="flip-back">
+				  <h4>Passende Angebote:</h4>
+				  <ul>
+					{{ range .Params.angebote }}
+					  {{ $page := site.GetPage (printf "angebote/%s" .) }}
+					  {{ if $page }}
+						<li><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
+					  {{ else }}
+						<li>{{ . }} (nicht gefunden)</li>
+					  {{ end }}
+					{{ end }}
+				  </ul>
+				  <p>
+					<a href="{{ .RelPermalink }}" class="btn-link">Mehr zur Zielgruppe</a>
+				  </p>
+				</div>
+			  </div>
+			</div>
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

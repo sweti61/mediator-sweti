@@ -1,0 +1,22 @@
+<article class="w-100 w-50-m w-33-l pa3">
+  <div class="testimonial-card" style="border-left: 4px solid #f4a261; padding-left: 1rem;">
+    {{ with .Params.images }}
+      <div class="tc mb3">
+        <img src="{{ index . 0 | relURL }}" alt="{{ $.Title }}" class="br-100 h3 w3 dib" />
+      </div>
+    {{ end }}
+
+    <h3 class="f5 mb2">{{ .Title }}</h3>
+
+    <div class="flex items-start mb2">
+      <div class="mr2 mt1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24" fill="#9ca3af">
+          <text x="0" y="36" font-size="36" font-family="Georgia, serif">❝</text>
+        </svg>
+      </div>
+      <p class="f6 gray mt0 mb0 lh-copy">{{ .Summary }}</p>
+    </div>
+
+    <a href="{{ .RelPermalink }}" class="link dim blue f6 mt2 dib">Mehr erfahren</a>
+  </div>
+</article>

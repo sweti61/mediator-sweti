@@ -1,0 +1,33 @@
+{{/*
+  GetMainCSS – Hugo ≥ 0.124 – bereinigt ohne func/socials/Get
+*/}}
+
+{{ $main_style := dict }}
+{{ $assets_to_concat := slice }}
+
+{{/* Standard-CSS-Dateien des Themes */}}
+{{ range slice "_tachyons.css" "_code.css" "_hugo-internal-templates.css" "_social-icons.css" "_styles.css" }}
+  {{ with partialCached "func/style/GetResource" . . }}
+    {{ $assets_to_concat = $assets_to_concat | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Benutzerdefinierte CSS-Dateien aus site.Params.custom_css einfügen */}}
+{{ with site.Params.custom_css }}
+  {{ range . }}
+    {{ with partialCached "func/style/GetResource" . . }}
+      {{ $assets_to_concat = $assets_to_concat | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with $assets_to_concat }}
+  {{ $style := . | resources.Concat "ananke/css/main.css" }}
+  {{ $style = $style | resources.Minify }}
+  {{ if eq (getenv "HUGO_ENV") "production" }}
+    {{ $style = $style | fingerprint }}
+  {{ end }}
+  {{ $main_style = $style }}
+{{ end }}
+
+{{ return $main_style }}

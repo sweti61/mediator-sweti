@@ -1,0 +1,58 @@
+main[role="main"] {
+    margin-left: 2rem !important;
+    margin-right: 2rem !important;
+    text-align: left !important;
+    max-width: none !important;
+}
+
+.center, .measure {
+    margin-left: 2rem !important;
+    margin-right: auto !important;
+    text-align: left !important;
+    max-width: none !important;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+}
+/* Korrigiert Headline-Container */
+.tc-l {
+    text-align: center !important;
+}
+
+/* Alternativ: Nur für den Headline-Abschnitt */
+header .tc-l,
+.home-header .tc-l {
+    text-align: center !important;
+}
+
+/* Nur spezifische h2-Überschrift innerhalb von Headern */
+header h2.center,
+.home-header h2.center {
+    text-align: center !important;
+}
+
+/* Auch H1 im Header-Container zentrieren */
+header h1,
+.home-header h1,
+.tc-l h1 {
+    text-align: center !important;
+}
+
+/* Listen (ul/li) immer linksbündig */
+ul, ol {
+    text-align: left !important;
+    margin-left: 2rem; /* Optional: schöner linker Rand */
+}
+
+li {
+    text-align: left !important;
+}
+
+/* Begrenzung der maximalen Lesebreite für Hauptinhalte */
+main[role="main"] > * {
+    max-width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+

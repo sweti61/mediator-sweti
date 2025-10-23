@@ -1,0 +1,14 @@
+# Hugo build output
+public/
+resources/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Editor- & Temp-Dateien
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak

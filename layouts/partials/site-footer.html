@@ -1,0 +1,31 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+
+  {{/* 👇 Optionales Footer-Menü – eigene Erweiterung (nicht im Original-Ananke) */}}
+  {{ if .Site.Menus.footer }}
+    <nav class="mb3">
+      <ul class="list pl0 flex justify-center">
+        {{ range .Site.Menus.footer }}
+          <li class="mh2">
+            <a href="{{ .URL | relURL }}" class="f6 link white-80 dim">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  {{ end }}
+
+  <div class="flex justify-between items-center">
+    
+    {{/* 👇 Link zum Startseiten-Copyright – wie im Original */}}
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3"
+       href="{{ .Site.Home.Permalink }}">
+      &copy; {{ with .Site.Copyright | default .Site.Title }}{{ . | safeHTML }} {{ now.Format "2006" }}{{ end }}
+    </a>
+
+    {{/* 👇 Social-Icons – Standardmechanismus des Ananke-Themes */}}
+    <div class="ananke-socials flex items-center">
+      {{ partialCached "social/follow.html" . }}
+    </div>
+
+  </div>
+
+</footer>

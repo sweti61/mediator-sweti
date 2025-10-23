@@ -1,0 +1,9 @@
+User-agent: *
+{{ if eq hugo.Environment "production" }}
+Allow: /
+Disallow: /admin/
+Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
+{{ else }}
+Disallow: /
+# Hinweis: Diese Version ist für nicht-produktive Umgebungen
+{{ end }}

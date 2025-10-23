@@ -1,0 +1,9 @@
+{{/* Dummy-Partial: func/socials/RenderLinks – ersetzt veraltete Social-Integration */}}
+
+<div class="ananke-socials">
+  {{ range .Site.Params.social }}
+    <a class="ananke-social-link {{ .name }}" href="{{ .url }}" aria-label="{{ .label }}">
+      {{ .label }}
+    </a>
+  {{ end }}
+</div>

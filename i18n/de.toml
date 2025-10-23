@@ -1,0 +1,112 @@
+[more]
+other = "Mehr"
+
+[allTitle]
+other = "Alle {{.Title }}"
+
+[recentTitle]
+other = "Neueste {{.Title }}"
+
+[readMore]
+other = "Mehr lesen"
+
+[readMoreCopy]
+other = "Weiterlesen"
+
+[by]
+other = "Von"
+
+[whatsInThis]
+other = "Was ist in dieser {{ .Type }}"
+
+[related]
+other = "Ähnliches"
+
+[yourName]
+other = "Dein Name"
+
+[emailAddress]
+other = "Email Adresse"
+
+[message]
+other = "Nachricht"
+
+[emailRequiredNote]
+other = "Eine Email Adresse wird benötigt."
+
+[send]
+other = "Senden"
+
+[taxonomyPageList]
+other = "Beiträge zum Thema “{{ .Title }}”"
+
+[readingTime]
+one = "Eine Minute"
+other = "{{ .Count }} Minuten"
+
+[wordCount]
+one = "Ein Wort"
+other = "{{ .Count }} Wörter"
+
+[recent]
+other = "Neueste"
+
+[next]
+other = "Nächste"
+
+[previous]
+other = "Vorherige"
+
+[minuteRead]
+one = "1 Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
+
+[title404]
+other = "Seite nicht gefunden"
+
+[message404]
+other = "Entschuldigung, die Seite konnte nicht gefunden werden."
+
+[pageTitle]
+other = "{{ .Title }}"
+
+[postReadingTime]
+one = "Lesedauer: 1 Minute"
+other = "Lesedauer: {{ .Count }} Minuten"
+
+[pageNotFound]
+other = "Seite nicht gefunden"
+
+[metaLastMod]
+other = "Zuletzt aktualisiert am {{ .Date }}"
+
+[metaReadingTime]
+one = "1 Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
+
+[tags]
+other = "Schlagwörter"
+
+[categories]
+other = "Kategorien"
+
+[translations]
+other = "Übersetzungen"
+
+[seeMore]
+other = "Mehr anzeigen"
+
+[morePosts]
+other = "Weitere Beiträge"
+
+[writtenBy]
+other = "Geschrieben von"
+
+[author]
+other = "Autor"
+
+[share]
+other = "Teilen"
+
+[dateFormat]
+other = "02.01.2006"

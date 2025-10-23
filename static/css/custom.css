@@ -1,0 +1,471 @@
+/* Customer journey */
+.journey-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  background-color: #f2f2f2; /* angepasst an blockquote */
+  border-left: 6px solid #ffa500; /* orange Akzent, wie beim Zitat */
+  border-radius: 6px;
+  padding: 1.5rem 1.5rem 1.5rem 1.25rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  margin-top: 2rem;
+  transition: box-shadow 0.3s ease;
+}
+
+.journey-container:hover {
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.journey-steps,
+.contact-info {
+  flex: 1 1 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.journey-steps h2,
+.contact-info h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.journey-steps ol {
+  padding-left: 1.2rem;
+  list-style: none;
+  counter-reset: step;
+}
+
+.journey-steps li {
+  position: relative;
+  padding-left: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+.journey-steps li::before {
+  content: counter(step);
+  counter-increment: step;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: #ffa500; /* orange Badge */
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+  text-align: center;
+  line-height: 1.5rem;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+.
+journey-steps li i,
+.contact-info i {
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  stroke: #ffa500; /* Orange passend zum Stil */
+  stroke-width: 2px;
+  width: 1.1em;
+  height: 1.1em;
+}
+
+.journey-steps li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #ffa500;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+
+.cta-button i {
+  margin-left: 0.5rem;
+  margin-right: 0;
+  vertical-align: middle; /* war bereits da */
+  stroke-width: 2;
+  width: 1.2em;
+  height: 1.2em;
+  position: relative;
+  top: 0.05em; /* NEU: optischer Ausgleich nach unten */
+}
+
+
+.cta-button:hover {
+  background-color: #e59400;
+}
+
+.contact-info p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.contact-info a {
+  color: #2f2f2f;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .journey-container {
+    flex-direction: column;
+    padding: 1.5rem;
+  }
+
+  .journey-steps,
+  .contact-info {
+    flex: 1 1 100%;
+  }
+}
+
+/* Backquote optimieren*/
+blockquote {
+  font-size: 1.2rem !important;
+  font-style: italic;
+  color: #333 !important;
+  border-left: 6px solid #ffa500 !important;
+  background-color: #f2f2f2 !important;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  line-height: 1.6;
+  text-align: left;
+  border-radius: 5px;
+}
+
+/* Boxed CTA Link */
+.boxed-link {
+  display: block;
+  width: 100%;
+  padding: 1rem 1.2rem;
+  background-color: transparent; /* jetzt wie Seitenhintergrund */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  text-align: left;
+}
+
+.boxed-link a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.boxed-link a:hover {
+  background-color: #e0e0e0;
+  color: #000;
+}
+
+
+/* ab hier früher im _styles.css */
+
+ul.TOC {
+  list-style: none !important;
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 0.95em;        /* optional: etwas kleinere Schrift */
+  line-height: 1.2em;       /* engerer Zeilenabstand */
+}
+
+ul.TOC li {
+  position: relative;
+  padding-left: 1.2em;
+  margin-bottom: 0.2em;     /* weniger Abstand zwischen Punkten */
+}
+
+ul.TOC li::before {
+  content: "-";
+  position: absolute;
+  left: 0;
+  color: #666;
+  font-weight: normal;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+
+
+/* CSS für die Tabelle */
+.UserTable {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.UserTable th, .UserTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.UserTable th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.UserTable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.UserTable tr:hover {
+  background-color: #ddd;
+}
+
+/* einfache Tabelle */
+.UserTableSimple {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  border: none;
+  font-size: 1rem;
+}
+
+.UserTableSimple thead th {
+  border-bottom: 2px solid #666;
+  text-align: left;
+  padding: 0.5em;
+  font-weight: bold;
+}
+
+.UserTableSimple tbody td {
+  padding: 0.5em;
+  border: none;
+}
+
+.UserTableSimple tbody tr {
+  background: none;
+}
+
+.mein-bild {
+  width: 400px;
+  border-radius: 10px;
+  margin: 1em auto;
+  display: block;
+  float: right;
+}
+
+/* CSS für die Karten der tags-Taxonomie */
+.tag-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 0.5rem;
+  justify-content: center;
+}
+
+.tag-card {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #d9d9d9;
+  border: none;
+  border-left: 4px solid #e2953d; /* warmer Orangeton */
+  border-radius: 3px;
+
+  padding: 0.3rem 0.7rem;
+  min-height: 34px;
+  min-width: 75px;
+
+  text-decoration: none;
+  color: #222;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.2;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  transition: background-color 0.2s;
+}
+
+.tag-card:hover {
+  background-color: #bfbfbf;
+  border-left-color: #cc7a1b; /* satteres Orange beim Hover */
+}
+
+.tag-name {
+  margin-right: 0.3rem;
+  font-weight: 600;
+}
+
+.tag-count {
+  font-size: 0.75rem;
+  color: #444;
+  font-weight: 500;
+}
+
+/* CSS für Akkordeon */
+
+details.accordion {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin: 1em 0;
+  padding: 0.5em;
+  background-color: #fdfdfd;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 1rem; /* Schriftgröße des gesamten Akkordeons */
+}
+
+details.accordion[open] {
+  background-color: #f5f5f5;
+}
+
+details.accordion summary {
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  padding: 0.3em 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+details.accordion summary:hover {
+  color: #007acc;
+}
+
+details.accordion .accordion-content {
+  font-weight: normal;         /* normaler Text, nicht fett */
+  font-size: 0.95rem;          /* kleinere Schriftgröße */
+  color: #444;                 /* dunkles Grau für gute Lesbarkeit */
+  line-height: 1.5;
+  margin-top: 0.5em;
+  padding-left: 0.5em;
+}
+
+details.accordion summary {
+  text-align: left;      /* explizit linksbündig */
+  display: list-item;    /* für normales Marker-Verhalten */
+  padding: 0.3em 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+/* Entferne das Standard-Dreieck */
+details.accordion summary {
+  list-style: none;               /* Dreieck entfernen */
+  text-align: left;
+  font-size: 1.1rem;
+  font-weight: 600;
+  position: relative;
+  padding-left: 1.5em;            /* Platz für das Symbol links */
+  cursor: pointer;
+}
+
+/* Symbol vor dem Titel – geschlossenes Akkordeon */
+details.accordion summary::before {
+  content: "+";                   /* geschlossener Zustand */
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  color: #444;
+}
+
+/* Symbol ändern, wenn geöffnet */
+details.accordion[open] summary::before {
+  content: "–";                   /* geöffnetes Akkordeon */
+}
+
+/* Werbebox */
+.werbebox-container {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f7f7f7; /* dezenter grauer Hintergrund */
+  border-left: 5px solid #f4a261; /* warmer Orangeton */
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+}
+
+.werbebox-logo img {
+  width: 120px; /* breiter für besseres Seitenverhältnis */
+  height: auto;
+  margin-right: 1.5rem;
+  object-fit: contain;
+}
+
+.werbebox-content {
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+  flex: 1;
+}
+
+.werbebox-content p {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}
+
+.werbebox-content .claim {
+  font-size: 1rem;
+}
+
+.werbebox-content .branding {
+  font-size: 1.1rem ;
+  font-weight: bold;
+  margin-top: 0.8rem;
+}
+
+.werbebox-content .contact a {
+  color: #d97706;
+  text-decoration: none;
+}
+
+.werbebox-content .contact a:hover {
+  text-decoration: underline;
+}
+
+/* Grid-Layout für Testimonials */
+.testimonial-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem; /* weniger Abstand als vorher */
+}
+
+.testimonial-card {
+  flex: 1 1 300px; /* kleiner als vorher */
+  max-width: 330px; /* enger begrenzt */
+  box-sizing: border-box;
+  padding: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+}
+

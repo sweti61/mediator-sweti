@@ -1,0 +1,179 @@
+baseURL = "https://mediator.sweti.de/"
+
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
+title = "Mediator Sweti"
+description = "Willkommen bei Mediator-Sweti. Ihr Experte für friedliche und respektvolle Konfliktlösungen."
+
+theme =  'ananke'
+
+[outputFormats.RobotsTXT]
+baseName = "robots"
+mediaType = "text/plain"
+isPlainText = true
+notAlternative = true
+permalinkable = true
+
+[outputs]
+home = ["HTML", "RSS", "RobotsTXT"]
+
+
+#Paginate = 6
+[pagination]
+  pagerSize = 6
+  
+resourceDir = "../resources"
+custom_css = ["css/custom.css"]
+# SectionPagesMenu = "main"
+
+# SEO: Meta-Informationen
+googleAnalytics = "G-9GV2L88RXT"
+enableRobotsTXT = true
+
+# Hugo-Features
+enableGitInfo = false
+enableEmoji = true
+
+# Taxonomies
+[taxonomies]
+  angebote = "angebote"
+  tags="tags"
+  
+# Sitemap Settings
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Params für Ananke Theme
+
+[params]
+  author = "Mediator Sweti"
+  favicon = "favicon-32x32.png"  
+  site_logo = "images/Sweti_Mediator_Logo_100x100.png"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+#  background_color_class = "bg-blue"
+  background_color_class = "bg-black"
+  text_color = "mid-gray"
+  recent_posts_number = 3
+
+[params.ananke.social]
+  follow = { networks = ["linkedin", "facebook", "x-twitter", "email", "kontakt", "calendar"] }
+
+[params.ananke.social.linkedin]
+  profilelink = "https://www.linkedin.com/in/sweti/"
+  username = "sweti"
+  label = "LinkedIn"
+  icon = "linkedin"
+
+[params.ananke.social.facebook]
+  profilelink = "https://facebook.com/mediator.sweti"
+  label = "Facebook"
+  icon = "facebook"
+
+[params.ananke.social.x-twitter]
+  profilelink = "https://twitter.com/sweti"
+  label = "X"
+  icon = "x-twitter"
+
+[params.ananke.social.email]
+	profilelink = "mailto:mediator@sweti.de"
+	name = "email"
+	label = "E-Mail"
+    icon = "email"
+
+[params.ananke.social.kontakt]
+  profilelink = "/contact/"
+  label = "Kontakt"
+  icon = "kontakt"
+
+[params.ananke.social.calendar]
+  profilelink = "https://calendly.com/sweti-mediator"
+  label = "Kostenloses Erstgespräch"
+  icon = "calendar"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
+	[markup.goldmark.parser]
+    [markup.goldmark.parser.attribute]
+        enabled = true
+        block = true
+        title = true
+
+
+# Menüeinstellungen
+[menu]
+
+  [[menu.main]]
+	identifier = "dienstleistungen"
+    name = "Angebot"
+    url = "/angebote/"
+    weight = 3
+	
+	[[menu.main]]
+    identifier = "dienstleistung-orga"
+    name = "Systemische Prozessberatung"
+    url = "/dienstleistungen/orga/"
+    parent = "dienstleistungen"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "dienstleistung-sozial"
+    name = "für soziale Einrichtungen & Träger"
+    url = "/dienstleistungen/sozial/"
+    parent = "dienstleistungen"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "dienstleistung-fuehrung"
+    name = "Konflikt-Coaching"
+    url = "/dienstleistungen/fuehrung/"
+    parent = "dienstleistungen"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "dienstleistung-privat"
+    name = "Konfliktbegleitung"
+    url = "/dienstleistungen/privat/"
+    parent = "dienstleistungen"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "dienstleistung-itsm"
+    name = "für IT-Prozesse"
+    url = "/dienstleistungen/itsm/"
+    parent = "dienstleistungen"
+    weight = 5
+	
+  [[menu.main]]
+    name = "Fragen & Antworten"
+    url = "/howto/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Mediationsblog"
+    url = "/post/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Über mich"
+    url = "/about/"
+    weight = 6
+	
+  [[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Datenschutzerklärung"
+    url = "/datenschutz/"
+    weight = 2
+	
+  [[menu.footer]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 3

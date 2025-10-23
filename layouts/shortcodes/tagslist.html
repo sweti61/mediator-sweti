@@ -1,0 +1,18 @@
+{{ $taxonomy := "tags" }}
+{{ $tags := index .Site.Taxonomies $taxonomy }}
+{{ if $tags }}
+  <h2 class="tags-heading">Thematische Schlagworte ({{ len $tags }})</h2>
+  <div class="tag-card-container">
+    {{ range $key, $value := $tags }}
+      {{ $name := replace $key "-" " " }}
+      {{ $label := delimit (apply (split $name " ") "title" ".") " " }}
+      <a class="tag-card" href="{{ "/" | relLangURL }}tags/{{ $key | urlize }}">
+        <span class="tag-name">{{ $label }}</span>
+        <span class="tag-count">({{ len $value }})</span>
+      </a>
+    {{ end }}
+  </div>
+{{ else }}
+  <p>Keine Schlagworte vorhanden.</p>
+{{ end }}
+
