@@ -35,3 +35,5 @@ Ein negativer Ausgang kann auch eine Gelegenheit zur Selbstreflexion sein. Die P
 **Fazit**
 
 Ergebnisoffenheit in der Mediation bedeutet, dass der Ausgang nicht vorherbestimmt ist und dass der Weg zur Lösung flexibel ist. Es ist wichtig, realistische Erwartungen zu haben und zu verstehen, dass nicht jeder Konflikt sofort gelöst werden kann. Mit Geduld, Offenheit und der Bereitschaft, gemeinsam an einer Lösung zu arbeiten, können Medianten dennoch wertvolle Fortschritte erzielen, selbst wenn das Endergebnis nicht genau das ist, was sie sich ursprünglich vorgestellt haben.
+
+{{< youtube XCFdgrltlHY >}}

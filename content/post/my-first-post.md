@@ -27,3 +27,5 @@ Egal, ob es um _Familienstreitigkeiten_, _Nachbarschaftskonflikte_ oder _Problem
 Lesen Sie noch die [Geschichte von Anna und David]({{< ref "anna_und_david" >}} "Geschichte von Anna und David") um zu erfahren wie eine Mediation praktisch erfolgt.
 
 Sie erfahren mehr über [der Arbeit des Mediators]({{< ref "my-second-post" >}} "Arbeit des Mediators") in den Blogartikel "Wie arbeitet der Mediator?".
+
+{{< youtube 06EevTLaEV0 >}}

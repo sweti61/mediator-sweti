@@ -19,3 +19,5 @@ Zuerst hört der Mediator sich die Geschichten und Ansichten aller an. Dann hilf
 Während der _Mediationssitzungen_ führt der Mediator Gespräche, um Ideen auszutauschen und Kompromisse zu finden. Er stellt Fragen, um den Menschen zu helfen, über ihre _Bedürfnisse und Wünsche_ nachzudenken. Am Ende hilft der Mediator dabei, eine Lösung zu finden, mit der alle einverstanden sind.
 
 Der Mediator arbeitet _neutral und unparteiisch_. Sein Ziel ist es, eine friedliche Einigung zu erreichen und den Konflikt zu lösen. Mit seiner Hilfe können die Beteiligten gemeinsam einen Weg nach vorne finden und eine bessere Zukunft gestalten.
+
+{{< youtube kvwisgrKpDA >}}

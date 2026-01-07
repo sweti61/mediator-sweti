@@ -19,3 +19,5 @@ Die Vertraulichkeit hat zwei Hauptfunktionen: Zum einen gewährleistet sie ein _
 Eine weitere wichtige Dimension der Vertraulichkeit liegt in der _Beziehung zwischen den Mediationsparteien_ selbst. Ein separates Arbeitsbündnis, das eine Verschwiegenheitsabrede zwischen den Parteien beinhaltet, ist entscheidend. Diese Vereinbarung stellt sicher, dass alles, was während der Mediation besprochen wird, vertraulich behandelt wird und nicht außerhalb des Verfahrens weitergegeben wird.
 
 Die Vertraulichkeit bildet somit das Rückgrat eines jeden erfolgreichen Mediationsprozesses und trägt dazu bei, ein sicheres und geschütztes Umfeld für die Konfliktparteien zu schaffen, in dem sie frei und offen arbeiten können.
+
+{{< youtube Sh1ZUKFMIms >}}
