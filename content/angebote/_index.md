@@ -21,3 +21,5 @@ Schau dich gern um – vielleicht findest du genau den Raum, den du gerade brauc
 
 {{< customerjourney >}}
 
+Weitere angebote für Organisationen finden Sie auf [beiltschew.de](https://beltschew.de/services/)
+

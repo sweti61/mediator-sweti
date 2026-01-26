@@ -263,3 +263,5 @@ Die Erfahrung zeigt:
 Wenn der Raum passt,  
 wird vieles leichter –  
 ohne dass jemand „besser kommunizieren“ müsste.
+
+👉 Sie können ein Orientierungsrahmen kostenlos [hier]({{<relref "/leadmagnets/klaerungsraum-orientierung/">}}) herunterladen

@@ -9,4 +9,4 @@ date = 2025-05-14T08:16:44+02:00
 {{< figure src="/images/differenzierung.png">}}
 ## Lade dir den Insider-Tipps kostenlos herunter
 
-{{< formspree id="xkgrpwzd" link="https://drive.google.com/file/d/1-9LQoG_HeC-xXkUC9DUjL23NB_KelNRT/view?usp=drive_link" label="Entfaltung statt Eskalation - das Harvard-Konzept" leadsource="Harvard-Konzept">}}
+{{< formspree id="xkgrpwzd" link="https://drive.google.com/file/d/1LZsNteF1N_wLuNtNLPm9Crr7clJQRgAZ/view?usp=sharing" label="Entfaltung statt Eskalation - das Harvard-Konzept" leadsource="Harvard-Konzept">}}
