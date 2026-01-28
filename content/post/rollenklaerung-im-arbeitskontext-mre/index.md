@@ -188,7 +188,7 @@ Rollenklärung im Arbeitskontext wirkt auf mehreren Ebenen:
 
 Besonders in Veränderungsprozessen, bei neuen Aufgaben oder in IT-nahen Kontexten erweist sich das MRE-Modell als stabiler Orientierungsrahmen.
 
----
+{{< werbebox >}}
 
 ## Fazit: Rollenklärung als Voraussetzung für Wirksamkeit
 
