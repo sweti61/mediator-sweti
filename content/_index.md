@@ -1,7 +1,7 @@
 +++
 title='Struktur. Klarheit. Verbindung.'
 
-description = "Systemische Mediation, Coaching und Prozessberatung für Menschen, Teams und Organisationen in Veränderung. Klarheit schaffen, Konflikte lösen, Lösungen ermöglichen – ruhig, verbindlich, strukturiert."
+description = "Systemische Mediation, Coaching und Prozessberatung für Menschen, Teams und Organisationen in Veränderung - in Dresden und im digitalen Raum. Klarheit schaffen, Konflikte lösen, Lösungen ermöglichen – ruhig, verbindlich, strukturiert."
 
 keywords = ["Mediation", "systemische Beratung", "Konfliktlösung", "Führungskräftecoaching", "Pflegekonflikte", "IT-Projektberatung", "Prozessbegleitung", "Veränderung begleiten", "Teamkonflikte"]
 
@@ -18,8 +18,7 @@ Wenn Kommunikation stockt, Beziehungen belastet sind oder Teams ihre Orientierun
 
 Ob in Familien, Pflegekontexten, IT-Projekten oder Führungsfragen – Konflikte sind kein Zeichen von Scheitern, sondern Ausdruck menschlicher Beziehung. Gemeinsam schaffen wir Klarheit, stärken Ihre Handlungsfähigkeit und entwickeln Lösungen, die tragen.
 
-Ich arbeite mit Menschen, die Verantwortung übernehmen – für andere und für sich selbst.  
-Was mich dabei auszeichnet: ein klarer Blick für Zusammenhänge, methodische Sicherheit und die Fähigkeit, auch in komplexen Situationen ruhig und verbindlich zu bleiben.
+Ich arbeite mit Menschen, die Verantwortung übernehmen – für andere und für sich selbst. Was mich dabei auszeichnet, sind ein klarer Blick für Zusammenhänge, methodische Sicherheit und eine ruhige, verbindliche Haltung – in der Arbeit mit Organisationen, Führungskräften und Privatpersonen in Dresden, Sachsen und bundesweit online.
 
 
 ---
@@ -58,3 +57,4 @@ Professionelle Klärung und Unterstützung für Privatpersonen, Familien und Tea
 
 {{< customerjourney >}}
 
+👉 Detailliertere Auskünfte bezüglich meiner Tätigkeit in Organisationen entnehmen Sie bitte meiner Unternehmenswebseite [beltschew.de](https://beltschew.de)
