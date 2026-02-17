@@ -4,5 +4,3 @@ description = "Alle Beiträge rund um Mediation – Hintergründe, Praxisbeispie
 type = "tags"
 +++
 
-Ein Einführungstext
-sadadasd
