@@ -4,9 +4,8 @@ description = "Übersicht aller Leistungen von Mediator Sweti – Konfliktbeglei
 summary = "Alle Angebote im Überblick: Konfliktklärung, Gesprächsbegleitung, Coaching und systemische Beratung für verschiedene Lebens- und Arbeitssituationen."
 keywords = ["Mediator", "Konfliktlösung", "Beratung", "Coaching", "Teamkonflikt", "Paarberatung", "Pflegekonflikt", "Mediation Dresden", "systemische Beratung", "Angebote"]
 
-date = 2025-05-25T11:03:17+02:00
+date = 2025-05-25
 
-draft = "false"
 +++
 
 Jeder Konflikt ist anders – und jedes Gespräch ein neuer Anfang.

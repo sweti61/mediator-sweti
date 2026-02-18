@@ -3,6 +3,7 @@ categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Dienstleistungen']
 title = 'Dienstleistung Elder Mediation'
 description = 'Elder-Mediation: Dienstleistungen; Pflege und Betreuung, Wohnsituation, finanzielle Angelegenheiten, Gesundheitsentscheidungen, familiäre Beziehungen, Multigenerationale Beteiligung, Personzentrierter Ansatz'
+summary = 'Elder-Mediation unterstützt ältere Menschen und ihre Familien bei Konflikten rund um Pflege, Wohnsituation, Finanzen und Gesundheit. Erfahren Sie, wie unser personzentrierter, empathischer Ansatz nachhaltige Lösungen schafft – vertraulich, würdevoll und ohne Gerichtsverfahren.'
 
 date = 2024-06-23T13:29:16+02:00
 

@@ -1,12 +1,12 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog', 'Medaition',]
 tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation']
 title = 'Elder Mediation'
 description = 'Elder-Mediation: Konfliktlösung für ältere Paare'
+summary = 'Elder-Mediation ist eine spezialisierte Mediationsform für ältere Menschen und ihre Familien. Sie adressiert Konflikte rund um Pflege, Wohnen, Finanzen, Erbschaft und Familienbeziehungen – empathisch, respektvoll und mit Blick auf die besonderen Bedürfnisse älterer Generationen.'
 date = 2024-05-24T13:29:16+02:00
 
 read_more_copy = 'Mehr über die Elder-Mediation'
-
 +++
 {{< figure src="/images/elder-mediation.png">}}
 
