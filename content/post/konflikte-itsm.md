@@ -4,6 +4,7 @@ tags = ['IT-Dienstleister']
 title = 'Wenn Prozesse blockieren – Konflikte in der IT sichtbar machen'
 
 description = 'Konflikte in IT-Projekten erkennen und klären: Warum ITIL-Prozesse oft Reibung erzeugen – und wie neutrale Moderation für Struktur, Vertrauen und Lösungen sorgt'
+summary = "ITIL-Prozesse schützen nicht vor Konflikten – sie machen sie sichtbar. Dieser Artikel zeigt, warum Konflikte in IT-Organisationen oft unsichtbar bleiben und wie neutrale Konfliktklärung Teams, Projekte und Prozesse wieder handlungsfähig macht."
 keywords = ['Konfliktmanagement', 'ITIL', 'Konflikte in IT-Projekten', 'ITIL-Kommunikation', 'neutrale Moderation IT', 'IT-Konflikte lösen', 'Change Management Konflikte', 'Service Level Konflikte', 'IT-Prozessberatung', 'Konfliktklärung IT']
 
 read_more_copy = 'Konflikte in der IT'

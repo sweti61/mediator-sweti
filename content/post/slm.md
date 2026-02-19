@@ -4,6 +4,7 @@ tags = ['IT-Dienstleister']
 title = 'Konfliktmanagement ITIL: SLAs als Zündstoff im Service Level Management (SLM)'
 
 description = 'Erfahren Sie, wie Konflikte rund um SLAs entstehen – und wie professionelle Konfliktmoderation und Mediation Klarheit in ITIL-Prozesse bringen.'
+summary = "SLAs sind häufiger Konfliktherd zwischen IT-Dienstleistern und Kunden – wegen unklarer Erwartungen, Sprachbarrieren und diffuser Verantwortlichkeiten. Als systemischer Mediator schaffe ich Klarheit im Service Level Management und begleite Organisationen zu einer gelebten Eskalationskultur."
 keywords =['Konfliktmanagement ITIL', 'Service Level Management', 'Konflikte in IT-Projekten', 'ITIL Kommunikation verbessern', 'professionelle Konfliktmoderation', 'Prozessoptimierungsmediation', 'systemische Mediation', 'SLAs ITIL', 'ITIL Eskalationsmanagement', 'neutrale Moderation IT']
 date = 2025-04-03T09:27:59+02:00
 

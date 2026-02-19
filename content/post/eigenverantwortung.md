@@ -3,6 +3,7 @@ categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediation kurz erklärt', 'MediationsG']
 title = 'Eigenverantwortung in der Mediation: Gemeinsam Lösungen finden'
 description = 'Eigenverantwortung, Mediation MediationG'
+summary = "Eigenverantwortung ist ein Kernprinzip der Mediation: Mediator und Medianten tragen gemeinsam Verantwortung für den Prozess und seine Ergebnisse. Erst wer aktiv, selbstreflektiert und offen mitwirkt, kann gemeinsam mit der anderen Partei nachhaltige und tragfähige Lösungen entwickeln."
 date = 2024-05-17T11:11:42+02:00
 
 read_more_copy = 'Mehr über die Eigenverantwortung'

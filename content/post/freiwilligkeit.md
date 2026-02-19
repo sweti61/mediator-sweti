@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung','Meiationsprinzi
 title = 'Freiwilligkeit in der Mediation'
 
 description = 'Erfahren Sie, warum Freiwilligkeit in der Mediation essenziell ist, wie arbeitsvertragliche Verpflichtungen und das Direktionsrecht der Vorgesetzten die Mediation beeinflussen, und welche arbeitsrechtlichen Konsequenzen bei Verweigerung der Teilnahme drohen'
-
+summary = "Freiwilligkeit ist das Fundament jeder Mediation: Nur wer ohne Zwang teilnimmt, trägt die erzielte Lösung mit. Der Artikel beleuchtet, wie Mediationsklauseln, arbeitsvertragliche Verpflichtungen und das Direktionsrecht mit dem Prinzip der Freiwilligkeit vereinbar sind – und welche arbeitsrechtlichen Konsequenzen eine Verweigerung haben kann."
 date = 2024-08-07T10:14:37+02:00
 
 read_more_copy = 'Mehr über die Freiwilligkeit in der Mediation'

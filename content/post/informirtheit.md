@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung', 'Meiationsprinz
 title = 'Informirtheit in der Mediation'
 
 description = 'Informiertheit in der Mediation ist entscheidend für den Erfolg. Mediatoren informieren über den Prozess und rechtliche Aspekte, während Parteien Details zum Konflikt liefern. Das Mediationsgesetz sichert die Kompetenz des Mediators, der keine Rechtsberatung geben darf, was Vertrauen und rechtssichere Lösungen fördert.'
-
+summary = "Informiertheit ist ein zentrales Mediationsprinzip: Der Mediator informiert über Prozess und Rahmenbedingungen, die Parteien über den Konflikt. Ausbildungspflichten, Supervision und rechtliche Grenzen zur Rechtsberatung sichern Transparenz, Vertrauen und nachhaltige Lösungen."
 date = 2024-08-14T07:20:46+02:00
 
 read_more_copy = 'Mehr über die Informirtheit'

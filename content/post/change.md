@@ -1,10 +1,9 @@
 +++
 categories = ['Blog', 'Medaition']
 tags = ['IT-Dienstleister']
-
 title = 'Change Management ITIL: Zwischen Dringlichkeit und Stabilität – Konflikte lösen mit Mediation'
-
 description = 'Change Management braucht Klarheit, Kommunikation und Konfliktkompetenz – wie Mediation bei ITIL-Prozessen hilft, zeigt dieser Artikel.'
+summary = "Change Management in ITIL-Umgebungen birgt typische Konfliktmuster: Prioritätskonflikte zwischen Business und IT, unklare Verantwortungen, Kommunikationslücken. Als systemischer Mediator helfe ich Organisationen, Change-Prozesse strukturierter, transparenter und konfliktkompetenter zu gestalten."
 
 keywords =['Mediation', 'Change Management', 'Konflikte in IT-Projekten', 'Konfliktmanagement ITIL', 'ITIL Kommunikation', 'Change Enablement', 'professionelle Konfliktmoderation', 'systemische Mediation', 'neutrale Moderation IT', 'ITIL v4', 'CAB Konflikt', 'ITSM Mediation', 'Konflikte lösen', 'Teamkonflikt IT', 'Prozessoptimierungsmediation']
 

@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Meiationsprinzipien', 'MediationsG']
 title = 'Neutralität, Unabhängigkeit und Allparteilichkeit als Grundmerkmale der Mediation'
 
 description = 'Entdecken Sie die zentralen Prinzipien der Mediation: Neutralität, Unabhängigkeit und Allparteilichkeit. Erfahren Sie, wie sie faire und ausgewogene Konfliktlösungen ermöglichen und Vertrauen schaffen.'
-
+summary = "Neutralität, Unabhängigkeit und Allparteilichkeit sind die tragenden Prinzipien jeder Mediation. Dieser Artikel erklärt, was sie bedeuten, wie das Mediationsgesetz Unabhängigkeit rechtlich sichert – und warum erst ihr Zusammenspiel echtes Vertrauen und faire Konfliktlösung ermöglicht."
 date = 2024-07-31T09:35:30+02:00
 
 read_more_copy = 'Weiter zu Neutralität, Unabhaengigkeit und Allparteilichkeit'

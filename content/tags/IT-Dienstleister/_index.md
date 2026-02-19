@@ -5,4 +5,5 @@ description = "Fachartikel, Impulse und Fallbeispiele zur Konfliktklärung, Proz
 
 keywords = ["ITIL Mediation", "IT-Konflikte", "DevOps Moderation", "IT-Projektberatung", "Konfliktmanagement IT", "Systemische Prozessberatung"]
 type = "tags"
+featured_image = 'it-dienstleister-dresden.png'
 +++

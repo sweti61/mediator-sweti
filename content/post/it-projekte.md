@@ -1,9 +1,9 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Projektmediation', 'Experten-Mediation']
+tags = ['Mediation', 'Konfliktmanagement', 'Experten-Mediation', 'IT-Dienstleister']
 title = 'Mediation bei IT-Projekte'
 description = 'Mediation bei IT-Projekten; komplexen und dynamischen Welt der IT-Projektarbeit; hohe technische Anforderungen, enge Zeitpläne und diverse Teams'
-
+summary = "Mediation bei IT-Projekten löst Konflikte in technisch komplexen, interdisziplinären Teams – bei engem Zeitplan, hohem Druck und unterschiedlichen Stakeholder-Interessen. Professionelle Vermittlung sichert Kommunikation, Zusammenarbeit und Projekterfolg."
 date = 2024-06-03T16:03:46+02:00
 
 read_more_copy = 'Mehr über IT-Projekte'

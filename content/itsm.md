@@ -5,6 +5,7 @@ categories = ['Blog', 'Medaition']
 title='Konflikte in Organisationen & KMU – gemeinsam klären, bevor sie eskalieren'
 
 description = 'Konflikte in Unternehmen klären: Mediation, Coaching & Moderation für ITIL-Prozesse, Teams, Change-Management und Firmenübergaben – professionell & neutral.'
+summary = "Konflikte in Unternehmen und KMU lösen: Ich begleite Teams, Führungskräfte und Organisationen bei Reibungen in IT-Projekten, ITIL-Prozessen, Change-Management und Firmenübergaben – neutral, strukturiert und lösungsorientiert."
 keywords = ['Konfliktmanagement ITIL', 'Konflikte in IT-Projekten', 'ITIL Kommunikation', 'neutrale Moderation IT', 'ITSM', 'IT-Dienstleister', 'Mediation Unternehmen', 'Konflikte Change Management', 'Konfliktberatung KMU', 'Moderation Reorganisation']
 
 type='page'

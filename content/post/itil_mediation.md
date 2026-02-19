@@ -1,9 +1,9 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Prozess-Mediation', 'Mediation', 'Konfliktmanagement', 'IT-Dienstleister']
+tags = ['Mediation', 'Konfliktmanagement', 'IT-Dienstleister']
 title = 'Konfliktmanagement für ITIL-Prozesse'
 description = 'Dienstleistung Konfliktmanagement für ITIL-Prozesse für mittelständische IT-Dienstleister, ITIL-Prozesse zur Serviceerbringung, agile Methoden, Konflikte zwischen verschiedenen Interessengruppen'
-
+summary = "Konfliktmanagement für ITIL-Prozesse: Spezialisierte Mediation, Moderation und Prävention für mittelständische IT-Dienstleister – bei Spannungen im Incident-, Change- oder Service Level Management, in agilen Teams und bei der Einführung neuer Prozesse."
 date = 2024-06-14T14:22:11+02:00
 
 read_more_copy = "Mehr über die ITIL-Mediation"
