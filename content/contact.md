@@ -14,6 +14,6 @@ type: page
 Geben Sie Ihre Kontaktdaten ein, um einen Termin zu vereinbaren oder weitere Informationen zu unseren Dienstleistungen in Dresden und ganz Sachsen zu erhalten. Wir freuen uns darauf, Ihnen zu helfen, Konflikte zu lösen und gemeinsam zu wachsen.
 
 Alternativ verwenden Sie den [Online-Kalender](
-https://calendly.com/sweti-mediator "Calendly"), um einen kostenlosen Termin direkt zu buchen.
+https://calendly.com/mediator-sweti "Calendly"), um einen kostenlosen Termin direkt zu buchen.
 
 {{< form-contact action="https://formspree.io/f/mrgndkzk"  >}}

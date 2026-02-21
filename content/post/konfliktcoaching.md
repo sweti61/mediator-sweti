@@ -4,6 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konfliktcoaching: Dein persönlicher Kompass in stürmischen Zeiten'
 
 description = 'Erfahre, wie Konfliktcoaching als persönlicher Kompass in stürmischen Zeiten hilft, Konfliktkompetenz zu stärken, Kommunikation zu verbessern und konstruktive Lösungen für berufliche und persönliche Herausforderungen zu entwickeln. Entdecke systemische Ansätze und praxisnahe Methoden.'
+summary = "Konfliktcoaching ist ein individueller, systemischer Prozess zur Stärkung persönlicher Konfliktkompetenz – für Führungskräfte, Teams und Einzelpersonen. Im Unterschied zu Mediation und Konfliktberatung steht die Selbstreflexion des Coachees im Mittelpunkt: eigene Muster erkennen, Kommunikation verbessern, konstruktiv handeln."
 keywords = ['Konfliktcoaching', 'Konfliktlösung', 'Konfliktkompetenz', 'systemische Beratung', 'Führungskräfteentwicklung', 'Konfliktmanagement', 'Selbstreflexion', 'Teamarbeit verbessern', 'Stressbewältigung', 'emotionale Intelligenz']
 date = 2024-09-04T08:24:23+02:00
 

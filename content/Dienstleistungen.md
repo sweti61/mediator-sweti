@@ -53,7 +53,7 @@ Ich spreche die Sprache von IT-Projekten und Verwaltung – und bringe zugleich 
 3. Prozessgestaltung und Klärungsgespräche
 4. Transfer in Ihre Organisation
 
- [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+ [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 ## 🫋 Systemische Begleitung für soziale Einrichtungen & Träger {#sozial}
@@ -100,7 +100,7 @@ Mit Fingerspitzengefühl, systemischer Klarheit und praktischer Erfahrung beglei
 3. Prozessgestaltung und Begleitung
 4. Umsetzung und nachhaltige Entwicklung
 
- [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+ [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
@@ -141,7 +141,7 @@ Ich kombiniere langjährige Beratungserfahrung mit systemischer Haltung und empa
 3. Coachingprozess starten
 4. Reflexion & Weiterentwicklung
 
- [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+ [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
@@ -182,7 +182,7 @@ Mit Respekt, Fingerspitzengefühl und systemischer Klarheit begleite ich überg�
 3. Klärungsprozess gestalten
 4. Nachbegleitung bei Bedarf
 
- [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+ [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 ## 🤝🖥️ Mediation & Coaching für IT-Prozesse
@@ -232,7 +232,7 @@ Wir verbinden systemische Mediation mit mehr als 30 Jahren Erfahrung in Organisa
 4. Transfer in Ihre Organisation
 
 
- [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+ [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
@@ -243,7 +243,7 @@ Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.
 - **Dr. Swetoslaw Beltschew** – Konfliktbegleitung & Prozessberatung
 - **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 - **Kontaktformular:** [Zur Kontaktseite](https://mediator.sweti.de/contact/)
-- **Termin buchen:** [Jetzt Erstgespräch buchen](https://calendly.com/sweti-mediator)
+- **Termin buchen:** [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 

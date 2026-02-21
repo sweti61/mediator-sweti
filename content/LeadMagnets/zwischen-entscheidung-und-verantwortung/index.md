@@ -11,11 +11,6 @@ keywords:
 - Verantwortung
 - Reflexion
 - Systemische Beratung
-tags:
-- Reflexion
-- Führung
-- Verwaltung
-- Entscheidung
 categories:
 - LeadMagnet
 date: 2026-01-28

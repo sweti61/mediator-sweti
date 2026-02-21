@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konfliktberatung: Der Navigator durch schwierige Situationen'
 
 description = 'Erfahre, wie Konfliktberatung als systemischer Ansatz Organisationen unterstützt, Konflikte zu analysieren, nachhaltig zu lösen und einen positiven Kulturwandel zu fördern. Entdecke die Unterschiede zur Mediation und die Vorteile für die öffentliche Verwaltung.'
-
+summary = "Konfliktberatung geht tiefer als Mediation: Sie analysiert Ursachen, Dynamiken und systemische Muster eines Konflikts – in Organisationen, Teams oder Behörden. Mit systemischen Methoden werden nicht nur Symptome gelöst, sondern nachhaltige Veränderungen in Kommunikation, Zusammenarbeit und Konfliktkultur bewirkt."
 date = 2024-08-30T11:54:42+02:00
 
 read_more_copy = 'Weiter zu Konfliktberatung'

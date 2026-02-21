@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement','Mediationsstile', 'Dienstleistungen']
 title = 'Täter-Opfer-Ausgleich (Restorative Justice) in der Mediation'
 
 description = 'Erfahre, wie der Täter-Opfer-Ausgleich (TOA) in der Mediation funktioniert, seine gesetzliche Verankerung in Deutschland, die Herausforderungen des Prozesses und die Vorteile gegenüber traditionellen strafrechtlichen Verfahren. Erfolgsraten und Methoden erklärt.'
-
+summary = "Der Täter-Opfer-Ausgleich (TOA) setzt auf Dialog, Wiedergutmachung und Versöhnung statt auf Bestrafung. Der Artikel erklärt gesetzliche Grundlagen in Deutschland, den strukturierten Ablauf einer TOA-Sitzung, spezifische Herausforderungen – und warum die Erfolgs- und Zufriedenheitsraten deutlich über denen traditioneller Strafverfahren liegen."
 keywords = ['Opfer-Täter-Ausgleich', 'TOA', 'restorative justice', 'Mediation', 'Konfliktlösung', 'Wiedergutmachung', 'Versöhnung', 'deutsches Recht', 'juristische Ausbildung', 'Straftaten', 'Erfolgsrate', 'emotionale Heilung', 'Mediationssitzung', 'gesetzliche Grundlagen', 'Zivilprozessordnung', 'Jugendgerichtsgesetz', 'Strafgesetzbuch', 'Machtungleichgewicht', 'Rückfallquote', 'sachbezogene Mediation', 'Harvard-Prinzip', 'Herausforderungen im TOA']
 
 date = 2024-08-28T09:20:15+02:00

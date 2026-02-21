@@ -3,6 +3,7 @@ categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'fallgeschichten', 'Dienstleistungen']
 title = 'Konfliktbearbeitung in Studenten-Wohngemeinschaften'
 description = 'Dienstleistungen zur Konfliktbearbeitung in Studenten-Wohngemeinschaften; Konflikte effektiv zu lösen'
+summary = "Konflikte in Studenten-WGs entstehen schnell – aus Alltagsthemen wie Sauberkeit, Lärm oder Kommunikationsproblemen. Mediation, Konfliktberatung, Moderation und präventive Workshops helfen, das Zusammenleben nachhaltig zu verbessern und eine offene, respektvolle Wohnatmosphäre zu schaffen."
 read_more_copy = "Mehr über die Konfliktbearbeitung in Studenten-WGs"
 
 date = 2024-06-19T12:55:23+02:00

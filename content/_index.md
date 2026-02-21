@@ -20,13 +20,18 @@ Ob in Familien, Pflegekontexten, IT-Projekten oder Führungsfragen – Konflikte
 
 Ich arbeite mit Menschen, die Verantwortung übernehmen – für andere und für sich selbst. Was mich dabei auszeichnet, sind ein klarer Blick für Zusammenhänge, methodische Sicherheit und eine ruhige, verbindliche Haltung – in der Arbeit mit Organisationen, Führungskräften und Privatpersonen in Dresden, Sachsen und bundesweit online.
 
+**Elder Mediation – Konflikte in Pflege- und Altersfragen.**   
+Wenn Familien über Pflege, Heimunterbringung oder Erbschaft streiten, braucht es mehr als guten Willen. Elder Mediation verbindet Einfühlungsvermögen für ältere Menschen mit klarer Struktur für schwierige Familiengespräche.   
+Ich bin derzeit der einzige Mediator in Dresden und Umgebung mit diesem Schwerpunkt – und begleite Familien dabei, tragfähige Lösungen zu finden, bevor Beziehungen endgültig zerbrechen.
+→ [Mehr zu Elder Mediation]({{<relref "/tags/elder-mediation/">}})
+
 
 ---
 
-{{< cta-link url="/zielgruppen/" text="👥 Mehr über unsere Zielgruppen" >}}
+{{< cta-link url="/zielgruppen/" text="👥 Mehr über meine Zielgruppen" >}}
 
 
-{{< accordion title="📈 Unsere Dienstleistungen" >}}
+{{< accordion title="📈 Meine Dienstleistungen" >}}
 ### 🔢 [Systemische Prozessberatung]({{< relref "/Dienstleistungen/#prozessberatung">}} "Systemische Prozessberatung") 
 Begleitung von Organisationen und öffentlichen IT-Dienstleistern bei der Einführung neuer Prozesse, Tools und Rollen.
 
@@ -51,7 +56,7 @@ Professionelle Klärung und Unterstützung für Privatpersonen, Familien und Tea
 - Trennung oder Ruhestand gestalten
 - Familiendynamiken klären
 
-[Mehr zu unseren Dienstleistungen](https://mediator.sweti.de/dienstleistungen/)
+[Mehr zu meine Dienstleistungen](https://mediator.sweti.de/dienstleistungen/)
 {{< /accordion >}}
 
 
