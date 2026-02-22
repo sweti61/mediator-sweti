@@ -5,7 +5,7 @@ summary = "Alle Angebote im Überblick: Konfliktklärung, Gesprächsbegleitung, 
 keywords = ["Mediator", "Konfliktlösung", "Beratung", "Coaching", "Teamkonflikt", "Paarberatung", "Pflegekonflikt", "Mediation Dresden", "systemische Beratung", "Angebote"]
 
 date = 2025-05-25
-
+featured_image="angebote_an_meinen_kunden_Dresden2.png"
 +++
 
 Jeder Konflikt ist anders – und jedes Gespräch ein neuer Anfang.
@@ -20,5 +20,7 @@ Schau dich gern um – vielleicht findest du genau den Raum, den du gerade brauc
 
 {{< customerjourney >}}
 
-Weitere angebote für Organisationen finden Sie auf [beiltschew.de](https://beltschew.de/services/)
+[→ Blogartikeil zu meine Angebote]({{<relref "/tags/dienstleistungen/">}})
+
+Weitere angebote für Organisationen finden Sie auf [→ beiltschew.de](https://beltschew.de/services/)
 

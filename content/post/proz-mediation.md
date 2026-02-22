@@ -4,7 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konflikte bei Prozessverbesserungen'
 date = 2024-06-05T13:24:31+02:00
 description = "Konflikte bei Prozessverbesserungen"
-
+summary = "Prozessverbesserungen stoßen häufig auf Widerstände, Missverständnisse und Abteilungskonflikte. Dieser Beitrag zeigt, wie Prozessoptimierungsmediation hilft, Ängste zu klären, Kommunikation zu stärken und Veränderungsprozesse strukturiert und effizient umzusetzen."
 
 read_more_copy = 'Mehr über Konflikte bei Prozessverbesserungen'
 

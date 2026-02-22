@@ -4,7 +4,7 @@ date: 2024-05-13T10:04:52+02:00
 type: page
 tags: 'Dienstleistungen'
 description: 'Entdecken Sie die vielfältigen Mediationsdienste von Sweti für Familien, Paare und Unternehmen.'
-
+summary: "Systemische Beratung, Mediation und Coaching für Organisationen, Führungskräfte, soziale Einrichtungen, IT-Dienstleister und Privatpersonen. Strukturierte Klärung von Rollen, Prozessen und Konflikten – vertraulich, professionell und auf Augenhöhe."
 
 read_more_copy: 'Mehr über die Diestleistungen'
 ---
@@ -53,10 +53,10 @@ Ich spreche die Sprache von IT-Projekten und Verwaltung – und bringe zugleich 
 3. Prozessgestaltung und Klärungsgespräche
 4. Transfer in Ihre Organisation
 
- [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
+ [→ Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
-## 🫋 Systemische Begleitung für soziale Einrichtungen & Träger {#sozial}
+## Systemische Begleitung für soziale Einrichtungen & Träger {#sozial}
 
 ### 👫 [Pflege, Jugendhilfe & soziale Dienste]({{< relref "/Zielgruppen/teams">}} "Soziale Einrichtungen & Träger")
 
@@ -100,7 +100,7 @@ Mit Fingerspitzengefühl, systemischer Klarheit und praktischer Erfahrung beglei
 3. Prozessgestaltung und Begleitung
 4. Umsetzung und nachhaltige Entwicklung
 
- [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
+ [→ Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
@@ -141,7 +141,7 @@ Ich kombiniere langjährige Beratungserfahrung mit systemischer Haltung und empa
 3. Coachingprozess starten
 4. Reflexion & Weiterentwicklung
 
- [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
+ [→ Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
@@ -182,7 +182,7 @@ Mit Respekt, Fingerspitzengefühl und systemischer Klarheit begleite ich überg�
 3. Klärungsprozess gestalten
 4. Nachbegleitung bei Bedarf
 
- [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
+ [→ Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 ## 🤝🖥️ Mediation & Coaching für IT-Prozesse
@@ -232,7 +232,7 @@ Wir verbinden systemische Mediation mit mehr als 30 Jahren Erfahrung in Organisa
 4. Transfer in Ihre Organisation
 
 
- [Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
+ [→ Jetzt Erstgespräch buchen](https://calendly.com/mediator-sweti)
 
 ---
 
