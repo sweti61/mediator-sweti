@@ -10,7 +10,7 @@ type = "page"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version = '2.8.2'
 # cascade:
-featured_image = '/images/default_featured_image2.png'
+featured_image = '/images/default_featured_image3.png'
 +++
 
 **Veränderung, neue Rollen oder Konflikte bringen Menschen und Organisationen in Bewegung.**  
@@ -20,11 +20,45 @@ Ob in Familien, Pflegekontexten, IT-Projekten oder Führungsfragen – Konflikte
 
 Ich arbeite mit Menschen, die Verantwortung übernehmen – für andere und für sich selbst. Was mich dabei auszeichnet, sind ein klarer Blick für Zusammenhänge, methodische Sicherheit und eine ruhige, verbindliche Haltung – in der Arbeit mit Organisationen, Führungskräften und Privatpersonen in Dresden, Sachsen und bundesweit online.
 
-**Elder Mediation – Konflikte in Pflege- und Altersfragen.**   
-Wenn Familien über Pflege, Heimunterbringung oder Erbschaft streiten, braucht es mehr als guten Willen. Elder Mediation verbindet Einfühlungsvermögen für ältere Menschen mit klarer Struktur für schwierige Familiengespräche.   
-Ich bin derzeit der einzige Mediator in Dresden und Umgebung mit diesem Schwerpunkt – und begleite Familien dabei, tragfähige Lösungen zu finden, bevor Beziehungen endgültig zerbrechen.
-→ [Mehr zu Elder Mediation]({{<relref "/tags/elder-mediation/">}})
+---
 
+## Gespräche bei Pflege, Erbe und Übergang
+Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es selten nur um Organisation.
+Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.
+Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte eskalieren oder der Kontakt abbricht.   
+
+→ [Mediation bei Pflege, Erbe und Übergang in Dresden](/angebote/mediation-bei-pflege-erbe-uebergang-dresden/)
+
+---
+
+## Wenn Beziehungskonflikte festgefahren sind
+Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.
+- Spannungen zwischen Eltern und erwachsenen Kindern  
+- Geschwisterkonflikte  
+- Paar- oder Familienkonflikte  
+- Kontaktabbrüche  
+
+→ [Beziehungs- und Familiengespräche](/angebote/beziehungs-und-familiengespraeche/)
+
+---
+
+## Wenn ein Gespräch noch nicht möglich ist
+Nicht jede Situation ist sofort moderierbar.
+In Einzelgesprächen klären wir:
+- Ihre Rolle  
+- die Konfliktdynamik  
+- sinnvolle nächste Schritte  
+
+→ [Konfliktklärung vorbereiten](/angebote/konfliktklaerung-vorbereiten/)  
+→ [Coaching in Übergängen](/angebote/coaching-in-uebergaengen/)
+
+---
+
+## Für Organisationen und Führungskräfte
+
+Neben der Arbeit mit Familien begleite ich Organisationen und öffentliche IT-Dienstleister bei Rollenklärung, Prozessmodernisierung und konfliktbezogener Führung.
+Detaillierte Informationen finden Sie auf meiner Unternehmensseite:   
+→ [beltschew.de](https://beltschew.de)
 
 ---
 
@@ -61,5 +95,3 @@ Professionelle Klärung und Unterstützung für Privatpersonen, Familien und Tea
 
 
 {{< customerjourney >}}
-
-👉 Detailliertere Auskünfte bezüglich meiner Tätigkeit in Organisationen entnehmen Sie bitte meiner Unternehmenswebseite [beltschew.de](https://beltschew.de)

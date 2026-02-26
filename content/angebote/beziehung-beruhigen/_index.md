@@ -41,6 +41,6 @@ Für Paare, erwachsene Kinder und Eltern oder enge Freund:innen, in deren Bezieh
 
 Sie möchten klären, ob dieses Angebot zu Ihrer Situation passt?
 
-[Jetzt kostenloses Erstgespräch buchen](https://calendly.com/sweti-mediator)
+👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
 
 [Oder schreiben Sie mir](mailto://mediator@sweti.de)

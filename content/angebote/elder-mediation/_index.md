@@ -20,9 +20,8 @@ categories: ["angebote"]
 date: 2026-02-18
 author: "Swetoslaw Beltschew"
 layout: "angebot"
+featured_image: "elder-mediation-dersden.png"
 ---
-
-{{< figure src="elder-mediation-dersden.png" alt="Elder-Mediation – Konfliktlösung für ältere Menschen und ihre Familien" >}}
 
 ## Worum geht es?
 

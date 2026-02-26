@@ -4,6 +4,10 @@ description: "Einzelpersonen, Paare oder Angehörige in Lebensübergängen erhal
 keywords: ["Lebensübergänge", "Ruhestand", "Trennung verarbeiten", "Pflegesituation begleiten", "systemische Einzelberatung", "Familiengespräche"]
 categories: ["zielgruppen"]
 angebote:
+  - mediation-bei-pflege-erbe-uebergang-dresden
+  - beziehungs-und-familiengespraeche
+  - konfliktklaerung-vorbereiten
+  - coaching-in-uebergaengen
   - orientierung-finden
   - ruhe-schaffen
   - klarkommen-generationen
