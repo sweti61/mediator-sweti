@@ -1,7 +1,7 @@
 +++
-title='Struktur. Klarheit. Verbindung.'
+title='Mediation in Dresden bei Familien- und Pflegekonflikten'
 
-description = "Systemische Mediation, Coaching und Prozessberatung für Menschen, Teams und Organisationen in Veränderung - in Dresden und im digitalen Raum. Klarheit schaffen, Konflikte lösen, Lösungen ermöglichen – ruhig, verbindlich, strukturiert."
+description = "Familienmediation in Dresden bei Konflikten im Pflegekontext, bei Erbe oder Nachbarschaft. Moderation für Privatpersonen 40+ – ruhig und lösungsorientiert."
 
 keywords = ["Mediation", "systemische Beratung", "Konfliktlösung", "Führungskräftecoaching", "Pflegekonflikte", "IT-Projektberatung", "Prozessbegleitung", "Veränderung begleiten", "Teamkonflikte"]
 
@@ -13,16 +13,17 @@ theme_version = '2.8.2'
 featured_image = '/images/default_featured_image3.png'
 +++
 
-**Veränderung, neue Rollen oder Konflikte bringen Menschen und Organisationen in Bewegung.**  
-Wenn Kommunikation stockt, Beziehungen belastet sind oder Teams ihre Orientierung verlieren, begleite ich Sie mit Ruhe, Struktur und systemischem Blick.
+Wenn Gespräche nicht mehr möglich scheinen, braucht es einen geschützten Rahmen.
 
-Ob in Familien, Pflegekontexten, IT-Projekten oder Führungsfragen – Konflikte sind kein Zeichen von Scheitern, sondern Ausdruck menschlicher Beziehung. Gemeinsam schaffen wir Klarheit, stärken Ihre Handlungsfähigkeit und entwickeln Lösungen, die tragen.
+Als systemischer Berater und [Mediator]({{<relref "/mediator-dresden/">}}) unterstütze ich Menschen in Dresden und im Umkreis von 50 km dabei, festgefahrene Konflikte zu klären – insbesondere in [Familien]({{<relref "/mediator-dresden/">}}), im Pflegeprozess oder in Hausgemeinschaften.
 
-Ich arbeite mit Menschen, die Verantwortung übernehmen – für andere und für sich selbst. Was mich dabei auszeichnet, sind ein klarer Blick für Zusammenhänge, methodische Sicherheit und eine ruhige, verbindliche Haltung – in der Arbeit mit Organisationen, Führungskräften und Privatpersonen in Dresden, Sachsen und bundesweit online.
+Konflikte entstehen häufig durch ungeklärte Rollen, Erwartungen oder Überforderung. In moderierten Gesprächen schaffen wir Klarheit, stärken Ihre Handlungsfähigkeit und entwickeln tragfähige Vereinbarungen.
+
+👉 Vereinbaren Sie ein unverbindliches Erstgespräch.
 
 ---
 
-## Gespräche bei Pflege, Erbe und Übergang
+## Mediation bei Pflegekonflikten und Erbstreit in Dresden
 Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es selten nur um Organisation.
 Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.
 Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte eskalieren oder der Kontakt abbricht.   
@@ -31,7 +32,7 @@ Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte
 
 ---
 
-## Wenn Beziehungskonflikte festgefahren sind
+## Familienmediation bei festgefahrenen Beziehungskonflikten
 Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.
 - Spannungen zwischen Eltern und erwachsenen Kindern  
 - Geschwisterkonflikte  
@@ -42,7 +43,7 @@ Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.
 
 ---
 
-## Wenn ein Gespräch noch nicht möglich ist
+## Konfliktklärung, wenn Gespräche nicht mehr möglich sind
 Nicht jede Situation ist sofort moderierbar.
 In Einzelgesprächen klären wir:
 - Ihre Rolle  
@@ -54,7 +55,7 @@ In Einzelgesprächen klären wir:
 
 ---
 
-## Für Organisationen und Führungskräfte
+## Mediation und Konfliktmoderation für Organisationen in Dresden
 
 Neben der Arbeit mit Familien begleite ich Organisationen und öffentliche IT-Dienstleister bei Rollenklärung, Prozessmodernisierung und konfliktbezogener Führung.
 Detaillierte Informationen finden Sie auf meiner Unternehmensseite:   

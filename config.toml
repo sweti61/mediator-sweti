@@ -28,8 +28,10 @@ custom_css = ["css/custom.css"]
 # SectionPagesMenu = "main"
 
 # SEO: Meta-Informationen
-googleAnalytics = "G-9GV2L88RXT"
 enableRobotsTXT = true
+[services]
+     [services.googleAnalytics]
+       ID = "G-9GV2L88RXT"
 
 # Hugo-Features
 enableGitInfo = false
@@ -90,7 +92,7 @@ enableEmoji = true
   icon = "kontakt"
 
 [params.ananke.social.calendar]
-  profilelink = "https://calendly.com/sweti-mediator"
+  profilelink = "https://calendly.com/mediator.sweti"
   label = "Kostenloses Erstgespräch"
   icon = "calendar"
 
