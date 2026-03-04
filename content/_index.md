@@ -15,9 +15,11 @@ featured_image = '/images/default_featured_image3.png'
 
 Wenn Gespräche nicht mehr möglich scheinen, braucht es einen geschützten Rahmen.
 
-Als systemischer Berater und [Mediator]({{<relref "/mediator-dresden/">}}) unterstütze ich Menschen in Dresden und im Umkreis von 50 km dabei, festgefahrene Konflikte zu klären – insbesondere in [Familien]({{<relref "/mediator-dresden/">}}), im Pflegeprozess oder in Hausgemeinschaften.
+Als systemischer Berater und Mediator unterstütze ich Menschen in Dresden und im Umkreis von 50 km dabei, festgefahrene Konflikte zu klären – insbesondere in [Familien]({{<relref "/mediator-dresden/">}}), im Pflegeprozess oder in Hausgemeinschaften.
 
 Konflikte entstehen häufig durch ungeklärte Rollen, Erwartungen oder Überforderung. In moderierten Gesprächen schaffen wir Klarheit, stärken Ihre Handlungsfähigkeit und entwickeln tragfähige Vereinbarungen.
+
+Wenn Sie ein strukturiertes Gespräch in festgefahrenen Konflikten suchen, erfahren Sie hier mehr über meine Arbeit als [Mediator in Dresden]({{<relref "/mediator-dresden/">}}).
 
 👉 Vereinbaren Sie ein unverbindliches Erstgespräch.
 

@@ -84,6 +84,8 @@ Geeignet für niedrig bis mittelhoch eskalierte Konflikte.
 
 ## Nächster Schritt
 
+Wenn ein Gespräch festgefahren ist, kann ein [Mediator in Dresden]({{<relref "/mediator-dresden/">}}) helfen, eine strukturierte Klärung zu ermöglichen.
+
 Sie möchten klären, ob dieses Format zu Ihrer Situation passt?
 
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)

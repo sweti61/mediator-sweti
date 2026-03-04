@@ -99,6 +99,8 @@ Es ist ein persönlicher Reflexionsraum in Zeiten des Wandels.
 
 ## Nächster Schritt
 
+In manchen Situationen ist zunächst ein Coaching sinnvoll – in anderen eine Mediation mit einem [Mediator in Dresden]({{<relref "/mediator-dresden/">}}).
+
 Sie möchten klären, ob Coaching in Ihrer Situation sinnvoll ist?
 
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)

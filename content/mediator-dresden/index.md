@@ -1,5 +1,5 @@
 ---
-title: "Mediator in Dresden – Konflikte klären mit Struktur und Ruhe"
+title: "Mediator in Dresden – Mediation & Konfliktklärung"
 description: "Systemischer Mediator in Dresden und Sachsen. Familienmediation bei Pflege, Erbe, Nachbarschaft und Übergängen. Kostenloses Erstgespräch."
 slug: "mediator-dresden"
 url: "/mediator-dresden/"
@@ -25,12 +25,12 @@ Als **systemischer Mediator und Konfliktberater in Dresden** begleite ich Mensch
 
 Wenn Gespräche nicht mehr möglich scheinen, schaffe ich einen strukturierten, geschützten Rahmen. Ziel ist nicht Sieg oder Niederlage – sondern Klarheit, Verständigung und tragfähige Lösungen.
 
-Ich arbeite in **Dresden und Umgebung (50 km)** sowie in ganz Sachsen.
+Ich arbeite in **Dresden und im Umkreis von 50 km** – u. a. in Radebeul, Freital, Pirna und Meißen.
 
 {{< cta-link url="https://calendly.com/mediator-sweti" text="👉 Vereinbaren Sie ein kostenloses Erstgespräch." >}}
 
 
-## Warum Mediation in Dresden sinnvoll ist
+## Wann ist ein Mediator in Dresden sinnvoll?
 
 Viele Konflikte eskalieren unnötig – weil Gespräche abbrechen, Rollen unklar sind oder Erwartungen nicht ausgesprochen werden.
 
@@ -58,8 +58,10 @@ Weitere Informationen finden Sie hier:
 und hier:   
 → [Beziehungs- und Familiengespräche in Dresden]({{<relref "/angebote/beziehungs-und-familiengespraeche/">}})   
 und auch hier:   
-→ [Konfliktklärung vorbereiten](/angebote/konfliktklaerung-vorbereiten/)  
-→ [Coaching in Übergängen](/angebote/coaching-in-uebergaengen/)
+→ [Konfliktklärung vorbereiten]({{<relref "/angebote/konfliktklaerung-vorbereiten/">}})  
+→ [Coaching in Übergängen]({{<relref "/angebote/coaching-in-uebergaengen/">}})   
+→ [Konfliktklärung vorbereiten – strukturiert und klar]({{<relref "/angebote/konfliktklaerung-vorbereiten/">}})   
+→ [Mediation in Nachbarschaft und Wohnungswirtschaft]({{<relref "/post/nachbarschaft/">}})   
 
 ---
 
@@ -148,6 +150,17 @@ Ja. Alle Inhalte unterliegen der Vertraulichkeit.
 {{< accordion title="Kann Mediation ein Gerichtsverfahren ersetzen?" >}}
 In vielen Fällen ja. Mediation ist jedoch freiwillig und ersetzt keine rechtliche Beratung.
 {{< /accordion >}}
+
+## Ihr Mediator in Dresden
+
+Ich bin Dr. Swetoslaw Beltschew, systemischer Mediator und Konfliktberater in Dresden.  
+Seit vielen Jahren begleite ich Menschen in Übergangssituationen und belasteten Beziehungskonflikten.
+
+Meine Arbeitsweise ist ruhig, strukturiert und klar – mit Fokus auf nachhaltige Lösungen.
+
+→ Mehr über meine Haltung und meinen Hintergrund erfahren Sie hier.   
+[Über mich]({{<relref "/about/">}})   
+[Google Business Profil ansehen](https://g.page/mediator-sweti)
 
 Jetzt kostenloses Erstgespräch vereinbaren:   
 📞 Telefon: 0163 803 5634   

@@ -92,7 +92,7 @@ enableEmoji = true
   icon = "kontakt"
 
 [params.ananke.social.calendar]
-  profilelink = "https://calendly.com/mediator.sweti"
+  profilelink = "https://calendly.com/mediator-sweti"
   label = "Kostenloses Erstgespräch"
   icon = "calendar"
 

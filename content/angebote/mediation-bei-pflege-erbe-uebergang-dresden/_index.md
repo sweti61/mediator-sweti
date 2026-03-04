@@ -22,6 +22,8 @@ aliases:
 **Übergänge im Leben brauchen Gespräch – nicht Eskalation.**  
 *Ich begleite Familien bei Pflege, Erbe und veränderten Rollen in strukturierten Gesprächen zwischen Generationen.*
 
+In solchen Situationen kann eine [Mediation mit einem erfahrenen Mediator in Dresden]({{<relref "/mediator-dresden/">}})  helfen, wieder zu tragfähigen Gesprächen zu finden.
+
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)  
 *Oder zunächst das PDF [„Familiengespräche bei Pflege vorbereiten“](https://drive.google.com/file/d/1OfQouvsYzmqE76p9yl0vH60kh-GdmXkV/view?usp=sharing) herunterladen.*
 
@@ -181,7 +183,6 @@ In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
 
 ## Häufige Fragen
 → [FAQ]({{<relref "/howto/">}})
-
 
 ---
 

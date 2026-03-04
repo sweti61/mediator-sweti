@@ -10,7 +10,8 @@ keywords: ["systemische Mediation", "Umsetzungsphase", "P4 Mediation", "Verantwo
 tags: ["mediation", "phasen-der-mediation"]
 categories: ["blog"]
 
-slug: p4-umsetzungsphase-systemisch 
+slug: p4-umsetzungsphase-systemisch
+url: /post/p4-umsetzungsphase-systemisch/
 date: 2025-06-26
 
 read_more_copy: 'Mehr zur Konflikte umsetzen statt abhaken'

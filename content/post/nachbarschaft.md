@@ -139,3 +139,5 @@ Diese Methoden sind effektiv, weil sie den Parteien ermöglichen, ihre Sichtweis
 **Fazit**
 
 [Mediation]({{< ref "post/my-first-post" >}} "Was ist Mediation? Ein einfacher Leitfaden") in der Nachbarschaft und Wohnungswirtschaft kann dazu beitragen, [Konflikte]({{<ref "post/konflikte">}} "Warum entstehen Konflikte?") zu klären und ein harmonisches Zusammenleben zu fördern. Ein [Mediator]({{< ref "my-second-post">}} "Arbeit des Mediators") hilft dabei, Missverständnisse zu klären, die Kommunikation zu verbessern und gemeinsam Lösungen zu finden, die für alle Beteiligten akzeptabel sind. Indem tiefere Ursachen und Bedürfnisse angesprochen werden, kann eine nachhaltige und zufriedenstellende Lösung erreicht werden, die den Frieden und die Gemeinschaft stärkt.
+
+Wenn Nachbarschaftskonflikte eskalieren, kann eine Mediation durch einen [Mediator in Dresden]({{<relref "/mediator-dresden/">}}) helfen, wieder zu konstruktiven Gesprächen zu kommen.

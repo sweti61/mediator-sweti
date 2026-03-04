@@ -73,6 +73,8 @@ Für generationenspezifische Themen (Pflege, Erbe, Rollen im Alter) siehe:
 
 Geeignet für niedrig bis mittelhoch eskalierte Konflikte.
 
+Mehr über meine Arbeitsweise als [Mediator in Dresden]({{<relref "/mediator-dresden/">}}) finden Sie hier.
+
 ---
 
 ## Nächster Schritt
