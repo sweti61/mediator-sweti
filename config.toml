@@ -29,9 +29,9 @@ custom_css = ["css/custom.css"]
 
 # SEO: Meta-Informationen
 enableRobotsTXT = true
-[services]
-     [services.googleAnalytics]
-       ID = "G-9GV2L88RXT"
+#[services]
+#     [services.googleAnalytics]
+#       ID = "G-9GV2L88RXT"
 
 # Hugo-Features
 enableGitInfo = false
