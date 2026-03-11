@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition', 'Coaching']
+categories = ['Blog', 'Mediation', 'Coaching']
 tags = ['Mediation', 'Mediationsgrundlagen', 'Interaktionen']
 title = 'Das 9-Felder-Methode nach Prof. Joseph Rieforth'
 description = 'Das 9-Felder Modell  nach Prof. Joseph Rieforth'

@@ -56,3 +56,10 @@ Elder-Mediation erfordert oft spezielle Maßnahmen, um den Bedürfnissen ältere
 - **Langfristige Lösungen:** Sie zielt darauf ab, nachhaltige und faire Lösungen zu finden, die den langfristigen Bedürfnissen älterer Menschen gerecht werden.
 
 Elder-Mediation ist ein wertvolles Werkzeug, um ältere Paare und ihre Familien bei der Bewältigung von Konflikten zu unterstützen. Sie fördert Verständnis, Respekt und Zusammenarbeit, was zu harmonischeren und stabileren Beziehungen führt. Indem sie die speziellen Bedürfnisse und Herausforderungen älterer Menschen berücksichtigt, stellt Elder-Mediation sicher, dass ihre Stimmen gehört und ihre Interessen geschützt werden.
+
+---
+
+**Weiterführende Angebote:**
+- [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+- [Elder Mediation – für ältere Menschen und ihre Familien]({{< relref "/angebote/elder-mediation/">}})
+- [Gut klarkommen – wenn mehrere Generationen betroffen sind]({{< relref "/angebote/klarkommen-generationen/">}})

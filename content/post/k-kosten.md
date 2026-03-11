@@ -38,6 +38,9 @@ Mitarbeitende verlassen Unternehmen oft nicht wegen schlechter Bezahlung, sonder
 
 **Beispiel:** In Pflegeeinrichtungen führen ungelöste Teamkonflikte zu einer gefährlichen Personalknappheit.
 
+→ [Mediation bei Pflege und familiären Übergängen in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+
+
 ### 3. Innere Kündigung
 
 Nicht alle kündigen nach außen. Manche kündigen innerlich: Sie erfüllen nur noch Mindestanforderungen, bringen keine Ideen mehr ein und identifizieren sich nicht mehr mit der Organisation. Das mindert Innovationskraft und Wettbewerbsfähigkeit.

@@ -20,7 +20,7 @@ categories: ["angebote"]
 date: 2026-02-18
 author: "Swetoslaw Beltschew"
 layout: "angebot"
-featured_image: "elder-mediation-dersden.png"
+featured_image: "elder-mediation-dresden.png"
 ---
 
 ## Worum geht es?

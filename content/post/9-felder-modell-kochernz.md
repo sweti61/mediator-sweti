@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition', 'Coaching']
+categories = ['Blog', 'Mediation', 'Coaching']
 tags = ['Mediation', 'Mediationsgrundlagen', 'Interaktionen']
 
 title = "Die Kohärenzfaktoren nach Rieforth – systemische Vertiefung der 9-Felder-Methode"

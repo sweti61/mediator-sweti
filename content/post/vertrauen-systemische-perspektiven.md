@@ -157,6 +157,8 @@ Systemisch orientierte Berater\:innen verzichten darauf, sich übermäßig zu pr
 
 Solche einladenden Formulierungen signalisieren: *Hier muss nichts bewiesen werden. Hier darf einfach erzählt werden.*
 
+→ [Mediation bei Pflege und familiären Übergängen in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+
 ### Der organisationale Kontext: Rollenklarheit und Schutz
 
 Im organisationalen Setting – etwa bei Teamkonflikten oder Führungsthemen – ist der Erstkontakt meist **weniger persönlich, aber stärker gerahmt**. Hier geht es zunächst um Fragen wie:

@@ -5,7 +5,7 @@ summary = "Hier finden Sie Blogartikel für Privatpersonen rund um familiäre Ko
 slug = "privatpersonen"
 url= "/tags/privatpersonen/"
 type = "tags"
-featured_image= "privatpersonen-medaition-dresden.png"
+featured_image= "privatpersonen-mediation-dresden.png"
 +++
 
 # Konflikte im privaten Umfeld verstehen und einordnen

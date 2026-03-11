@@ -1,6 +1,6 @@
 +++
 tags = ['IT-Dienstleister']
-categories = ['Blog', 'Medaition']
+categories = ['Blog', 'Mediation']
 
 title='Konflikte in Organisationen & KMU – gemeinsam klären, bevor sie eskalieren'
 

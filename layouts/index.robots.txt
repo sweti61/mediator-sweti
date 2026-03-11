@@ -2,6 +2,7 @@ User-agent: *
 {{ if eq hugo.Environment "production" }}
 Allow: /
 Disallow: /admin/
+Disallow: /tags/
 Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
 {{ else }}
 Disallow: /

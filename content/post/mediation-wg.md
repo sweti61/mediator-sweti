@@ -45,3 +45,7 @@ Unsere Dienstleistungen sind darauf ausgelegt, die Lebensqualität in WGs zu ver
 Mit unseren maßgeschneiderten Angeboten und einem ganzheitlichen Ansatz zur Konfliktbearbeitung unterstützen wir Studenten dabei, ihre Wohnsituation zu verbessern und sich auf ihre akademischen und persönlichen Ziele zu konzentrieren.
 
 Weitere Informationen und Unterstützung erhalten Sie durch Kontaktaufnahme mit unserem Team. Gemeinsam finden wir die beste Lösung für Ihre WG.
+
+Wenn Konflikte nicht nur die Nachbarschaft, sondern auch Familienmitglieder verschiedener Generationen betreffen:  
+→ [Familiengespräche bei Generationenkonflikten]({{< relref "/angebote/klarkommen-generationen/">}})
+

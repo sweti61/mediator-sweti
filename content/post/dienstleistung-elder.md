@@ -66,4 +66,14 @@ Elder-Mediation sollte in Anspruch genommen werden, wenn:
 
 Elder-Mediation bietet eine wertvolle Unterstützung, um komplexe und emotionale Konflikte im Alter auf eine respektvolle und konstruktive Weise zu lösen. Unsere spezialisierten Dienstleistungen helfen Ihnen, nachhaltige und harmonische Lösungen zu finden, die die Lebensqualität aller Beteiligten verbessern.
 
+
+---
+
+**Weiterführende Angebote:**
+- [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+- [Elder Mediation – für ältere Menschen und ihre Familien]({{< relref "/angebote/elder-mediation/">}})
+- [Gut klarkommen – wenn mehrere Generationen betroffen sind]({{< relref "/angebote/klarkommen-generationen/">}})
+
+---
+
 Quellen: [INKOVEMA Blog](https://inkovema.de/blog/elder-mediation-mediationen-in-altersfragen-generationenfragen-yvonne-rogger-hofstetter-150/), [Elder Mediation International Network](https://www.elder-mediation-international.net), [Mediate.com](https://mediate.com/articles/curcioS1.cfm).
