@@ -1,0 +1,39 @@
+{{/* ================================================ */}}
+{{/* AUTORENBOX — EEAT-Signal für Google             */}}
+{{/* Erscheint am Ende jedes Blogartikels            */}}
+{{/* Nur auf Seiten vom Typ "post" anzeigen          */}}
+{{/* ================================================ */}}
+{{ if eq .Type "post" }}
+<div class="author-box mt5 pt4 bt b--light-gray">
+  <div class="flex items-start">
+
+    {{/* Autorenfoto — Pfad anpassen falls abweichend */}}
+    <img 
+      src="/images/Ueber_mich3.png" 
+      alt="Dr. Swetoslaw Beltschew – Mediator und systemischer Berater in Dresden"
+      class="author-photo br-100 mr3"
+      style="width:80px;height:80px;object-fit:cover;flex-shrink:0;">
+
+    <div class="author-info">
+      <p class="f5 fw7 dark-gray mt0 mb1">
+        Dr. Swetoslaw Beltschew
+      </p>
+      <p class="f6 gray mt0 mb2">
+        Systemischer Mediator · Coach · Organisationsberater in Dresden
+      </p>
+      <p class="f6 dark-gray mt0 mb2">
+        Ausbildung: Mediationsausbildung, Organisationsmediation und systemische 
+        Organisationsberatung am 
+        <a href="https://www.inkovema.de" target="_blank" rel="noopener" class="link dim dark-gray underline">
+          INKOVEMA Institut Leipzig</a>.
+        Ich begleite Menschen und Teams in Dresden bei Konflikten, 
+        Übergängen und festgefahrenen Situationen.
+      </p>
+      <a href="/about/" class="f6 link dim dark-gray">
+        → Mehr über mich
+      </a>
+    </div>
+
+  </div>
+</div>
+{{ end }}

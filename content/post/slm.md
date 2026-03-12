@@ -64,7 +64,7 @@ Als externer Mediator begleite ich Organisationen dabei, eine solche Kultur aufz
 
 ### Prozessoptimierungsmediation & Moderation: Meine Angebote für Organisationen & IT-Dienstleister 
 
-Als zertifizierter Mediator und PRINCE2 Agile-Projektmanager biete ich Ihnen:
+Als ausgebildeter Mediator nach MediationsG und PRINCE2 Agile-Projektmanager biete ich Ihnen:
 
 - **Konfliktmanagement ITIL**: Ich begleite Sie bei der Klärung von SLA-Streitigkeiten, internen Zielkonflikten oder Eskalationen zwischen Teams.
 - **Prozessoptimierungsmediation**: Wenn Sie ITSM-Prozesse überarbeiten oder neu einführen, unterstütze ich Sie dabei, Reibung zu vermeiden und Akzeptanz zu schaffen.

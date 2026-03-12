@@ -25,7 +25,7 @@ Bünau Str. 52
 
 ### Berufsbezeichnung und Aufsichtsbehörde
 
-Berufsbezeichnung: Zertifizierter Mediator (nach § 5 Abs. 2 MediationsG)  
+Berufsbezeichnung: ausgebildeter Mediator (nach § 5 Abs. 2 MediationsG)  
 Zuständige Aufsichtsbehörde: Keine behördliche Zulassungspflicht für Mediatoren in Deutschland
 
 ### Haftungsausschluss
