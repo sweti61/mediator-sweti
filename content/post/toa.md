@@ -6,7 +6,8 @@ title = 'Täter-Opfer-Ausgleich (Restorative Justice) in der Mediation'
 description = 'Erfahre, wie der Täter-Opfer-Ausgleich (TOA) in der Mediation funktioniert, seine gesetzliche Verankerung in Deutschland, die Herausforderungen des Prozesses und die Vorteile gegenüber traditionellen strafrechtlichen Verfahren. Erfolgsraten und Methoden erklärt.'
 summary = "Der Täter-Opfer-Ausgleich (TOA) setzt auf Dialog, Wiedergutmachung und Versöhnung statt auf Bestrafung. Der Artikel erklärt gesetzliche Grundlagen in Deutschland, den strukturierten Ablauf einer TOA-Sitzung, spezifische Herausforderungen – und warum die Erfolgs- und Zufriedenheitsraten deutlich über denen traditioneller Strafverfahren liegen."
 keywords = ['Opfer-Täter-Ausgleich', 'TOA', 'restorative justice', 'Mediation', 'Konfliktlösung', 'Wiedergutmachung', 'Versöhnung', 'deutsches Recht', 'juristische Ausbildung', 'Straftaten', 'Erfolgsrate', 'emotionale Heilung', 'Mediationssitzung', 'gesetzliche Grundlagen', 'Zivilprozessordnung', 'Jugendgerichtsgesetz', 'Strafgesetzbuch', 'Machtungleichgewicht', 'Rückfallquote', 'sachbezogene Mediation', 'Harvard-Prinzip', 'Herausforderungen im TOA']
-
+url='/post/toa/'
+slug='toa'
 date = 2024-08-28T09:20:15+02:00
 
 read_more_copy = 'Mehr über Täter-Opfer-Ausgleich'
@@ -17,7 +18,7 @@ Dieser Artikel gibt Ihnen einen Einblick in die Bedeutung und den Ablauf des Tä
 
 ![TOA](/images/TOA.png)
 
-Der Täter-Opfer-Ausgleich (TOA) ist ein wichtiger Bestandteil der Konfliktlösung in der [Mediation]({{< relref "post/my-first-post" >}}) "Was ist Mediation? Ein einfacher Leitfaden"), der auf die Wiedergutmachung von Schäden und die Heilung von Beziehungen abzielt. Im Gegensatz zu herkömmlichen strafrechtlichen Verfahren, die oft auf Bestrafung fokussiert sind, legt der TOA den Schwerpunkt auf Wiedergutmachung und Versöhnung. In diesem Artikel beleuchten wir das Konzept des TOA, seine Entwicklung, rechtliche Grundlagen in Deutschland und die speziellen Herausforderungen, die mit dieser Form der Mediation einhergehen.
+Der Täter-Opfer-Ausgleich (TOA) ist ein wichtiger Bestandteil der Konfliktlösung in der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") "Was ist Mediation? Ein einfacher Leitfaden"), der auf die Wiedergutmachung von Schäden und die Heilung von Beziehungen abzielt. Im Gegensatz zu herkömmlichen strafrechtlichen Verfahren, die oft auf Bestrafung fokussiert sind, legt der TOA den Schwerpunkt auf Wiedergutmachung und Versöhnung. In diesem Artikel beleuchten wir das Konzept des TOA, seine Entwicklung, rechtliche Grundlagen in Deutschland und die speziellen Herausforderungen, die mit dieser Form der Mediation einhergehen.
 
 ## Das Konzept des Täter-Opfer-Ausgleichs im Kontext der Mediation
 

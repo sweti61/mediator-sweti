@@ -17,7 +17,7 @@ tags:
   - Mediation
   - Fuer Rechtsanwelte
 slug: "mediation-familienrecht-nicht-sinnvoll"
-url: "/blog/mediation-familienrecht-nicht-sinnvoll/"
+url: "/post/mediation-familienrecht-nicht-sinnvoll/"
 date: 2026-01-30
 draft: false
 toc: true

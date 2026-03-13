@@ -179,6 +179,6 @@ Ich biete Ihnen ein kostenfreies Gespräch, um gemeinsam herauszufinden, was jet
 🗓️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 
 Oder stöbern Sie weiter in meiner Blogreihe zu den vier Phasen der Mediation:  
-➡️ [Zur Übersicht der Serie](/blog/mediation-bio-phasen/)
+➡️ [Zur Übersicht der Serie]({{<relref "/tags/phasen-der-mediation/">}})
 
 ---

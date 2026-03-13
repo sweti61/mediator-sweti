@@ -5,6 +5,8 @@ title = 'Elder Mediation'
 description = 'Elder-Mediation: Konfliktlösung für ältere Paare'
 summary = 'Elder-Mediation ist eine spezialisierte Mediationsform für ältere Menschen und ihre Familien. Sie adressiert Konflikte rund um Pflege, Wohnen, Finanzen, Erbschaft und Familienbeziehungen – empathisch, respektvoll und mit Blick auf die besonderen Bedürfnisse älterer Generationen.'
 date = 2024-05-24T13:29:16+02:00
+url='/post/elder-mediation/'
+slug='elder-mediation'
 
 read_more_copy = 'Mehr über die Elder-Mediation'
 +++
@@ -12,15 +14,15 @@ read_more_copy = 'Mehr über die Elder-Mediation'
 
 **Elder-Mediation: Konfliktlösung für ältere Paare und ihre Familien**
 
-In einer Welt, die sich ständig verändert, stehen ältere Paare oft vor einzigartigen Herausforderungen. Konflikte können dabei unvermeidlich sein, sei es durch gesundheitliche Probleme, finanzielle Sorgen oder familiäre Angelegenheiten. Hier kommt die Elder-Mediation ins Spiel, eine spezielle Form der [Mediation]({{< ref "post/my-first-post" >}} "Was ist Mediation? Ein einfacher Leitfaden"), die darauf abzielt, ältere Paare und ihre Familien bei der Lösung dieser Konflikte zu unterstützen.
+In einer Welt, die sich ständig verändert, stehen ältere Paare oft vor einzigartigen Herausforderungen. Konflikte können dabei unvermeidlich sein, sei es durch gesundheitliche Probleme, finanzielle Sorgen oder familiäre Angelegenheiten. Hier kommt die Elder-Mediation ins Spiel, eine spezielle Form der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden"), die darauf abzielt, ältere Paare und ihre Familien bei der Lösung dieser Konflikte zu unterstützen.
 
 **Was ist Elder-Mediation?**
 
-Elder-Mediation ist eine Methode, die speziell entwickelt wurde, um Konflikte zu lösen, die ältere Menschen betreffen. Dabei handelt es sich um eine strukturierte Gesprächsführung, bei der ein neutraler Dritter, der [Mediator]({{< ref "my-second-post">}} "Arbeit des Mediators"), die Parteien dabei unterstützt, zu einer einvernehmlichen Lösung zu kommen.
+Elder-Mediation ist eine Methode, die speziell entwickelt wurde, um Konflikte zu lösen, die ältere Menschen betreffen. Dabei handelt es sich um eine strukturierte Gesprächsführung, bei der ein neutraler Dritter, der [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators"), die Parteien dabei unterstützt, zu einer einvernehmlichen Lösung zu kommen.
 
 **Wie ist der Name Elder-Mediation entstanden und was bedeutet er?**
 
-Der Begriff "Elder-Mediation" setzt sich aus zwei Teilen zusammen: "Elder" bedeutet ältere Person, und "[Mediation]({{< ref "post/my-first-post" >}} "Was ist Mediation? Ein einfacher Leitfaden")" steht für den Prozess der Vermittlung zwischen Konfliktparteien. Diese Mediationsform wurde ins Leben gerufen, um den besonderen Bedürfnissen und Herausforderungen älterer Menschen gerecht zu werden.
+Der Begriff "Elder-Mediation" setzt sich aus zwei Teilen zusammen: "Elder" bedeutet ältere Person, und "[Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden")" steht für den Prozess der Vermittlung zwischen Konfliktparteien. Diese Mediationsform wurde ins Leben gerufen, um den besonderen Bedürfnissen und Herausforderungen älterer Menschen gerecht zu werden.
 
 **Warum ist Elder-Mediation heute so wichtig?**
 
@@ -42,11 +44,11 @@ Unzufriedenheit Angehöriger mit der Qualität von Betreuung und Pflege, Konflik
 
 **Die besondere Rolle des Mediators bei der Elder-Mediation**
 
-Ein [Mediator]({{< ref "my-second-post">}} "Arbeit des Mediators") in der Elder-Mediation hat eine besondere Aufgabe. Er oder sie muss nicht nur neutral bleiben, sondern auch sensibel und einfühlsam mit den speziellen Bedürfnissen älterer Menschen umgehen. Der [Mediator]({{< ref "my-second-post">}} "Arbeit des Mediators") schafft einen sicheren Raum, in dem alle Beteiligten ihre Sorgen und Wünsche äußern können. Er unterstützt die Parteien dabei, ihre Kommunikation zu verbessern und gemeinsame Lösungen zu finden, die für alle akzeptabel sind.
+Ein [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") in der Elder-Mediation hat eine besondere Aufgabe. Er oder sie muss nicht nur neutral bleiben, sondern auch sensibel und einfühlsam mit den speziellen Bedürfnissen älterer Menschen umgehen. Der [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") schafft einen sicheren Raum, in dem alle Beteiligten ihre Sorgen und Wünsche äußern können. Er unterstützt die Parteien dabei, ihre Kommunikation zu verbessern und gemeinsame Lösungen zu finden, die für alle akzeptabel sind.
 
 **Auf ältere Menschen zugeschnittene Maßnahmen in der Elder-Mediation**
 
-Elder-Mediation erfordert oft spezielle Maßnahmen, um den Bedürfnissen älterer Menschen gerecht zu werden. Der [Mediator]({{< ref "my-second-post">}} "Arbeit des Mediators") spricht klar und verständlich und sorgt dafür, dass alle Beteiligten sich gehört und verstanden fühlen. Die Sitzungen werden in einem Tempo gehalten, das für ältere Menschen angenehm ist. Oft sind auch Familienmitglieder beteiligt, um eine ganzheitliche Lösung zu finden. Die Orte der [Mediation]({{< ref "post/my-first-post" >}} "Was ist Mediation? Ein einfacher Leitfaden") sind so gewählt, dass sie leicht zugänglich sind.
+Elder-Mediation erfordert oft spezielle Maßnahmen, um den Bedürfnissen älterer Menschen gerecht zu werden. Der [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") spricht klar und verständlich und sorgt dafür, dass alle Beteiligten sich gehört und verstanden fühlen. Die Sitzungen werden in einem Tempo gehalten, das für ältere Menschen angenehm ist. Oft sind auch Familienmitglieder beteiligt, um eine ganzheitliche Lösung zu finden. Die Orte der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") sind so gewählt, dass sie leicht zugänglich sind.
 
 **Vorteile der Elder-Mediation gegenüber klassischer Mediation**
 

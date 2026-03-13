@@ -5,7 +5,7 @@ omit_header_text: true
 type: page
 ---
 
-Hier finden Sie Antworten auf typische Fragen rund um meine Angebote in der [Mediation]({{< ref path="/post/my-first-post.md" >}} "Was ist Mediation? Ein einfacher Leitfaden"), Konfliktberatung und Prävention – ob als Privatperson, Organisation oder soziale Einrichtung.
+Hier finden Sie Antworten auf typische Fragen rund um meine Angebote in der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden"), Konfliktberatung und Prävention – ob als Privatperson, Organisation oder soziale Einrichtung.
 
 ---
 

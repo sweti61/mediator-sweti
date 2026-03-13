@@ -7,6 +7,8 @@ summary = "Konflikte in Studenten-WGs entstehen schnell – aus Alltagsthemen wi
 read_more_copy = "Mehr über die Konfliktbearbeitung in Studenten-WGs"
 
 date = 2024-06-19T12:55:23+02:00
+url='/post/mediation-wg/'
+slug='mediation-wg'
 +++
 {{< figure src="/images/mediation-wg.png">}}
 
@@ -30,7 +32,7 @@ Mitbewohner können verschiedene Anzeichen wahrnehmen, dass sie Unterstützung b
 3. **Moderation von WG-Besprechungen**:
    - Unterstützung bei regelmäßigen Treffen der WG, um offene Themen zu besprechen und gemeinsam Lösungen zu erarbeiten.
 
-4. **[Mediation]({{< ref "post/my-first-post" >}} "Was ist Mediation? Ein einfacher Leitfaden")**:
+4. **[Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden")**:
    - Professionell geführte Mediationssitzungen, bei denen alle Parteien die Möglichkeit haben, ihre Standpunkte darzulegen und gemeinsam eine Lösung zu finden.
 
 5. **[Restorative Justice]({{< ref "post/toa">}} "Täter-Opfer-Ausgleich")**:

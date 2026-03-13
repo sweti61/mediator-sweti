@@ -1,0 +1,156 @@
+# ═══════════════════════════════════════════════════════════════
+# .htaccess — mediator.sweti.de
+# HUGO · Shared Hosting (Strato) · Stand März 2026
+# ═══════════════════════════════════════════════════════════════
+
+# ───────────────────────────────────────────────────────────────
+# GRUNDEINSTELLUNGEN
+# ───────────────────────────────────────────────────────────────
+
+Options -Indexes
+RewriteEngine On
+RewriteBase /
+
+# ───────────────────────────────────────────────────────────────
+# HTTPS ERZWINGEN
+# Alle HTTP-Anfragen auf HTTPS umleiten
+# ───────────────────────────────────────────────────────────────
+
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# ───────────────────────────────────────────────────────────────
+# WWW ENTFERNEN
+# www.mediator.sweti.de → mediator.sweti.de
+# ───────────────────────────────────────────────────────────────
+
+RewriteCond %{HTTP_HOST} ^www\.mediator\.sweti\.de$ [NC]
+RewriteRule ^ https://mediator.sweti.de%{REQUEST_URI} [R=301,L]
+
+# ───────────────────────────────────────────────────────────────
+# TRAILING SLASH ERZWINGEN
+# Wichtig für HUGO: /seite → /seite/
+# Ausnahme: Dateien mit Endung (z.B. .xml, .jpg, .css)
+# ───────────────────────────────────────────────────────────────
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{1,6}$
+RewriteRule ^ %{REQUEST_URI}/ [R=301,L]
+
+# ───────────────────────────────────────────────────────────────
+# 301-REDIRECTS: UMBENANNTE SEITEN
+# ───────────────────────────────────────────────────────────────
+
+# Blog-Artikel umbenannt (Page Bundles)
+RewriteRule ^post/my-first-post/?$ /post/was-ist-mediation-mediator-dresden/ [R=301,L]
+RewriteRule ^post/my-second-post/?$ /post/wie-arbeitet-der-mediator-dresden/ [R=301,L]
+
+# Testimonials-Seite umbenannt
+Redirect 301 /testimonials/ https://mediator.sweti.de/testimoni/
+
+# ───────────────────────────────────────────────────────────────
+# FEHLERSEITEN
+# ───────────────────────────────────────────────────────────────
+
+ErrorDocument 404 /404.html
+ErrorDocument 403 /404.html
+ErrorDocument 500 /404.html
+
+# ───────────────────────────────────────────────────────────────
+# CACHE-CONTROL
+# Statische Assets lange cachen → bessere Core Web Vitals
+# ───────────────────────────────────────────────────────────────
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # HTML: kurz cachen (Inhalt ändert sich)
+  ExpiresByType text/html                  "access plus 1 hour"
+
+  # CSS & JavaScript
+  ExpiresByType text/css                   "access plus 1 year"
+  ExpiresByType application/javascript     "access plus 1 year"
+  ExpiresByType text/javascript            "access plus 1 year"
+
+  # Bilder
+  ExpiresByType image/jpeg                 "access plus 1 year"
+  ExpiresByType image/png                  "access plus 1 year"
+  ExpiresByType image/webp                 "access plus 1 year"
+  ExpiresByType image/gif                  "access plus 1 year"
+  ExpiresByType image/svg+xml              "access plus 1 year"
+  ExpiresByType image/x-icon              "access plus 1 year"
+
+  # Fonts
+  ExpiresByType font/woff                  "access plus 1 year"
+  ExpiresByType font/woff2                 "access plus 1 year"
+  ExpiresByType application/font-woff      "access plus 1 year"
+  ExpiresByType application/font-woff2     "access plus 1 year"
+
+  # XML (Sitemap, RSS)
+  ExpiresByType application/xml            "access plus 1 day"
+  ExpiresByType text/xml                   "access plus 1 day"
+</IfModule>
+
+# ───────────────────────────────────────────────────────────────
+# KOMPRIMIERUNG (GZIP)
+# Kleinere Übertragungsgrößen → schnellere Ladezeiten
+# ───────────────────────────────────────────────────────────────
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/json
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE text/xml
+  AddOutputFilterByType DEFLATE image/svg+xml
+  AddOutputFilterByType DEFLATE font/woff
+  AddOutputFilterByType DEFLATE font/woff2
+</IfModule>
+
+# ───────────────────────────────────────────────────────────────
+# SICHERHEITS-HEADER
+# ───────────────────────────────────────────────────────────────
+
+<IfModule mod_headers.c>
+  # Clickjacking verhindern
+  Header always set X-Frame-Options "SAMEORIGIN"
+
+  # XSS-Schutz
+  Header always set X-XSS-Protection "1; mode=block"
+
+  # MIME-Sniffing verhindern
+  Header always set X-Content-Type-Options "nosniff"
+
+  # Referrer-Policy
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+  # HSTS: Browser merkt sich HTTPS für 1 Jahr
+  # Nur aktivieren wenn HTTPS dauerhaft genutzt wird!
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+
+  # Cache-Header für statische Assets (Hugo fingerprinted files)
+  <FilesMatch "\.(css|js|woff|woff2|jpg|jpeg|png|webp|gif|svg|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # HTML nicht cachen
+  <FilesMatch "\.(html)$">
+    Header set Cache-Control "public, max-age=3600, must-revalidate"
+  </FilesMatch>
+</IfModule>
+
+# ───────────────────────────────────────────────────────────────
+# DIREKTZUGRIFF AUF SENSIBLE DATEIEN SPERREN
+# ───────────────────────────────────────────────────────────────
+
+<FilesMatch "(^\.htaccess|^\.htpasswd|^\.env|config\.toml|hugo\.toml)$">
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>
+
+# ═══════════════════════════════════════════════════════════════
+# ENDE .htaccess — mediator.sweti.de
+# ═══════════════════════════════════════════════════════════════
