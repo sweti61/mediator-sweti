@@ -3,10 +3,12 @@ title: "Kontaktieren Sie uns"
 # featured_image: ''
 omit_header_text: true
 description: "Vereinbaren Sie eine Konfliktlösungssitzung mit Sweti und finden Sie harmonische Lösungen."
-type: page
+
 # menu:
 #   main:
 #     weight: 200
+
+type: page
 
 ---
 
@@ -17,3 +19,5 @@ Alternativ verwenden Sie den [Online-Kalender](
 https://calendly.com/mediator-sweti "Calendly"), um einen kostenlosen Termin direkt zu buchen.
 
 {{< form-contact action="https://formspree.io/f/mrgndkzk"  >}}
+
+{{< googlemap q="Bünau Str. 52, 01159 Dresden" >}}

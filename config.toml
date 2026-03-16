@@ -64,6 +64,7 @@ enableEmoji = true
   text_color = "mid-gray"
   recent_posts_number = 3
   cover_dimming_class = "bg-black-70"
+  googleMapsApiKey = "AIzaSyB-ExsHpwFOby3DWnnHx_0dE-V-u3M-HOE"
 
 
 [params.ananke.social]

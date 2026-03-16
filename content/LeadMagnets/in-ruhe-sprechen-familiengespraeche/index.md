@@ -93,9 +93,9 @@ Der Leitfaden ist besonders hilfreich, wenn:
 
 {{< formspree 
 id="xkgrpwzd" 
-link="https://drive.google.com/file/d/1QgvZ1NRP6YC3Wuch9QdGazYiBKZ20Y1J/view?usp=sharing"
+link="https://drive.google.com/file/d/1s3_coh61NO4UTxC5Ck6-b9hV-J8IDxtr/view?usp=sharing"
 label="In Ruhe sprechen, auch wenn es schwer ist (PDF)"
-leadsource="Lead Magnet – Familiengespräche">}}
+leadsource="Lead Magnet – In Ruhe sprechen">}}
 
 ---
 
@@ -132,7 +132,7 @@ Der Fokus liegt auf:
 
 ---
 
-## Sanfter CTA
+## Einladung
 
 Wenn Sie nach der Lektüre überlegen,  
 ob eine begleitete Klärung für Ihre Situation hilfreich sein könnte,

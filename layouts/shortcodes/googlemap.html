@@ -1,0 +1,11 @@
+<div class="map-wrap">
+  <iframe
+    src="https://www.google.com/maps/embed/v1/place?key={{ site.Params.googleMapsApiKey }}&q={{ .Get "q" | urlquery }}"
+    width="{{ .Get "width" | default "100%" }}"
+    height="{{ .Get "height" | default "420" }}"
+    style="border:0;"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
