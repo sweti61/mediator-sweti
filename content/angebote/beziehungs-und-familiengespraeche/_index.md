@@ -81,4 +81,4 @@ Mehr über meine Arbeitsweise als [Mediator in Dresden]({{<relref "/mediator-dre
 
 Manche Gespräche lassen sich nicht allein führen.
 
-👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}

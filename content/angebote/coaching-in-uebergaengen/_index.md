@@ -103,4 +103,4 @@ In manchen Situationen ist zunächst ein Coaching sinnvoll – in anderen eine M
 
 Sie möchten klären, ob Coaching in Ihrer Situation sinnvoll ist?
 
-👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}

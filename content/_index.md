@@ -30,7 +30,7 @@ Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es s
 Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.
 Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte eskalieren oder der Kontakt abbricht.   
 
-→ [Mediation bei Pflege, Erbe und Übergang in Dresden](/angebote/mediation-bei-pflege-erbe-uebergang-dresden/)
+→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 
 ---
 
@@ -41,7 +41,8 @@ Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.
 - Paar- oder Familienkonflikte  
 - Kontaktabbrüche  
 
-→ [Beziehungs- und Familiengespräche](/angebote/beziehungs-und-familiengespraeche/)
+→ [Beziehungs- und Familiengespräche]({{< relref "/angebote/beziehungs-und-familiengespraeche/">}})   
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})
 
 ---
 
@@ -52,8 +53,8 @@ In Einzelgesprächen klären wir:
 - die Konfliktdynamik  
 - sinnvolle nächste Schritte  
 
-→ [Konfliktklärung vorbereiten](/angebote/konfliktklaerung-vorbereiten/)  
-→ [Coaching in Übergängen](/angebote/coaching-in-uebergaengen/)
+→ [Konfliktklärung vorbereiten]({{< relref "/angebote/konfliktklaerung-vorbereiten/">}})  
+→ [Coaching in Übergängen]({{< relref "/angebote/coaching-in-uebergaengen/">}})
 
 ---
 
@@ -93,7 +94,7 @@ Professionelle Klärung und Unterstützung für Privatpersonen, Familien und Tea
 - Trennung oder Ruhestand gestalten
 - Familiendynamiken klären
 
-[Mehr zu meine Dienstleistungen](https://mediator.sweti.de/dienstleistungen/)
+[Mehr zu meine Dienstleistungen]({{< relref "/dienstleistungen/">}})
 {{< /accordion >}}
 
 

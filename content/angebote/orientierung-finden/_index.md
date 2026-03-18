@@ -38,6 +38,6 @@ Für Menschen in Veränderungsphasen – z. B. nach Trennung, im Übergang zum
 
 Sie möchten klären, ob dieses Angebot zu Ihrer Situation passt?
 
-[Jetzt kostenloses Erstgespräch buchen](https://calendly.com/sweti-mediator)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
 
 [Oder schreiben Sie mir](mailto://mediator@sweti.de)

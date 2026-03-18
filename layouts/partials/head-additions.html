@@ -14,27 +14,106 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "@type": ["LocalBusiness", "ProfessionalService"],
   "name": "Mediator Sweti",
+  "alternateName": "Swetoslaw Beltschew – Mediation & Beratung",
+  "description": "Systemischer Mediator in Dresden für pflegende Angehörige, Familienkonflikte und Teams. Zertifiziert (INKOVEMA Leipzig). Kostenloses Erstgespräch.",
   "image": "https://mediator.sweti.de/images/logo.png",
   "url": "https://mediator.sweti.de/",
-  "telephone": "+49-351-4224716",
+  "telephone": "+491638035634",
+  "email": "mediator@sweti.de",
+
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Buenaustraße 52",
+    "streetAddress": "Bünaustraße 52",
     "postalCode": "01159",
     "addressLocality": "Dresden",
-    "addressRegion": "Sachsen",
+    "addressRegion": "DE-SN",
     "addressCountry": "DE"
   },
-  "openingHours": "Mo-Fr 09:00-17:00",
+
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.0459,
+    "longitude": 13.6897
+  },
+
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "latitude": 51.0459,
+      "longitude": 13.6897
+    },
+    "geoRadius": "50000"
+  },
+
+  "areaServed": [
+    { "@type": "City", "name": "Dresden" },
+    { "@type": "City", "name": "Radebeul" },
+    { "@type": "City", "name": "Freital" },
+    { "@type": "City", "name": "Meißen" },
+    { "@type": "City", "name": "Pirna" }
+  ],
+
+  "openingHours": ["Mo-Fr 09:00-17:00"],
   "priceRange": "€€",
+
+  "founder": {
+    "@type": "Person",
+    "name": "Swetoslaw Beltschew",
+    "jobTitle": "Systemischer Mediator & Berater",
+    "description": "Zertifizierter Mediator (INKOVEMA Leipzig), systemischer Organisationsberater, Coach. Spezialisierung: Pflegekonflikte, Familienmediation, Teams.",
+    "url": "https://mediator.sweti.de/ueber-mich/",
+    "sameAs": [
+      "https://www.linkedin.com/in/sweti/"
+    ]
+  },
+
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Mediations- und Beratungsleistungen",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Mediation für pflegende Angehörige Dresden",
+          "description": "Konfliktklärung bei Pflegekonflikten in Familien. Für Geschwister, Distanzpflege, Entscheidungskonflikte."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Familienmediation Dresden",
+          "description": "Mediation bei Familienkonflikten, Erbschaftsstreit und intergenerationellen Themen."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Elder Mediation Dresden",
+          "description": "Mediation bei Konflikten rund um Seniorenbetreuung und Pflegeentscheidungen."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Teammediation & Organisationsberatung Sachsen",
+          "description": "Konfliktklärung in Teams, Handwerk, KMU und Verwaltung."
+        }
+      }
+    ]
+  },
+
   "sameAs": [
     "https://www.linkedin.com/in/sweti/",
     "https://www.facebook.com/mediator.sweti"
   ]
-}
-</script>
+}</script>
 
 <!-- ============================= -->
 <!-- FAQ JSON-LD (nur wenn faq im Front Matter) -->

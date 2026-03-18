@@ -81,6 +81,6 @@ Auch Institutionen – Pflegeheime, Betreuungseinrichtungen, Familienbetriebe �
 
 Sie möchten klären, ob Elder-Mediation zu Ihrer Situation passt?
 
-[Jetzt kostenloses Erstgespräch buchen](https://calendly.com/sweti-mediator)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
 
 [Oder schreiben Sie mir](mailto:mediator@sweti.de)

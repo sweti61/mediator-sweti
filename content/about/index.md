@@ -8,6 +8,8 @@ type: page
 
 {{< figure src="Ueber_mich3.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
 
+
+
 ## 🧭 Über mich – Klarheit mit Haltung
 
 🕰️ Seit über 30 Jahren begleite ich Menschen, Teams und Organisationen im öffentlichen Dienst – mit einem Blick für Strukturen, einem Gespür für Spannungen und dem Wunsch, wieder Handlungsfähigkeit herzustellen.  
@@ -44,7 +46,8 @@ im deutschsprachigen Raum.
 📄 [Zertifikat Systemische Organisationsberatung (PDF)](SYSTEO_2025-Beltschew.pdf)   
 
 
-👉 [Jetzt kostenlosen Termin buchen](https://calendly.com/sweti-mediator)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+ 
 
 📍 *Dresden und Sachsen* | 💻 *Online europaweit möglich*
 
