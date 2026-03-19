@@ -34,6 +34,12 @@ Für Menschen, die Angehörige pflegen oder begleiten – sei es regelmäßig od
 - Systemische Gesprächsführung mit Blick auf Ressourcen und Grenzen  
 - Auf Wunsch: Reflexionshilfe oder Folgegespräche zur Stabilisierung
 
+## Weiterführende Angebote
+
+- 👉 [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})
+- 👉 [Pflegesituation klären – Entlastung für pflegende Angehörige]({{<relref "/angebote/pflege-reflektieren/">}})
+- 👉 [Mediation bei Pflege, Erbe und Übergang]({{<relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+
 ## 📞 Nächster Schritt
 
 Sie möchten klären, ob dieses Angebot zu Ihrer Situation passt?

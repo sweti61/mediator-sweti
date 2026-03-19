@@ -186,6 +186,15 @@ In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
 
 ---
 
+## Weiterführende Angebote
+
+→ [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})   
+→ [Pflegesituation klären – Entlastung für pflegende Angehörige]({{<relref "/angebote/pflege-reflektieren/">}})   
+→ [Ruhe schaffen – für pflegende Angehörige]({{<relref "/angebote/ruhe-schaffen/">}})   
+→ [Elder Mediation in Dresden]({{<relref "/angebote/elder-mediation/">}})   
+
+---
+
 ## Orientierungsgespräch
 
 In einem unverbindlichen Gespräch (30–45 Minuten) klären wir:

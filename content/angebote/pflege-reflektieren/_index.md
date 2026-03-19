@@ -1,4 +1,4 @@
-  ---
+---
 title: "Pflegesituation klären – Entlastung für pflegende Angehörige in Dresden"
 slug: "pflege-reflektieren"
 url: "/angebote/pflege-reflektieren/"
@@ -6,11 +6,10 @@ description: "Überforderung, ungleiche Lastenverteilung, Schuldgefühle: Pflege
 summary: "Wer pflegt, trägt oft mehr als die Pflege selbst. Ich begleite pflegende Angehörige und Familien in Dresden dabei, Belastungen auszusprechen, Rollen zu klären und neue Wege zu finden – systemisch, ohne Schuldzuweisungen."
 keywords: ["Pflegesituation klären", "Familienberatung Pflege", "systemische Reflexion", "Belastung durch Pflege", "Rollenkonflikte Pflege"]
 categories: ["angebote"]
+layout: "angebot"
 date: 2025-06-04
 draft: false
-toc: true
 author: "Dr. Swetoslaw Beltschew"
-layout: "angebot"
 ---
 
 Viele pflegende Angehörige beschreiben es ähnlich: Man hat angefangen zu helfen – und plötzlich trägt man alles allein.
@@ -100,6 +99,9 @@ Wenn mehrere Familienmitglieder beteiligt sind oder der Konflikt bereits eskalie
 - 👉 [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - 👉 [Elder Mediation – Konfliktklärung für ältere Menschen und ihre Familien]({{< relref "/angebote/elder-mediation/">}})
 - 👉 [Gut klarkommen – wenn mehrere Generationen betroffen sind]({{< relref "/angebote/klarkommen-generationen/">}})
+- 👉 [Mediation für pflegende Angehörige in Dresden]({{< relref "/pflegende-angehoerige-dresden/">}})
+- 👉 [Ruhe schaffen – für pflegende Angehörige]({{< relref "/angebote/ruhe-schaffen/">}})
+- 👉 [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})
 
 ---
 
@@ -107,6 +109,6 @@ Wenn mehrere Familienmitglieder beteiligt sind oder der Konflikt bereits eskalie
 
 Sie möchten klären, ob dieses Gespräch zu Ihrer Situation passt?
 
-👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+👉 {{< extlink "https://calendly.com/mediator-sweti">}}Orientierungsgespräch vereinbaren{{< /extlink >}}
 
 Oder schreiben Sie mir: [mediator@sweti.de](mailto:mediator@sweti.de)

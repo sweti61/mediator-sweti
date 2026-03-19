@@ -19,9 +19,10 @@ noindex: false
 date: 2026-03-18
 lastmod: 2026-03-18
 draft: false
-toc: true
 author: "Dr. Swetoslaw Beltschew"
-type: "Seite"
+
+layout: "angebot"
+categories: ["angebote"]
 ---
 
 Manchmal bricht es auf, ohne dass jemand es wollte. Eltern und erwachsene Kinder, die sich seit Jahren missverstehen. Geschwister, die sich um die Pflege der Mutter streiten. Oder ein Familienunternehmen, in dem die ältere Generation loslassen soll – und es nicht kann.
@@ -118,6 +119,7 @@ Nicht jeder Generationenkonflikt braucht sofort eine Mediation. Manchmal reicht 
 | Sie möchten präventiv sprechen, bevor es eskaliert | [Familiengespräche bei Pflege und Übergang]({{< relref "/angebote/klarkommen-generationen/">}}) |
 | Es geht konkret um Pflege, Erbe und Übergangsentscheidungen | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}}) |
 | Sie sind in einer Paarbeziehung und möchten das Gespräch wieder öffnen | [Beziehung beruhigen – wieder ins Gespräch kommen]({{< relref "/angebote/beziehung-beruhigen/">}}) |
+{class="UserTable"}
 
 ---
 

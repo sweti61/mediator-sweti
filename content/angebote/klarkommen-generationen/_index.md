@@ -72,12 +72,13 @@ Auch wenn der Konflikt noch nicht offen ausgebrochen ist – präventive Gesprä
 ## Abgrenzung: Wann welcher Rahmen sinnvoll ist
 
 | Situation | Geeigneter Rahmen |
-|---|---|
+| --- | --- |
 | Ich möchte mich auf ein Gespräch vorbereiten | Einzelcoaching / Gesprächsvorbereitung |
 | Wir möchten als Familie gemeinsam sprechen | Moderiertes Familiengespräch |
-| Es geht um Pflege, Erbe und konkrete Konflikte | [Mediation bei Pflege und Erbe]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}}) |
-| Ein älterer Mensch steht im Mittelpunkt | [Elder Mediation]({{< relref "/angebote/elder-mediation/">}}) |
-| Ich bin pflegende Angehörige und erschöpft | [Pflege reflektieren]({{< relref "/angebote/pflege-reflektieren/">}}) |
+| Es geht um Pflege, Erbe und konkrete Konflikte | [Mediation bei Pflege und Erbe]({{<relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}}) |
+| Der Konflikt ist bereits eskaliert, Gespräche allein gelingen nicht mehr | [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{<relref "/angebote/familienkonflikt-generationen-dresden/">}}) |
+| Ein älterer Mensch steht im Mittelpunkt | [Elder Mediation](/angebote/elder-mediation/) |
+| Ich bin pflegende Angehörige und erschöpft | [Pflege reflektieren]({{<relref "/angebote/pflege-reflektieren/">}}) |
 {class="UserTable"}
 
 ---
@@ -98,6 +99,7 @@ Auch wenn der Konflikt noch nicht offen ausgebrochen ist – präventive Gesprä
 - 👉 [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - 👉 [Elder Mediation – Konfliktklärung für ältere Menschen und ihre Familien]({{< relref "/angebote/elder-mediation/">}})
 - 👉 [Pflege reflektieren – für pflegende Angehörige mit Verantwortung]({{< relref "/angebote/pflege-reflektieren/">}})
+- 👉 [Familienkonflikt zwischen den Generationen – Mediation in Dresden](/angebote/familienkonflikt-generationen-dresden/)
 
 ---
 
@@ -105,6 +107,6 @@ Auch wenn der Konflikt noch nicht offen ausgebrochen ist – präventive Gesprä
 
 Sie möchten klären, ob ein moderiertes Gespräch zu Ihrer Situation passt?
 
-👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
 
 Oder schreiben Sie mir: [mediator@sweti.de](mailto:mediator@sweti.de)
