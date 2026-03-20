@@ -30,7 +30,8 @@ Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es s
 Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.
 Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte eskalieren oder der Kontakt abbricht.   
 
-→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})   
+→ [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})
 
 ---
 

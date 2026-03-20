@@ -41,8 +41,8 @@ im deutschsprachigen Raum.
 
 ### Nachweise
 
-📄 [Zertifikat Mediationsausbildung (PDF)](Inkvema-Bescheinigung-Swetoslaw-Beltschew.pdf)  
-📄 [Zertifikat Organisationsmediation (PDF)](zertifikat-inkovema-organisationsmediation.pdf)  
+📄 [Zertifikat Mediationsausbildung (PDF)](GAMED_2024_Beltschew.pdf)  
+📄 [Zertifikat Organisationsmediation (PDF)](OMED_2025_Beltschew.pdf)  
 📄 [Zertifikat Systemische Organisationsberatung (PDF)](SYSTEO_2025-Beltschew.pdf)   
 
 

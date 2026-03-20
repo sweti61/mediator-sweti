@@ -14,7 +14,7 @@ url: "/post/erbe-klaeren-ohne-streit-dresden/"
 date: 2026-02-26
 draft: false
 toc: true
-author: "Swetoslaw Beltschew"
+author: "Dr. Swetoslaw Beltschew"
 ---
 
 {{< metadescription >}}
@@ -129,8 +129,8 @@ Viele Konflikte lassen sich vermeiden, wenn Vermögensfragen nicht tabuisiert, s
 
 Wenn Sie überlegen, ein solches Gespräch in Ihrer Familie anzustoßen oder zu begleiten, können wir in einem unverbindlichen Vorgespräch klären, welcher Rahmen sinnvoll ist.
 
-👉 **Unverbindliches Vorgespräch buchen:**  
-https://calendly.com/sweti-mediator
+👉 **{{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}**
+
 
 ---
 

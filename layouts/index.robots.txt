@@ -1,9 +1,15 @@
 User-agent: *
 {{ if eq hugo.Environment "production" }}
+# Hinweis: Diese Version ist für produktive Umgebungen
 Allow: /
 Disallow: /admin/
+# Sitemap-Hinweis für alle Crawler
 Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
+# Google spezifisch
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
 {{ else }}
-Disallow: /
 # Hinweis: Diese Version ist für nicht-produktive Umgebungen
+Disallow: /
 {{ end }}

@@ -47,7 +47,7 @@ RewriteRule ^post/my-first-post/?$ /post/was-ist-mediation-mediator-dresden/ [R=
 RewriteRule ^post/my-second-post/?$ /post/wie-arbeitet-der-mediator-dresden/ [R=301,L]
 
 # Testimonials-Seite umbenannt
-# RewriteRule ^testimonials/?$ /testimoni/ [R=301,L]
+RewriteRule ^testimonials/?$ /testimoni/ [R=301,L]
 
 # ───────────────────────────────────────────────────────────────
 # FEHLERSEITEN

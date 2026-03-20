@@ -14,6 +14,9 @@ angebote:
   - pflege-reflektieren
   - beziehung-beruhigen
   - konfliktverstehen
+  - elder-mediation
+  - familienkonflikt-generationen-dresden
+  
 slug: "privatpersonen"
 date: 2025-06-04
 layout: "zielgruppe"
