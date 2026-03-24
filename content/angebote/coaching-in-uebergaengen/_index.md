@@ -3,7 +3,6 @@ title: "Coaching in Übergängen – Klarheit in Zeiten des Wandels"
 description: "Systemisches Einzelcoaching in Dresden bei Rollenveränderung, Ruhestand, familiären Umbrüchen oder innerer Unsicherheit. Orientierungsgespräch kostenfrei."
 summary: "Wenn sich Lebensphasen verändern, braucht es Klarheit. Ich begleite Menschen in Übergängen – strukturiert, ruhig und mit systemischem Blick."
 categories: ["Angebote"]
-tags: ["coaching dresden", "übergang", "ruhestand", "rollenklärung", "selbstklärung"]
 keywords: ["coaching ruhestand dresden", "rollenveränderung klären", "systemisches coaching dresden", "lebensübergang begleitung", "selbstklärung gespräch"]
 slug: "coaching-in-uebergaengen"
 url: "/angebote/coaching-in-uebergaengen/"

@@ -8,6 +8,7 @@ categories:
 tags:
   - Mediation
   - Privatpersonen
+  - Dresden
 keywords: ["Erbe klären ohne Streit", "Erbstreit vermeiden Dresden", "Familiengespräch Erbe", "Mediation Dresden Familie", "Vermögensfragen regeln Familie", "Konfliktklärung Familie Dresden"]
 slug: "erbe-klaeren-ohne-streit-dresden"
 url: "/post/erbe-klaeren-ohne-streit-dresden/"
@@ -117,6 +118,8 @@ Ein neutral moderiertes Familiengespräch schafft einen geschützten Rahmen. All
 Gerade im Raum Dresden begleite ich Familien in solchen Situationen – ruhig, strukturiert und lösungsorientiert.
 
 Ziel ist nicht, jemanden zu überzeugen. Ziel ist Klarheit und eine tragfähige Vereinbarung, die von allen mitgetragen wird.
+
+→ [Zum Angebot: Erbschaftsstreit-Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})
 
 ## Früh sprechen – später Frieden bewahren
 

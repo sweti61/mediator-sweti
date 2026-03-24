@@ -2,8 +2,6 @@
 title: "Mediation bei Pflege, Erbe und Übergang in Dresden"
 description: "Mediation bei Pflege und Erbkonflikten in Dresden. Wenn Gespräche zwischen Generationen schwer werden, unterstütze ich mit strukturierter Klärung. Orientierungsgespräch kostenfrei."
 summary: "Übergänge im Leben brauchen Gespräch – nicht Eskalation. Ich begleite Familien bei Pflege, Erbe und veränderten Rollen in strukturierten Gesprächen zwischen Generationen."
-categories: ["Angebote", "Mediation", "Familie"]
-tags: ["dresden", "pflege", "erbe", "generationen", "geschwisterkonflikt", "konfliktklaerung", "coaching", "gespraechsvorbereitung"]
 keywords: ["mediation dresden pflege", "erbkonflikte mediation dresden", "pflegekonflikt geschwister", "erbengemeinschaft konflikt", "pflegeverantwortung geschwister", "mediation bei erbe", "konfliktklärung familie dresden", "gesprächsvorbereitung pflege", "coaching bei pflegebelastung", "gespräche zwischen generationen"]
 slug: "mediation-bei-pflege-erbe-uebergang-dresden"
 url: "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/"
@@ -13,10 +11,6 @@ draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 featured_image: "mediation-pflege-erbkonflikt-dresden-strichbild.png"
-aliases:
-  - /angebote/ruhe-schaffen/
-  - /angebote/pflege-reflektieren/
-  - /angebote/gut-klarkommen-generationen/
 ---
 
 **Übergänge im Leben brauchen Gespräch – nicht Eskalation.**  
@@ -192,6 +186,8 @@ In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
 → [Pflegesituation klären – Entlastung für pflegende Angehörige]({{<relref "/angebote/pflege-reflektieren/">}})   
 → [Ruhe schaffen – für pflegende Angehörige]({{<relref "/angebote/ruhe-schaffen/">}})   
 → [Elder Mediation in Dresden]({{<relref "/angebote/elder-mediation/">}})   
+→ [Erbschaftsstreit klären – Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})   
+
 
 ---
 

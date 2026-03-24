@@ -1,3 +1,19 @@
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/og-default.jpg" | absURL }}{{ end }}" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:site_name" content="Mediator Sweti" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}" />
+<meta name="twitter:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/og-default.jpg" | absURL }}{{ end }}" />
+
+
 {{ if eq hugo.Environment "production" }}
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -169,3 +185,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Feather Icons -->
 <script src="https://unpkg.com/feather-icons"></script>
+
+<!-- Keywords -->
+{{ with .Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{ end }}

@@ -13,6 +13,8 @@ keywords:
   - "Mediation Erstgespräch kostenlos Dresden"
 tags:
   - "Mediation"
+  - "Dresden"
+
 categories:
   - Blog
   - Mediation

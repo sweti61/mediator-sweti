@@ -1,6 +1,8 @@
 ---
 title: 'Häufige Fragen – verständlich & persönlich beantwortet'
 description: ""
+tags:  ["FAQ"]
+
 omit_header_text: true
 type: page
 ---

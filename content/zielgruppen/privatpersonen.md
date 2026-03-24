@@ -16,6 +16,7 @@ angebote:
   - konfliktverstehen
   - elder-mediation
   - familienkonflikt-generationen-dresden
+  - erbschaftsstreit-mediation-dresden
   
 slug: "privatpersonen"
 date: 2025-06-04
