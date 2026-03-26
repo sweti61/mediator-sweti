@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Dienstleistungen']
+tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Dienstleistungen', 'Pflege']
 title = 'Dienstleistung Elder Mediation'
 description = 'Elder-Mediation: Dienstleistungen; Pflege und Betreuung, Wohnsituation, finanzielle Angelegenheiten, Gesundheitsentscheidungen, familiäre Beziehungen, Multigenerationale Beteiligung, Personzentrierter Ansatz'
 summary = 'Elder-Mediation unterstützt ältere Menschen und ihre Familien bei Konflikten rund um Pflege, Wohnsituation, Finanzen und Gesundheit. Erfahren Sie, wie unser personzentrierter, empathischer Ansatz nachhaltige Lösungen schafft – vertraulich, würdevoll und ohne Gerichtsverfahren.'
@@ -8,13 +8,13 @@ summary = 'Elder-Mediation unterstützt ältere Menschen und ihre Familien bei K
 date = 2024-06-23T13:29:16+02:00
 
 read_more_copy = 'Mehr über die Dienstleistung Elder-Mediation'
-
+slug ='dienstleistung-elder'
 +++
-{{< figure src="/images/elder-mediation2.png">}}
+{{< figure src="elder-mediation2.png">}}
 
-### Elder-Mediation: Konfliktlösung für ältere Paare und Familien
+## Elder-Mediation: Konfliktlösung für ältere Paare und Familien
 
-#### Kurze Erklärung zur Elder-Mediation und die Tätigkeitsfelder
+### Kurze Erklärung zur Elder-Mediation und die Tätigkeitsfelder
 
 Elder-Mediation, auch Altersmediation genannt, ist ein spezialisierter Mediationsprozess, der sich auf Konflikte und Herausforderungen konzentriert, die ältere Erwachsene und ihre Familien betreffen. Diese Mediation umfasst Themen wie Pflege- und Betreuungsfragen, Wohnsituation, finanzielle Angelegenheiten, Gesundheitsentscheidungen und familiäre Beziehungen.
 
@@ -25,7 +25,7 @@ Elder-Mediation, auch Altersmediation genannt, ist ein spezialisierter Mediation
 - **Gesundheit**: Medizinische Behandlungsentscheidungen, Patientenverfügungen.
 - **Familienkonflikte**: Innerfamiliäre Spannungen und Verantwortlichkeiten.
 
-#### Besonderheiten und Vorteile der Elder-Mediation gegenüber der Standardprozess der Mediation
+### Besonderheiten und Vorteile der Elder-Mediation gegenüber der Standardprozess der Mediation
 
 **Besonderheiten:**
 - **Personzentrierter Ansatz**: Berücksichtigt die individuellen Bedürfnisse und Geschichten der älteren Personen.
@@ -38,7 +38,7 @@ Elder-Mediation, auch Altersmediation genannt, ist ein spezialisierter Mediation
 - **Langfristige Lösungen**: Entwickelt nachhaltige und tragfähige Lösungen, die den Bedürfnissen aller Beteiligten gerecht werden.
 - **Wahrung der Würde**: Respektiert die Autonomie und Würde der älteren Person.
 
-#### Wann sollte Unterstützung in Anspruch genommen werden?
+### Wann sollte Unterstützung in Anspruch genommen werden?
 
 Elder-Mediation sollte in Anspruch genommen werden, wenn:
 - **Konflikte um Pflege und Betreuung** bestehen.
@@ -47,7 +47,7 @@ Elder-Mediation sollte in Anspruch genommen werden, wenn:
 - **Gesundheitsentscheidungen** getroffen werden müssen.
 - **Familienkonflikte** eskalieren und eine einvernehmliche Lösung angestrebt wird.
 
-#### Welche Dienstleistungen bieten wir?
+### Welche Dienstleistungen bieten wir?
 
 **Unsere Dienstleistungen umfassen:**
 - **Pflege- und Betreuungsmediation**: Unterstützung bei der Entscheidung über Pflegeformen und -orte.
@@ -56,7 +56,7 @@ Elder-Mediation sollte in Anspruch genommen werden, wenn:
 - **Gesundheitsmediation**: Hilfe bei der Entscheidungsfindung in medizinischen Fragen.
 - **Familienmediation**: Lösung von innerfamiliären Konflikten und Spannungen.
 
-#### Warum unsere Dienste in Anspruch nehmen?
+### Warum unsere Dienste in Anspruch nehmen?
 
 **Unsere Vorteile:**
 - **Erfahrene Mediatoren**: Unsere Mediatoren sind speziell im Bereich Elder-Mediation ausgebildet und verfügen über umfassende Erfahrung.
@@ -66,6 +66,7 @@ Elder-Mediation sollte in Anspruch genommen werden, wenn:
 
 Elder-Mediation bietet eine wertvolle Unterstützung, um komplexe und emotionale Konflikte im Alter auf eine respektvolle und konstruktive Weise zu lösen. Unsere spezialisierten Dienstleistungen helfen Ihnen, nachhaltige und harmonische Lösungen zu finden, die die Lebensqualität aller Beteiligten verbessern.
 
+→ [Konkreter Leitfaden: Pflegegespräch vorbereiten in Dresden]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
 
 ---
 

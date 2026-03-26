@@ -9,6 +9,7 @@ tags:
   - Mediation
   - Privatpersonen
   - Dresden
+  - Pflege
 
 keywords: 
   - Kontaktabbruch Familie
@@ -168,6 +169,9 @@ Externe Moderation oder Mediation kann hilfreich sein, wenn:
 Nicht jede Familie braucht Mediation.  
 Aber manche brauchen einen sicheren Rahmen, um überhaupt wieder sprechen zu können.
 
+→ [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
+
+
 ---
 
 ## Fazit
@@ -178,4 +182,7 @@ sondern oft Ausdruck überlasteter Beziehungsmuster.
 Wer verstehen möchte, statt sofort zu reagieren,  
 öffnet zumindest die Möglichkeit für Entwicklung.
 
-Und manchmal ist genau das der erste Schritt zurück in ein Gespräch.
+Und manchmal ist genau das der erste Schritt zurück in ein Gespräch.  
+
+→ [Konkreter Leitfaden: Pflegegespräch vorbereiten in Dresden]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})    
+→ [Mediation für pflegende Angehörige in Dresden – wenn Pflegekonflikte zu Kontaktabbruchsthemen werden]({{<relref "/pflegende-angehoerige-dresden/">}})  

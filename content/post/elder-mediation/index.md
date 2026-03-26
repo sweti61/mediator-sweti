@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition',]
-tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation']
+tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Pflege']
 title = 'Elder Mediation'
 description = 'Elder-Mediation: Konfliktlösung für ältere Paare'
 summary = 'Elder-Mediation ist eine spezialisierte Mediationsform für ältere Menschen und ihre Familien. Sie adressiert Konflikte rund um Pflege, Wohnen, Finanzen, Erbschaft und Familienbeziehungen – empathisch, respektvoll und mit Blick auf die besonderen Bedürfnisse älterer Generationen.'
@@ -10,7 +10,8 @@ slug='elder-mediation'
 
 read_more_copy = 'Mehr über die Elder-Mediation'
 +++
-{{< figure src="/images/elder-mediation.png">}}
+
+{{< figure src="elder-mediation.png">}}
 
 **Elder-Mediation: Konfliktlösung für ältere Paare und ihre Familien**
 
@@ -58,6 +59,9 @@ Elder-Mediation erfordert oft spezielle Maßnahmen, um den Bedürfnissen ältere
 - **Langfristige Lösungen:** Sie zielt darauf ab, nachhaltige und faire Lösungen zu finden, die den langfristigen Bedürfnissen älterer Menschen gerecht werden.
 
 Elder-Mediation ist ein wertvolles Werkzeug, um ältere Paare und ihre Familien bei der Bewältigung von Konflikten zu unterstützen. Sie fördert Verständnis, Respekt und Zusammenarbeit, was zu harmonischeren und stabileren Beziehungen führt. Indem sie die speziellen Bedürfnisse und Herausforderungen älterer Menschen berücksichtigt, stellt Elder-Mediation sicher, dass ihre Stimmen gehört und ihre Interessen geschützt werden.
+
+→ [Konkreter Leitfaden: Pflegegespräch vorbereiten in Dresden]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
+
 
 ---
 

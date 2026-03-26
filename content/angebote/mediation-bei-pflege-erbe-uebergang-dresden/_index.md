@@ -11,6 +11,10 @@ draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 featured_image: "mediation-pflege-erbkonflikt-dresden-strichbild.png"
+
+tags:
+  - Pflege
+
 ---
 
 **Übergänge im Leben brauchen Gespräch – nicht Eskalation.**  
@@ -78,7 +82,6 @@ Ich moderiere Erbgespräche als präventiven Raum – bevor juristische Schritte
 
 Rechtliche Fragen gehören in anwaltliche oder notarielle Beratung.  
 Die Kommunikation zwischen den Beteiligten kann hier strukturiert vorbereitet und begleitet werden.
-
 ---
 
 ## Welcher nächste Schritt ist sinnvoll?

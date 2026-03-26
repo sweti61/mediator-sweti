@@ -9,6 +9,7 @@ tags:
   - Mediation
   - Privatpersonen
   - Dresden
+  - Pflege
 keywords:
   - Pflegegespräch vorbereiten Dresden
   - Familiengespräch Pflege
@@ -51,6 +52,9 @@ Wenn dann vorschnell Lösungen diskutiert werden – etwa Pflegedienst, Heimunte
 
 Eine ruhige Konfliktklärung in der Familie ist daher kein zusätzlicher Aufwand, sondern eine Voraussetzung für tragfähige Vereinbarungen.
 
+Kontaktabbruch in der Familie verstehen – Ursachen und Wege zur Klärung   
+→ [Kontaktabbruch in der Familie verstehen – Ursachen, Dynamiken und Wege zur Klärung]({{<relref "/post/kontaktabbruch-familie-verstehen/">}})
+
 ---
 
 ## Die systemische Perspektive: Was im Hintergrund wirkt
@@ -83,6 +87,9 @@ Manchmal gelingt ein ruhiges Gespräch trotz guter Vorbereitung nicht. Wenn Gesp
 
 Eine Mediation in Dresden bietet einen strukturierten Rahmen, in dem alle Beteiligten zu Wort kommen. Ziel ist nicht eine Einigung um jeden Preis, sondern eine Klärung, die für alle tragfähig ist. Häufig entsteht dadurch nicht nur eine Lösung für die konkrete Pflegefrage, sondern auch mehr gegenseitiges Verständnis.
 
+Mehr zur Mediation bei Pflege, Erbe und Übergängen in Dresden:   
+→ [Familiengespräche bei Pflege und Übergang – wenn mehrere Generationen betroffen sind]({{<relref "/angebote/klarkommen-generationen/">}})
+
 ---
 
 ## Pflegegespräch ist Beziehungsgestaltung
@@ -95,10 +102,13 @@ Gerade hier in Dresden, wo viele Familien räumlich verbunden bleiben, lohnt es 
 
 ## Ein ruhiger nächster Schritt
 
+Begleitung für pflegende Angehörige – ein ruhiger Gesprächsraum für Menschen, die die Pflege ihrer Eltern koordinieren und sich damit oft alleine gelassen fühlen.   
+→ [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})
+
 Wenn Sie ein Pflegegespräch vorbereiten möchten oder wenn Gespräche bereits schwierig geworden sind, kann ein unverbindliches Vorgespräch hilfreich sein. Dabei geht es zunächst um Orientierung und Struktur.
 
 Sie können hier ein Gespräch vereinbaren:  
-👉 https://calendly.com/sweti-mediator
+👉 {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
 
 ---
 

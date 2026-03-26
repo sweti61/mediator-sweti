@@ -12,6 +12,8 @@ keywords:
   - "Pflegemediation Dresden"
   - "Mediator pflegende Angehörige Dresden"
   - "Familienkonflikt Pflege Dresden"
+tags:
+  - Pflege
 
 slug: "pflegende-angehoerige-dresden"
 url: "/pflegende-angehoerige-dresden/"
@@ -30,6 +32,8 @@ Pflegekonflikte entstehen selten aus bösem Willen. Sie entstehen, weil Rollen n
 
 Als Mediator in Dresden begleite ich pflegende Angehörige und ihre Familien dabei, genau diese Gespräche wieder möglich zu machen.
 
+Ich unterstütze erwachsene Kinder, die die Pflege ihrer Eltern koordinieren und damit oft alleine gelassen sind.
+
 ---
 
 ## Typische Pflegekonflikte, bei denen ich helfe
@@ -47,6 +51,9 @@ Wann ist zu Hause nicht mehr möglich? Wer entscheidet das – und wie wird die 
 
 **Konflikte mit Pflegediensten oder Einrichtungen**
 Wenn Erwartungen und Realität auseinanderfallen und die Kommunikation mit dem Pflegedienst oder der Einrichtung nicht funktioniert, kann Mediation zwischen Familie und Institution vermitteln.
+
+→ [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
+
 
 ---
 

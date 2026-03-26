@@ -11,6 +11,9 @@ layout: "angebot"
 draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
+tags:
+  - Pflege
+
 ---
 
 Manchmal beginnt es mit einer praktischen Frage: Wer kümmert sich? Wer entscheidet?
