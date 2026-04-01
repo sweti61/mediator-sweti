@@ -6,7 +6,7 @@ omit_header_text: true
 type: page
 ---
 
-{{< figure src="Ueber_mich3.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
+{{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
 
 
 

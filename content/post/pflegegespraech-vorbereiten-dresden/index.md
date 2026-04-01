@@ -27,7 +27,13 @@ author: "Swetoslaw Beltschew"
 ---
 {{< metadescription >}}
 
-{{< figure src="pflegegespraech-vorbereiten-dresden.png" >}}
+{{< smartimg
+  src="pflegegespraech-vorbereiten-dresden.png"
+  alt="Pflegegespräch vorbereiten in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Ein typischer Moment
 

@@ -132,6 +132,6 @@ Wenn Sie sich fragen, ob Mediation für Ihre Situation geeignet ist, lesen Sie m
 Die Mediation selbst beginnt nicht mit einem Formular. Sie beginnt mit einem Gespräch.
 
 **Swetoslaw Beltschew · Mediator in Dresden**
-Bünaustr. 52 · 01159 Dresden · [Kontakt aufnehmen](/kontakt/)
+Bünaustr. 52 · 01159 Dresden · [Kontakt aufnehmen]({{<relref "/contact/">}})
 
 {{< youtube kvwisgrKpDA >}}

@@ -1,10 +1,14 @@
 ---
 title: "Ruhe schaffen – für pflegende Angehörige"
 slug: "ruhe-schaffen"
+url: "/angebote/ruhe-schaffen/"
 summary: "Systemische Einzelgespräche unterstützen pflegende Angehörige dabei, Belastungen zu reflektieren, eigene Bedürfnisse zu erkennen und Kraft zu schöpfen."
 description: "Pflege kostet Kraft – körperlich, emotional und mental. Ich biete Raum für ehrliche Gespräche, Orientierung und neue Perspektiven – ohne Schuldgefühle, aber mit Systemblick."
 keywords: ["pflegende Angehörige", "Einzelberatung Pflege", "Rollenklärung Pflege", "Selbstfürsorge", "systemische Unterstützung Pflege"]
 categories: ["angebote"]
+tags:
+  - Pflege
+
 date: 2025-06-04
 layout: "angebot"
 ---

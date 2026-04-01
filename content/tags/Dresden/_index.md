@@ -1,5 +1,5 @@
 ---
-title: "Schlagworte"
+title: "Mediations in Dresden"
 description: "Alle thematischen Schlagworte auf einen Blick – zur Orientierung in Beratung, Mediation und Coaching."
 summary: "Hier findest du eine Übersicht der wichtigsten Themen, die meine Arbeit begleiten – sortiert nach Schlagwörtern."
 keywords:

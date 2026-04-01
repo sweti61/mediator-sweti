@@ -8,6 +8,9 @@ toc: true
 date: 2026-02-28
 author: "Dr. Swetoslaw Beltschew"
 type: "Seite"
+tags:
+  - Dresden
+  - FAQ
 
 faq:
   - question: Was kostet ein Mediator in Dresden?
@@ -27,7 +30,7 @@ Wenn Gespräche nicht mehr möglich scheinen, schaffe ich einen strukturierten, 
 
 Ich arbeite in **Dresden und im Umkreis von 50 km** – u. a. in Radebeul, Freital, Pirna und Meißen.
 
-{{< cta-link url="https://calendly.com/mediator-sweti" text="👉 Vereinbaren Sie ein kostenloses Erstgespräch." >}}
+👉 {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
 
 
 ## Wann ist ein Mediator in Dresden sinnvoll?

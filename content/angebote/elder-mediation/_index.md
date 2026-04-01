@@ -15,6 +15,8 @@ keywords:
   - "Generationenkonflikte Mediation"
   - "Gesundheitsentscheidungen Mediation"
   - "Mediation Wohnsituation Alter"
+tags:
+  - Pflege
 
 date: 2026-02-18
 author: "Dr. Swetoslaw Beltschew"

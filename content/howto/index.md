@@ -1,10 +1,54 @@
 ---
 title: 'Häufige Fragen – verständlich & persönlich beantwortet'
-description: ""
+description: "Hier finden Sie Antworten auf typische Fragen rund um meine Angebote in der Mediation"
+summary: "Hier finden Sie Antworten auf typische Fragen rund um meine Angebote in der Mediation"
 tags:  ["FAQ"]
 
 omit_header_text: true
 type: page
+
+faq:
+  - question: Was passiert eigentlich, wenn ich mich melde?
+    answer: Nach Ihrer ersten Nachricht (per Mail, Kontaktformular oder Anruf) melde ich mich zeitnah zurück. Wir klären unverbindlich, worum es geht – vertraulich und ohne Druck. Dabei besprechen wir auch, ob eine Mediation, eine Gesprächsvorbereitung oder ein Coaching für Ihre Situation sinnvoll ist.
+
+  - question: Ist das Erstgespräch wirklich kostenlos?
+    answer: Ja. Das erste Gespräch (ca. 30–45 Minuten) ist kostenlos und dient dazu, Ihre Situation zu verstehen, Ihre Fragen zu klären und gemeinsam zu prüfen, welcher Rahmen passend ist. Es findet keine fachliche Detailberatung statt, sondern eine erste Einordnung.
+
+  - question: Ich habe Streit in der Familie – ist das überhaupt ein Fall für Mediation?
+    answer: Ja. Gerade in Familien geht es oft um Gefühle, Erwartungen und Missverständnisse. Das gilt besonders bei Pflegekonflikten, Erbfragen oder Spannungen zwischen erwachsenen Geschwistern. Ich biete strukturierte, geschützte Gespräche – mit Klarheit und Ruhe, ohne Schuldzuweisung.
+
+  - question: Ist Mediation bei Erbkonflikten sinnvoll?
+    answer: Ja – insbesondere bevor juristische Schritte eingeleitet werden. Mediation hilft, Interessen, Erwartungen und Wahrnehmungen transparent zu machen. Rechtliche Fragen sollten parallel mit einer anwaltlichen oder notariellen Beratung geklärt werden. Mediation ersetzt keine Rechtsberatung, kann aber helfen, Eskalation zu vermeiden.
+
+  - question: Sind die Ergebnisse einer Mediation verbindlich?
+    answer: Ergebnisse können schriftlich festgehalten werden. In vermögensrechtlichen oder erbrechtlichen Fragen kann eine notarielle Begleitung sinnvoll sein, wenn eine rechtliche Absicherung gewünscht ist.
+
+  - question: Was passiert, wenn keine Einigung zustande kommt?
+    answer: Nicht jede Klärung führt sofort zu einer vollständigen Einigung. Oft entsteht zunächst mehr Verständnis für die Perspektiven der Beteiligten – das allein kann Spannungen deutlich reduzieren. Auch Teillösungen oder klare nächste Schritte sind möglich.
+
+  - question: Wann ist Mediation nicht geeignet?
+    answer: Wenn akute Gewalt, massive Manipulationsvorwürfe, schwere psychische Krisen oder laufende Gerichtsverfahren im Vordergrund stehen, ist ein anderer Rahmen sinnvoll. In solchen Fällen empfehle ich eine entsprechende fachliche Beratung (z. B. anwaltlich oder therapeutisch).
+
+  - question: Wir haben Spannungen im Projektteam. Hilft da Mediation?
+    answer: Ja – besonders in IT-Projekten, bei agilen Teams oder der Einführung von ITIL-Prozessen entstehen häufig Missverständnisse, z. B. bei Zuständigkeiten oder Service Levels. Ich bringe meine Erfahrung in ITIL-Kommunikation, PRINCE2 Agile und öffentlicher Verwaltung mit, um hier auf Augenhöhe vermitteln zu können und technische Abläufe sowie Teamdynamiken gleichermaßen zu moderieren.
+
+  - question: Wir arbeiten in einer sozialen Einrichtung – was bieten Sie für Teams in Pflege oder Bildung?
+    answer: Ich unterstütze Teams in Pflegeheimen und sozialen Trägern mit Moderation, Konfliktsprechstunden oder Workshops – z. B. zu Frühwarnsignalen oder wertschätzender Zusammenarbeit. Typische Konflikte zwischen Pflegepersonal, Angehörigen und Bewohner:innen gehören zum Alltag. Gemeinsam machen wir sie besprechbar, bevor sie eskalieren.
+
+  - question: Was genau bieten Sie an?
+    answer: Ich biete strukturierte Klärungsgespräche (Mediation), Gesprächsvorbereitung bei familiären Konflikten sowie Coaching in belastenden Übergängen an. Je nach Fall arbeite ich mit Einzelpersonen, Paaren, Geschwistern oder mehreren Beteiligten gemeinsam.
+
+  - question: Muss ich das Problem schon genau benennen können?
+    answer: Nein. Viele Menschen melden sich mit dem Gefühl - Hier läuft etwas schief. Gemeinsam finden wir heraus, worum es wirklich geht – und welcher Rahmen sinnvoll ist.
+
+  - question: Wie steht es mit der Vertraulichkeit?
+    answer: Alle Gespräche sind vertraulich und unterliegen dem Datenschutz. Es wird nichts weitergegeben, und Sie entscheiden, was dokumentiert wird. Ich arbeite unabhängig und ohne institutionelle Interessen.
+
+  - question: Und wenn mein Gegenüber gar nicht mitmachen will?
+    answer: Auch dann kann ich Sie unterstützen – mit einer Gesprächsvorbereitung oder einem Coaching, um Klarheit und neue Handlungsoptionen zu gewinnen. Manchmal entstehen dadurch später doch gemeinsame Gespräche.
+
+  - question: Arbeiten Sie nur in Dresden?
+    answer: Ich bin in Dresden ansässig und biete Mediationen für Privatpersonen in meinen eigenen Räumlichkeiten an. Für Organisationen, KMU und soziale Einrichtungen arbeite ich in der Regel vor Ort in Sachsen. Gespräche im Generationenkontext sind in Dresden und Umgebung möglich; Online-Begleitungen sind nach Absprache ebenfalls denkbar.
 ---
 
 Hier finden Sie Antworten auf typische Fragen rund um meine Angebote in der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden"), Konfliktberatung und Prävention – ob als Privatperson, Organisation oder soziale Einrichtung.

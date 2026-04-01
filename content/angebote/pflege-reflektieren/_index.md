@@ -7,6 +7,9 @@ summary: "Wer pflegt, trägt oft mehr als die Pflege selbst. Ich begleite pflege
 keywords: ["Pflegesituation klären", "Familienberatung Pflege", "systemische Reflexion", "Belastung durch Pflege", "Rollenkonflikte Pflege"]
 categories: ["angebote"]
 layout: "angebot"
+tags:
+  - Pflege
+
 date: 2025-06-04
 draft: false
 author: "Dr. Swetoslaw Beltschew"

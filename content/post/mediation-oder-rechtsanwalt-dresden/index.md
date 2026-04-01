@@ -17,9 +17,9 @@ keywords:
   - "Konflikt lösen ohne Gericht Dresden"
 tags:
   - "Mediation"
-  - "Ratgeber"
   - "Dresden"
-  - "FAQ"
+  - "Fuer Rechtsanwelte"
+  
 categories:
   - Blog
   - Mediation

@@ -125,6 +125,6 @@ Mehr zur konkreten Arbeitsweise erfahren Sie im Artikel [Wie arbeitet der Mediat
 Wenn Sie sich in einem Konflikt befinden – ob in der Familie, mit Nachbarn oder im Beruf – und wissen möchten, ob Mediation der richtige Weg für Sie ist: Ich biete ein **kostenloses Erstgespräch** an.
 
 **Swetoslaw Beltschew · Mediator in Dresden**
-Bünaustr. 52 · 01159 Dresden · [Kontakt aufnehmen](/contakt/)
+Bünaustr. 52 · 01159 Dresden · [Kontakt aufnehmen](/contact/)
 
 {{< youtube 06EevTLaEV0 >}}

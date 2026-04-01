@@ -3,14 +3,23 @@ categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', 'Mediationsstile']
 title = 'Empowerment and Recognition'
 description = 'wie Mediatoren Empowerment und Recognition nutzen; Selbstbewusstsein und das Verständnis der Konfliktparteien stärken.'
+summary = 'wie Mediatoren Empowerment und Recognition nutzen; Selbstbewusstsein und das Verständnis der Konfliktparteien stärken.'
 
 date = 2024-07-01T16:09:45+02:00
 
 read_more_copy = 'Empowerment and Recognition'
+url = "/post/empowerment-recognition/"
+slug = "empowerment-recognition"
 
 +++
 
-{{< figure src="/images/empowerment-recognition.png">}}
+{{< smartimg
+  src="empowerment-recognition.png"
+  alt="Empowerment and Recognition"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Wege zu erfolgreicher Mediation und nachhaltigem Verständnis durch Transformation
 

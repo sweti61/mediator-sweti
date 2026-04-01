@@ -1,0 +1,33 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $size := .Get "size" | default "1200x" -}}
+{{- $sizes := .Get "sizes" | default "(max-width: 900px) 100vw, 900px" -}}
+
+{{- with .Page.Resources.GetMatch $src -}}
+  {{- $img480  := .Resize "480x webp q80" -}}
+  {{- $img768  := .Resize "768x webp q80" -}}
+  {{- $img1200 := .Resize (printf "%s webp q80" $size) -}}
+
+  <figure class="smartimg {{ $class }}">
+    <img
+      src="{{ $img1200.RelPermalink }}"
+      srcset="
+        {{ $img480.RelPermalink }} 480w,
+        {{ $img768.RelPermalink }} 768w,
+        {{ $img1200.RelPermalink }} {{ $img1200.Width }}w
+      "
+      sizes="{{ $sizes }}"
+      width="{{ $img1200.Width }}"
+      height="{{ $img1200.Height }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      decoding="async">
+    {{- with $caption }}
+      <figcaption>{{ . }}</figcaption>
+    {{- end }}
+  </figure>
+{{- else -}}
+  <p><strong>Bild nicht gefunden:</strong> {{ $src }}</p>
+{{- end -}}
