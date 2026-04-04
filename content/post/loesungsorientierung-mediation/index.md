@@ -11,16 +11,24 @@ tags: [Mediation]
 categories: ["blog"]
 
 slug: loesungsorientierung-mediation
+url: "/post/loesungsorientierung-mediation/"
 
 date: 2025-07-30
 
 read_more_copy: 'Mehr zur Lösungsorientierte Arbeit'
-
+image: "loesungsorientierung-mediation.png"
 draft: false
 ---
 {{< metadescription >}}
 
-{{< figure src="loesungsorientierung-mediation.png">}}
+{{< smartimg
+  src="loesungsorientierung-mediation.png"
+  alt="Lösungsorientierte Mediation"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Wie ist das Konzept der lösungsorientierten Arbeit entstanden?
 

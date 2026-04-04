@@ -21,11 +21,18 @@ date: 2026-02-05
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+image: machtasymmetrien-aussergerichtliche-verfahren-risiken-grenzen.png
 ---
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< smartimg
+  src="machtasymmetrien-aussergerichtliche-verfahren-risiken-grenzen.png"
+  alt="Machtasymmetrien in außergerichtlichen Verfahren"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Außergerichtliche Verfahren werden häufig als pragmatische Antwort auf überlastete Gerichte verstanden. Für Sie als Rechtsanwält:in im Familien- oder Arbeitsrecht können sie eine wertvolle Option sein – **unter der Voraussetzung**, dass Freiwilligkeit real gegeben ist und Schutzmechanismen greifen. In der Praxis zeigt sich jedoch: Wo deutliche Machtasymmetrien bestehen, geraten außergerichtliche Verfahren an ihre Grenzen. Ergebnisse können verzerrt sein, Druck bleibt verdeckt, Haftungsfragen werden unscharf.
 

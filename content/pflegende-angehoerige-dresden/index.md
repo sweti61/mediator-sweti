@@ -12,6 +12,7 @@ keywords:
   - "Pflegemediation Dresden"
   - "Mediator pflegende Angehörige Dresden"
   - "Familienkonflikt Pflege Dresden"
+featured_image: "pflegende-angehoerige-dresden.png"
 tags:
   - Pflege
   - FAQ
@@ -19,7 +20,7 @@ tags:
 slug: "pflegende-angehoerige-dresden"
 url: "/pflegende-angehoerige-dresden/"
 date: 2026-03-19
-lastmod: 2026-03-19
+lastmod: 2026-03-22
 author: "Dr. Swetoslaw Beltschew"
 type: "Seite"
 toc: true
@@ -53,23 +54,13 @@ Wann ist zu Hause nicht mehr möglich? Wer entscheidet das – und wie wird die 
 **Konflikte mit Pflegediensten oder Einrichtungen**
 Wenn Erwartungen und Realität auseinanderfallen und die Kommunikation mit dem Pflegedienst oder der Einrichtung nicht funktioniert, kann Mediation zwischen Familie und Institution vermitteln.
 
-→ [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
-
+→ [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})
 
 ---
 
 ## Wie Mediation bei Pflegekonflikten funktioniert
 
-Mediation ist kein Gespräch, das einfach moderiert wird. Es ist ein strukturierter Prozess – auch wenn die Fronten bereits verhärtet sind.
-
-**Schritt 1 – Kostenloses Erstgespräch (30–45 Minuten)**
-Sie schildern Ihre Situation. Wir klären gemeinsam, ob und wie Mediation helfen kann. Kein Druck, keine Verpflichtung – und vollständig vertraulich.
-
-**Schritt 2 – Mediationssitzungen**
-Alle Beteiligten kommen zu Wort. Ich sorge dafür, dass niemand übergangen wird und das Gespräch konstruktiv bleibt. Typisch sind 2–4 Sitzungen à 90–120 Minuten – je nach Komplexität.
-
-**Schritt 3 – Vereinbarung**
-Was die Familie gemeinsam erarbeitet, wird schriftlich festgehalten. Eine Lösung, die trägt – weil sie von allen mitgetragen wird.
+{{< customerjourney >}}
 
 ---
 
@@ -87,12 +78,21 @@ Ich arbeite allparteilich – das heißt, ich bin nicht Anwalt einer Seite, sond
 
 Praxisstandort: Dresden Löbtau, Bünaustr. 52. Mediation auch online möglich – besonders geeignet für Familien mit Distanzpflege.
 
+{{< smartimg
+  src="mediator-sweti-portrait-dresden.png"
+  alt="Dr. Swetoslaw Beltschew – Mediator für pflegende Angehörige in Dresden"
+  caption=""
+  class="smartimg--portrait"
+  size="1200x"
+>}}
+
+
 ---
 
 ## Häufige Fragen zur Mediation bei Pflegekonflikten
 
 **Was kostet Mediation bei Pflegekonflikten in Dresden?**
-Die Kosten richten sich nach Umfang und Anzahl der Sitzungen. Im kostenlosen Erstgespräch klären wir gemeinsam den Rahmen. Eine Sitzung dauert in der Regel 90–120 Minuten.
+Die Kosten richten sich nach Umfang und Anzahl der Sitzungen. Im kostenlosen Erstgespräch klären wir gemeinsam den Rahmen. Eine Sitzung dauert in der Regel 90–120 Minuten. Mehr dazu: [Was kostet Mediation in Dresden?]({{< relref "/post/was-kostet-mediation-dresden/">}})
 
 **Wie viele Sitzungen braucht eine Mediation bei Pflegekonflikten?**
 Das hängt von der Komplexität ab. Viele Pflegekonflikte lassen sich in 2–4 Sitzungen klären. Beim Erstgespräch schätzen wir gemeinsam den Bedarf ein.
@@ -104,7 +104,7 @@ Mediation funktioniert nur mit den Personen, die freiwillig teilnehmen. Es ist n
 Ja. Als Mediator bin ich zur Verschwiegenheit verpflichtet. Inhalte aus der Mediation werden nicht an Dritte weitergegeben.
 
 **Für wen ist Mediation bei Pflegekonflikten nicht geeignet?**
-Mediation ist nicht geeignet bei akuter häuslicher Gewalt, laufenden Gerichtsverfahren zu denselben Streitpunkten oder wenn eine Partei nicht freiwillig teilnimmt. In diesen Fällen vermittle ich weiter an geeignete Stellen.
+Mediation ist nicht geeignet bei akuter häuslicher Gewalt, laufenden Gerichtsverfahren zu denselben Streitpunkten oder wenn eine Partei nicht freiwillig teilnimmt. In diesen Fällen vermittle ich weiter an geeignete Stellen. Mehr dazu: [Mediation oder Rechtsanwalt – wann welcher Weg?]({{< relref "/post/mediation-oder-rechtsanwalt-dresden/">}})
 
 **Kann Mediation auch online stattfinden?**
 Ja. Gerade bei Distanzpflege – wenn Familienmitglieder in verschiedenen Städten leben – hat sich Mediation per Videogespräch bewährt. Der Prozess bleibt derselbe.
@@ -130,13 +130,12 @@ Ja. Gerade bei Distanzpflege – wenn Familienmitglieder in verschiedenen Städt
 
 Sie leben in Dresden oder Umgebung und erkennen Ihre Situation wieder? Im kostenlosen Erstgespräch klären wir gemeinsam, ob Mediation der richtige Schritt ist – unverbindlich und vertraulich.
 
-**Telefon:** +49 163 8035634
-**E-Mail:** mediator@sweti.de
-**Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
+**Telefon:** +49 163 8035634   
+**E-Mail:** mediator@sweti.de   
+**Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}   
 
 → [Zur Kontaktseite](/contact/)
 
 ---
-
 
 *Weitere Informationen: [Was ist Mediation?]({{< relref "/post/was-ist-mediation-mediator-dresden/">}}) · [Wie arbeite ich?]({{< relref "/post/wie-arbeitet-der-mediator-dresden/">}}) · [Über mich]({{< relref "/about/">}})*

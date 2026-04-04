@@ -35,10 +35,18 @@ draft: false
 toc: true
 read_more_copy: 'Mehr über Klärungsräume Organisation (KRO)'
 readingTime: true
+image: klaerungsraeume-organisation-kro.png
 ---
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< smartimg
+  src="klaerungsraeume-organisation-kro.png"
+  alt="Klärungsräume Organisation (KRO)"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Warum viele Organisationsprobleme keine Sachprobleme sind – sondern Raumprobleme
 

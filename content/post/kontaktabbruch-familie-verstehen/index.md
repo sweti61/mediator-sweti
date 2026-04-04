@@ -23,11 +23,18 @@ date: 2026-02-26
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+image: kontaktabbruch-familie-verstehen.png
 ---
 
 {{< metadescription >}}
 
-{{< figure src="kontaktabbruch-familie-verstehen.png" >}}
+{{< smartimg
+  src="kontaktabbruch-familie-verstehen.png"
+  alt="Kontaktabbruch in der Familie verstehen"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 Ein Kontaktabbruch in der Familie geschieht selten plötzlich.  

@@ -23,11 +23,18 @@ date: 2026-02-05
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+image: warum-mediation-zeit-kostet.png
 ---
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< smartimg
+  src="warum-mediation-zeit-kostet.png"
+  alt="Warum Mediation Zeit kostet"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Einleitung: Zeitdruck als ständiger Begleiter anwaltlicher Praxis
 

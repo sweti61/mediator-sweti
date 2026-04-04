@@ -10,12 +10,22 @@ keywords: ["systemische Hypothesenarbeit","Hypothesen Zyklus","systemisches  Den
 tags: ["Coaching", "Mediation", "Systemische Beratung", "Systemisches Denken"]
 categories: ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
 slug: zyklus-der-hypothesenarbeit-systemisches-denken
+url: "/post/zyklus-der-hypothesenarbeit-systemisches-denken/"
 date: 2025-11-12
 draft: false
+image: "zyklus-der-hypothesenarbeit-systemisches-denken.png"
 ---
-{{< metadescription >}}
 
-{{< figure src="image.png">}}
+#{{< metadescription >}}
+
+{{< smartimg
+  src="zyklus-der-hypothesenarbeit-systemisches-denken.png"
+  alt="Zyklus der Hypothesenarbeit"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Einleitung  
 Im Artikel [**„Hypothesenbildung: Systemische Klarheit statt vorschneller Deutung“**](https://mediator.sweti.de/post/hypothesenbildung-systemische-beratung/) hast du bereits eine solide Einführung in die Bedeutung von Hypothesen in Beratung, Coaching und Mediation erhalten: Hypothesen als vorläufige Denkangebote, keine Diagnosen, vielmehr Fokus auf Beobachtung und Sinnbildung.  

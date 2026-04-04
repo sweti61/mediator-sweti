@@ -16,11 +16,18 @@ date: 2026-02-26
 draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
+image: erbe-klaeren-ohne-streit-dresden.png
 ---
 
 {{< metadescription >}}
 
-{{< figure src="erbe-klaeren-ohne-streit-dresden.png" >}}
+{{< smartimg
+  src="erbe-klaeren-ohne-streit-dresden.png"
+  alt="Wie Familien Vermögensfragen frühzeitig und friedlich regeln können – Mediation in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 ## Eine typische Situation

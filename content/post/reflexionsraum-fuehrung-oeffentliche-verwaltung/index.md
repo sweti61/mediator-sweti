@@ -24,12 +24,19 @@ draft: false
 author: "Swetoslaw Beltschew"
 toc: true
 read_more_copy: 'Mehr über Zwischen Entscheidung und Verantwortung'
-
+image: reflexionsraum-fuehrung-oeffentliche-verwaltung.png
 ---
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< smartimg
+  src="reflexionsraum-fuehrung-oeffentliche-verwaltung.png"
+  alt="Zwischen Entscheidung und Verantwortung"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 Führungskräfte im öffentlichen Dienst treffen täglich Entscheidungen, die fachlich begründet, rechtlich abgesichert und organisatorisch notwendig sind.  
 Viele dieser Entscheidungen sind nach außen eindeutig. Innerlich bleiben sie jedoch oft präsent.

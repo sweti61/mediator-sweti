@@ -19,9 +19,17 @@ author: "Swetoslaw Beltschew"
 draft: false
 
 toc: true
+image: in-ruhe-sprechen-familiengespraeche.png
 ---
 
-{{< figure src="image.png" >}}
+{{< smartimg
+  src="in-ruhe-sprechen-familiengespraeche.png"
+  alt="In Ruhe sprechen, auch wenn es schwer ist"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 **Ein kurzer Leitfaden für belastende Familiengespräche**
 

@@ -16,12 +16,19 @@ date = 2025-05-28T07:14:47+02:00
 read_more_copy = 'Mehr über Hypothesenbildung'
 
 slug = "hypothesenbildung-systemische-beratung"
+url = "/post/hypothesenbildung-systemische-beratung/"
 
 draft = false
+image = "hypothesenbildung-systemische-beratung.png"
 +++
 
-{{< figure src="/images/hypothesenbildung-systemische-beratung.png">}}
-
+{{< smartimg
+  src="hypothesenbildung-systemische-beratung.png"
+  alt="Systemische Klarheit statt vorschneller Deutung"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Einstieg: "Vielleicht will sie gar nicht stören…"
 

@@ -2,7 +2,7 @@
 categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'Konfliktmanagement']
 
-title = 'Marktpositionierung'
+title = 'Marktpositionierung Mediator in Dresden'
 
 description = 'Ich verbinde Mediation, Coaching und Beratung mit systemischer Haltung – für Organisationen, soziale Einrichtungen und Privatpersonen in Dresden & Sachsen.'
 
@@ -11,9 +11,21 @@ keywords =['Mediator Dresden', 'systemische Mediation', 'Organisationsmediation'
 date = 2025-04-16T12:58:42+02:00
 
 read_more_copy = 'Mehr über Marktpositionierung'
+image="position.png"
+author= "Dr. Swetoslaw Beltschew"
 +++
-{{< figure src="/images/position.png">}}
-### 1. Mein Ausgangspunkt – Was mich besonders macht
+
+{{< smartimg
+  src="position.png"
+  alt="Marktpositionierung Mediator in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
+
+
+## 1. Mein Ausgangspunkt – Was mich besonders macht
 
 Ich verbinde 30+ Jahre Erfahrung in öffentlicher Verwaltung, Projekt- und Prozessmanagement mit fundierter mediations- und systemischer Beratungskompetenz. Der Übergang von einer direktiven zu einer nicht-direktiven, systemischen Haltung war für mich der zentrale Schritt in meiner beruflichen Weiterentwicklung.
 
@@ -23,7 +35,7 @@ Diese Haltung durchzieht meine Arbeit als Mediator, Coach und Organisationsberat
 
 ---
 
-### 2. Meine Ziele – bewusst fokussiert
+## 2. Meine Ziele – bewusst fokussiert
 
 Derzeit strebe ich eine sichtbare Positionierung im Bereich **Organisationsmediation** an. Nach meinem Eintritt in den Ruhestand plane ich, meine Praxis im privaten und sozialen Bereich weiterzuführen und ggf. auszubauen.
 
@@ -31,7 +43,7 @@ Ich möchte in einem Umfang von 2–3 Fällen pro Monat Menschen und Organisatio
 
 ---
 
-### 3. Meine Zielgruppen & Leistungen
+## 3. Meine Zielgruppen & Leistungen
 
 Obwohl ich noch wenige praktische Mediationsfälle im organisatorischen Bereich begleite, zeichnen sich meine Zielgruppen bereits klar ab:
 
@@ -44,7 +56,7 @@ Ich biete Mediation, systemisches Coaching, Konfliktberatung, Workshops und Mode
 
 ---
 
-### 4. Mein Profil nach außen – Klarheit & Wiedererkennung
+## 4. Mein Profil nach außen – Klarheit & Wiedererkennung
 
 **Meine Haltung:** "Leise Autorität" und "empathischer Begleiter"
 
@@ -63,14 +75,17 @@ Ich möchte als **Fachpraxis mit klarem Angebot** wahrgenommen werden. Mediation
 
 ---
 
-### 5. Meine Kommunikation
+## 5. Meine Kommunikation
 
 **Was soll sofort verstanden werden?**
 > Dass ich empathisch und effektiv begleite – bei der Klärung von Konflikten und darüber hinaus. Ich helfe nicht nur beim Lösen von Problemen, sondern dabei, sich als Mensch oder Organisation weiterzuentwickeln.
+
 
 **Aktive Kanäle:**
 - Google Business (beste Sichtbarkeit)
 - Webseite & Blog (Fokus: Fachbeiträge, Fallgeschichten)
 - LinkedIn (2–3 Posts/Monat)
 - Facebook (zur Erreichung privater Zielgruppen)
+
+{{< customerjourney >}}
 
