@@ -7,13 +7,25 @@ tags: ["Coaching", "Mediation", "Systemische Beratung", "Systemisches Denken"]
 categories: ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
 read_more_copy: 'Mehr über Emotion – Bedürfnis – Interesse – Position'
 slug: "emotion-beduerfnis-interesse-position"
+url: "/post/emotion-beduerfnis-interesse-position/"
 date: 2025-11-27
 draft: false
+image: 'emotion-beduerfnis-interesse-position.png'
+author: "Dr. Swetoslaw Beltschew"
+
 ---
 
 {{< metadescription >}}
 
 {{< figure src="image.png" >}}
+{{< smartimg
+  src="emotion-beduerfnis-interesse-position.png"
+  alt="Emotion – Bedürfnis – Interesse – Position"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Ein integratives Modell für Mediation, Coaching und Organisationsberatung
 
@@ -149,7 +161,8 @@ aber auf der falschen Ebene.
 
 # Weiterführende Impulse
 
-Wenn Sie Gesprächsdynamiken in Ihrer Organisation, Ihrem Team oder Ihrer Rolle reflektieren möchten, begleite ich Sie gern.
+Wenn Sie Gesprächsdynamiken in Ihrer Organisation, Ihrem Team oder Ihrer Rolle reflektieren möchten, begleite ich Sie gern.  
 
-**🌐 [beltschew.de](https://beltschew.de)**  
-**📅 Kostenloses Kennenlernen:** _Termin auf [calendly](https://calendly.com/sweti-mediator) buchen_
+**{{< extlink "https://beltschew.de" >}}🌐 beltschew.de besuchen{{< /extlink >}}**   
+**{{< extlink "https://calendly.com/mediator-sweti" >}}📅 Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+

@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung', 'Meiationsprinzipien', 'Mediation kurz erklärt', 'MediationsG']
+tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung', 'Mediationsprinzipien', 'Mediation kurz erklärt', 'MediationsG']
 title = 'Informirtheit in der Mediation'
 
 description = 'Informiertheit in der Mediation ist entscheidend für den Erfolg. Mediatoren informieren über den Prozess und rechtliche Aspekte, während Parteien Details zum Konflikt liefern. Das Mediationsgesetz sichert die Kompetenz des Mediators, der keine Rechtsberatung geben darf, was Vertrauen und rechtssichere Lösungen fördert.'

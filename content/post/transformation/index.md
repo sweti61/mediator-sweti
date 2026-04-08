@@ -7,15 +7,26 @@ title = 'Der Transformationsgedanke in der Mediation'
 keawords =['Mediation', 'Kommunikationstransformation', 'Nachhaltige Mediation', 'Konfliktlösung', 'Konfliktkommunikation', 'Aktives Zuhören', 'Gewaltfreie Kommunikation', 'Empathie in der Mediation', 'Maslowsche Axiome', 'Selbstverwirklichung', 'Empowerment in der Mediation', 'Kooperative Problemlösung', 'Konflikteskalation', 'Sicherheitsbedürfnisse', 'Soziale Bedürfnisse', 'Wertschätzung in der Mediation', 'Konstruktive Kommunikation', 'Langfristige Konfliktlösung', 'Mediationstechniken', 'Feedback-Schleifen in der Mediation']
 
 description = 'nachhaltige Transformation der Kommunikation während der Mediation; Prinzipien der Maslowschen Bedürfnishierarchie;praktische Methoden und Interventionen;langfristige und konstruktive Kommunikation; Kommunikationstransformation; Konfliktlösung; Gewaltfreie Kommunikation; Maslowsche Axiome; Konflikteskalation'
+summary = 'nachhaltige Transformation der Kommunikation während der Mediation; Prinzipien der Maslowschen Bedürfnishierarchie;praktische Methoden und Interventionen;langfristige und konstruktive Kommunikation; Kommunikationstransformation; Konfliktlösung; Gewaltfreie Kommunikation; Maslowsche Axiome; Konflikteskalation'
 
 date = 2024-07-19T11:11:51+02:00
 
 read_more_copy = 'Mehr zu der Transformationsgedanke...'
 
 draft = false
+url = "/post/transformation/"
+slug = "transformation"
+author = "Dr. Swetoslaw Beltschew"
+image = "transformation.png"
 +++
 
-![Transformation](/images/transformation.png)
+{{< smartimg
+  src="transformation.png"
+  alt="Transformationsgedanke"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Der dritte und letzte Artikel unserer Reihe "3 Grundgedanken der Mediation" beschäftigt sich mit der Transformation. Es wird untersucht, wie eine konfliktbehaftete Kommunikation in eine nachhaltige verwandelt (transformiert) wird.
 
@@ -73,6 +84,9 @@ Ein Mediator erkennt, dass eine Transformation der Kommunikation stattgefunden h
 - Selbstständig und effektiv Konflikte lösen.
 - Ein tieferes Verständnis und Empathie füreinander zeigen.
 - Langfristige und tragfähige Lösungen entwickeln.
+
+{{< werbebox >}}
+
 
 ## Fazit {#fazit}
 Eine nachhaltige Transformation der Kommunikation ist entscheidend für den langfristigen Erfolg einer Mediation. Durch gezielte Methoden und Interventionen kann ein Mediator die Konfliktparteien dabei unterstützen, ihre Kommunikation zu verbessern und stabile, dauerhafte Lösungen zu finden. Die Anwendung der Maslowschen Axiome bietet dabei einen wertvollen Rahmen, um die tieferen Bedürfnisse und Motivationen der Parteien zu adressieren und eine nachhaltige Veränderung zu erreichen.

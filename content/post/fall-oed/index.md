@@ -4,6 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Fallgeschichten']
 title = 'Fallgeschichte: Wenn der Konflikt die Arbeit blockiert – Ein Fall aus dem öffentlichen Dienst'
 
 description ='Ein Konflikt in der öffentlichen Verwaltung droht ein Projekt zu blockieren – Mediation schafft Dialog, Verständnis und neue Zusammenarbeit.'
+summary ='Ein Konflikt in der öffentlichen Verwaltung droht ein Projekt zu blockieren – Mediation schafft Dialog, Verständnis und neue Zusammenarbeit.'
 
 keywords = [
     'Konflikte öffentlicher Dienst',
@@ -22,9 +23,19 @@ keywords = [
 date = 2025-04-23T09:40:52+02:00
 
 read_more_copy = 'Mehr über die Fallgeschichte'
-
+url = "/post/fall-oed/"
+slug = "fall-oed"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
 +++
-{{< figure src="/images/fall-oed.png">}}
+
+{{< smartimg
+  src="fall-oed.png"
+  alt="Nachbarschaftskonflikt in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ### Ausgangslage
 In einer mittleren Behörde kam es im Bereich der internen Digitalisierung immer wieder zu Reibungen zwischen der Projektleitung und einer Gruppe von Mitarbeitenden. Das Projekt sollte einen neuen Workflow für die Bearbeitung von Anträgen umsetzen. Die Projektleitung, eine junge, engagierte Beamtin mit IT-Background, stieß dabei auf erheblichen Widerstand aus der Sachbearbeitung: Die Vorschläge wurden als praxisfern abgelehnt, Gespräche blieben angespannt, Arbeitsaufträge wurden nur zögerlich oder unvollständig bearbeitet.
@@ -75,13 +86,9 @@ Konflikte im öffentlichen Dienst sind kein Zeichen von Schwäche, sondern ein S
 
 **Möchten Sie mehr über mögliche Klärungsprozesse in Ihrer Organisation erfahren?**
 
-[**Meine Marktpositionierung**]({{< relref "position.md">}} "Marktpositionierung")
+👉️ [**Meine Marktpositionierung**]({{< relref "/post/position/">}} "Marktpositionierung")
 
-[**Mein Angebot für Organisationen & kleinere Unternehmen**]({{< relref "/Dienstleistungen/#organisationen">}} "Organisationen & KMU")
-
-📞 Vereinbaren Sie gern ein unverbindliches Erstgespräch – ich freue mich darauf, Sie kennenzulernen.
-
-👉 Jetzt kostenloses Erstgespräch auf [Calendly](https://calendly.com/sweti-mediator)  buchen.
+{{< werbebox >}}
 
 *Ich begleite Sie mit Ruhe, Respekt und systemischem Blick.*
 

@@ -5,23 +5,31 @@ description = "Was steckt hinter passivem Verhalten in Konflikten, Teams oder Fa
 
 summary = "Passivität ist kein Zeichen von Schwäche, sondern ein Schutzmechanismus. Wer sie erkennt, kann nachhaltige Veränderung ermöglichen – in Teams, Organisationen und persönlichen Beziehungen."
 
-
-
 tags = ["Transaktionsanalyse", "Mediation"]
 
 categories = ["Beratung", "Mediation", "Coaching"]
 
 slug = "passivitaet-verstehen-handlung-ermoeglichen"
+url = "/post/passivitaet-verstehen-handlung-ermoeglichen/"
 
 date = 2025-05-31
 
 read_more_copy = 'Mehr über Passivität in TA'
-
+image ="passivitaet-verstehen-handlung-ermoeglichen.png"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/passivitaet-verstehen-handlung-ermoeglichen.png">}}
+{{< smartimg
+  src="passivitaet-verstehen-handlung-ermoeglichen.png"
+  alt="Passivität in TA"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 Warum tun Menschen nichts, obwohl sie sehen, dass etwas getan werden müsste?  
 Warum lassen sich Konflikte manchmal nicht klären – obwohl alle Beteiligten „eigentlich“ offen sind?  
@@ -119,6 +127,6 @@ So entsteht echte Bewegung. Von innen heraus. Im eigenen Tempo.
 
 Wenn Sie mit einer Situation ringen, in der sich nichts bewegt – oder wenn Sie Passivität in Ihrem Team beobachten:
 
-[**Buchen Sie ein kostenloses Erstgespräch**](https://calendly.com/sweti-mediator)
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Buchen Sie ein kostenloses Erstgespräch{{< /extlink >}}**
 
 Gemeinsam finden wir heraus, was möglich ist – **ohne Druck, aber mit Klarheit.**

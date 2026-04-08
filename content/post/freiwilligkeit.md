@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung','Meiationsprinzipien', 'Mediation kurz erklärt', 'MediationsG']
+tags = ['Mediation', 'Konfliktmanagement', 'Eigenverantwortung','Mediationsprinzipien', 'Mediation kurz erklärt', 'MediationsG']
 title = 'Freiwilligkeit in der Mediation'
 
 description = 'Erfahren Sie, warum Freiwilligkeit in der Mediation essenziell ist, wie arbeitsvertragliche Verpflichtungen und das Direktionsrecht der Vorgesetzten die Mediation beeinflussen, und welche arbeitsrechtlichen Konsequenzen bei Verweigerung der Teilnahme drohen'

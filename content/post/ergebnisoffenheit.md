@@ -1,8 +1,9 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Meiationsprinzipien', 'Mediation kurz erklärt']
+tags = ['Mediation', 'Konfliktmanagement', 'Mediationsprinzipien', 'Mediation kurz erklärt']
 title = 'Ergebnisoffenheit in der Mediation: Was bedeutet das und wie geht man damit um?'
 description = 'Ergebnisoffenheit, Mediation MediationG'
+summary = 'Ergebnisoffenheit, Mediation MediationG'
 
 date = 2024-05-17T12:00:13+02:00
 url='/post/ergebnisoffenheit/'

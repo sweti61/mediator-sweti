@@ -5,17 +5,29 @@ title = "Implizite Verträge in der Transaktionsanalyse: Die ungeschriebenen Spi
 
 description = "Wie unausgesprochene Vereinbarungen in Coaching, Beratung und Mediation wirken – und wie wir sie in der Transaktionsanalyse erkennen und bearbeiten können."
 
+summary = "Wie unausgesprochene Vereinbarungen in Coaching, Beratung und Mediation wirken – und wie wir sie in der Transaktionsanalyse erkennen und bearbeiten können."
+
 keywords = ["implizite Verträge", "Transaktionsanalyse", "Beratung", "Mediation", "Coaching", "Skriptanalyse", "Drama-Dreieck"]
 
 date = 2025-05-18T11:17:08+02:00
 
 read_more_copy = 'Mehr über explizite Verträge'
 
+url = "/post/impliziter-vertrag/"
+slug = "impliziter-vertrag"
+author = "Dr. Swetoslaw Beltschew"
 draft = false
-
+image = "impliziter-vertrag.png"
 +++
 
-{{< figure src="/images/impliziter-vertrag.png">}}
+{{< smartimg
+  src="impliziter-vertrag.png"
+  alt="Implizite Verträge in der Transaktionsanalyse"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Die verborgenen Spielregeln in Beratung, Mediation und Coaching
 

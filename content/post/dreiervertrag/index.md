@@ -7,6 +7,7 @@ tags = ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", 
 title = "Dreierverträge in der Transaktionsanalyse: Rollenklarheit und Systemtransparenz"
 
 description = "Wie der Dreiervertrag nach Fanita English die Zusammenarbeit in Beratung, Coaching und Mediation in komplexen Mehrpersonensystemen absichert und Vertrauen schafft."
+summary = "Wie der Dreiervertrag nach Fanita English die Zusammenarbeit in Beratung, Coaching und Mediation in komplexen Mehrpersonensystemen absichert und Vertrauen schafft."
 
 keywords = ["Dreiervertrag TA", "Fanita English", "Transaktionsanalyse", "Rollenklarheit", "Beratung Organisation", "TA Mediation"]
 
@@ -15,9 +16,19 @@ date = 2025-05-18T09:47:27+02:00
 read_more_copy = 'Mehr über der Dreiervertrag'
 
 draft = false
+image ='zweiervertrag.png'
+author ="Dr. Swetoslaw Beltschew"
+
 +++
 
-{{< figure src="/images/dreiervertrag.png">}}
+{{< smartimg
+  src="dreiervertrag.png"
+  alt="Dreierverträge in der Transaktionsanalyse"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 
 ## Klärung im Mehrpersonensystem
@@ -66,8 +77,6 @@ Im gemeinsamen Vorgespräch mit der Führungskraft, der Teamleitung und dem Medi
 
 Im weiteren Verlauf führt der Mediator Einzelgespräche und moderierte Teamworkshops durch. Regelmäßig wird abgestimmt, welche Informationen an die Führungsebene zurückfließen dürfen. So entsteht ein geschützter Raum, in dem das Team eigenständig Lösungen entwickeln kann.
 
-{{< werbebox >}}
-
 ### Chancen und Grenzen des Dreiervertrags
 
 Ein klar formulierter Dreiervertrag bietet die Möglichkeit, komplexe Auftragslagen strukturiert und transparent zu bearbeiten. Er hilft dabei, psychologische Spiele zu vermeiden, Rollen zu klären und die Zusammenarbeit auf eine verlässliche Basis zu stellen.
@@ -96,6 +105,6 @@ Diese Klärung schafft nicht nur Transparenz, sondern fördert auch die Autonomi
 **Sie möchten das Modell des Dreiervertrags in Ihrer Mediation oder Organisationsberatung nutzen?**  
 Ich lade Sie herzlich zu einem kostenfreien Erstgespräch ein – lassen Sie uns gemeinsam prüfen, wie ich Sie professionell unterstützen kann.
 
-[Jetzt Erstgespräch vereinbaren]("https://calendly.com/sweti-mediator"})
+{{< werbebox >}}
 
 **Weiterlesen:** [Zweiervertrag in der TA – Verantwortung auf Augenhöhe gestalten]({{<  relref "/post/zweiervertrag.md" >}})

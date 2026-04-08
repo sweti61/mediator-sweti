@@ -7,13 +7,26 @@ keywords =['Mediationsrolle', 'Ausgleichsgedanke', 'Interdependenzgedanke', 'Res
 title = 'Der Ausgleichsgedanke der Mediation, Restorative Justice und der Interdependenztheorie'
 
 description = 'Ausgleichsgedanke der Mediation und Restorative Justice im Kontext der Interdependenz-Gedanken'
+summary = 'Ausgleichsgedanke der Mediation und Restorative Justice im Kontext der Interdependenz-Gedanken'
 
 date = 2024-07-04T13:32:26+02:00
 
 read_more_copy = 'Mehr über die Ausgleichsgedanke der Mediation'
+
+url = "/post/ausgleich/"
+slug = "ausgleich"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+image = "ausgleich.png"
 +++
 
-![Ausgleich](/images/ausgleich.png)
+{{< smartimg
+  src="ausgleich.png"
+  alt="Ausgleichsgedanke der Mediation"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Der erste Artikel unserer Reihe "3 Grundgedanken der Mediation" beschäftigt sich mit dem Ausgleich. Eine dritte Partei achtet darauf, dass empfundenes Unrecht, das durch vergangene Handlungen verursacht wurde, zwischen den Konfliktparteien ausgeglichen wird. Das ist, was bei einer Mediation passiert. Wie? Lesen Sie weiter.
 

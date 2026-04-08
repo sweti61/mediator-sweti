@@ -6,15 +6,29 @@ title = 'Kooperative und kompetitive Verhandlungstechniken in der Mediation: Ein
 
 description = 'Vergleich von kooperativen und kompetitiven Verhandlungstechniken in der Mediation. Mediatoren fördern kooperative Ansätze, während Medianten oft kompetitiv agieren. Effektive Techniken für nachhaltige Lösungen und erfolgreiche Mediationsphasen werden vorgestellt.'
 
+summary = 'Vergleich von kooperativen und kompetitiven Verhandlungstechniken in der Mediation. Mediatoren fördern kooperative Ansätze, während Medianten oft kompetitiv agieren. Effektive Techniken für nachhaltige Lösungen und erfolgreiche Mediationsphasen werden vorgestellt.'
+
 keywords = ["Kooperative Verhandlungstechniken", "kompetitive Verhandlungstechniken", "Mediation", "Verhandlungsstile", "Harvard-Konzept", "interessenbasiertes Verhandeln", "integratives Verhandeln", "positionales Verhandeln", "Verhandlungsprozess", "Mediationsphasen", "Feilschen", "Win-Win-Lösungen", "Verhandlungsstrategie", "Konfliktlösung", "Verhandlungsführung", "Verhandlungstaktiken", "Mediatoren", "Medianten", "Verhandlungsmanagement", "Verhandlungskonzepte", "kompetitives Verhandeln", "kooperatives Verhandeln", "Verhandlungspsychologie"]
 
 
 date = 2024-08-21T08:56:07+02:00
 
 read_more_copy = 'Mehr über Verhandlungstechniken'
+
+url = "/post/verhandeln2/"
+slug = "verhandeln2"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+
 +++
 
-![Verhandeln](/images/verhandeln2.png)
+{{< smartimg
+  src="verhandeln2.png"
+  alt="Verhandlungstechniken"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 In der Mediation ist die Wahl der Verhandlungstechnik entscheidend für den Erfolg des Verhandlungsprozesses. Mediatoren und Konfliktparteien stehen vor der Entscheidung, ob sie einen kooperativen oder kompetitiven Verhandlungsstil anwenden. Beide Ansätze bieten unterschiedliche Herangehensweisen und können je nach Situation und Zielsetzung unterschiedlich effektiv sein. In diesem Artikel beleuchten wir die Leitgedanken der Verhandlung und erläutern die Unterschiede zwischen kooperativen und kompetitiven Verhandlungskonzepten. Außerdem werden die Prinzipien des „Feilschens“ als Beispiel für kompetitives Verhandeln und das „Harvard-Konzept“ als Beispiel für kooperatives Verhandeln näher erläutert. Abschließend zeigen wir, was das integrative Verhandeln mehr bietet als das Harvard-Prinzip und stellen eine Übersicht der Verhandlungstechniken im Kontext der Phasen der Mediation dar.
 
@@ -132,6 +146,10 @@ Nachfolgend eine Übersicht über die Anwendung von kooperativen und kompetitive
 | **Klärungsphase** - Perspektivdarstellung, Konflikterhellung | - **Interessenfokus**: Identifikation und Analyse der zugrunde liegenden Interessen.                                                 <br> - **Aktives Zuhören**: Unterstützung des gegenseitigen Verständnisses durch offene Gespräche.                              | - **Position verteidigen**: Beharren auf der eigenen Position, um Zugeständnisse zu vermeiden.                                  <br> - **Selektive Informationsfreigabe**: Strategisches Zurückhalten von Informationen.                                       |
 | **Kreationsphase** - Lösungsmöglichkeiten, Auswahl und Vereinbarung | - **Gemeinsame Problemlösung**: Entwicklung von Win-Win-Lösungen durch kreatives Brainstorming.                                       <br> - **Objektive Kriterien**: Nutzung von externen Standards zur Bewertung von Optionen.                                     | - **Ultimaten setzen**: Aufbau von Druck durch das Stellen von Ultimaten.                                                     <br> - **Manipulation von Optionen**: Präsentation von Optionen zur Stärkung der eigenen Position.                            |
 {class="UserTable"}
+
+
+{{< werbebox >}}
+
 
 ## Fazit
 

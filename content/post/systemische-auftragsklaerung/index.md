@@ -21,17 +21,25 @@ tags:
 categories:
   - Systemische Praxis
 slug: "systemische-auftragsklaerung"
+url: "/post/systemische-auftragsklaerung/"
 date: 2025-06-11
 
 read_more_copy: 'Mehr zu Auftragsklärung systemisch gestalten'
 
 draft: false
-
+author: "Dr. Swetoslaw Beltschew"
+toc: true
 ---
 
 {{< metadescription >}}
 
-{{< figure src="systemische-auftragsklaerung.png">}}
+{{< smartimg
+  src="systemische-auftragsklaerung.png"
+  alt="Auftragsklärung systemisch gestalten"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 
@@ -185,7 +193,13 @@ Kurz: Das 4-Felder-Modell fördert eine **reflektierte, prozessorientierte und s
 
 In der Visualisierung steht das Modell häufig als einfache **Vier-Felder-Matrix**:
 
-{{< figure src="vier-felder-modell.png">}}
+{{< smartimg
+  src="vier-felder-modell.png"
+  alt="Vier-Felder-Matrix"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Dabei ist es wichtig zu betonen:
 
@@ -333,6 +347,8 @@ Im Folgenden zeige ich, wie sich diese systemische Lesebrille konkret auf die vi
 - **Wahrnehmung:** Worauf bin ich in meiner Rolle besonders sensibilisiert?
 - **Körper:** Wie spüre ich Passung oder Irritation in meiner Rollengestaltung?
 - **Verhalten:** Wie zeigt sich mein Rollenverständnis konkret im Prozessverhalten?
+
+{{< werbebox >}}
 
 ### Fazit
 
@@ -1072,4 +1088,4 @@ Für die praktische Umsetzung finden Sie im [Anhang A](anlage01-systemische-lese
 - [Kohärenzfaktoren nach Rieforth – systemische Vertiefung der 9-Felder-Methode]({{< relref "post/9-felder-modell-kochernz/">}})
 - [Dreierverträge in der Transaktionsanalyse: Rollenklarheit und Systemtransparenz]({{< relref "/post/dreiervertrag/">}})
 
-Wenn Sie systemische Auftragsklärung in Ihrer Organisation oder für Ihren nächsten Beratungsprozess gezielt stärken möchten, lade ich Sie herzlich zu einem unverbindlichen Erstgespräch ein. Buchen Sie direkt einen Termin über **{{< extlink "https://calendly.com/sweti-mediator" >}}meinen Kalender{{< /extlink >}}**
+Wenn Sie systemische Auftragsklärung in Ihrer Organisation oder für Ihren nächsten Beratungsprozess gezielt stärken möchten, lade ich Sie herzlich zu einem unverbindlichen Erstgespräch ein. Buchen Sie direkt einen Termin über **{{< extlink "https://calendly.com/mediator-sweti" >}}meinen Kalender{{< /extlink >}}**

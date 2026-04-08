@@ -6,19 +6,29 @@ keywords: ["Fritz B. Simon", "systemisches Denken", "Beschreibung", "Erklärung"
 tags: ["Systemisches Denken", "Systemische Beratung", "Coaching"]
 categories: ["Blog"]
 slug: drei-beobachtungsebenen-simon
+url: "/post/drei-beobachtungsebenen-simon/"
 
 read_more_copy: 'Mehr zur Beschreibung, Erklärung, Bewertung'
 
-
+image: "drei-beobachtungsebenen-simon.png"
 
 date: 2025-06-26
 draft: false
+toc: true
+author: "Dr. Swetoslaw Beltschew"
 ---
 
 {{< metadescription >}}
 
-{{< figure src="drei-beobachtungsebenen-simon.png">}}
+{{< smartimg
+  src="drei-beobachtungsebenen-simon.png"
+  alt="Beschreibung, Erklärung, Bewertung – Drei Ebenen systemischen Denkens"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
+---
 
 > *„Unterscheide Beschreibung, Erklärung und Bewertung – und wechsle sie gezielt.“*  
 > – Fritz B. Simon, Rezept Nr. 3 (Formen-Tagung 2018)
@@ -131,5 +141,5 @@ Wer systemisch arbeitet, braucht Werkzeuge, um Komplexität nicht zu reduzieren 
 
 **🗓️ Du willst systemisch arbeiten oder reflektieren lernen?**  
 
-👉️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 

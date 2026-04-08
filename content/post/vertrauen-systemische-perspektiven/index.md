@@ -6,16 +6,24 @@ keywords: ["Vertrauen", "systemische Beratung", "Mediation", "Transaktionsanalys
 tags: ["systemische Beratung", "Mediation", "Transaktionsanalyse"]
 categories: ["Blog"]
 slug: "vertrauen-systemische-perspektiven"
+url: "/post/vertrauen-systemische-perspektiven/"
 date: 2025-06-06
 
 read_more_copy : 'Mehr über Vertrauen'
+author: "Dr. Swetoslaw Beltschew"
+draft: false
 
 ---
 
 {{< metadescription >}}
 
-{{< figure src="/images/vertrauen-systemische-perspektiven.png">}}
-
+{{< smartimg
+  src="vertrauen-systemische-perspektiven.png"
+  alt="Vertrauen ermöglichen"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## 🧩 Vertrauen als soziale Errungenschaft – Soziologische Perspektiven jenseits der Systemtheorie
 
@@ -426,7 +434,7 @@ Du begleitest Menschen in Beratung, Mediation oder Führung und möchtest deine 
 Du suchst nach konkreten Impulsen für deine Praxis?
 
 Dann lade ich dich ein:   
-👉 Vereinbare ein kostenloses Gespräch mit mir auf [Calendly]("https://calendly.com/sweti-mediator")   
+👉 Vereinbare ein kostenloses Gespräch mit mir auf [Calendly]("https://calendly.com/mediator-sweti")   
 Ich freue mich auf den Austausch mit dir.
 
 

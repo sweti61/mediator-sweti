@@ -1,5 +1,5 @@
 +++
-title = '3 Grundgedanken der Mediation'
+title = 'Drei Grundgedanken der Mediation'
 
 description = "Die drei Grundgedanken der Mediation – Klärung, Verständigung und Selbstverantwortung als Leitlinien für konstruktive Konfliktlösung."
 
@@ -10,5 +10,8 @@ keywords = ["Mediation", "Grundgedanken", "Verständigung", "Klärung", "Selbstv
 slug="drei-grundgedanken-der-mediation"
 
 weight = 1
+
+featured_image = "drei-grundgedanken-der-mediation.png"
 +++
+
 Die **drei Grundgedanken der Mediation** – Klärung, Verständigung und Selbstverantwortung als Leitlinien für konstruktive Konfliktlösung.

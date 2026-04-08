@@ -9,11 +9,24 @@ keywords =['Konfliktmanagement ITIL', 'Service Level Management', 'Konflikte in 
 date = 2025-04-03T09:27:59+02:00
 
 read_more_copy = 'Mehr über SLM'
+url = "/post/slm/"
+slug = "slm"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+image = "slm.png"
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/SLA.png">}}
+{{< smartimg
+  src="slm.png"
+  alt="Konfliktmanagement ITIL: SLAs als Zündstoff im Service Level Management (SLM)"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
+
 ### Wenn der Dienst nicht zur Erwartung passt 
 
 "Warum habt ihr das Ticket erst nach zwei Stunden bearbeitet? Es steht doch im SLA, dass ihr nach einer halben Stunde reagieren müsst!"
@@ -101,6 +114,8 @@ Als externer Moderator kann ich den Raum schaffen, den interne Rollen oft nicht 
 
 ---
 
+{{< werbebox >}}
+
 ### Fazit: Konflikte lösen statt Prozesse blockieren
 
 SLAs sind kein Selbstzweck. Sie sind der Versuch, komplexe Erwartungen in konkrete Zusagen zu fassen. Wenn diese Zusagen nicht kommuniziert, verstanden oder intern abgesichert sind, entsteht Konflikt.
@@ -115,9 +130,7 @@ Und genau das kann man ändern – mit **systemischer Mediation**, strukturierte
 
 Sie möchten wissen, ob **Konfliktberatung**, **Mediation bei Firmenübergabe** oder **neutrale Moderation IT** in Ihrer Organisation helfen kann?
 
-👉 Dann buchen Sie Ihr kostenloses Erstgespräch auf
-[Calendly](https://calendly.com/sweti-mediator)
-
+👉 Dann buchen Sie Ihr kostenloses Erstgespräch auf **{{< extlink "https://calendly.com/mediator-sweti" >}}Calendly{{< /extlink >}}**   
 Ich freue mich darauf, mit Ihnen Klarheit zu schaffen – damit Ihre IT-Prozesse nicht nur technisch, sondern auch menschlich stabil laufen.
 
 👉 **Ausblick:** Im nächsten Beitrag dieser Reihe widmen wir uns den Herausforderungen im **Change Management** – und warum Prioritäten, Risiken und Verantwortung dort häufig aufeinanderprallen.

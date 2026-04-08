@@ -8,10 +8,19 @@ categories: ["Blog"]
 slug: zwischenraeume-wo-wandel-wirklich-passiert
 date: 2025-10-14
 draft: false
+image: zwischenraeume-wo-wandel-wirklich-passiert.png
+toc: true
 ---
 
 {{< metadescription >}}
 
+{{< smartimg
+  src="zwischenraeume-wo-wandel-wirklich-passiert.png"
+  alt="Zwischenräume – wo Wandel wirklich passiert"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Wenn der Kalender leer wird
 
@@ -183,5 +192,5 @@ Veränderung beginnt oft leise – mit einem Gefühl, dass etwas Altes endet und
 Wenn Sie solche Übergänge erleben, begleite ich Sie gerne dabei, den Zwischenraum bewusst zu gestalten:  
 mit Struktur, Haltung und Vertrauen in das, was wirkt.  
 
-👉 [Gespräch vereinbaren](https://calendly.com/sweti-mediator)  
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 

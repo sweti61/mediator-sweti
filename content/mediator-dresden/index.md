@@ -1,6 +1,7 @@
 ---
 title: "Mediator in Dresden – Mediation & Konfliktklärung"
 description: "Systemischer Mediator in Dresden und Sachsen. Familienmediation bei Pflege, Erbe, Nachbarschaft und Übergängen. Kostenloses Erstgespräch."
+summary: "Systemischer Mediator in Dresden und Sachsen. Familienmediation bei Pflege, Erbe, Nachbarschaft und Übergängen. Kostenloses Erstgespräch."
 slug: "mediator-dresden"
 url: "/mediator-dresden/"
 keywords:

@@ -6,18 +6,15 @@
 {{- $sizes := .Get "sizes" | default "(max-width: 900px) 100vw, 900px" -}}
 
 {{- with .Page.Resources.GetMatch $src -}}
-  {{- $img480  := .Resize "480x webp q80" -}}
-  {{- $img768  := .Resize "768x webp q80" -}}
+  {{- $img480 := .Resize "480x webp q80" -}}
+  {{- $img768 := .Resize "768x webp q80" -}}
   {{- $img1200 := .Resize (printf "%s webp q80" $size) -}}
+  {{- $srcset := printf "%s 480w, %s 768w, %s %dw" $img480.RelPermalink $img768.RelPermalink $img1200.RelPermalink $img1200.Width -}}
 
   <figure class="smartimg {{ $class }}">
     <img
       src="{{ $img1200.RelPermalink }}"
-      srcset="
-        {{ $img480.RelPermalink }} 480w,
-        {{ $img768.RelPermalink }} 768w,
-        {{ $img1200.RelPermalink }} {{ $img1200.Width }}w
-      "
+      srcset="{{ $srcset }}"
       sizes="{{ $sizes }}"
       width="{{ $img1200.Width }}"
       height="{{ $img1200.Height }}"

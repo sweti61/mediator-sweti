@@ -4,16 +4,27 @@ tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', '3 Grundgedan
 title = 'Der Verhandlungsgedanke in der Mediation'
 
 description = 'Verhandlung in der Mediation; Verhandlungsanalyse, Verhandlungsführung, Verhandlungsmanagement; Konfliktlösung; positionsbezogenem und sachbezogenem Verhandeln; Interessenausgleich, 3. Axioms von Watzlawick und seine Auswirkungen auf die Kommunikationsdynamik in Verhandlungen.'
+summary = 'Verhandlung in der Mediation; Verhandlungsanalyse, Verhandlungsführung, Verhandlungsmanagement; Konfliktlösung; positionsbezogenem und sachbezogenem Verhandeln; Interessenausgleich, 3. Axioms von Watzlawick und seine Auswirkungen auf die Kommunikationsdynamik in Verhandlungen.'
 
 keywords = ['Mediation', 'Verhandlung', 'Verhandlungsanalyse', 'Verhandlungsführung', 'Verhandlungsmanagement', 'Konfliktsoziologie', 'Interessenausgleich', 'Positionsbezogenes Verhandeln', 'Sachbezogenes Verhandeln', 'Win-Win-Situation', '3. Axiom von Watzlawick', 'Kommunikationsdynamik', 'Konfliktlösung', 'Verhandlungsprozess', 'Substanzebene', 'Prozessebene', 'Kooperative Verhandlung', 'Verhandlungstechniken', 'Konflikttransformation', 'Verhandlungsstrategien']
 
 date = 2024-07-11T09:59:08+02:00
 
 read_more_copy = 'Mehr über Verhandeln'
-
+url = "/post/verhandeln/"
+slug = "verhandeln"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+image = "verhandeln.png"
 +++
 
-![Verhandeln](/images/verhandeln.png)
+{{< smartimg
+  src="verhandeln.png"
+  alt="Verhandeln"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Der zweite Artikel unserer Reihe "3 Grundgedanken der Mediation" beschäftigt sich mit dem Verhandel. Es werden keine konkreten Methoden oder Prinzipien behandelt (das Harvard-Prinzip wird in einem gesonderten Blog-Post betrachtet), sondern es werden die grundlegenden Gedanken hinter dieser faszinierenden Tätigkeit dargestellt.
 
@@ -185,6 +196,8 @@ Jede Partei sieht sich als Opfer der Situation und gibt der anderen Partei die S
 **Kommunikationsdynamik:** Positionsbezogenes Verhandeln wird durch ein fehlerhaftes Verständnis der Kommunikationsdynamik erschwert. Jede Partei sieht ihre Reaktionen als gerechtfertigte Antwort auf das Verhalten der anderen Partei, was zu einem Teufelskreis von Aktionen und Reaktionen führt, die den Konflikt weiter verschärfen.
 
 **Verhandlungsergebnisse:** Die starre Haltung der Parteien und die fehlende Bereitschaft, die Perspektive der anderen Partei zu verstehen, führen oft zu suboptimalen Verhandlungsergebnissen oder sogar zum Scheitern der Verhandlungen.
+
+{{< werbebox >}}
 
 ## Fazit {#fazit}
 Verhandlungen sind ein wesentlicher Bestandteil der Mediation und spielen sich auf zwei Ebenen ab: der _Substanzebene_ und der _Prozessebene_. Während _positionsbezogenes Verhandeln_ oft zu Konfrontationen und festgefahrenen Situationen führt, zielt _sachbezogenes Verhandeln_ darauf ab, die zugrunde liegenden Interessen zu verstehen und kreative, kooperative Lösungen zu finden. Ein tiefes Verständnis der Kommunikationsdynamik, einschließlich der Interpunktion von Ereignisfolgen, ist entscheidend für erfolgreiche Verhandlungen und nachhaltige Konfliktlösungen. 

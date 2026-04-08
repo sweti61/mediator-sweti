@@ -11,8 +11,13 @@ description: "Wie der 3W-Sprechstil (Wahrnehmen – Wirkung – Wunsch) in Media
 
 {{< metadescription >}}
 
-{{< figure src="image.png">}}
-
+{{< smartimg
+  src="3w-sprechstil-modell.png"
+  alt="Vom Reagieren zum Gestalten"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Ich erinnere mich an eine Mediation zwischen Vater und Tochter.  
 Er stand kurz vor dem Ruhestand, sie wollte den Familienbetrieb übernehmen – mit neuen Ideen, die ihm fremd waren.  
@@ -201,4 +206,3 @@ So entsteht Verständigung – leise, aber tragfähig.
 
 Wenn Sie spüren, dass Gespräche ins Stocken geraten oder Worte nicht mehr verbinden – lassen Sie uns reden.  
 Mehr Gedanken und Praxisbeispiele finden Sie auf [mediator.sweti.de](https://mediator.sweti.de).  
-Für ein unverbindliches Kennenlernen: [Termin buchen](https://calendly.com/sweti-mediator) oder schreiben Sie an [mediator@sweti.de](mailto:mediator@sweti.de).

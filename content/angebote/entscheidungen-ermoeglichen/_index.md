@@ -38,6 +38,4 @@ Für Teams, Projektgruppen, Gremien oder Arbeitsgruppen in Organisationen, in de
 
 Sie möchten klären, ob dieses Angebot zu Ihrer Situation passt?
 
-[Jetzt kostenloses Erstgespräch buchen](https://calendly.com/sweti-mediator)
-
-[Oder schreiben Sie mir](mailto://mediator@sweti.de)
+{{< werbebox >}}

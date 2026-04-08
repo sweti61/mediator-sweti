@@ -6,17 +6,26 @@ keywords: ["Mediation", "Klärungsphase", "systemische Mediation", "Konfliktklä
 tags: ["mediation", "phasen-der-mediation"]
 categories: ["Mediation"]
 slug: klaerungsphase-p2-systemische-mediation
+url: "/post/klaerungsphase-p2-systemische-mediation/"
 date: 2025-06-17
 
 read_more_copy: 'Mehr zur Konflikte verstehen statt lösen'
 
 draft: false
+image: "klaerungsphase-p2-systemische-mediation.png"
+author: "Dr. Swetoslaw Beltschew"
+toc: true
 ---
 
 {{< metadescription >}}
 
-{{< figure src="klaerungsphase-p2-systemische-mediation.png">}}
-
+{{< smartimg
+  src="klaerungsphase-p2-systemische-mediation.png"
+  alt="Nachbarschaftskonflikt in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## 1. Worum geht es in P2?
 
@@ -176,7 +185,7 @@ Nutzen Sie die Klärungsphase bewusst als Reflexionsraum – und entdecken Sie, 
 Veränderung braucht Raum – kein Tempo.  
 Ich biete Ihnen ein kostenfreies Gespräch, um gemeinsam herauszufinden, was jetzt hilfreich wäre:
 
-🗓️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
+🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 
 Oder stöbern Sie weiter in meiner Blogreihe zu den vier Phasen der Mediation:  
 ➡️ [Zur Übersicht der Serie]({{<relref "/tags/phasen-der-mediation/">}})

@@ -2,6 +2,7 @@
 title: "Teams stärken in sozialen Einrichtungen, Pflege und Verwaltung"
 slug: "teams"
 description: "Begleitung für Teams in sozialen Einrichtungen, Pflege und Verwaltung bei Spannungen, Rollenunklarheiten und Veränderungsdruck – mit systemischer Klarheit, Moderation und Gesprächsführung."
+summary: "Begleitung für Teams in sozialen Einrichtungen, Pflege und Verwaltung bei Spannungen, Rollenunklarheiten und Veränderungsdruck – mit systemischer Klarheit, Moderation und Gesprächsführung."
 keywords: ["Teamberatung", "Teamkonflikte", "Moderation Teamgespräche", "Teamcoaching Pflege", "Klärung im Team", "Zusammenarbeit verbessern", "systemische Teamentwicklung"]
 categories: ["zielgruppen"]
 angebote: [

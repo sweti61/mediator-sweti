@@ -10,13 +10,19 @@ keywords =['Mediation', 'Change Management', 'Konflikte in IT-Projekten', 'Konfl
 date = 2025-04-16T10:38:34+02:00
 
 read_more_copy = 'Mehr über Change Management'
-
+slug = "change"
+url = "/post/change/"
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/change.png">}}
-
+{{< smartimg
+  src="change.png"
+  alt="Change Management ITIL"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Veränderung ist Alltag in der IT: Neue Releases, Updates, Cloud-Migrationen, Prozessanpassungen – wer IT-Services bereitstellt, muss sich ständig weiterentwickeln. Doch jede Änderung birgt Risiken. Besonders, wenn **Geschwindigkeit** und **Stabilität** in Konflikt geraten. Genau dort setzt das **Change Management** an.
 
@@ -99,7 +105,8 @@ Mein Ziel: Konflikte nicht vermeiden, sondern konstruktiv bearbeiten. 💬
 - Mediation bei Konflikten zwischen Projektteams und Betrieb
 - Kommunikationsberatung für Change-Verantwortliche
 - Inhouse-Seminare zur Klärung von Rollen und Schnittstellen
--  👉 Kostenloses Erstgespräch buchen: [https://calendly.com/sweti-mediator](https://calendly.com/sweti-mediator)
+
+{{< werbebox >}}
 
 ---
 

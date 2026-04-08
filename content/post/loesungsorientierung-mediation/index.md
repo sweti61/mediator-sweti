@@ -18,6 +18,7 @@ date: 2025-07-30
 read_more_copy: 'Mehr zur Lösungsorientierte Arbeit'
 image: "loesungsorientierung-mediation.png"
 draft: false
+author: "Dr. Swetoslaw Beltschew"
 ---
 {{< metadescription >}}
 
@@ -135,4 +136,4 @@ Sie ergänzt die mediativen Grundideen und kann gerade in eskalierten oder stagn
 👉 Du begleitest Konflikte in Organisationen, Teams oder Führungskontexten?  
 Ich unterstütze dich gerne bei der systemischen Gestaltung von Verständigung und Umsetzung.  
  
-🗓️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Kostenfreies Erstgespräch buchen{{< /extlink >}}** 
+🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Kostenfreies Erstgespräch buchen{{< /extlink >}}** 

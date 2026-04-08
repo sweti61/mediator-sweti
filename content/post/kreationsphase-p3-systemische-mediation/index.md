@@ -5,17 +5,26 @@ summary: "Die Kreationsphase der Mediation öffnet Möglichkeitsräume für Ents
 keywords: ["Mediation", "Kreationsphase", "systemische Mediation", "Harvard-Konzept", "Lösungsentwicklung", "Entscheidungsprozesse"]
 tags: ["mediation", "phasen-der-mediation"]
 categories: ["blog"]
-slug: kreationsphase-moeglichkeitsraeume
+slug: kreationsphase-p3-systemische-mediation
+url: "/post/kreationsphase-p3-systemische-mediation/"
 date: 2025-06-25
 
 read_more_copy: 'Mehr zur Kreationsphase in der Mediation'
 
+author: "Dr. Swetoslaw Beltschew"
 draft: false
+image: "kreationsphase-p3-systemische-mediation.png"
 ---
 
 {{< metadescription >}}
 
-{{< figure src="kreationsphase-p3-systemische-mediation.png">}}
+{{< smartimg
+  src="kreationsphase-p3-systemische-mediation.png"
+  alt= "Kreationsphase in der Mediation"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 ## Kreationsphase – Möglichkeitsräume gestalten statt Kompromisse suchen
@@ -71,4 +80,4 @@ Die Kreationsphase ist mehr als ein pragmatischer Schritt zur Einigung. Sie ist 
 Veränderung braucht Raum – kein Tempo.  
 Ich biete Ihnen ein kostenfreies Gespräch, um gemeinsam herauszufinden, was jetzt hilfreich wäre:
 
-🗓️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🗓️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   

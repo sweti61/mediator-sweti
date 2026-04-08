@@ -9,11 +9,22 @@ keywords = ['Konfliktmanagement', 'ITIL', 'Konflikte in IT-Projekten', 'ITIL-Kom
 
 read_more_copy = 'Konflikte in der IT'
 date = 2025-03-25T14:28:21+02:00
+url = "/post/konflikte-itsm/"
+slug = "konflikte-itsm"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/konflikt-itsm.png">}}
+{{< smartimg
+  src="konflikt-itsm.png"
+  alt="Wenn Prozesse blockieren"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 *Warum es in der IT nicht nur um Technik geht – und was neutrale Konfliktklärung bewirken kann*
 
@@ -72,6 +83,8 @@ Ein externer Konfliktmoderator oder eine neutrale, konfliktkompetente Begleitung
 
 Und vor allem: **den Raum öffnen, den interne Rollen oft nicht bieten können**.
 
+{{< werbebox >}}
+
 ## Konfliktmanagement ist kein Luxus – sondern Effizienzfaktor
 
 Viele Führungskräfte und Projektverantwortliche zögern, einen Konflikt offen anzusprechen. Zu groß ist die Sorge, etwas „hochzukochen“.\
@@ -95,7 +108,7 @@ Dabei zeigen wir, wie **strukturierte, neutrale Moderation** nicht nur Probleme 
 Wenn Sie gerade merken, dass in Ihrem Team, Projekt oder Prozess etwas festgefahren ist – lassen Sie uns ins Gespräch kommen.
 
 👥 **Buchen Sie ein kostenloses, unverbindliches Erstgespräch:**\
-👉 [Termin aud Calendly buchen](https://calendly.com/sweti-mediator "Calendly")
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**
 
 Ich begleite Sie mit Fachverstand, Systemblick und ruhiger Hand – damit Konflikte nicht länger blockieren, sondern Entwicklung ermöglichen.
 

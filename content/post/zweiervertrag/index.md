@@ -5,17 +5,27 @@ tags = ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", 
 title = "Zweierverträge in der Transaktionsanalyse: Klarheit, Vertrauen und Selbstverantwortung"
 
 description = "Zweierverträge in der Transaktionsanalyse schaffen die Grundlage für gelingende Beratung, Coaching und Mediation. Erfahre, wie TA-Verträge Struktur und Beziehung bewusst gestalten."
+summary = "Zweierverträge in der Transaktionsanalyse schaffen die Grundlage für gelingende Beratung, Coaching und Mediation. Erfahre, wie TA-Verträge Struktur und Beziehung bewusst gestalten."
 
 keywords = ["Zweiervertrag TA", "Transaktionsanalyse Beratung", "TA Mediation", "Vertragsarbeit Coaching", "psychologische Verträge"]
 
 date = 2025-05-18T09:47:17+02:00
 
 read_more_copy = 'Mehr über der Zweiervertrag'
-
 draft = false
+image ='zweiervertrag.png'
+author ="Dr. Swetoslaw Beltschew"
 +++
 
-{{< figure src="/images/zweiervertrag.png">}}
+
+{{< smartimg
+  src="zweiervertrag.png"
+  alt="Zweierverträge in der Transaktionsanalyse"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Klare Vereinbarungen für gelingende Beratung und Mediation
 
@@ -90,7 +100,6 @@ Zweierverträge sind weit mehr als „Formalitäten“. Sie sind **psychologisch
 **Sie möchten dieses Modell in Ihrer Mediation oder Beratung nutzen?**  
 Dann nehmen Sie gerne Kontakt auf – ich biete ein kostenfreies Erstgespräch an, um gemeinsam zu klären, wie ich Sie unterstützen kann.
 
-[Jetzt Erstgespräch vereinbaren]("https://calendly.com/sweti-mediator")
 
 **Weiterlesen:** [Dreiervertrag in der TA – Systemisches Aushandeln von Verantwortung]({{<  relref "/post/dreiervertrag.md" >}})
 

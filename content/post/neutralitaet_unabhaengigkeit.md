@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Meiationsprinzipien', 'MediationsG']
+tags = ['Mediation', 'Konfliktmanagement', 'Mediationsprinzipien', 'MediationsG']
 title = 'Neutralität, Unabhängigkeit und Allparteilichkeit als Grundmerkmale der Mediation'
 
 description = 'Entdecken Sie die zentralen Prinzipien der Mediation: Neutralität, Unabhängigkeit und Allparteilichkeit. Erfahren Sie, wie sie faire und ausgewogene Konfliktlösungen ermöglichen und Vertrauen schaffen.'

@@ -17,11 +17,19 @@ date: 2025-06-26
 read_more_copy: 'Mehr zur Konflikte umsetzen statt abhaken'
 
 draft: false
+image: "p4-umsetzungsphase-systemisch.png"
+author: "Dr. Swetoslaw Beltschew"
 ---
 
 {{< metadescription >}}
 
-{{< figure src="p4-umsetzungsphase-systemisch.png">}}
+{{< smartimg
+  src="p4-umsetzungsphase-systemisch.png"
+  alt="Konflikte umsetzen statt abhaken"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 ## Zwischen Abschluss und Aufbruch: Die Umsetzungsphase (P4) in der systemischen Mediation
@@ -153,7 +161,7 @@ Das Harvard-Prinzip der objektiven Kriterien kann in dieser Phase helfen, eine g
 👉 Du begleitest Konflikte in Organisationen, Teams oder Führungskontexten?  
 Ich unterstütze dich gerne bei der systemischen Gestaltung von Verständigung und Umsetzung.  
  
-🗓️ **{{< extlink "https://calendly.com/sweti-mediator" >}}Kostenfreies Erstgespräch buchen{{< /extlink >}}**   
+🗓️ **{{< extlink "https://calendly.com/mediator-sweti">}}Kostenfreies Erstgespräch buchen{{< /extlink >}}**   
  
  
 Oder lies mehr zur [Klärungsphase (P2)]({{< relref "/post/klaerungsphase-p2-systemische-mediation/">}}) und [Kreationsphase (P3)]({{< relref "/post/kreationsphase-p3-systemische-mediation">}})
