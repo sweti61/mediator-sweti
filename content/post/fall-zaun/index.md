@@ -1,9 +1,10 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'fallgeschichten']
+tags = ['Mediation', 'fallgeschichten', 'Nachbarschaftskonflikt']
 
 title = "Ein Zaun zu viel – Wenn Nachbarn sich trennen (und wiederfinden)"
 description = "Wie ein blickdichter Holzzaun zum Auslöser eines Nachbarschaftskonflikts wurde – und wie Mediation half, das Miteinander zu retten. Eine wahre Geschichte über Nähe, Abstand und Verständigung."
+summary = "Wie ein blickdichter Holzzaun zum Auslöser eines Nachbarschaftskonflikts wurde – und wie Mediation half, das Miteinander zu retten. Eine wahre Geschichte über Nähe, Abstand und Verständigung."
 keywords = [
   "Mediation",
   "Nachbarschaftskonflikt",
@@ -22,6 +23,11 @@ keywords = [
 date = 2025-05-04T15:14:58+02:00
 
 read_more_copy = 'Mehr über ein Zaun zu viel'
+url = "/post/fall-zaun/"
+slug = "fall-zaun"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+
 +++
 
 Manchmal reicht ein bisschen Holz, um Welten voneinander zu trennen. In unserem heutigen Fall war es ein **blickdichter Holzzaun**, der zwei Nachbarn – Frau Krämer und Herrn Becker – auf Distanz brachte. Und das im wahrsten Sinne des Wortes.
@@ -57,6 +63,8 @@ Ab da war plötzlich Bewegung drin. Die Lösung:
 - Der Zaun blieb – aber wurde **teilweise durchlässig** gestaltet.  
 - Es gab eine **gemeinsame Pflanzaktion** entlang der Grenze.  
 - Und man einigte sich auf einen kleinen, aber feinen **Nachbarschafts-Stammtisch** alle sechs Wochen.
+
+{{< werbebox >}}
 
 ## Was wir daraus lernen können
 

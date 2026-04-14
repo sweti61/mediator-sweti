@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'fallgeschichten', 'Dienstleistungen']
+tags = ['Mediation', 'fallgeschichten', 'Dienstleistungen', 'Nachbarschaftskonflikt']
 title = 'Konfliktbearbeitung in Studenten-Wohngemeinschaften'
 description = 'Dienstleistungen zur Konfliktbearbeitung in Studenten-Wohngemeinschaften; Konflikte effektiv zu lösen'
 summary = "Konflikte in Studenten-WGs entstehen schnell – aus Alltagsthemen wie Sauberkeit, Lärm oder Kommunikationsproblemen. Mediation, Konfliktberatung, Moderation und präventive Workshops helfen, das Zusammenleben nachhaltig zu verbessern und eine offene, respektvolle Wohnatmosphäre zu schaffen."
@@ -10,7 +10,15 @@ date = 2024-06-19T12:55:23+02:00
 url='/post/mediation-wg/'
 slug='mediation-wg'
 +++
-{{< figure src="/images/mediation-wg.png">}}
+
+{{< smartimg
+  src="mediation-wg.png"
+  alt="Konfliktbearbeitung in Studenten-WGs"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 Unsere Dienstleistungen zur _Konfliktbearbeitung in Studenten-Wohngemeinschaften_ zielen darauf ab, ein harmonisches Zusammenleben zu fördern und Konflikte effektiv zu lösen. Wir nutzen dabei verschiedene Methoden, einschließlich Mediation, um den Bedürfnissen der Bewohner gerecht zu werden.
 
@@ -37,6 +45,9 @@ Mitbewohner können verschiedene Anzeichen wahrnehmen, dass sie Unterstützung b
 
 5. **[Restorative Justice]({{< ref "post/toa">}} "Täter-Opfer-Ausgleich")**:
    - Ein prozessorientierter Ansatz, bei dem alle betroffenen Parteien zusammenarbeiten, um den entstandenen Schaden zu identifizieren und zu beheben.
+
+{{< werbebox >}}
+
 
 #### Warum unsere Dienste in Anspruch nehmen?
 Unsere Dienstleistungen sind darauf ausgelegt, die Lebensqualität in WGs zu verbessern, indem sie eine offene und konstruktive Kommunikation fördern und Konflikte nachhaltig lösen. Durch unsere Unterstützung können WG-Bewohner:

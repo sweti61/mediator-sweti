@@ -1,6 +1,6 @@
 +++
 categories = ['Blog', 'Medaition']
-tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
+tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen', 'Nachbarschaftskonflikt']
 title = 'Mediation in Nachbarschaft und Wohnungswirtschaft'
 description = 'Nachbarschaftsstreitigkeiten; Konflikte zu klären und ein friedliches Zusammenleben zu fördern.'
 summary = "Nachbarschaftskonflikte entstehen oft aus Missverständnissen, Erwartungen und unausgesprochenen Bedürfnissen. Dieser Beitrag zeigt typische Ursachen, erklärt das Eisbergmodell und beschreibt, wie Mediation in Nachbarschaft und Wohnungswirtschaft zu tragfähigen, alltagstauglichen Lösungen beitragen kann."
@@ -10,8 +10,18 @@ slug='nachbarschaft'
 read_more_copy = 'Mehr über die Nachbarschaftskonflikte'
 
 draft = false
+author = "Dr. Swetoslaw Beltschew"
 +++
-{{< figure src="/images/nachbarschaft.png">}}
+
+
+{{< smartimg
+  src="nachbarschaft.png"
+  alt="Nachbarschaftskonflikt in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 _Nachbarschaftsstreitigkeiten_ können das tägliche Leben erheblich belasten. Wir helfen dabei, solche [Konflikte]({{<ref "post/konflikte">}} "Warum entstehen Konflikte?") zu klären und ein friedliches Zusammenleben zu fördern.
 
@@ -135,6 +145,9 @@ Ein [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Med
 - **Gemeinsame Lösungssuche:** Der [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") fördert die Zusammenarbeit der Parteien, um gemeinsam kreative und praktische Lösungen zu finden.
 
 Diese Methoden sind effektiv, weil sie den Parteien ermöglichen, ihre Sichtweisen und Bedürfnisse auszudrücken und zu verstehen. Durch die strukturierte und respektvolle Gesprächsführung wird eine positive Atmosphäre geschaffen, in der beide Seiten bereit sind, Kompromisse einzugehen und eine Lösung zu finden.
+
+{{< werbebox >}}
+
 
 **Fazit**
 
