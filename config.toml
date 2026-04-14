@@ -3,7 +3,7 @@ baseURL = "https://mediator.sweti.de/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 
-title = "Mediator Dresden | Systemische Konfliktlösung – Sweti Beltschew"
+title = "Systemische Konfliktlösung"
 description = "Professionelle Mediation in Dresden und Sachsen. Systemischer Mediator Sweti Beltschew hilft bei Familien-, Unternehmens- und Nachbarschaftskonflikten. Jetzt Termin anfragen."
 
 theme =  'ananke'

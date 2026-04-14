@@ -5,6 +5,7 @@ tags = ['Mediation', 'Konfliktmanagement']
 title = 'Marktpositionierung Mediator in Dresden'
 
 description = 'Ich verbinde Mediation, Coaching und Beratung mit systemischer Haltung – für Organisationen, soziale Einrichtungen und Privatpersonen in Dresden & Sachsen.'
+summary = 'Ich verbinde Mediation, Coaching und Beratung mit systemischer Haltung – für Organisationen, soziale Einrichtungen und Privatpersonen in Dresden & Sachsen.'
 
 keywords =['Mediator Dresden', 'systemische Mediation', 'Organisationsmediation', 'Konflikte lösen', 'Konfliktberatung', 'Coaching Dresden', 'ITIL Konflikte', 'Mediation Pflege', 'Konfliktlösung', 'Mediation bei Firmenübergabe', 'Kommunikation verbessern', 'Moderation im Kollegium', 'Konfliktmanagement ITIL']
 
@@ -13,6 +14,9 @@ date = 2025-04-16T12:58:42+02:00
 read_more_copy = 'Mehr über Marktpositionierung'
 image="position.png"
 author= "Dr. Swetoslaw Beltschew"
+slug= "position"
+url= "/post/position/"
+
 +++
 
 {{< smartimg
