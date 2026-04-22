@@ -1,8 +1,16 @@
-<!-- Open Graph -->
-<meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/og-default.jpg" | absURL }}{{ end }}" />
-
-<!-- Twitter -->
-<meta name="twitter:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ "images/og-default.jpg" | absURL }}{{ end }}" />
+<!-- Open Graph und Twitter  -->
+{{ with .Params.image }}
+  {{ with $.Resources.GetMatch . }}
+    <meta property="og:image" content="{{ .Permalink }}" />
+    <meta name="twitter:image" content="{{ .Permalink }}" />
+  {{ else }}
+    <meta property="og:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+  {{ end }}
+{{ else }}
+  <meta property="og:image" content="{{ "/images/og-default.jpg" | absURL }}" />
+  <meta name="twitter:image" content="{{ "/images/og-default.jpg" | absURL }}" />
+{{ end }}
 
 
 {{ if eq hugo.Environment "production" }}
@@ -180,4 +188,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Keywords -->
 {{ with .Params.keywords }}
 <meta name="keywords" content="{{ delimit . ", " }}">
+{{ end }}
+
+<!-- noindex -->
+{{ $noindex := false }}
+
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+  {{ $noindex = true }}
+{{ end }}
+
+{{ if eq .Section "leadmagnets" }}
+  {{ $noindex = true }}
+{{ end }}
+
+{{ with .Params.noindex }}
+  {{ if . }}
+    {{ $noindex = true }}
+  {{ end }}
+{{ end }}
+
+{{ if $noindex }}
+<meta name="robots" content="noindex, follow">
 {{ end }}

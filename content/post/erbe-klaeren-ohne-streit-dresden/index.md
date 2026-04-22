@@ -40,6 +40,11 @@ Ein Satz, der sachlich gemeint ist – und doch spürbar Spannung in den Raum br
 
 Viele Familien erleben genau an dieser Stelle, wie schnell ein Gespräch über Erbe emotional wird. Und wie rasch aus einer organisatorischen Frage ein Beziehungskonflikt entstehen kann.
 
+Schwierige Gespräche in der Familie entstehen oft nicht erst bei solchen Themen, sondern entwickeln sich über längere Zeit.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+
+
 ## Warum Erbstreit selten nur mit Geld zu tun hat
 
 Wenn es um Erbe geht, denken viele zuerst an Zahlen. Tatsächlich geht es jedoch meist um etwas anderes:
@@ -86,6 +91,10 @@ Gerade dieser Zeitdruck verschärft Konflikte. Was lange ungeklärt blieb, muss 
 
 Frühzeitige Gespräche schaffen dagegen Spielraum.
 
+Auch in anderen familiären Situationen zeigen sich ähnliche Muster:
+
+→ [Pflegegespräch vorbereiten – Familiengespräche zur Pflege strukturieren]({{< relref "/post/pflegegespraech-vorbereiten-dresden/" >}})
+
 ## Erbe klären ohne Streit: Was konkret hilft
 
 Ein friedliches Erbgespräch beginnt nicht mit Paragrafen, sondern mit Haltung.
@@ -126,7 +135,8 @@ Gerade im Raum Dresden begleite ich Familien in solchen Situationen – ruhig, s
 
 Ziel ist nicht, jemanden zu überzeugen. Ziel ist Klarheit und eine tragfähige Vereinbarung, die von allen mitgetragen wird.
 
-→ [Zum Angebot: Erbschaftsstreit-Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})
+→ [Erbschaftsstreit-Mediation in Dresden – Konflikte rund ums Erbe strukturiert klären]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/" >}})
+
 
 ## Früh sprechen – später Frieden bewahren
 
@@ -137,10 +147,19 @@ Je klarer der Rahmen, desto geringer das Eskalationsrisiko.
 
 Viele Konflikte lassen sich vermeiden, wenn Vermögensfragen nicht tabuisiert, sondern respektvoll besprochen werden.
 
-Wenn Sie überlegen, ein solches Gespräch in Ihrer Familie anzustoßen oder zu begleiten, können wir in einem unverbindlichen Vorgespräch klären, welcher Rahmen sinnvoll ist.
+Wenn Sie merken, dass dieses Thema in Ihrer Familie eine Rolle spielt,  
+lassen Sie uns darüber ins Gespräch kommen.
 
-👉 **{{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}**
+Wenn Sie mehr Klarheit wünschen,  
+können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 
+👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+
+## Mehr Orientierung zu schwierigen Gesprächen
+
+Wenn Sie sich einen Überblick über typische Dynamiken in Familien verschaffen möchten:
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und Wege zur Klärung]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
 
 ---
 

@@ -9,6 +9,7 @@ description: "Vereinbaren Sie eine Konfliktlösungssitzung mit Sweti und finden 
 #     weight: 200
 
 type: page
+noindex: true
 
 ---
 

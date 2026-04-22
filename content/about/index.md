@@ -4,9 +4,11 @@ description: "ausgebildeter Mediator nach MediationsG und systemischer Berater i
 featured_image: ''
 omit_header_text: true
 type: page
+noindex: true
+
 ---
 
-{{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew" class="mein-bild" >}}
+{{< figure src="Ueber_mich4.png" title="Dr. Swetoslaw Beltschew, Mediator in Dresden"  alt="Dr. Swetoslaw Beltschew, Mediator in Dresden" class="mein-bild" >}}
 
 
 

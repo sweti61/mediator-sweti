@@ -56,15 +56,25 @@ enableEmoji = true
 # Params für Ananke Theme
 
 [params]
-  author = "Mediator Sweti"
-  favicon = "favicon-32x32.png"  
-  site_logo = "images/Sweti_Mediator_Logo_100x100.png"
+author = "Mediator Sweti"
+favicon = "favicon-32x32.png"  
+site_logo = "images/Sweti_Mediator_Logo_100x100.png"
+
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  text_color = "mid-gray"
-  recent_posts_number = 3
-  cover_dimming_class = "bg-black-70"
-  googleMapsApiKey = "AIzaSyB-ExsHpwFOby3DWnnHx_0dE-V-u3M-HOE"
+
+# background_color_class = "bg-black"
+# text_color = "mid-gray"
+cover_dimming_class = "bg-black-30"
+
+body_classes = "bg-near-white"
+text_color = "dark-gray"
+background_color_class = "bg-dark-gray"
+featured_image_class = "cover bg-center"
+# cover_dimming_class = "bg-white-10"
+post_content_classes = "lato" 
+
+recent_posts_number = 3
+googleMapsApiKey = "AIzaSyB-ExsHpwFOby3DWnnHx_0dE-V-u3M-HOE"
 
 
 [params.ananke.social]
@@ -115,6 +125,12 @@ enableEmoji = true
 
 # Menüeinstellungen
 [menu]
+
+   [[menu.main]]
+	 identifier = "themen"
+	 name = "Themen"
+	 url = "/themen/"
+	 weight = 1
 
   [[menu.main]]
 	identifier = "dienstleistungen"

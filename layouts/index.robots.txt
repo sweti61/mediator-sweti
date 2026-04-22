@@ -3,6 +3,7 @@ User-agent: *
 # Hinweis: Diese Version ist für produktive Umgebungen
 Allow: /
 Disallow: /admin/
+Disallow: /search/
 # Sitemap-Hinweis für alle Crawler
 Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
 # Google spezifisch

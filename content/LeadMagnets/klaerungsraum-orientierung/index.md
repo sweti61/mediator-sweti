@@ -13,6 +13,8 @@ author: "Swetoslaw Beltschew"
 draft: false
 
 toc: true
+noindex: true
+
 ---
 {{< figure src="image.png">}}
 

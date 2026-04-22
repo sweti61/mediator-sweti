@@ -15,6 +15,7 @@ keywords:
   - "außergerichtliche Einigung Dresden"
   - "systemischer Mediator Dresden"
 featured_image: "mediator-dresden.png"
+image: "mediator-dresden.png"
 toc: true
 date: 2026-02-28
 lastmod: 2026-03-22
@@ -39,9 +40,15 @@ Als **systemischer Mediator und Konfliktberater in Dresden** begleite ich Mensch
 
 Wenn Gespräche nicht mehr möglich scheinen, schaffe ich einen strukturierten, geschützten Rahmen. Ziel ist nicht Sieg oder Niederlage – sondern Klarheit, Verständigung und tragfähige Lösungen.
 
+Viele Konflikte haben ähnliche Muster – unabhängig vom konkreten Thema.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})  
+→ [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
 Ich arbeite in **Dresden und im Umkreis von 50 km** – u. a. in Radebeul, Freital, Pirna und Meißen.
 
-👉 {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
+👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
 
 ---
 
@@ -58,6 +65,14 @@ Als Mediator in Dresden unterstütze ich Sie dabei,
 
 Mediation ist freiwillig, vertraulich und ergebnisoffen. Sie ersetzt keinen Rechtsanwalt – kann aber helfen, gerichtliche Auseinandersetzungen zu vermeiden oder vorzubereiten.
 
+Wenn Sie sich zunächst orientieren möchten, welche Dynamiken hinter Konflikten stehen:
+
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
+Wenn Sie sich eher in familiären Gesprächsdynamiken wiederfinden:
+
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
+
 ---
 
 ## Wann ich Sie als Mediator in Dresden unterstütze
@@ -72,6 +87,14 @@ Mediation ist freiwillig, vertraulich und ergebnisoffen. Sie ersetzt keinen Rech
 → [Beziehungs- und Familiengespräche in Dresden]({{< relref "/angebote/beziehungs-und-familiengespraeche/">}})   
 → [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})   
 → [Konfliktklärung vorbereiten]({{< relref "/angebote/konfliktklaerung-vorbereiten/">}})   
+
+Typische Gesprächsdynamiken in Familien:
+
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+
+Zur Einordnung typischer Dynamiken:
+
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
 
 ---
 
@@ -89,6 +112,14 @@ Ich begleite Gespräche bei:
 → [Gespräche bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})   
 → [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/">}})   
 
+Zur Einordnung typischer Situationen:
+
+→ [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})
+
+Konkrete Gesprächssituationen:
+
+→ [Pflegegespräch vorbereiten]({{< relref "/post/pflegegespraech-vorbereiten-dresden/" >}})
+
 ---
 
 ## Erbstreit und Nachlasskonflikte
@@ -100,6 +131,10 @@ Wenn Vermögensfragen ungeklärt bleiben, entstehen häufig langjährige Konflik
 - Lösungen zu entwickeln, die Beziehungen nicht dauerhaft zerstören
 
 → [Erbschaftsstreit klären – Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})
+
+Typische Dynamiken bei Erbkonflikten:
+
+→ [Erbe klären ohne Streit]({{< relref "/post/erbe-klaeren-ohne-streit-dresden/" >}})
 
 ---
 
@@ -113,11 +148,23 @@ Insbesondere in Wohnanlagen oder Mehrfamilienhäusern entstehen Konflikte durch:
 
 → [Nachbarschaftskonflikt in Dresden klären – Mediation statt Gericht]({{< relref "/nachbarschaftskonflikt-mediation-dresden/">}})
 
+Wann Mediation sinnvoll ist – und wann andere Wege besser sind:
+
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
+Wann Mediation sinnvoll ist – und wann nicht:
+
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
 ---
 
 ## Wie läuft eine Mediation ab?
 
 {{< customerjourney >}}
+
+Wenn Sie sich zunächst selbst orientieren möchten:
+
+→ [Impulse und Leitfäden für schwierige Gespräche herunterladen]({{< relref "/leadmagnets/" >}})
 
 ---
 
@@ -184,12 +231,22 @@ Ich bin Dr. Swetoslaw Beltschew, systemischer Mediator und Konfliktberater in Dr
 Meine Arbeitsweise ist ruhig, strukturiert und klar – mit Fokus auf nachhaltige Lösungen.
 
 → [Über mich]({{< relref "/about/">}})   
-→ [Google Business Profil ansehen](https://g.page/mediator-sweti)   
+→ {{< extlink "https://calendly.com/mediator-sweti">}}Google Business Profi {{< /extlink >}}   
 
 Jetzt kostenloses Erstgespräch vereinbaren:  
 📞 Telefon: 0163 803 5634   
 📧 E-Mail: mediator@sweti.de   
-📅 {{< extlink "https://calendly.com/mediator-sweti">}}Online-Termin buchen{{< /extlink >}}
+📅 {{< extlink "https://calendly.com/mediator-sweti">}}Online-Termin buchen{{< /extlink >}}   
 📩 [Kontaktformular]({{< relref "/contact/">}})   
+
+---
+
+## Mehr Orientierung
+
+Wenn Sie Ihre Situation zunächst einordnen möchten:
+
+→ [Schwierige Gespräche in der Familie]({{< relref "/themen/schwierige-gespraeche-familie/" >}})  
+→ [Wenn Eltern älter werden]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
+→ [Mediation verstehen]({{< relref "/themen/mediation-verstehen/" >}})
 
 {{< cta-link url="/" text="Zurück zur Startseite" >}}

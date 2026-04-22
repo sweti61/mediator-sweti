@@ -12,7 +12,6 @@ keywords:
   - "Pflegemediation Dresden"
   - "Mediator pflegende Angehörige Dresden"
   - "Familienkonflikt Pflege Dresden"
-featured_image: "pflegende-angehoerige-dresden.png"
 tags:
   - Pflege
   - FAQ
@@ -26,6 +25,10 @@ type: "Seite"
 toc: true
 noindex: false
 draft: false
+
+featured_image: "pflegende-angehoerige-dresden.png"
+image: "pflegende-angehoerige-dresden.png"
+
 ---
 
 Wer pflegt Mama, wenn du arbeitest? Dein Bruder meldet sich kaum noch. Du bist erschöpft und hast das Gefühl, allein damit zu sein. Und wenn die Familie zusammenkommt, endet es im Streit.
@@ -35,6 +38,11 @@ Pflegekonflikte entstehen selten aus bösem Willen. Sie entstehen, weil Rollen n
 Als Mediator in Dresden begleite ich pflegende Angehörige und ihre Familien dabei, genau diese Gespräche wieder möglich zu machen.
 
 Ich unterstütze erwachsene Kinder, die die Pflege ihrer Eltern koordinieren und damit oft alleine gelassen sind.
+
+Pflegekonflikte entstehen selten isoliert, sondern sind Teil größerer familiärer Dynamiken.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})  
+→ [Wenn Eltern älter werden – Orientierung für Angehörige bei Pflege und Entscheidungen]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})
 
 ---
 
@@ -54,6 +62,11 @@ Wann ist zu Hause nicht mehr möglich? Wer entscheidet das – und wie wird die 
 **Konflikte mit Pflegediensten oder Einrichtungen**
 Wenn Erwartungen und Realität auseinanderfallen und die Kommunikation mit dem Pflegedienst oder der Einrichtung nicht funktioniert, kann Mediation zwischen Familie und Institution vermitteln.
 
+Weitere typische Konfliktdynamiken:
+
+→ [Erbe klären ohne Streit – wenn Vermögensfragen Beziehungen belasten]({{< relref "/post/erbe-klaeren-ohne-streit-dresden/" >}})  
+→ [Kontaktabbruch in der Familie verstehen – Dynamiken und Wege zur Klärung]({{< relref "/post/kontaktabbruch-familie-verstehen/" >}})
+
 → [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})
 
 ---
@@ -61,6 +74,12 @@ Wenn Erwartungen und Realität auseinanderfallen und die Kommunikation mit dem P
 ## Wie Mediation bei Pflegekonflikten funktioniert
 
 {{< customerjourney >}}
+
+Wenn Sie sich zunächst orientieren möchten, ohne direkt ein Gespräch zu führen:
+
+→ [Impulse und Leitfäden für schwierige Gespräche herunterladen]({{< relref "/leadmagnets/" >}})
+
+
 
 ---
 
@@ -116,12 +135,12 @@ Ja. Gerade bei Distanzpflege – wenn Familienmitglieder in verschiedenen Städt
 | Ihre Situation | Passendes Angebot |
 |---|---|
 | Pflegekonflikt eskaliert, Gespräche allein nicht mehr möglich | Mediation – diese Seite |
-| Konkrete Fragen zu Pflege, Erbe und Übergängen klären | [Mediation bei Pflege, Erbe und Übergang](/angebote/mediation-bei-pflege-erbe-uebergang-dresden/) |
-| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Elder Mediation in Dresden](/angebote/elder-mediation/) |
-| Präventiv sprechen, bevor Konflikt eskaliert | [Familiengespräche bei Pflege und Übergang](/angebote/klarkommen-generationen/) |
-| Generationenkonflikt über Pflege und Familienrollen | [Familienkonflikt zwischen den Generationen](/angebote/familienkonflikt-generationen-dresden/) |
-| Ich bin überlastet und brauche Raum für mich | [Ruhe schaffen – für pflegende Angehörige](/angebote/ruhe-schaffen/) |
-| Pflegeverantwortung im Familienkreis reflektieren | [Pflegesituation klären – Entlastung für pflegende Angehörige](/angebote/pflege-reflektieren/) |
+| Konkrete Fragen zu Pflege, Erbe und Übergängen klären | [Mediation bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
+| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/" >}}) |
+| Präventiv sprechen, bevor Konflikt eskaliert | [Familiengespräche bei Pflege und Übergang]({{< relref "/angebote/klarkommen-generationen/" >}}) |
+| Generationenkonflikt über Pflege und Familienrollen | [Familienkonflikt zwischen den Generationen]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}}) |
+| Ich bin überlastet und brauche Raum für mich | [Ruhe schaffen – für pflegende Angehörige]({{< relref "/angebote/ruhe-schaffen/" >}}) |
+| Pflegeverantwortung im Familienkreis reflektieren | [Pflegesituation klären – Entlastung für pflegende Angehörige]({{< relref "/angebote/pflege-reflektieren/" >}}) |
 {class="UserTable"}
 
 ---
@@ -132,10 +151,25 @@ Sie leben in Dresden oder Umgebung und erkennen Ihre Situation wieder? Im kosten
 
 **Telefon:** +49 163 8035634   
 **E-Mail:** mediator@sweti.de   
-**Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}   
 
-→ [Zur Kontaktseite](/contact/)
+Wenn Sie merken, dass Sie in dieser Situation feststecken,  
+kann ein ruhiger Blick von außen entlasten.
+
+Wenn Sie mehr Klarheit wünschen,  
+können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
+
+→ [Zur Kontaktseite]({{< relref "/contact/" >}})   
+👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}   
 
 ---
+
+## Mehr Orientierung zu Pflegekonflikten
+
+Pflegekonflikte sind oft Teil größerer familiärer Dynamiken.
+
+→ [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+
+--
 
 *Weitere Informationen: [Was ist Mediation?]({{< relref "/post/was-ist-mediation-mediator-dresden/">}}) · [Wie arbeite ich?]({{< relref "/post/wie-arbeitet-der-mediator-dresden/">}}) · [Über mich]({{< relref "/about/">}})*

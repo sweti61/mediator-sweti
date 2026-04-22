@@ -11,7 +11,7 @@ images = ["/testimoni/testimoni3/thomas-s.png"]
 
 +++
 
-{{< figure src="thomas-s.png" class="mein-bild" >}}
+{{< figure src="thomas-s.png" title="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" alt="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" class="mein-bild" >}}
 
 "Durch die Mediationssitzungen mit Sweti konnten mein Team und ich festgefahrene Konflikte am Arbeitsplatz überwinden und unsere Zusammenarbeit verbessern. Swetis ruhige und professionelle Art half uns, offen über unsere Bedenken zu sprechen und gemeinsam Lösungen zu entwickeln. Die Workshops zur Konfliktbewältigung waren äußerst informativ und praxisnah. Wir sind dankbar für Swetis Unterstützung und würden seine Dienste jedem empfehlen, der nach einer konstruktiven Lösung für Konflikte sucht."
 

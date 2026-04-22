@@ -1,5 +1,5 @@
 +++
-title = '👥 Unsere Zielgruppen'
+title = 'Unsere Zielgruppen'
 
 description = "Finde heraus, ob mein Angebot zu deiner Situation passt – mit interaktiven Karten für jede Zielgruppe und deren passende Unterstützung."
 summary = "Übersicht meiner Zielgruppen und passender Angebote – einfach, übersichtlich, mit Flip-Karten zum Entdecken."
@@ -10,6 +10,8 @@ categories = ["zielgruppen"]
 date = 2025-04-27T11:57:58+02:00
 layout = "zielgruppen"
 type = "zielgruppen"
+noindex = true
+
 +++
 
 ## Für wen ist mein Angebot gedacht?

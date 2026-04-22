@@ -10,16 +10,29 @@ keywords = ["Harvard-Konzept", "emotionale Grundbedürfnisse", "Shapiro und Fish
 categories = ['Blog', 'Medaition']
 tags = ['Mediation', 'Harvard-Konzept']
 
-slug = "harvard-emotionen-beduerfnisse"
 
 date = 2025-05-29T00:00:00Z
 
 read_more_copy = 'Mehr über die Grundgefühle nach Shapiro/Fishet'
+url = "/post/harvard-emotionen-beduerfnisse/"
+slug = "harvard-emotionen-beduerfnisse"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+toc=true
+image="harvard-emotionen-beduerfnisse.png"
+
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/harvard-emotionen-beduerfnisse.png">}}
+{{< smartimg
+  src="harvard-emotionen-beduerfnisse.png"
+  alt="Grundgefühle nach Shapiro/Fishet"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Einleitung: Harvard trifft Gefühl
 
@@ -129,3 +142,7 @@ Es verbindet:
 Für Mediator:innen, Coaches und Berater:innen entsteht daraus ein erweitertes Verständnis von Konfliktdynamiken – und ein Werkzeugkasten, der Haltung, Struktur und Emotionen integriert.
 
 **Verhandeln auf Augenhöhe bedeutet nicht nur, Interessen zu klären – sondern auch, Bedürfnisse zu verstehen.**
+
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}**   

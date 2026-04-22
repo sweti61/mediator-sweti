@@ -48,6 +48,10 @@ Und für die, die zurückbleiben.
 
 Doch bevor vorschnell Schuldige gesucht werden, lohnt es sich, die Dynamik dahinter zu verstehen.
 
+Schwierige Gespräche in der Familie entwickeln sich oft über längere Zeit – manchmal bis zu dem Punkt, an dem Kontakt ganz abbricht.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+
 ---
 
 ## Warum kommt es überhaupt zu einem Kontaktabbruch?
@@ -90,6 +94,10 @@ Politische, religiöse oder lebenspraktische Differenzen können Identitätsfrag
 
 Der eigentliche Auslöser ist häufig nicht das letzte Ereignis –  
 sondern das „letzte Tropfen“-Moment.
+
+Ähnliche Dynamiken zeigen sich auch in anderen familiären Konfliktsituationen:
+
+→ [Erbe klären ohne Streit – wenn Vermögensfragen Beziehungen belasten]({{< relref "/post/erbe-klaeren-ohne-streit-dresden/" >}})
 
 ---
 
@@ -177,7 +185,8 @@ Nicht jede Familie braucht Mediation.
 Aber manche brauchen einen sicheren Rahmen, um überhaupt wieder sprechen zu können.
 
 → [Wie Sie ein Pflegegespräch in der Familie vorbereiten können]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
-
+→ [Pflegegespräch vorbereiten – Familiengespräche strukturieren]({{< relref "/post/pflegegespraech-vorbereiten-dresden/" >}})  
+→ [Beziehungs- und Familiengespräche in Dresden – moderierte Klärung bei festgefahrenen Situationen]({{< relref "/angebote/beziehungs-und-familiengespraeche/" >}})   
 
 ---
 
@@ -193,3 +202,11 @@ Und manchmal ist genau das der erste Schritt zurück in ein Gespräch.
 
 → [Konkreter Leitfaden: Pflegegespräch vorbereiten in Dresden]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})    
 → [Mediation für pflegende Angehörige in Dresden – wenn Pflegekonflikte zu Kontaktabbruchsthemen werden]({{<relref "/pflegende-angehoerige-dresden/">}})  
+
+---
+
+## Mehr Orientierung zu familiären Konflikten
+
+Kontaktabbruch ist nur eine von vielen Formen, in denen Gespräche in Familien schwierig werden.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und Wege zur Klärung]({{< relref "/themen/schwierige-gespraeche-familie/" >}})

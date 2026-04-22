@@ -5,6 +5,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 title = "Entwicklung und Vergleich der BATNA – Handlungsfähigkeit durch Verhandlungsalternativen stärken"
 
 description = "Wie Verhandlungsalternativen die Qualität von Lösungen erhöhen: Das Harvard-Prinzip BATNA im Kontext systemischer Organisationsmediation erklärt."
+summary = "Wie Verhandlungsalternativen die Qualität von Lösungen erhöhen: Das Harvard-Prinzip BATNA im Kontext systemischer Organisationsmediation erklärt."
 
 keywords = ["BATNA", "Verhandlungsalternativen", "Organisationsmediation", "Verhandlung auf Augenhöhe", "systemische Verhandlung", "Konfliktlösung", "Entscheidungsstrategie", "Harvard-Konzept", "Mediationstechniken", "WATNA", "ZOPA"]
 
@@ -13,11 +14,24 @@ date = 2025-05-18T12:49:52+02:00
 read_more_copy = 'Mehr über BATNA'
 
 draft = false
+url = "/post/harvard-batna/"
+slug = "harvard-batna"
+author = "Dr. Swetoslaw Beltschew"
+image = "harvard-batna.png"
+
+toc = true
+
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/harvard-batna.png">}}
+{{< smartimg
+  src="harvard-batna.png"
+  alt="BATN"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Einleitung
 In jeder Verhandlung – ob in Projektteams, bei Führungskonflikten oder zwischen Organisationseinheiten – steht am Ende eine Entscheidung. Doch was geschieht, wenn keine Einigung erzielt wird? Die Qualität einer Verhandlung hängt nicht allein vom Ergebnis ab, sondern auch davon, welche **Alternativen** den Beteiligten zur Verfügung stehen. 
@@ -112,4 +126,6 @@ BATNAs machen Verhandlungen erwachsen. Sie bieten keine Drohung, sondern **Orien
 
 In der systemischen Mediation ist die Arbeit mit BATNAs ein zentrales Instrument zur Klärung von Macht, Verantwortung und Entscheidungsfähigkeit – besonders dann, wenn komplexe Organisationen und vielschichtige Interessen aufeinandertreffen.
 
-> *Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.*
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}**   

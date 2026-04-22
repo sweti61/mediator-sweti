@@ -37,6 +37,10 @@ Die Herausforderung liegt selten in der Pflege selbst – sondern in dem, was dr
 
 Diese Dynamiken lösen sich nicht von selbst. Aber sie lassen sich klären – wenn der richtige Rahmen da ist.
 
+Typische Gesprächsdynamiken:
+
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
+
 ---
 
 ## Was systemische Reflexion leisten kann
@@ -82,6 +86,10 @@ Je nach Situation ist ein anderer Rahmen sinnvoll:
 {class="UserTable"}
 
 Ich begleite alle diese Formate – und klären Sie im Erstgespräch gemeinsam, welcher Rahmen zu Ihrer Situation passt.
+
+Zur Einordnung von Pflegesituationen:
+
+→ [Wenn Eltern älter werden]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})
 
 ---
 

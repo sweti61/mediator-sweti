@@ -12,7 +12,7 @@ images = ["/testimoni/testimoni2/markus-k.png"]
 date = 2025-05-21T18:20:31+02:00
 +++
 
-{{< figure src="markus-k.png" title="Markus K." class="mein-bild" >}}
+{{< figure src="markus-k.png" title="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" alt="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" class="mein-bild" >}}
 
 
 "Der Workshop zur Konfliktbewältigung bei Mediator Sweti war eine inspirierende Erfahrung. Sweti vermittelte uns nicht nur effektive Strategien zur Konfliktlösung, sondern ermutigte uns auch, selbstbewusst und einfühlsam in schwierigen Situationen zu handeln. Ich fühle mich nun besser gerüstet, um Konflikte konstruktiv anzugehen und positive Veränderungen herbeizuführen. 

@@ -5,6 +5,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 title = "Verhandeln auf Augenhöhe: Objektive Maßstäbe systemisch nutzen"
 
 description = "Wie objektive Kriterien Konflikte in Organisationen lösbar machen: Einblicke in das vierte Prinzip des Harvard-Konzepts, systemisch fundiert und praxisnah erklärt."
+summary = "Wie objektive Kriterien Konflikte in Organisationen lösbar machen: Einblicke in das vierte Prinzip des Harvard-Konzepts, systemisch fundiert und praxisnah erklärt."
 
 keywords = [
   "Harvard-Konzept",
@@ -22,12 +23,25 @@ keywords = [
 date = 2025-05-15T09:26:59+02:00
 
 read_more_copy = 'Mehr zu Objektive Kriterien'
+url = "/post/harvard-kriterien/"
+slug = "harvard-kriterien"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+image="harvard-kriterien.png"
 
+toc = true
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/harvard-kriterien.png" title="Objektive Kriterien in der Mediation" >}}
+{{< smartimg
+  src="harvard-kriterien.png"
+  alt="Objektive Kriterien in der Mediation"
+  caption="Objektive Kriterien in der Mediation"
+  class="smartimg--narrow"
+  size="1200x"
+>}}
+
 
 ## Einleitung
 
@@ -136,4 +150,7 @@ Dr. Swetoslaw Beltschew – Konfliktbegleitung
 E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
 Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
 Dresden & Umgebung – auf Wunsch auch online   
-> *Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.*
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de" >}}beltschew.de besuchen {{< /extlink  >}}**   
+

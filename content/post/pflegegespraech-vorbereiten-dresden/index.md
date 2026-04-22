@@ -24,6 +24,7 @@ date: 2026-02-25
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+image: "pflegegespraech-vorbereiten-dresden.png"
 ---
 {{< metadescription >}}
 
@@ -45,6 +46,10 @@ Ein anderer antwortet: „Du wohnst doch näher dran.“
 Und plötzlich geht es nicht mehr um die konkrete Frage der Pflege, sondern um alte Vorwürfe, unausgesprochene Erwartungen und lange gewachsene Spannungen.
 
 Solche Situationen begegnen mir immer wieder in Familiengesprächen hier in Dresden und Umgebung. Pflege ist selten nur eine organisatorische Aufgabe. Sie berührt Verantwortung, Rollenbilder, Nähe und manchmal auch alte Verletzungen. Ein gut vorbereitetes Pflegegespräch entscheidet oft darüber, ob eine Familie gemeinsam tragfähige Lösungen findet – oder ob sich bestehende Konflikte vertiefen.
+
+Schwierige Gespräche in der Familie entstehen oft nicht plötzlich, sondern entwickeln sich über längere Zeit.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
 
 ---
 
@@ -114,7 +119,14 @@ Begleitung für pflegende Angehörige – ein ruhiger Gesprächsraum für Mensch
 Wenn Sie ein Pflegegespräch vorbereiten möchten oder wenn Gespräche bereits schwierig geworden sind, kann ein unverbindliches Vorgespräch hilfreich sein. Dabei geht es zunächst um Orientierung und Struktur.
 
 Sie können hier ein Gespräch vereinbaren:  
-👉 {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
+👉 {{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+---
+
+## Mehr Orientierung zu schwierigen Gesprächen
+
+Wenn Sie sich einen Überblick über typische Dynamiken in Familien verschaffen möchten:
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und Wege zur Klärung]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
 
 ---
 
@@ -126,3 +138,12 @@ Dr. Swetoslaw Beltschew – Konfliktbegleitung
 E-Mail: mediator@sweti.de  
 Webseite: mediator.sweti.de  
 Standort: Dresden & Umgebung – auf Wunsch auch online
+
+---
+
+## Mehr Orientierung
+
+Wenn Sie sich einen Überblick verschaffen möchten:
+
+→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+

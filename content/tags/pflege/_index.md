@@ -7,7 +7,7 @@ url: /tags/pflege/
 
 featured_image: "image.png"
 image: "image.png"
-
+noindex: true
 ---
 
 Pflege verändert nicht nur den Alltag, sondern die Beziehungen in einer Familie.  

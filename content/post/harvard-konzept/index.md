@@ -5,18 +5,32 @@ tags = ['Mediation', 'Harvard-Konzept']
 title = "Entfaltung statt Eskalation – Das Harvard-Konzept als systemischer Rahmen für Mediation und Verhandlung"
 
 description = "Wie sich die sechs Prinzipien des Harvard-Konzepts systematisch in Phasenlogik, Entscheidungsstrategie und systemische Mediation integrieren lassen – ein Überblick für Fachleute der Konfliktklärung."
+summary = "Wie sich die sechs Prinzipien des Harvard-Konzepts systematisch in Phasenlogik, Entscheidungsstrategie und systemische Mediation integrieren lassen – ein Überblick für Fachleute der Konfliktklärung."
 
 keywords = ["Harvard-Konzept", "Organisationsmediation", "systemische Mediation", "Phasenlogik", "Verhandlungsstrategie", "BATNA", "ZOPA", "Mediationstechniken", "systemische Beratung", "Entscheidungsarchitektur"]
 
 date = 2025-05-20T17:17:43+02:00
 
 read_more_copy = 'Mehr über der Harvard-Konzept'
+image="harvard-konzept.png"
+
+url = "/post/harvard-konzept/"
+slug = "harvard-konzept"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+toc = true
 
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/harvard-konzept.png">}}
+{{< smartimg
+  src="harvard-konzept.png"
+  alt="Harvard-Konzept"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 
 ## Warum ein Rahmenartikel?
@@ -118,4 +132,6 @@ Dr. Swetoslaw Beltschew – Konfliktbegleitung
 ✉️ E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)  
 🌐 Webseite: [mediator.sweti.de](https://mediator.sweti.de)  
 📍 Dresden & Umgebung – auf Wunsch auch online  
-
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.      
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}**   

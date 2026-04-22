@@ -7,6 +7,8 @@ description: 'Entdecken Sie die vielfältigen Mediationsdienste von Sweti für F
 summary: "Systemische Beratung, Mediation und Coaching für Organisationen, Führungskräfte, soziale Einrichtungen, IT-Dienstleister und Privatpersonen. Strukturierte Klärung von Rollen, Prozessen und Konflikten – vertraulich, professionell und auf Augenhöhe."
 
 read_more_copy: 'Mehr über die Diestleistungen'
+noindex: true
+
 ---
 
 ### 🔄 Struktur. Klarheit. Verbindung.  

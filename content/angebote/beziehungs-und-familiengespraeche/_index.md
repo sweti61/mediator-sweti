@@ -2,13 +2,11 @@
 title: "Beziehungs- und Familiengespräche in Dresden"
 description: "Moderierte Gespräche bei Konflikten zwischen Paaren, Eltern und erwachsenen Kindern oder Geschwistern. Strukturierte Klärung in Dresden – Orientierungsgespräch kostenfrei."
 summary: "Wenn Beziehungen ins Stocken geraten, braucht es einen geschützten Gesprächsraum. Ich moderiere Gespräche zwischen Paaren und Familien – ruhig, strukturiert und allparteilich."
-categories: ["Angebote"]
 keywords: ["familienmediation dresden", "beziehungskonflikt klären", "geschwister streit", "moderiertes gespräch familie", "konflikt familie dresden"]
 slug: "beziehungs-und-familiengespraeche"
 url: "/angebote/beziehungs-und-familiengespraeche/"
 categories: ["angebote"]
 draft: false
-toc: true
 author: "Swetoslaw Beltschew"
 date: 2026-02-25 
 weight: 2
@@ -18,9 +16,13 @@ Manchmal reden Menschen noch miteinander – aber nicht mehr wirklich.
 
 Oder sie reden gar nicht mehr.
 
+Schwierige Gespräche entstehen oft nicht plötzlich, sondern entwickeln sich über längere Zeit.
+
+→ [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+
 Ich moderiere Gespräche zwischen Paaren, Eltern und erwachsenen Kindern oder Geschwistern, wenn Konflikte festgefahren sind und ein direkter Austausch allein nicht mehr gelingt.
 
-👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+→ {{< extlink "https://calendly.com/mediator-sweti">}}Orientierungsgespräch vereinbaren{{< /extlink >}}
 
 ---
 
@@ -50,6 +52,10 @@ Alle Beteiligten kommen zu Wort.
 Positionen werden gehört.  
 Interessen werden sichtbar.
 
+Wenn Sie sich zunächst orientieren möchten, ohne direkt ein Gespräch zu führen:
+
+→ [Impulse und Leitfäden für schwierige Gespräche herunterladen]({{< relref "/leadmagnets/" >}})
+
 ---
 
 ## Typische Konstellationen
@@ -60,7 +66,13 @@ Interessen werden sichtbar.
 - Konflikte nach Trennung oder familiären Veränderungen  
 
 Für generationenspezifische Themen (Pflege, Erbe, Rollen im Alter) siehe:  
-👉 Mediation bei Pflege, Erbe und Übergang
+→ [Mediation bei Pflege, Erbe und Übergang]({{<relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
+
+Für konkrete Einblicke in typische Gesprächssituationen:
+
+→ [Pflegegespräch vorbereiten – Familiengespräche strukturieren]({{< relref "/post/pflegegespraech-vorbereiten-dresden/" >}})  
+→ [Kontaktabbruch in der Familie verstehen – Dynamiken und Wege zur Klärung]({{< relref "/post/kontaktabbruch-familie-verstehen/" >}})  
+→ [Erbe klären ohne Streit – wenn Vermögensfragen Beziehungen belasten]({{< relref "/post/erbe-klaeren-ohne-streit-dresden/" >}})
 
 ---
 
@@ -73,7 +85,7 @@ Für generationenspezifische Themen (Pflege, Erbe, Rollen im Alter) siehe:
 
 Geeignet für niedrig bis mittelhoch eskalierte Konflikte.
 
-Mehr über meine Arbeitsweise als [Mediator in Dresden]({{<relref "/mediator-dresden/">}}) finden Sie hier.
+Mehr über meine Arbeitsweise als [Mediator in Dresden]({{< relref "/mediator-dresden/" >}}) finden Sie hier.
 
 ---
 
