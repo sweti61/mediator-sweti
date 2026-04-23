@@ -189,3 +189,7 @@ Im Erstgespräch klären wir gemeinsam, ob Mediation für Ihre Situation der ric
 **Telefon:** +49 163 8035634
 **E-Mail:** mediator@sweti.de
 **Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
+
+Diese Überlegungen sind auch für Nachbarschaftskonflikte relevant:
+
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})

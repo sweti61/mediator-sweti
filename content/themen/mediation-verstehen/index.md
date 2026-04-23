@@ -9,11 +9,15 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-tags: ["Mediation", "Konfliktklärung", "Entscheidung"]
 keywords: ["was ist mediation", "mediation sinnvoll wann", "mediation kosten dresden", "mediation oder anwalt"]
+
+featured_image: mediation-verstehen.png
+featured_image_class: "cover bg-bottom"
+cover_dimming_class: "bg-black-10"
+background_color_class: "bg-light-green"
+omit_header_text: true 	
 ---
 
-# Mediation verstehen – Möglichkeiten und Grenzen
 
 Wenn Konflikte festfahren, stellt sich irgendwann die Frage:
 

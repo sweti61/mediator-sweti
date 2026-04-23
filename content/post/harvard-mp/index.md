@@ -22,11 +22,24 @@ date = 2025-05-04T07:14:20+02:00
 
 read_more_copy = 'More über Menschen und Probleme'
 
+url = "/post/harvard-mp/"
+slug = "harvard-mp"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+toc=true
+image="harvard-mp.png"
+
 +++
 
 {{< metadescription >}}
 
-![Menschen und Probleme trennen](/images/harvard-mp.png)
+{{< smartimg
+  src="harvard-mp.png"
+  alt="Menschen und Probleme trennen"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Einleitung
 
@@ -140,7 +153,7 @@ Diese Interventionen führen schrittweise dazu, dass sich die Identifikation mit
 2. **Führungskonflikt:** Statt „Meine Chefin ist unfair“, wird gefragt: „Welche Erwartungen sind unausgesprochen?“
 3. **Teamkonflikt:** Statt Schuldzuweisungen: „Welche unterschiedlichen Sichtweisen bestehen auf das Ziel?“
 
----
+{{< werbebox >}}
 
 ## Fazit
 
@@ -161,4 +174,6 @@ E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)
 Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
 Dresden & Umgebung – auf Wunsch auch online
 
-> *Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.*
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}** 

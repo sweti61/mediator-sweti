@@ -5,6 +5,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 title = "Entscheidungsoptionen entwickeln – Drittes Prinzip des Harvard-Konzepts in der Organisationsmediation"
 
 description = "Erfahren Sie, wie Sie in der Mediation durch kreative Entscheidungsoptionen tragfähige Win-Win-Lösungen entwickeln – mit systemischer Tiefe und konkreten Methoden."
+summary = "Erfahren Sie, wie Sie in der Mediation durch kreative Entscheidungsoptionen tragfähige Win-Win-Lösungen entwickeln – mit systemischer Tiefe und konkreten Methoden."
 
 keywords = [
   "Harvard-Konzept",
@@ -22,11 +23,25 @@ keywords = [
 date = 2025-05-12T09:34:20+02:00
 
 read_more_copy = 'Mehr zu Entscheidungsoptionen entwickeln'
+
+url = "/post/harvard-optionen/"
+slug = "harvard-optionen"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+toc=true
+image="harvard-optionen.png"
+
 +++
 
 {{< metadescription >}}
 
-![Entscheidungsoptionen entwickeln](/images/harvard-optionen.png)
+{{< smartimg
+  src="harvard-optionen.png"
+  alt="Entscheidungsoptionen entwickeln"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 Dieser dritte Artikel der Serie zum Harvard-Konzept in der Organisationsmediation widmet sich dem Prinzip: **„Entscheidungsoptionen zum beiderseitigen Vorteil entwickeln“**. Während in vielen Verhandlungen vorschnell eine Lösung angestrebt wird, plädiert dieses Prinzip dafür, die Lösungssuche bewusst zu verlangsamen und auf Vielfalt zu setzen. Nicht der erste Kompromiss, sondern die bestmögliche Übereinkunft zählt.
 
@@ -107,7 +122,7 @@ Ein zentrales Prinzip: Zuerst sammeln – dann prüfen. Diese Trennung verhinder
 
 Die Vielfalt der Ideen führt zu einer stabileren und flexibleren Lösung.
 
----
+{{< werbebox >}}
 
 ## Fazit
 
@@ -127,6 +142,6 @@ E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)
 Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
 Dresden & Umgebung – auf Wunsch auch online   
 
->*Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.*
-
-**SEO-relevante Keywords:** Harvard-Prinzip, Entscheidungsoptionen, Organisationsmediation, kreative Konfliktlösung, systemische Mediation, Mediationstechniken, systemisches Konfliktmanagement, Win-Win-Strategie, Kommunikation in Organisationen
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}** 

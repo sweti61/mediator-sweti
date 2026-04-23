@@ -88,3 +88,7 @@ Wenn ein Gespräch festgefahren ist, kann ein [Mediator in Dresden]({{<relref "/
 Sie möchten klären, ob dieses Format zu Ihrer Situation passt?
 
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)
+
+Typische Anwendungsfälle:
+
+→ [Nachbarschaftskonflikte klären]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})

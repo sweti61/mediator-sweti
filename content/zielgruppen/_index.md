@@ -1,5 +1,5 @@
 +++
-title = 'Unsere Zielgruppen'
+title = 'Meine Zielgruppen'
 
 description = "Finde heraus, ob mein Angebot zu deiner Situation passt – mit interaktiven Karten für jede Zielgruppe und deren passende Unterstützung."
 summary = "Übersicht meiner Zielgruppen und passender Angebote – einfach, übersichtlich, mit Flip-Karten zum Entdecken."

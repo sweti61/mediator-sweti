@@ -4,6 +4,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Fokus auf Interessen statt Positionen – Ein systemischer Zugang zur Verhandlungsführung"
 description = "Entdecken Sie, wie das Harvard-Prinzip 'Interessen statt Positionen' in der Organisationsmediation nachhaltige Lösungen fördert – systemisch, psychologisch und praxisnah erklärt."
+summary = "Entdecken Sie, wie das Harvard-Prinzip 'Interessen statt Positionen' in der Organisationsmediation nachhaltige Lösungen fördert – systemisch, psychologisch und praxisnah erklärt."
 
 keywords = [
   "Harvard-Prinzip",
@@ -21,11 +22,26 @@ keywords = [
 date = 2025-05-05T18:25:56+02:00
 
 read_more_copy = 'Mehr über Interessen statt Positionen'
+
+url = "/post/harvard-po-vs-in/"
+slug = "harvard-po-vs-in"
+author = "Dr. Swetoslaw Beltschew"
+draft = false
+toc=true
+image="harvard-po-vs-in.png"
+
 +++
 
 {{< metadescription >}}
 
 ![Fokus auf Interessen statt Positionen](/images/harvard-po-vs-in.png)
+{{< smartimg
+  src="harvard-po-vs-in.png"
+  alt="Interessen statt Positionen"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
 ## Einleitung
 
@@ -120,13 +136,13 @@ In Organisationen mit hoher Komplexität und vielen Wechselwirkungen wirken Inte
 
 ## Verbindungen zu bestehenden Artikeln
 
-### [Der Verhandlungsgedanke in der Mediation](/post/verhandeln/)
+[Der Verhandlungsgedanke in der Mediation](/post/verhandeln/)
 
 Dieser Artikel analysiert Verhandlungen in der Mediation auf einer allgemeinen Ebene – unabhängig vom Harvard-Konzept. Er unterscheidet zwischen **positionsbezogenem** und **sachbezogenem Verhandeln**, betont die Bedeutung von **Substanz- und Prozessebene** sowie den Einfluss des **3. Axioms von Watzlawick** auf festgefahrene Positionen. Der Fokus liegt auf den kommunikativen Dynamiken innerhalb des Verhandelns, nicht auf einem bestimmten methodischen Modell.
 
 **Verbindung zum Prinzip „Interessen statt Positionen“:** Die Unterscheidung von Substanz- und Prozessebene spiegelt das systemische Anliegen wider, zwischen Verhalten und dahinterliegenden Bedeutungen zu differenzieren. Das sachbezogene Verhandeln legt implizit bereits einen Schwerpunkt auf Interessen statt auf starre Forderungen – jedoch ohne die begriffliche Schärfe und Systematik des Harvard-Modells.
 
-### [Kooperative und kompetitive Verhandlungstechniken in der Mediation: Ein Vergleich](/post/verhandeln2/)
+[Kooperative und kompetitive Verhandlungstechniken in der Mediation: Ein Vergleich](/post/verhandeln2/)
 
 Der zweite Artikel erweitert die Perspektive durch eine Gegenüberstellung von **kooperativen** und **kompetitiven Verhandlungsansätzen**. Das Harvard-Konzept wird hier als ein Beispiel für kooperatives Verhandeln eingeführt, steht aber nicht im Mittelpunkt. Stattdessen liegt der Fokus auf der methodischen Steuerung durch Mediatoren und der häufigen Neigung von Medianten zu kompetitivem Verhalten.
 
@@ -157,7 +173,7 @@ Beide Artikel schaffen ein systemisches Vorverständnis von Verhandlungsdynamike
 * Interessen auf Karten schreiben, gruppieren, Gemeinsamkeiten markieren
 * Gemeinsam prüfen: Welche Interessen sind kompatibel? Welche ergänzen sich?
 
----
+{{< werbebox >}}
 
 ## Fazit
 
@@ -175,4 +191,6 @@ E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)
 Webseite: [mediator.sweti.de](https://mediator.sweti.de)     
 Dresden & Umgebung – auf Wunsch auch online
 
->*Wir sind für Sie da. Kostenlos starten. Vertraulich bleiben.*
+> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
+👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
+🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}** 

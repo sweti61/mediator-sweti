@@ -42,3 +42,8 @@ Sie möchten klären, ob dieses Angebot zu Ihrer Situation passt?
 👉{{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
 
 [Oder schreiben Sie mir](mailto://mediator@sweti.de)
+
+
+Zur Einordnung:
+
+→ [Nachbarschaftskonflikte klären – Orientierung und Dynamiken]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})

@@ -84,3 +84,8 @@ Heute grüßen sich Frau Krämer und Herr Becker wieder. Manchmal plaudern sie �
 E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)  
 Webseite: [mediator.sweti.de](https://mediator.sweti.de)  
 Standort: Dresden & Umgebung – auf Wunsch auch online
+
+
+## Mehr Orientierung zu Nachbarschaftskonflikten
+
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})

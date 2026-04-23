@@ -25,6 +25,10 @@ author = "Dr. Swetoslaw Beltschew"
 
 _Nachbarschaftsstreitigkeiten_ können das tägliche Leben erheblich belasten. Wir helfen dabei, solche [Konflikte]({{<ref "post/konflikte">}} "Warum entstehen Konflikte?") zu klären und ein friedliches Zusammenleben zu fördern.
 
+Zur Einordnung typischer Konfliktdynamiken:
+
+→ [Nachbarschaftskonflikte klären – Orientierung und Wege]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
+
 **Wie entstehen Nachbarschaftsstreitigkeiten?**
 
 Nachbarschaftsstreitigkeiten entstehen oft durch _Missverständnisse_, mangelnde _Kommunikation_ oder unterschiedliche _Lebensgewohnheiten_. Häufig spielen auch tiefere, unbewusste Bedürfnisse und Erwartungen eine Rolle. Diese [Konflikte]({{<ref "post/konflikte">}} "Warum entstehen Konflikte?") können eskalieren, wenn sie nicht rechtzeitig angesprochen und gelöst werden.

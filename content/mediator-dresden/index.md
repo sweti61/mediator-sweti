@@ -44,7 +44,8 @@ Viele Konflikte haben ähnliche Muster – unabhängig vom konkreten Thema.
 
 → [Schwierige Gespräche in der Familie führen – Orientierung und typische Situationen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})  
 → [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
-→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})   
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})   
 
 Ich arbeite in **Dresden und im Umkreis von 50 km** – u. a. in Radebeul, Freital, Pirna und Meißen.
 
@@ -156,6 +157,9 @@ Wann Mediation sinnvoll ist – und wann nicht:
 
 → [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
 
+Zur Einordnung typischer Nachbarschaftskonflikte:
+
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
 ---
 
 ## Wie läuft eine Mediation ab?

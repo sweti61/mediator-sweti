@@ -10,9 +10,14 @@ toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
 keywords: ["schwierige Gespräche in der Familie", "Familienkonflikte klären", "Pflegegespräch vorbereiten", "Kontaktabbruch Familie", "Erbe ohne Streit", "Familienmediation Dresden"]
+
+featured_image: schwierige-gespraeche-familie.png
+featured_image_class: "cover bg-bottom"
+cover_dimming_class: "bg-black-10"
+background_color_class: "bg-light-green"
+omit_header_text: true
 ---
 
-# Schwierige Gespräche in der Familie führen
 
 Manchmal beginnt es unscheinbar.
 

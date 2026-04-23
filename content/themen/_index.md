@@ -9,11 +9,14 @@ draft: false
 toc: false
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-tags: ["Orientierung"]
 keywords: ["Konfliktklärung Themen", "Mediation Themen", "Familienkonflikte Überblick", "Pflegekonflikte Orientierung"]
----
 
-# Themen – Orientierung bei Konflikten und Gesprächen
+featured_image: "/images/themen.png"
+featured_image_class: "cover bg-top"
+cover_dimming_class: "bg-black-10"
+background_color_class: "bg-light-green"
+
+---
 
 Nicht jede Situation lässt sich sofort einordnen.
 
@@ -57,6 +60,15 @@ Mediation ist eine Möglichkeit –
 aber nicht in jeder Situation die richtige.
 
 → [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
+---
+
+## Nachbarschaftskonflikte
+
+Wenn Konflikte im Wohnumfeld entstehen,  
+treffen Nähe und Distanz aufeinander.
+
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
 
 ---
 

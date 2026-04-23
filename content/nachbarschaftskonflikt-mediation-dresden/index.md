@@ -38,6 +38,10 @@ Nachbarschaftskonflikte gehören zu den belastendsten Auseinandersetzungen über
 
 Als Mediator in Dresden begleite ich Nachbarn dabei, wieder miteinander sprechen zu können — bevor der Anwalt das letzte Wort hat.
 
+Viele Nachbarschaftskonflikte entwickeln sich schrittweise und folgen ähnlichen Mustern.
+
+→ [Nachbarschaftskonflikte klären – Orientierung und typische Situationen]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
+
 ---
 
 ## Typische Nachbarschaftskonflikte, bei denen ich helfe

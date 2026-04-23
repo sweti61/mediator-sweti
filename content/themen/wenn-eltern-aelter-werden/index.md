@@ -10,9 +10,14 @@ toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
 keywords: ["wenn eltern älter werden was tun", "pflege gespräch familie", "angehörige überfordert pflege", "pflege konflikt familie dresden"]
+
+featured_image: wenn-eltern-aelter-werden.png
+featured_image_class: "cover bg-bottom"
+cover_dimming_class: "bg-black-10"
+background_color_class: "bg-light-green"
+omit_header_text: true
 ---
 
-# Wenn Eltern älter werden – Orientierung für Angehörige
 
 Es beginnt oft unscheinbar.
 

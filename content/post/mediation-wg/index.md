@@ -22,6 +22,10 @@ slug='mediation-wg'
 
 Unsere Dienstleistungen zur _Konfliktbearbeitung in Studenten-Wohngemeinschaften_ zielen darauf ab, ein harmonisches Zusammenleben zu fördern und Konflikte effektiv zu lösen. Wir nutzen dabei verschiedene Methoden, einschließlich Mediation, um den Bedürfnissen der Bewohner gerecht zu werden.
 
+Zur Einordnung typischer Konfliktdynamiken:
+
+→ [Nachbarschaftskonflikte klären – Orientierung und Wege]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
+
 #### Wann sollte Unterstützung in Anspruch genommen werden?
 Mitbewohner können verschiedene Anzeichen wahrnehmen, dass sie Unterstützung bei der Konfliktbearbeitung benötigen, darunter:
 - **Ständige Spannungen und Streitigkeiten**: Häufige Auseinandersetzungen über alltägliche Themen wie Sauberkeit, Lärm oder die Nutzung gemeinsamer Räume.
@@ -61,4 +65,6 @@ Weitere Informationen und Unterstützung erhalten Sie durch Kontaktaufnahme mit 
 
 Wenn Konflikte nicht nur die Nachbarschaft, sondern auch Familienmitglieder verschiedener Generationen betreffen:  
 → [Familiengespräche bei Generationenkonflikten]({{< relref "/angebote/klarkommen-generationen/">}})
+
+
 
