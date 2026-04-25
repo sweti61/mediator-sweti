@@ -11,84 +11,84 @@ theme_version = '2.8.2'
 featured_image = '/images/mediator-sweti-startseite.png'
 +++
 
+{{< intro-split src="/images/mediation-maenchen-dresden.png" alt="Swetoslaw Beltschew als Mediator vor einem Flipchart" >}}
+
 Wenn Gespräche nicht mehr möglich scheinen, braucht es einen geschützten Rahmen.
 
-Als systemischer Berater und Mediator unterstütze ich Menschen in Dresden und im Umkreis von 50 km dabei, festgefahrene Konflikte zu klären – insbesondere in [Familien]({{<relref "/mediator-dresden/">}}), im Pflegeprozess, bei Erbschaftsfragen oder in Hausgemeinschaften.
+Als systemischer Berater und Mediator unterstütze ich Menschen in Dresden und im Umkreis von 50 km dabei, festgefahrene Konflikte zu klären – insbesondere in [Familien]({{< relref "/mediator-dresden/" >}}), im Pflegeprozess, bei Erbschaftsfragen oder in Hausgemeinschaften.
 
 Konflikte entstehen häufig durch ungeklärte Rollen, Erwartungen oder Überforderung. In moderierten Gesprächen schaffen wir Klarheit, stärken Ihre Handlungsfähigkeit und entwickeln tragfähige Vereinbarungen.
 
-Erfahren Sie hier mehr über meine Arbeit als [Mediator in Dresden]({{<relref "/mediator-dresden/">}}).
+Erfahren Sie hier mehr über meine Arbeit als [Mediator in Dresden](/mediator-dresden/).
 
-👉 {{< extlink "https://calendly.com/mediator-sweti">}}Jetzt kostenloses Erstgespräch vereinbaren{{< /extlink >}}
 
----
+{{< /intro-split >}}
 
-{{< smartimg
-  src="mediation-gespraech-dresden.png"
-  alt="Dr. Swetoslaw Beltschew im Mediationsgespräch in Dresden"
-  caption=""
-  class="smartimg--narrow"
-  size="1200x"
+{{< cta-inline 
+  url="https://calendly.com/mediator-sweti" 
+  text="Jetzt kostenloses Erstgespräch vereinbaren"
+  newtab="true"  
 >}}
 
-## Mediation bei Pflegekonflikten und Erbstreit in Dresden
+---
 
-Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es selten nur um Organisation.
-Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.
+In unterschiedlichen Lebenssituationen entstehen Konflikte auf ganz eigene Weise.  
+Hier finden Sie typische Konstellationen, in denen ich begleite:
+
+{{< cards >}}
+
+{{< card title="Mediation bei Pflege&shy;konflik&shy;ten und Erbstreit in Dresden" icon="🌿" >}}
+Wenn Familien über Pflege, Heimunterbringung oder Erbfragen streiten, geht es selten nur um Organisation.  
+Es geht um Rollen, Erwartungen, alte Verletzungen und Gerechtigkeit.  
 Ich moderiere strukturierte Gespräche zwischen Generationen – bevor Konflikte eskalieren oder der Kontakt abbricht.
 
-→ [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})   
-→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})   
-→ [Erbschaftsstreit klären – Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})   
-→ [Pflegegespräch in der Familie vorbereiten]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})   
+→ [Mediation für pflegende Angehörige in Dresden]({{< relref "/pflegende-angehoerige-dresden/">}})  
+→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})  
+→ [Erbschaftsstreit klären – Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})  
+→ [Pflegegespräch in der Familie vorbereiten]({{< relref "/post/pflegegespraech-vorbereiten-dresden/">}})  
+{{< /card >}}
 
----
+{{< card title="Nachbar&shy;schafts&shy;konflikt in Dresden – Mediation statt Gericht" icon="🏘️" >}}
+Streit mit dem Nachbarn über Lärm, Grundstücksgrenzen oder Gemeinschaftsflächen belastet den Alltag dauerhaft.  
+Als Mediator in Dresden begleite ich beide Seiten dabei, wieder miteinander sprechen zu können – ohne Gericht, ohne dauerhaften Beziehungsschaden.
 
-## Nachbarschaftskonflikt in Dresden – Mediation statt Gericht
+→ [Nachbarschaftskonflikt in Dresden klären – Mediation statt Gericht]({{< relref "/nachbarschaftskonflikt-mediation-dresden/">}})  
+{{< /card >}}
 
-Streit mit dem Nachbarn über Lärm, Grundstücksgrenzen oder Gemeinschaftsflächen belastet den Alltag dauerhaft. Als Mediator in Dresden begleite ich beide Seiten dabei, wieder miteinander sprechen zu können – ohne Gericht, ohne dauerhaften Beziehungsschaden.
+{{< card title="Familien&shy;media&shy;tion bei fest&shy;gefahrenen Beziehungs&shy;konflikten" icon="👨‍👩‍👧" >}}
+Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.  
 
-→ [Nachbarschaftskonflikt in Dresden klären – Mediation statt Gericht]({{< relref "/nachbarschaftskonflikt-mediation-dresden/">}})
+- Spannungen zwischen Eltern und erwachsenen Kindern  
+- Geschwisterkonflikte  
+- Paar- oder Familienkonflikte  
+- Kontaktabbrüche  
 
----
+→ [Beziehungs- und Familiengespräche]({{< relref "/angebote/beziehungs-und-familiengespraeche/">}})  
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})  
+{{< /card >}}
 
-## Familienmediation bei festgefahrenen Beziehungskonflikten
-
-Manchmal geht es nicht um Pflege oder Erbe, sondern um das Gespräch selbst.
-- Spannungen zwischen Eltern und erwachsenen Kindern
-- Geschwisterkonflikte
-- Paar- oder Familienkonflikte
-- Kontaktabbrüche
-
-→ [Beziehungs- und Familiengespräche]({{< relref "/angebote/beziehungs-und-familiengespraeche/">}})   
-→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})   
-
----
-
-## Konfliktklärung, wenn Gespräche nicht mehr möglich sind
-
-Nicht jede Situation ist sofort moderierbar.
+{{< card title="Konflikt&shy;klärung, wenn Gespräche nicht mehr möglich sind" icon="🧭" >}}
+Nicht jede Situation ist sofort moderierbar.  
 In Einzelgesprächen klären wir:
-- Ihre Rolle
-- die Konfliktdynamik
-- sinnvolle nächste Schritte
 
-→ [Konfliktklärung vorbereiten]({{< relref "/angebote/konfliktklaerung-vorbereiten/">}})   
-→ [Coaching in Übergängen]({{< relref "/angebote/coaching-in-uebergaengen/">}})   
-→ [Wann ist Mediation sinnvoll – und wann ein Rechtsanwalt?]({{< relref "/post/mediation-oder-rechtsanwalt-dresden/">}})   
+- Ihre Rolle  
+- die Konfliktdynamik  
+- sinnvolle nächste Schritte  
 
----
+→ [Konfliktklärung vorbereiten]({{< relref "/angebote/konfliktklaerung-vorbereiten/">}})  
+→ [Coaching in Übergängen]({{< relref "/angebote/coaching-in-uebergaengen/">}})  
+→ [Wann ist Mediation sinnvoll – und wann ein Rechtsanwalt?]({{< relref "/post/mediation-oder-rechtsanwalt-dresden/">}})  
+{{< /card >}}
 
-## Mediation und Konfliktmoderation für Organisationen in Dresden
-
+{{< card title="Mediation und Konflikt&shy;moderation für Organi&shy;sationen in Dresden" icon="🏢" >}}
 Neben der Arbeit mit Familien begleite ich Organisationen und öffentliche IT-Dienstleister bei Rollenklärung, Prozessmodernisierung und konfliktbezogener Führung.
-Detaillierte Informationen finden Sie auf meiner Unternehmensseite:
-→ [beltschew.de](https://beltschew.de)
 
----
+→ [beltschew.de](https://beltschew.de)
+{{< /card >}}
+
+{{< /cards >}}
 
 {{< cta-link url="/zielgruppen/" text="👥 Mehr über meine Zielgruppen" >}}
-
 
 {{< accordion title="📈 Meine Dienstleistungen" >}}
 ### 🔢 [Systemische Prozessberatung]({{< relref "/Dienstleistungen/#prozessberatung">}} "Systemische Prozessberatung")

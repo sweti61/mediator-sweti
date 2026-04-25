@@ -1,0 +1,12 @@
+<div class="mt4 tl dark-gray">
+
+  <a 
+    href="{{ .Get "url" }}"
+    class="link dark-gray fw5 underline"
+    style="color: inherit;"
+    {{ if .Get "newtab" }}target="_blank" rel="noopener noreferrer"{{ end }}
+  >
+    👉 {{ .Get "text" }}
+  </a>
+
+</div>

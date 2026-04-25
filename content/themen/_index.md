@@ -1,7 +1,7 @@
 ---
 title: "Themen – Orientierung bei Konflikten, Gesprächen und Übergängen"
 description: "Überblick über zentrale Themen: schwierige Gespräche in der Familie, Pflege und Übergänge sowie Mediation und Konfliktklärung."
-summary: "Diese Seite gibt einen Überblick über zentrale Themen rund um Konfliktklärung, Gespräche und Übergänge – als Orientierung vor einem möglichen nächsten Schritt."
+summary: "Wenn Gespräche schwierig werden oder sich etwas verändert, ist oft unklar, worum es eigentlich geht. Diese Seite bietet Orientierung zu typischen Situationen und Dynamiken – als ruhiger Einstieg, bevor nächste Schritte entstehen."
 slug: themen
 url: /themen/
 date: 2026-04-22
@@ -51,6 +51,41 @@ wenn Entscheidungen notwendig werden.
 
 ---
 
+In vielen Familien stellt sich in diesem Zusammenhang auch die Frage nach Erbe und Verteilung.
+
+## Erbstreit in der Familie
+
+Wenn es um Erbe geht,  
+geht es oft nicht nur um Vermögen,  
+sondern um Gerechtigkeit –  
+und häufig auch um die Beziehung selbst.
+
+Erwartungen bleiben unausgesprochen,  
+alte Erfahrungen wirken nach,  
+und Gespräche werden schwieriger.
+
+→ [Erbstreit in der Familie klären – Mediation statt Eskalation]({{< relref "/themen/erbstreit-familie-klaeren-dresden/" >}})
+
+---
+
+Nicht alle Konflikte entstehen innerhalb der Familie.  
+Auch im direkten Wohnumfeld können Spannungen entstehen.
+
+## Nachbarschaftskonflikte
+
+Wenn Konflikte im Wohnumfeld entstehen,  
+treffen Nähe und Distanz aufeinander.
+
+Unterschiedliche Erwartungen, Gewohnheiten und Grenzen  
+werden im Alltag sichtbar – oft über lange Zeit.
+
+→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
+
+---
+
+So unterschiedlich diese Situationen sind,  
+stellt sich am Ende oft eine ähnliche Frage:
+
 ## Mediation verstehen
 
 Wenn Konflikte festfahren, stellt sich die Frage:  
@@ -60,15 +95,6 @@ Mediation ist eine Möglichkeit –
 aber nicht in jeder Situation die richtige.
 
 → [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
-
----
-
-## Nachbarschaftskonflikte
-
-Wenn Konflikte im Wohnumfeld entstehen,  
-treffen Nähe und Distanz aufeinander.
-
-→ [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
 
 ---
 

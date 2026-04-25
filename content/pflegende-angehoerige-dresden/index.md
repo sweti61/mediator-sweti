@@ -26,8 +26,12 @@ toc: true
 noindex: false
 draft: false
 
-featured_image: "pflegende-angehoerige-dresden.png"
 image: "pflegende-angehoerige-dresden.png"
+featured_image: "pflegende-angehoerige-dresden.png"
+featured_image_class: "contain bg-top"
+cover_dimming_class: "bg-black-20"
+background_color_class: "bg-light-green"
+omit_header_text: true 	
 
 ---
 

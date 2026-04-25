@@ -2,7 +2,7 @@
 other = "Mehr"
 
 [allTitle]
-other = "Alle {{.Title }}"
+other = "Alles {{.Title }}"
 
 [recentTitle]
 other = "Neueste {{.Title }}"

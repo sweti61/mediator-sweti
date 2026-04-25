@@ -29,6 +29,10 @@ tags:
 categories: ["angebote"]
 noindex: false
 featured_image: "nachbarschaftskonflikt-mediation-dresden2.png"
+featured_image_class: "contain bg-top"
+cover_dimming_class: "bg-black-20"
+background_color_class: "bg-light-green"
+omit_header_text: true 	
 
 ---
 

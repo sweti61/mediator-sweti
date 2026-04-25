@@ -1,0 +1,33 @@
+<article class="w-100 w-45-m w-30-l pa3">
+
+  <div class="h-100 pa4 bl bw2 br2 bg-near-white" style="border-color: #ffa500;">
+
+    <!-- Kopf -->
+    <div class="flex items-center mb3">
+
+      {{ with .Get "icon" }}
+        <div class="mr3 flex-shrink-0">
+          {{ if or (hasPrefix . "http") (hasPrefix . "/") }}
+            <img src="{{ . }}" class="w3 h3 br-100" alt="">
+          {{ else }}
+            <span class="f2 lh-solid dark-gray">{{ . }}</span>
+          {{ end }}
+        </div>
+      {{ end }}
+
+      {{ with .Get "title" }}
+        <h3 class="f4 fw6 mt0 mb0 dark-gray lh-title">
+          {{ . | safeHTML }}
+        </h3>
+      {{ end }}
+
+    </div>
+
+    <!-- Text -->
+    <div class="f6 lh-copy mid-gray">
+      {{ .Inner | markdownify }}
+    </div>
+
+  </div>
+
+</article>

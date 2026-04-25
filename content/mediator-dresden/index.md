@@ -1,5 +1,5 @@
 ---
-title: "Mediator in Dresden – Mediation & Konfliktklärung"
+title: "Mediator in Dresden – Konflikte in Familie, Pflege & Nachbarschaft klären"
 description: "Systemischer Mediator in Dresden und Sachsen. Familienmediation bei Pflege, Erbe, Nachbarschaft und Übergängen. Kostenloses Erstgespräch."
 summary: "Systemischer Mediator in Dresden und Sachsen. Familienmediation bei Pflege, Erbe, Nachbarschaft und Übergängen. Kostenloses Erstgespräch."
 slug: "mediator-dresden"
@@ -14,8 +14,6 @@ keywords:
   - "Erbstreit Mediation Dresden"
   - "außergerichtliche Einigung Dresden"
   - "systemischer Mediator Dresden"
-featured_image: "mediator-dresden.png"
-image: "mediator-dresden.png"
 toc: true
 date: 2026-02-28
 lastmod: 2026-03-22
@@ -34,11 +32,15 @@ faq:
     answer: Ja. Als Mediator bin ich zur Verschwiegenheit verpflichtet. Alle Inhalte einer Mediation unterliegen der Vertraulichkeit und können nicht in einem späteren Gerichtsverfahren verwendet werden.
   - question: Kann Mediation ein Gerichtsverfahren ersetzen?
     answer: In vielen Fällen kann Mediation helfen, gerichtliche Auseinandersetzungen zu vermeiden oder vorzubereiten. Sie ersetzt jedoch keine rechtliche Beratung. Mediation und anwaltliche Beratung können gut kombiniert werden.
+
+image: "mediator-dresden.png"
+featured_image: "mediator-dresden.png"
+
 ---
 
-Als **systemischer Mediator und Konfliktberater in Dresden** begleite ich Menschen, die festgefahrene Konflikte klären möchten – in der Familie, im Pflegekontext, in Hausgemeinschaften oder in Übergangssituationen.
+Wenn Gespräche in der Familie festgefahren sind, Nachbarschaftskonflikte eskalieren oder Entscheidungen im Pflegekontext nicht mehr gemeinsam getroffen werden können, begleite ich Sie als Mediator in Dresden dabei, wieder ins Gespräch zu kommen.
 
-Wenn Gespräche nicht mehr möglich scheinen, schaffe ich einen strukturierten, geschützten Rahmen. Ziel ist nicht Sieg oder Niederlage – sondern Klarheit, Verständigung und tragfähige Lösungen.
+Ich biete dafür einen strukturierten und geschützten Rahmen, in dem Verständigung wieder möglich wird. Ziel ist nicht Sieg oder Niederlage, sondern Klarheit, tragfähige Vereinbarungen und eine Lösung, mit der die Beteiligten weiterarbeiten können.
 
 Viele Konflikte haben ähnliche Muster – unabhängig vom konkreten Thema.
 
@@ -58,7 +60,6 @@ Ich arbeite in **Dresden und im Umkreis von 50 km** – u. a. in Radebeul, Freit
 Viele Konflikte eskalieren unnötig – weil Gespräche abbrechen, Rollen unklar sind oder Erwartungen nicht ausgesprochen werden.
 
 Als Mediator in Dresden unterstütze ich Sie dabei,
-
 - Konflikte außergerichtlich zu klären
 - Missverständnisse aufzulösen
 - Interessen statt Positionen sichtbar zu machen
@@ -93,15 +94,13 @@ Typische Gesprächsdynamiken in Familien:
 
 → [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
 
-Zur Einordnung typischer Dynamiken:
-
-→ [Schwierige Gespräche in der Familie führen]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
-
 ---
 
 ## Mediation bei Pflegekonflikten in Dresden
 
 Pflege verändert Familienstrukturen. Unklare Verantwortlichkeiten, Überforderung oder finanzielle Fragen führen schnell zu Spannungen.
+
+Besonders häufig entstehen Konflikte, wenn Verantwortung unklar verteilt ist oder Entscheidungen unter Zeitdruck getroffen werden müssen.Besonders häufig entstehen Konflikte, wenn Verantwortung unklar verteilt ist oder Entscheidungen unter Zeitdruck getroffen werden müssen.
 
 Ich begleite Gespräche bei:
 - Organisation häuslicher Pflege
@@ -160,6 +159,7 @@ Wann Mediation sinnvoll ist – und wann nicht:
 Zur Einordnung typischer Nachbarschaftskonflikte:
 
 → [Nachbarschaftskonflikte klären – Mediation statt Eskalation]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
+
 ---
 
 ## Wie läuft eine Mediation ab?
