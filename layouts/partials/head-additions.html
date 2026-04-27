@@ -193,8 +193,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- noindex -->
 {{ $noindex := false }}
 
+{{ $noindexTaxonomies := slice "tags" "categories" }}
+
 {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
-  {{ $noindex = true }}
+  {{ if in $noindexTaxonomies .Type }}
+    {{ $noindex = true }}
+  {{ end }}
 {{ end }}
 
 {{ if eq .Section "leadmagnets" }}

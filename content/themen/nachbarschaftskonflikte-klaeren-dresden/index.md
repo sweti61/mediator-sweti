@@ -200,3 +200,12 @@ Wenn Sie merken, dass ein Nachbarschaftskonflikt Sie beschäftigt oder belastet,
 kann ein erster Austausch helfen, die Situation einzuordnen.
 
 👉 {{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+
+---
+
+### Wenn die Situation festgefahren ist
+
+Im Praxisaufbau 2026/2027 begleite ich auch Nachbarschaftskonflikte
+kostenfrei – wenn alle Beteiligten ehrlich am Verfahren mitwirken wollen.
+
+Aufnahme und Bedingungen: → [Praxisaufbauprogramm 2026/2027](/angebote/praxisaufbau-mediation-dresden/)

@@ -4,7 +4,7 @@ slug: "fuehrung_verwaltung"
 description: "Systemisch denken, wirksam führen: Ich unterstütze Führungskräfte und Verwaltungsverantwortliche bei Rollenklärung, Entscheidungsfindung und Teamkommunikation."
 summary: "Strukturiertes Coaching und Beratung für Menschen in Leitungsrollen – mit Raum für Reflexion, neue Perspektiven und Klarheit im Handeln."
 keywords: ["Führungskräfte Coaching", "Verwaltung Führung", "systemische Beratung Führung", "Leitungsrolle klären", "Entscheidungen treffen"]
-angebote: ["rolle-klaeren", "veraenderung-durchdenken", "entscheidungen-ermoeglichen", "projektteam-spannung"]
+angebote: ["rolle-klaeren", "veraenderung-durchdenken", "entscheidungen-ermoeglichen", "projektteam-spannung", "beziehungs-und-familiengespraeche", praxisaufbau-mediation-dresden]
 date: 2025-06-04
 layout: "zielgruppe"
 ---

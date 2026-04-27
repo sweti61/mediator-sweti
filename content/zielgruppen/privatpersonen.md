@@ -17,6 +17,8 @@ angebote:
   - elder-mediation
   - familienkonflikt-generationen-dresden
   - erbschaftsstreit-mediation-dresden
+  - beziehungs-und-familiengespraeche
+  - praxisaufbau-mediation-dresden
   
 slug: "privatpersonen"
 date: 2025-06-04

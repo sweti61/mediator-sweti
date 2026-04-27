@@ -20,4 +20,10 @@
     <p><i data-feather="edit-3"></i> <a href="/contact/">Zum Kontaktformular</a></p>
 
   </div>
+  
+    {{ with .Get "note" }}
+    <p class="mt2 mb0 f4 dark-gray lh-copy"><i data-feather="message-square"></i>
+      {{ . | safeHTML }}
+    </p>
+  {{ end }}
 </div>

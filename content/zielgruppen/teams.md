@@ -11,7 +11,9 @@ angebote: [
   "entscheidungen-ermoeglichen",
   "veraenderung-durchdenken",
   "projektteam-spannung",
-  "konfliktpraevention-team"
+  "konfliktpraevention-team",
+  "beziehungs-und-familiengespraeche",
+  "praxisaufbau-mediation-dresden"
 ]
 date: 2025-06-04
 layout: "default"

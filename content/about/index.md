@@ -53,3 +53,7 @@ im deutschsprachigen Raum.
 
 📍 *Dresden und Sachsen* | 💻 *Online europaweit möglich*
 
+Ich befinde mich derzeit in der Aufbauphase meiner Mediationspraxis.
+Was das konkret bedeutet, beschreibe ich im
+[Praxisaufbauprogramm 2026/2027](/angebote/praxisaufbau-mediation-dresden/).
+

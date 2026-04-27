@@ -1,3 +1,7 @@
-<div class="boxed-link">
-  <a href="{{ .Get "url" }}">{{ .Get "text" }}</a>
+<div class="db w-100 mv3 pa2 ba b--moon-gray br2 tl">
+  <a class="db link dark-gray fw6 f4"
+     href="{{ .Get "url" }}"
+     {{ if eq (.Get "newtab") "true" }}target="_blank" rel="noopener noreferrer"{{ end }}>
+    {{ .Get "text" }}
+  </a>
 </div>

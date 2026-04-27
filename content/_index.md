@@ -24,12 +24,17 @@ Erfahren Sie hier mehr über meine Arbeit als [Mediator in Dresden](/mediator-dr
 
 {{< /intro-split >}}
 
-{{< cta-inline 
-  url="https://calendly.com/mediator-sweti" 
-  text="Jetzt kostenloses Erstgespräch vereinbaren"
-  newtab="true"  
->}}
+{{< aktuell title="Aktuell" >}}
+Im Aufbau meiner Mediationspraxis biete ich 2026 und 2027 eine begrenzte
+Anzahl kostenfreier Mediationen und Konfliktberatungen an – für Familien,
+Nachbarschaften und kommunale Adressaten in Dresden.
 
+[Mehr zum Praxisaufbauprogramm 2026/2027 →](/angebote/praxisaufbau-mediation-dresden/)
+
+{{< /aktuell >}}
+
+
+{{< cta-link url="https://calendly.com/mediator-sweti" text="🗨️ Jetzt kostenloses Erstgespräch vereinbaren" newtab="true" >}}
 ---
 
 In unterschiedlichen Lebenssituationen entstehen Konflikte auf ganz eigene Weise.  
@@ -88,7 +93,7 @@ Neben der Arbeit mit Familien begleite ich Organisationen und öffentliche IT-Di
 
 {{< /cards >}}
 
-{{< cta-link url="/zielgruppen/" text="👥 Mehr über meine Zielgruppen" >}}
+{{< cta-link url="/zielgruppen/" text="👥 Mehr über meine Zielgruppen"  >}}
 
 {{< accordion title="📈 Meine Dienstleistungen" >}}
 ### 🔢 [Systemische Prozessberatung]({{< relref "/Dienstleistungen/#prozessberatung">}} "Systemische Prozessberatung")

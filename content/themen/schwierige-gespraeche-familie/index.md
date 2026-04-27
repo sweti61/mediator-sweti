@@ -185,3 +185,12 @@ Vielleicht ist auch einer dieser Aspekte für Ihre Situation relevant:
 
 → [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
 → [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+
+---
+
+### Wenn Sie tieferes Interesse haben
+
+Im Aufbau meiner Praxis biete ich derzeit kostenfreie Mediationen für
+Familien in belastenden Übergängen an – mit voller fachlicher Begleitung.
+
+Voraussetzungen und Aufnahme: → [Praxisaufbauprogramm 2026/2027](/angebote/praxisaufbau-mediation-dresden/)

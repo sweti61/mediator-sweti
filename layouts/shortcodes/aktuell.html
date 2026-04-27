@@ -1,0 +1,11 @@
+<div class="db w-100 mv4 pa4 bl bw2 br2 bg-near-white tl dark-gray" style="border-color:#ffa500;">
+  {{ with .Get "title" }}
+    <div class="f3 fw6 mb3 dark-gray">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  <div class="f4 lh-copy mid-gray">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

@@ -4,7 +4,7 @@ slug: "it"
 description: "Systemische Prozessberatung und Konfliktmoderation für IT-Abteilungen und Dienstleister – wenn Technik und Zusammenarbeit ineinandergreifen müssen."
 summary: "Beratung, Moderation und Mediation an den Schnittstellen von Technik, Organisation und Mensch – für klare Kommunikation, tragfähige Prozesse und wirksame Veränderung."
 keywords: ["IT-Projekt Mediation", "ITIL Konflikte", "Change Kommunikation IT", "DevOps Spannungen lösen", "Konfliktberatung IT"]
-angebote: ["projektteam-spannung", "entscheidungen-ermoeglichen", "veraenderung-durchdenken", "zusammenarbeit-klaeren"]
+angebote: ["projektteam-spannung", "entscheidungen-ermoeglichen", "veraenderung-durchdenken", "zusammenarbeit-klaeren", "beziehungs-und-familiengespraeche", praxisaufbau-mediation-dresden]
 date: 2025-06-04
 layout: "zielgruppe"
 ---

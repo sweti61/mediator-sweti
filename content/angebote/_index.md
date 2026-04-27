@@ -22,7 +22,7 @@ Schau dich gern um – vielleicht findest du genau den Raum, den du gerade brauc
 
 {{< customerjourney >}}
 
-[→ Blogartikeil zu meine Angebote]({{<relref "/tags/dienstleistungen/">}})
+→ [Blogartikeil zu meine Angebote]({{<relref "/tags/dienstleistungen/">}})  
 
-Weitere angebote für Organisationen finden Sie auf [→ beiltschew.de](https://beltschew.de/services/)
+Weitere angebote für Organisationen finden Sie auf [beiltschew.de](https://beltschew.de/services/) → 
 

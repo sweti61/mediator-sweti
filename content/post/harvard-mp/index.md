@@ -4,6 +4,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 title = 'Menschen und Probleme trennen – Eine systemische Kerntechnik in der Organisationsmediation'
 
 description = 'Erfahren Sie, warum das Trennen von Mensch und Problem in der Organisationsmediation entscheidend ist – fundiert erklärt mit systemischen und psychologischen Grundlagen.'
+summary = 'Erfahren Sie, warum das Trennen von Mensch und Problem in der Organisationsmediation entscheidend ist – fundiert erklärt mit systemischen und psychologischen Grundlagen.'
 
 keywords = [
   "Organizational mediation",
