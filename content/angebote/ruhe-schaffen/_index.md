@@ -11,6 +11,8 @@ tags:
 
 date: 2025-06-04
 layout: "angebot"
+noindex: "true"
+
 ---
 
 ## 🌀 Worum geht es?

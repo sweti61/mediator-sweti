@@ -7,6 +7,7 @@ keywords: ["Rollenklärung", "systemisches Coaching", "Führungskraft Reflexion"
 categories: ["angebote"]
 date: 2025-06-04
 layout: "angebot"
+noindex: "true"
 ---
 
 ## 🌀 Worum geht es?
