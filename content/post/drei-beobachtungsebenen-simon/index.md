@@ -16,6 +16,8 @@ date: 2025-06-26
 draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
+
+noindex: true
 ---
 
 {{< metadescription >}}

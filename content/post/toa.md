@@ -12,6 +12,8 @@ date = 2024-08-28T09:20:15+02:00
 
 read_more_copy = 'Mehr über Täter-Opfer-Ausgleich'
 
+noindex= true
+
 +++
 
 Dieser Artikel gibt Ihnen einen Einblick in die Bedeutung und den Ablauf des Täter-Opfer-Ausgleichs und zeigt auf, wie diese Methode zu einer friedlicheren und gerechteren Gesellschaft beitragen kann.

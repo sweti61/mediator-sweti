@@ -20,6 +20,7 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
 
+noindex= true
 +++
 
 {{< metadescription >}}

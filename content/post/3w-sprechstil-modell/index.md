@@ -7,6 +7,9 @@ tags: ["Systemische Beratung", "Mediation", "Coaching", "interaktionen"]
 categories: ["blog"]
 summary: "Der 3W-Sprechstil – Wahrnehmen, Wirkung, Wunsch – ist keine starre Gesprächsformel, sondern ein inneres Navigationssystem für Mediator:innen, Coaches und Berater:innen. Er hilft, Wahrnehmungen zu ordnen, Hypothesen zu bilden und Gespräche in Richtung Verständigung zu führen."
 description: "Wie der 3W-Sprechstil (Wahrnehmen – Wirkung – Wunsch) in Mediation und Coaching als Denkstruktur für den Berater wirkt. Mit Beispielen, wie Mediator:innen durch 3W-Logik Hypothesen bilden und Resonanz fördern. Ein praxisnaher Beitrag für die Arbeit mit Menschen in Übergängen."
+
+noindex: true
+
 ---
 
 {{< metadescription >}}

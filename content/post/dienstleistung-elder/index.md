@@ -9,6 +9,7 @@ date = 2024-06-23T13:29:16+02:00
 
 read_more_copy = 'Mehr über die Dienstleistung Elder-Mediation'
 slug ='dienstleistung-elder'
+noindex=true
 +++
 {{< figure src="elder-mediation2.png">}}
 

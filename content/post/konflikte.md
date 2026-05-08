@@ -7,6 +7,9 @@ description = 'Konflikte, Bedürfnisse, Anerkennung, Zugehörigkeit, Sicherheit,
 date = 2024-06-03T15:55:07+02:00
 
 read_more_copy = 'Mehr über Konflikte'
+
+noindex= true
+
 +++
 
 {{< figure src="/images/konflikte.png">}}

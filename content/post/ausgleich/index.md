@@ -18,6 +18,8 @@ slug = "ausgleich"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 image = "ausgleich.png"
+
+noindex = true
 +++
 
 {{< smartimg

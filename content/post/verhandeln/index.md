@@ -16,6 +16,8 @@ slug = "verhandeln"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 image = "verhandeln.png"
+
+noindex = true
 +++
 
 {{< smartimg

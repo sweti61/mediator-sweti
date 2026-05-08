@@ -15,6 +15,7 @@ draft: false
 image: "klaerungsphase-p2-systemische-mediation.png"
 author: "Dr. Swetoslaw Beltschew"
 toc: true
+noindex: true
 ---
 
 {{< metadescription >}}

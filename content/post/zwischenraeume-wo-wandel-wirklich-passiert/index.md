@@ -10,6 +10,8 @@ date: 2025-10-14
 draft: false
 image: zwischenraeume-wo-wandel-wirklich-passiert.png
 toc: true
+
+noindex: true
 ---
 
 {{< metadescription >}}

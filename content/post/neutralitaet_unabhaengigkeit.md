@@ -12,6 +12,10 @@ read_more_copy = 'Weiter zu Neutralität, Unabhaengigkeit und Allparteilichkeit'
 Keywords=['Neutralität', 'Unabhängigkeit', 'Allparteilichkeit', 'Mediation', 'Konfliktlösung', 'Verfahrensneutralität', 'persönliche Neutralität', 'Vertraulichkeit', 'Eigenverantwortung', 'Gleichbehandlung', 'Unparteilichkeit', 'Mediationsgesetz', 'absolute Verbote', 'relative Verbote', 'Vertrauensbildung', 'Konfliktlösung', 'Gleiche Regeln', 'Transparenz', 'gleicher Zugang zu Informationen', 'unparteiische Unterstützung', 'Selbstreflexion', 'Empathie', 'Verfahren', 'Fairness', 'Nachhaltigkeit']
 
 draft = false
+
+noindex= true
+
+
 +++
 
 ![Neutralität, Unabhängigkeit und Allparteilichkeit](/images/neutral_unabh.png)

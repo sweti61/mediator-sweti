@@ -15,6 +15,8 @@ read_more_copy = 'Mehr über der Zweiervertrag'
 draft = false
 image ='zweiervertrag.png'
 author ="Dr. Swetoslaw Beltschew"
+
+noindex=true
 +++
 
 

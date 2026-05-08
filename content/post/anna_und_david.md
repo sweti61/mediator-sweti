@@ -8,7 +8,11 @@ url='/post/anna_und_david/'
 slug='anna_und_david'
 
 read_more_copy = 'Mehr über die Geschichte von Ana und David'
+
+noindex= true
+
 +++
+
 {{< figure src="/images/anna_und_david.png">}}
 
 Ich erzähle die Geschichte von Anna und David, einem Paar, das sich inmitten einer schwierigen Scheidung befand. Ihre Beziehung war einst voller Liebe und Versprechen, aber im Laufe der Jahre hatten sich Missverständnisse und Unstimmigkeiten angehäuft, und sie fanden sich in einem scheinbar unlösbaren Konflikt wieder.

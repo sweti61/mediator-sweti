@@ -9,8 +9,11 @@ date = 2024-06-03T16:03:46+02:00
 read_more_copy = 'Mehr über IT-Projekte'
 
 draft = true
+
+
 +++
-{{< figure src="/images/it-projekte.png">}}
+
+{{< figure src="it-projekte.png">}}
 
 Mediation bei IT-Projekten ist eine spezialisierte Dienstleistung, die darauf abzielt, [Konflikte]({{< ref "konflikte">}} "Warum entstehen Konflikte?") und Missverständnisse in der komplexen und dynamischen Welt der IT-Projektarbeit zu lösen. IT-Projekte sind oft durch hohe technische Anforderungen, enge Zeitpläne und diverse Teams geprägt, die verschiedene Fachkenntnisse und Perspektiven einbringen. Diese Faktoren können leicht zu Spannungen und Konflikten führen, die den Fortschritt und Erfolg eines Projekts gefährden.
 

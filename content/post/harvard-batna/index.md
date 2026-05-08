@@ -21,6 +21,7 @@ image = "harvard-batna.png"
 
 toc = true
 
+noindex= true
 +++
 
 {{< metadescription >}}

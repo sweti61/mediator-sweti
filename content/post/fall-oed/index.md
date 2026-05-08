@@ -27,6 +27,8 @@ url = "/post/fall-oed/"
 slug = "fall-oed"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
+
+noindex = true
 +++
 
 {{< smartimg

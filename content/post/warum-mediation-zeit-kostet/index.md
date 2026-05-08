@@ -24,6 +24,8 @@ draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 image: warum-mediation-zeit-kostet.png
+
+noindex: true
 ---
 
 {{< metadescription >}}

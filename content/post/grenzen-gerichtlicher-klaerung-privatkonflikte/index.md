@@ -21,6 +21,8 @@ date: 2026-02-03
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+
+noindex: true
 ---
 
 {{< metadescription >}}

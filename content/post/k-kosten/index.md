@@ -7,12 +7,13 @@ description = 'Versteckte Konfliktkosten in Unternehmen erkennen und senken – 
 keywords = ['Konfliktkosten', 'Konfliktmanagement', 'Mediation', 'Konfliktprävention', 'IT-Projekte', 'Konflikte in Organisationen', 'Eisbergmodell', 'Führungskräfte', 'Prozessberatung', 'versteckte Kosten']
 
 date = 2025-04-30T09:01:14+02:00
-
+slug = 'k-kosten'
 read_more_copy = 'Mehr zu Konfliktkosten'
+noindex = true
 
 +++
 
-![Konfliktkosten](/images/k-kosten.png)
+![Konfliktkosten](k-kosten.png)
 
 ## Warum Konflikte mehr kosten, als man denkt
 

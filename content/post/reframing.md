@@ -8,6 +8,9 @@ description = 'Framing und Reframing in der Mediation; Verständnissicherung, Pe
 read_more_copy = "Mehr über der Reframing"
 
 draft = false
+
+noindex= true
+
 +++
 
 

@@ -10,6 +10,9 @@ date = 2024-07-01T16:09:45+02:00
 read_more_copy = 'Empowerment and Recognition'
 url = "/post/empowerment-recognition/"
 slug = "empowerment-recognition"
+
+noindex= true
+
 +++
 
 {{< smartimg

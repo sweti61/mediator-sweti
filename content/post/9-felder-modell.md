@@ -7,6 +7,9 @@ description = 'Das 9-Felder Modell  nach Prof. Joseph Rieforth'
 date = 2024-06-28T12:57:19+02:00
 
 read_more_copy = 'Mehr über die 9-Felder-Modell'
+
+noindex= true
+
 +++
 
 {{< figure src="/images/9FM.png">}}

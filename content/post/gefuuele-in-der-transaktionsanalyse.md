@@ -17,6 +17,7 @@ slug: "gefuuele-in-der-transaktionsanalyse"
 
 read_more_copy: 'Mehr über Gefühle in der Transaktionsanalyse'
 
+noindex: true
 ---
 
 {{< metadescription >}}

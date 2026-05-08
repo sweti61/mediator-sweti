@@ -19,6 +19,7 @@ draft = false
 image ='zweiervertrag.png'
 author ="Dr. Swetoslaw Beltschew"
 
+noindex=true
 +++
 
 {{< smartimg

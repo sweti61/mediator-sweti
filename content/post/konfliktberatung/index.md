@@ -8,10 +8,12 @@ summary = "Konfliktberatung geht tiefer als Mediation: Sie analysiert Ursachen, 
 date = 2024-08-30T11:54:42+02:00
 
 read_more_copy = 'Weiter zu Konfliktberatung'
+slug ='konfliktberatung'
+noindex=true
 
 +++
 
-![Konfliktberatung](/images/konfliktberatung.png)
+![Konfliktberatung](konfliktberatung.png)
 
 
 Stell dir vor, du bist auf hoher See und hast den Kurs verloren. Ein erfahrener Navigator hilft dir, wieder auf Kurs zu kommen und sicher in den Hafen zu gelangen. Ähnlich funktioniert die Konfliktberatung. Sie ist dein persönlicher Navigator, der dich durch stürmische Gewässer führt und dir hilft, aus schwierigen Situationen herauszufinden.

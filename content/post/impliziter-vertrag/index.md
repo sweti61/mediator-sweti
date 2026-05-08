@@ -18,6 +18,10 @@ slug = "impliziter-vertrag"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 image = "impliziter-vertrag.png"
+
+noindex= true
+
+
 +++
 
 {{< smartimg

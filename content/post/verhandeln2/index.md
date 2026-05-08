@@ -20,6 +20,7 @@ slug = "verhandeln2"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 
+noindex = true
 +++
 
 {{< smartimg

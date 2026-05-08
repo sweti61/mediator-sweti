@@ -29,6 +29,7 @@ read_more_copy: 'Mehr zu Auftragsklärung systemisch gestalten'
 draft: false
 author: "Dr. Swetoslaw Beltschew"
 toc: true
+noindex: true
 ---
 
 {{< metadescription >}}

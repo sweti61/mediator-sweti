@@ -9,6 +9,8 @@ read_more_copy = "Mehr über die Konfliktbearbeitung in Studenten-WGs"
 date = 2024-06-19T12:55:23+02:00
 url='/post/mediation-wg/'
 slug='mediation-wg'
+
+noindex=true
 +++
 
 {{< smartimg

@@ -9,6 +9,7 @@ url='/post/proz-mediation/'
 slug='proz-mediation'
 read_more_copy = 'Mehr über Konflikte bei Prozessverbesserungen'
 
+noindex= true
 +++
 
 {{< figure src="/images/proz-mediation.png">}}

@@ -9,11 +9,12 @@ keywords = ['Konfliktcoaching', 'Konfliktlösung', 'Konfliktkompetenz', 'systemi
 date = 2024-09-04T08:24:23+02:00
 
 read_more_copy = 'Mehr über Konfliktcoaching'
-
+slug = 'konfliktcoaching'
+noindex = true
 +++
 
 
-![Konfliktcoaching](/images/konfliktcoaching.png)
+![Konfliktcoaching](konfliktcoaching.png)
 
 
 Stell dir vor, du stehst in einem dichten Wald, umgeben von hohen Bäumen, und hast die Orientierung verloren. Du suchst verzweifelt nach einem Weg, doch jede Richtung scheint gleich zu sein. In diesem Moment wünscht du dir einen Kompass, der dir die richtige Richtung weist. **Konfliktcoaching** ist genau dieser Kompass in stürmischen Zeiten – es hilft dir, aus festgefahrenen Mustern herauszufinden, den eigenen Weg zu erkennen und Konflikte konstruktiv zu bewältigen.

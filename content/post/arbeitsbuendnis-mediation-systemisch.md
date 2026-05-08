@@ -20,6 +20,9 @@ date: 2025-06-08
 toc: true
 
 draft: false
+
+noindex: true
+
 ---
 
 {{< metadescription >}}

@@ -18,6 +18,8 @@ url = "/post/transformation/"
 slug = "transformation"
 author = "Dr. Swetoslaw Beltschew"
 image = "transformation.png"
+
+noindex = true
 +++
 
 {{< smartimg

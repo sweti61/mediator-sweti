@@ -21,6 +21,10 @@ tags:
   - Interaktionen
 categories:
   - Blog
+  
+noindex: true
+
+
 ---
 
 {{< smartimg

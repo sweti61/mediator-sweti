@@ -14,6 +14,8 @@ read_more_copy: 'Mehr zur Kreationsphase in der Mediation'
 author: "Dr. Swetoslaw Beltschew"
 draft: false
 image: "kreationsphase-p3-systemische-mediation.png"
+
+noindex: true
 ---
 
 {{< metadescription >}}

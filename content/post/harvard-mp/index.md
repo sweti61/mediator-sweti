@@ -30,6 +30,8 @@ draft = false
 toc=true
 image="harvard-mp.png"
 
+noindex= true
+
 +++
 
 {{< metadescription >}}

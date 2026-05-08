@@ -8,7 +8,10 @@ date = 2024-05-16T08:30:25+02:00
 
 read_more_copy = 'Mehr über die Vertraulichkeit'
 
+noindex= true
+
 +++
+
 {{< figure src="/images/Mediation3.png">}}
 
 In der Mediation spielt _Vertraulichkeit_ eine entscheidende Rolle, die weit über die bloße _Geheimhaltung_ hinausgeht. Sie dient nicht nur als Grundprinzip des _Konfliktmanagements_, sondern schützt auch die Integrität des gesamten Verfahrens und der beteiligten Parteien.

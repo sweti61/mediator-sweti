@@ -15,6 +15,9 @@ date = 2025-05-16T14:37:55+02:00
 read_more_copy = 'Mehr zu Kohärenzfaktoren-Faktoren systemisch erklärt'
 
 draft = false
+
+noindex= true
+
 +++
 
 {{< metadescription >}}

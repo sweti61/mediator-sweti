@@ -19,6 +19,8 @@ read_more_copy: 'Mehr zur Konflikte umsetzen statt abhaken'
 draft: false
 image: "p4-umsetzungsphase-systemisch.png"
 author: "Dr. Swetoslaw Beltschew"
+
+noindex: true
 ---
 
 {{< metadescription >}}
