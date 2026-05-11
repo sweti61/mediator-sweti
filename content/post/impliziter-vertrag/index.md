@@ -1,5 +1,5 @@
 +++
-categories = ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories = ["Blog"]
 tags = ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", "Organisationsberatung","Verträge in der Transaktionsanalyse"]
 title = "Implizite Verträge in der Transaktionsanalyse: Die ungeschriebenen Spielregeln"
 

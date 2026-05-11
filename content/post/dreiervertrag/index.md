@@ -1,7 +1,5 @@
-
-
 +++
-categories = ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories = ["Blog"]
 tags = ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", "Organisationsberatung", "Verträge in der Transaktionsanalyse"]
 
 title = "Dreierverträge in der Transaktionsanalyse: Rollenklarheit und Systemtransparenz"

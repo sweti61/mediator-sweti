@@ -8,7 +8,7 @@ summary: "Der Zyklus der Hypothesenarbeit zeigt, wie durch Beobachtung, Formulie
 keywords: ["systemische Hypothesenarbeit","Hypothesen Zyklus","systemisches  Denken","Mediation","Coaching","Beratung","Organisation"]
 
 tags: ["Coaching", "Mediation", "Systemische Beratung", "Systemisches Denken"]
-categories: ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories: ["Blog"]
 slug: zyklus-der-hypothesenarbeit-systemisches-denken
 url: "/post/zyklus-der-hypothesenarbeit-systemisches-denken/"
 date: 2025-11-12

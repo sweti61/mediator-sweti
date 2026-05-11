@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Entscheidungsoptionen entwickeln – Drittes Prinzip des Harvard-Konzepts in der Organisationsmediation"

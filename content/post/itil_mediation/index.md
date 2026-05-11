@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'IT-Dienstleister']
 title = 'Konfliktmanagement für ITIL-Prozesse'
 description = 'Dienstleistung Konfliktmanagement für ITIL-Prozesse für mittelständische IT-Dienstleister, ITIL-Prozesse zur Serviceerbringung, agile Methoden, Konflikte zwischen verschiedenen Interessengruppen'

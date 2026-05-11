@@ -18,7 +18,6 @@ tags:
 
 categories:
   - Blog
-  - Systemische Beratung
 
 keywords:
   - Klärungsräume Organisation

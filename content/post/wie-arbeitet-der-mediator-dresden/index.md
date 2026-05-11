@@ -4,7 +4,6 @@ description: "Wie arbeitet ein Mediator in Dresden? Von der ersten Sitzung bis z
 summary: "Ein Mediator ist kein Richter und kein Therapeut – er ist ein strukturierter Begleiter durch schwierige Gespräche. Als Mediator in Dresden zeige ich Ihnen, wie dieser Prozess funktioniert und was ihn so wirksam macht."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Konfliktmanagement

@@ -1,10 +1,10 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationstechniken', 'Interaktionen']
 title = 'Framing und Reframing in der Mediation: Ein Weg zu neuen Perspektiven'
 date = 2024-06-18T13:19:14+02:00
 description = 'Framing und Reframing in der Mediation; Verständnissicherung, Perspektivenwechsel, Lösungssuche, Flexibilität, Kreativität'
-
+slug = "reframing"
 read_more_copy = "Mehr über der Reframing"
 
 draft = false
@@ -18,7 +18,7 @@ In der Welt der Mediation gibt es zwei mächtige Werkzeuge: _Framing und Reframi
 
 **Framing in der Mediation**
 
-![Framing](/images/framing.png)
+![Framing](framing.png)
 
 Framing kann in der Mediation bewusst oder unbewusst genutzt werden, um die Wahrnehmung und das Verhalten der Konfliktparteien zu beeinflussen.
 
@@ -46,7 +46,7 @@ Framing kann in der Mediation bewusst oder unbewusst genutzt werden, um die Wahr
 
 **Reframing: Den Blickwinkel verändern**
 
-![Reframing](/images/reframing.png)
+![Reframing](reframing.png)
 
 Reframing nimmt die bestehenden Deutungen und verändert sie, um neue Perspektiven zu eröffnen. Der Mediator kann verschiedene Techniken einsetzen, um die Konfliktparteien zu einem Perspektivenwechsel zu bewegen und die Situation neu zu bewerten.
 

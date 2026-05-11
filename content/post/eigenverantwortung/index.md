@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediation kurz erklärt', 'MediationsG']
 title = 'Eigenverantwortung in der Mediation: Gemeinsam Lösungen finden'
 description = 'Eigenverantwortung, Mediation MediationG'
@@ -13,7 +13,7 @@ read_more_copy = 'Mehr über die Eigenverantwortung'
 noindex= true
 
 +++
-{{< figure src="/images/Eigenverantwortung.png">}}
+{{< figure src="Eigenverantwortung.png">}}
 
 In der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") trägt jeder seine eigene Verantwortung, um zu einer fairen und ausgewogenen Lösung des Konflikts beizutragen. Dies gilt sowohl für den [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") als auch für die Medianten.
 

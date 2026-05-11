@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement']
 title = '7 unsichtbare Kosten von Konflikten – und warum sie Ihr Unternehmen teuer zu stehen kommen'
 
@@ -10,7 +10,6 @@ date = 2025-04-30T09:01:14+02:00
 slug = 'k-kosten'
 read_more_copy = 'Mehr zu Konfliktkosten'
 noindex = true
-
 +++
 
 ![Konfliktkosten](k-kosten.png)

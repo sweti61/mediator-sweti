@@ -4,7 +4,6 @@ description: "Analyse von Machtasymmetrien in außergerichtlichen Verfahren: Ris
 summary: "Außergerichtliche Verfahren versprechen Entlastung, bergen jedoch erhebliche Risiken, wenn Machtasymmetrien unbeachtet bleiben. Der Beitrag sensibilisiert für verzerrte Ergebnisse, verdeckten Druck und die Grenzen freiwilliger Konfliktklärung."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

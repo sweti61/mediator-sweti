@@ -4,7 +4,6 @@ description: "Warum kommt es zum Kontaktabbruch in der Familie? Dieser Artikel e
 summary: "Ein familiärer Kontaktabbruch entsteht selten plötzlich. Hinter der Distanz stehen meist langjährige Verletzungen, ungelöste Konflikte und belastete Beziehungsmuster. Wer die Dynamik versteht, erkennt: Auch nach einem Abbruch kann Entwicklung möglich bleiben."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Privatpersonen

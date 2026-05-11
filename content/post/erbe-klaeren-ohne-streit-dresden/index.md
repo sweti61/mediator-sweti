@@ -4,7 +4,6 @@ description: "Erbe klären ohne Streit: Wie Familien in Dresden Vermögensfragen
 summary: "Erbstreit entsteht selten wegen des Geldes allein. Wer in Dresden und Umgebung frühzeitig über Vermögen, Erwartungen und Verantwortung spricht, kann Konflikte vermeiden. Dieser Artikel zeigt, wie ein strukturiertes Familiengespräch hilft, Erbe friedlich zu regeln."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Privatpersonen

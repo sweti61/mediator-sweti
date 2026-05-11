@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Verhandeln auf Augenhöhe: Objektive Maßstäbe systemisch nutzen"

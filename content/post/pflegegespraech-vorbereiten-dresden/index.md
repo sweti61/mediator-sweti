@@ -4,7 +4,6 @@ description: "Wie bereite ich ein Pflegegespräch in der Familie vor? Leitfaden 
 summary: "Ein Pflegefall verändert die ganze Familie. Wie gelingt ein strukturiertes Familiengespräch zur Pflege, ohne alte Konflikte neu zu entfachen? Ein praxisnaher Leitfaden für Angehörige in Dresden."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Privatpersonen
@@ -25,7 +24,9 @@ draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 image: "pflegegespraech-vorbereiten-dresden.png"
+noindex: true
 ---
+
 {{< metadescription >}}
 
 {{< smartimg

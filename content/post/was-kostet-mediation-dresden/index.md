@@ -17,8 +17,6 @@ tags:
 
 categories:
   - Blog
-  - Mediation
-
 date: 2026-03-19
 lastmod: 2026-03-19
 draft: false

@@ -18,7 +18,6 @@ tags:
 
 categories:
   - Blog
-  - Systemische Beratung
 date: 2026-01-26
 draft: false
 slug: "rollenklaerung-im-arbeitskontext-mre"

@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition',]
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Pflege']
 title = 'Elder Mediation'
 description = 'Elder-Mediation: Konfliktlösung für ältere Paare'

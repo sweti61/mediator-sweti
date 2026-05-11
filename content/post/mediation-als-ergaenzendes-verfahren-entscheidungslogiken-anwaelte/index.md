@@ -4,7 +4,6 @@ description: "Wann Mediation das juristische Verfahren sinnvoll ergänzt. Entsch
 summary: "Nicht jede Konfliktlage verlangt nach derselben Verfahrenslogik. Mediation ist kein Gegenmodell zum Recht, sondern ein ergänzendes Verfahren mit eigener Rationalität. Dieser Beitrag unterstützt Anwälte bei einer klaren, professionellen Verfahrenswahl."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

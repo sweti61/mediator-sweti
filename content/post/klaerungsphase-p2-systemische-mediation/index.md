@@ -4,7 +4,7 @@ description: "Die Klärungsphase der Mediation ist kein Ort für schnelle Lösun
 summary: "Systemische Perspektiven auf die Klärungsphase (P2) der Mediation: Methoden, Interventionen und Haltung zur Konflikterhellung. Ein fundierter Leitfaden für Profis in Mediation und Konfliktberatung."
 keywords: ["Mediation", "Klärungsphase", "systemische Mediation", "Konfliktklärung", "P2 Mediation", "Konfliktcoaching", "Kommunikation", "systemische Intervention", "zirkuläres Fragen", "Eisberg-Modell"]
 tags: ["mediation", "phasen-der-mediation"]
-categories: ["Mediation"]
+categories: ["Blog"]
 slug: klaerungsphase-p2-systemische-mediation
 url: "/post/klaerungsphase-p2-systemische-mediation/"
 date: 2025-06-17

@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', '3 Grundgedanken der Mediation']
 
 keywords =['Mediationsrolle', 'Ausgleichsgedanke', 'Interdependenzgedanke', 'Restorative Justice', 'Konfliktlösung', 'emotionale Wunden', 'Verantwortungsübernahme', 'wechselseitige Abhängigkeit', 'Wiedergutmachung', 'Anerkennung', 'symbolische Gesten', 'strukturierten Dialog', 'Verständnis fördern', 'Beziehungen wiederherstellen', 'Nachhaltigkeit', 'konstruktive Kommunikation', 'Konfliktparteien', 'emotionale Dynamiken', 'soziale Interaktionen', 'gemeinsame Lösungen', 'Vertrauen aufbauen', 'persönliches Wachstum', 'kooperative Lösungsansätze', 'neutraler Dritter', 'Sicherer Raum']

@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'IT-Dienstleister']
 title = 'Mediation bei IT-Projekte'
 description = 'Mediation bei IT-Projekten; komplexen und dynamischen Welt der IT-Projektarbeit; hohe technische Anforderungen, enge Zeitpläne und diverse Teams'
@@ -8,9 +8,9 @@ date = 2024-06-03T16:03:46+02:00
 
 read_more_copy = 'Mehr über IT-Projekte'
 
-draft = true
+draft = false
 
-
+noindex = true
 +++
 
 {{< figure src="it-projekte.png">}}

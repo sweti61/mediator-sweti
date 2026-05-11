@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsprinzipien', 'Mediation kurz erklärt']
 title = 'Ergebnisoffenheit in der Mediation: Was bedeutet das und wie geht man damit um?'
 description = 'Ergebnisoffenheit, Mediation MediationG'
@@ -14,7 +14,7 @@ noindex= true
 
 +++
 
-{{< figure src="/images/Ergebnisoffenheit.png">}}
+{{< figure src="Ergebnisoffenheit.png">}}
 
 
 [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") ist ein [vertraulicher]({{< ref "post/vertraulichkeit" >}} "Vertraulichkeit in der Mediation") Prozess, bei dem die Beteiligten zusammenarbeiten, um eine Lösung für ihren Konflikt zu finden. Aber was bedeutet es, wenn wir von "Ergebnisoffenheit" sprechen?

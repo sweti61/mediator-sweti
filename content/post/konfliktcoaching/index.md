@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konfliktcoaching: Dein persönlicher Kompass in stürmischen Zeiten'
 

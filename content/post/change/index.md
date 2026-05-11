@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['IT-Dienstleister']
 title = 'Change Management ITIL: Zwischen Dringlichkeit und Stabilität – Konflikte lösen mit Mediation'
 description = 'Change Management braucht Klarheit, Kommunikation und Konfliktkompetenz – wie Mediation bei ITIL-Prozessen hilft, zeigt dieser Artikel.'

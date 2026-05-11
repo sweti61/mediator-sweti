@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konfliktberatung: Der Navigator durch schwierige Situationen'
 

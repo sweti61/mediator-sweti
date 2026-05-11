@@ -4,7 +4,6 @@ description: "Was ist Mediation und wie hilft ein Mediator in Dresden? Erfahren 
 summary: "Konflikte belasten – Mediation schafft Klarheit. Als Mediator in Dresden begleite ich Sie und alle Beteiligten dabei, gemeinsam tragfähige Lösungen zu finden. Ohne Richter, ohne Gewinner, ohne Verlierer."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Konfliktmanagement

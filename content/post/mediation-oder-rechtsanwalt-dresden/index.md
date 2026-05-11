@@ -25,6 +25,8 @@ categories:
   - Mediation
 author: "Dr. Swetoslaw Beltschew"
 toc: true
+
+noindex: true
 ---
 
 {{< metadescription >}}

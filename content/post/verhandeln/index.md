@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', '3 Grundgedanken der Mediation', 'Harvard-Konzept']
 title = 'Der Verhandlungsgedanke in der Mediation'
 

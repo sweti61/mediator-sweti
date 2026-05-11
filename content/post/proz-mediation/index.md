@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
 title = 'Konflikte bei Prozessverbesserungen'
 date = 2024-06-05T13:24:31+02:00
@@ -12,7 +12,7 @@ read_more_copy = 'Mehr über Konflikte bei Prozessverbesserungen'
 noindex= true
 +++
 
-{{< figure src="/images/proz-mediation.png">}}
+{{< figure src="proz-mediation.png">}}
 
 **Prozessoptimierungsmediation: Konflikte bei Prozessverbesserungen erfolgreich meistern**
 

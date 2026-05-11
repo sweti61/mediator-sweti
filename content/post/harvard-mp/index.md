@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 title = 'Menschen und Probleme trennen – Eine systemische Kerntechnik in der Organisationsmediation'
 

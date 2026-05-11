@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Fallgeschichten']
 title = 'Fallgeschichte: Wenn der Konflikt die Arbeit blockiert – Ein Fall aus dem öffentlichen Dienst'
 

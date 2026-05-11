@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Fokus auf Interessen statt Positionen – Ein systemischer Zugang zur Verhandlungsführung"

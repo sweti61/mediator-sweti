@@ -1,9 +1,9 @@
 +++
-categories = ['Blog', 'Mediation', 'Coaching']
+categories = ['Blog']
 tags = ['Mediation', 'Mediationsgrundlagen', 'Interaktionen']
 title = 'Das 9-Felder-Methode nach Prof. Joseph Rieforth'
 description = 'Das 9-Felder Modell  nach Prof. Joseph Rieforth'
- 
+slug="9-felder-modell"
 date = 2024-06-28T12:57:19+02:00
 
 read_more_copy = 'Mehr über die 9-Felder-Modell'
@@ -12,7 +12,7 @@ noindex= true
 
 +++
 
-{{< figure src="/images/9FM.png">}}
+{{< figure src="9FM.png">}}
 
 Das Neun-Felder-Modell von Prof. Joseph Rieforth aus Oldenburg ist ein Coaching- und Beratungswerkzeug. Es unterstützt Klienten darin, die erlebten Problembereiche differenziert wahrzunehmen und damit verbundene Interessen und Bedürfnisse zu erkennen. Mit der stark ressourcenorientierten Arbeit wird Veränderung ermöglicht.
 

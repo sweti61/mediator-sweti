@@ -12,7 +12,6 @@ keywords:
   - Zeitfaktor Familiengericht
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

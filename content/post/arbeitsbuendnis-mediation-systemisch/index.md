@@ -27,7 +27,7 @@ noindex: true
 
 {{< metadescription >}}
 
-{{< figure src="/images/arbeitsbuendnis-mediation-systemisch.png" width="80%" height="auto">}}
+{{< figure src="arbeitsbuendnis-mediation-systemisch.png" width="80%" height="auto">}}
 
 
 ## 1. Einleitung: Warum wir über das Arbeitsbündnis reden sollten

@@ -19,7 +19,7 @@ tags:
   - Mediation
   - Phasen der Mediation
 categories:
-  - Systemische Praxis
+  - Blog
 slug: "systemische-auftragsklaerung"
 url: "/post/systemische-auftragsklaerung/"
 date: 2025-06-11

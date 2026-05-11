@@ -9,7 +9,7 @@ summary: "Die Bedeutung von Gefühlen in der Transaktionsanalyse wird betrachtet
 keywords: ["Transaktionsanalyse", "Gefühle", "Coaching", "Mediation", "Ersatzgefühle", "Denkgefühle", "TA"]
 
 tags: ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung"]
-categories: ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories: ["Blog"]
 
 date: 2025-05-28T06:50:24+02:00
 
@@ -22,7 +22,7 @@ noindex: true
 
 {{< metadescription >}}
 
-{{< figure src="/images/gefuuele-in-der-transaktionsanalyse.png">}}
+{{< figure src="gefuuele-in-der-transaktionsanalyse.png">}}
 
 
 ## 1. **Einleitung**

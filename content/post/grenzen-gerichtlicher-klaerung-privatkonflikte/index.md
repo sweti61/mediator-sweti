@@ -4,7 +4,6 @@ description: "Wann gerichtliche Entscheidungen stabilisieren – und wann sie Ko
 summary: "Gerichtliche Entscheidungen schaffen Klarheit und Stabilität – stoßen in hoch eskalierten Privatkonflikten jedoch an strukturelle Grenzen. Eine Einordnung der Verfahrenslogik für die anwaltliche Praxis."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

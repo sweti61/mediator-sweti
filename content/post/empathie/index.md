@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement']
 title = 'Empathie als Voraussetzung für ein besseres Verständnis, Vertrauen und eine tiefere Verbindung zwischen den Gesprächspartnern in der Mediation'
 
@@ -14,7 +14,7 @@ noindex= true
 
 +++
 
-{{< figure src="/images/empathie.png">}}
+{{< figure src="empathie.png">}}
 
 
 _"Empathie bedeutet, die Dinge mit den Augen des anderen zu sehen, nicht unsere eigenen Augen auf ihn zu richten."_ – Carl Rogers

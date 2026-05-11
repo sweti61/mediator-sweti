@@ -9,7 +9,7 @@ keywords = ["systemische Hypothesen", "Hypothesenbildung", "systemische Beratung
 
 tags = ["Coaching", "Mediation", "Systemische Beratung", "Systemisches Denken"]
 
-categories = ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories = ["Blog"]
 
 date = 2025-05-28T07:14:47+02:00
 

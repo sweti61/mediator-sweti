@@ -4,7 +4,6 @@ description: "Warum Mediation Zeit braucht, wie Verzögerungsstrategien wirken u
 summary: "Mediation kostet Zeit – nicht aus Ineffizienz, sondern weil sie Konflikte an der richtigen Stelle bearbeitet. Der Beitrag ordnet ein, wann diese Zeit gut investiert ist und wann Vorsicht geboten ist."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

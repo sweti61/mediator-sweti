@@ -1,9 +1,9 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen']
 title = 'Warum entstehen Konflikte?'
 description = 'Konflikte, Bedürfnisse, Anerkennung, Zugehörigkeit, Sicherheit, Strokes, Psychologische Spiele, Verhaltensmuster'
-
+slug = "konflikte"
 date = 2024-06-03T15:55:07+02:00
 
 read_more_copy = 'Mehr über Konflikte'
@@ -12,7 +12,7 @@ noindex= true
 
 +++
 
-{{< figure src="/images/konflikte.png">}}
+{{< figure src="konflikte.png">}}
 
 _Konflikte_ gehören zum Leben dazu, aber warum entstehen sie überhaupt? Oft sind die Gründe tief in unseren psychologischen Grundbedürfnissen und Verhaltensmustern verwurzelt. Hier möchte ich einige der Hauptursachen erläutern und zeigen, wie diese Konflikte entstehen können.
 

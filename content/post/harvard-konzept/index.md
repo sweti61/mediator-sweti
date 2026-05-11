@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Entfaltung statt Eskalation – Das Harvard-Konzept als systemischer Rahmen für Mediation und Verhandlung"

@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Elder-Mediation', 'Dienstleistungen', 'Pflege']
 title = 'Dienstleistung Elder Mediation'
 description = 'Elder-Mediation: Dienstleistungen; Pflege und Betreuung, Wohnsituation, finanzielle Angelegenheiten, Gesundheitsentscheidungen, familiäre Beziehungen, Multigenerationale Beteiligung, Personzentrierter Ansatz'

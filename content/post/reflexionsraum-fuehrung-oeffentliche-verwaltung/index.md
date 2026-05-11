@@ -16,7 +16,6 @@ tags:
   - Mediation
 categories:
   - Blog
-  - Systemische Beratung
 slug: "reflexionsraum-fuehrung-oeffentliche-verwaltung"
 url: "/post/reflexionsraum-fuehrung-oeffentliche-verwaltung"
 date: 2026-01-28

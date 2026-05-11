@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Mediation', 'Coaching']
+categories = ['Blog']
 tags = ['Mediation', 'Mediationsgrundlagen', 'Interaktionen']
 
 title = "Die Kohärenzfaktoren nach Rieforth – systemische Vertiefung der 9-Felder-Methode"
@@ -11,7 +11,7 @@ keywords = ["Kohärenzfaktoren", "Rieforth", "9-Felder-Modell", "systemisch", "K
 linktitle = "Kohärenzfaktoren systemisch erklärt"
 
 date = 2025-05-16T14:37:55+02:00
-
+slug="9-felder-modell-kochernz"
 read_more_copy = 'Mehr zu Kohärenzfaktoren-Faktoren systemisch erklärt'
 
 draft = false
@@ -24,7 +24,7 @@ noindex= true
 
 Die Kohärenzfaktoren nach Rieforth vertiefen das 9-Felder-Modell systemisch. Entdecke, wie Emotionen, Kognition, Sinn, Körper, Verhalten und Wahrnehmung wirksam in Coaching, Mediation und Beratung integriert werden – mit Beispielen und Anwendungstipps.
 
-{{< figure src="/images/9FM-kocherenz.png">}}
+{{< figure src="9FM-kocherenz.png">}}
 
 
 ## Einleitung: Von Struktur zu Tiefe – eine systemische Fortsetzung

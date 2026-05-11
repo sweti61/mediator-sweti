@@ -1,18 +1,18 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', 'Mediationsprinzipien', 'Mediation kurz erklärt', 'MediationsG']
 title = 'Die Bedeutung der Vertraulichkeit in der Mediation'
 description = 'Vertraulichkeit spielt eine entscheidende Rolle, die weit über die  Geheimhaltung hinausgeht. Sie dient nicht nur als Grundprinzip des Konfliktmanagements, sondern schützt  die Integrität des  Verfahrens und der  Parteien'
 summary = "Vertraulichkeit ist das Rückgrat jeder Mediation: Sie schützt nicht nur vor öffentlicher Bloßstellung, sondern sichert auch, dass Informationen aus dem Verfahren nicht in späteren Gerichtsprozessen verwendet werden dürfen – und schafft so den geschützten Raum für offene, ehrliche Kommunikation."
 date = 2024-05-16T08:30:25+02:00
-
+slug = "Vertraulichkeit"
 read_more_copy = 'Mehr über die Vertraulichkeit'
 
 noindex= true
 
 +++
 
-{{< figure src="/images/Mediation3.png">}}
+{{< figure src="Mediation3.png">}}
 
 In der Mediation spielt _Vertraulichkeit_ eine entscheidende Rolle, die weit über die bloße _Geheimhaltung_ hinausgeht. Sie dient nicht nur als Grundprinzip des _Konfliktmanagements_, sondern schützt auch die Integrität des gesamten Verfahrens und der beteiligten Parteien.
 

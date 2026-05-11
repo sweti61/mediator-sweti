@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['IT-Dienstleister']
 title = 'Konfliktmanagement ITIL: SLAs als Zündstoff im Service Level Management (SLM)'
 

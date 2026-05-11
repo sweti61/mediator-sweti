@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', 'Mediationsstile']
 title = 'Empowerment and Recognition'
 description = 'wie Mediatoren Empowerment und Recognition nutzen; Selbstbewusstsein und das Verständnis der Konfliktparteien stärken.'

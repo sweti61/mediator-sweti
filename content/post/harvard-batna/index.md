@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Entwicklung und Vergleich der BATNA – Handlungsfähigkeit durch Verhandlungsalternativen stärken"

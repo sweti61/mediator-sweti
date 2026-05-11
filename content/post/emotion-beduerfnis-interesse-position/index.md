@@ -4,7 +4,7 @@ description: "Warum Emotionen, Bedürfnisse, Interessen und Positionen in Konfli
 summary: "Warum wir in Konflikten über Positionen sprechen, auf Emotionen reagieren und Bedürfnisse meinen – ein integratives Modell für Klarheit in Mediation, Coaching und Organisationsberatung."
 keywords: ["Mediation", "Konfliktklärung", "systemische Beratung", "Harvard-Konzept", "Gewaltfreie Kommunikation", "Bedürfnisse", "Interessen", "Positionen", "Führung", "Kommunikation"]
 tags: ["Coaching", "Mediation", "Systemische Beratung", "Systemisches Denken"]
-categories: ["Blog", "Coaching", "Mediation", "Systemische Beratung"]
+categories: ["Blog"]
 read_more_copy: 'Mehr über Emotion – Bedürfnis – Interesse – Position'
 slug: "emotion-beduerfnis-interesse-position"
 url: "/post/emotion-beduerfnis-interesse-position/"

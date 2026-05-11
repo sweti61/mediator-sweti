@@ -3,7 +3,7 @@ title: "Wie ich Mediator wurde – die Geschichte hinter einer zweiten Professio
 description: "Nach 35 Jahren in der sächsischen Verwaltung baue ich eine Mediationspraxis auf. Der Weg dorthin: keine plötzliche Berufung, sondern eine schleichende Erkenntnis aus Beruf und Privatleben."
 summary: "Wie aus einem Verwaltungs-IT-Manager ein Mediator wurde. Eine biografische Erzählung über schwierige Gespräche, vermiedene Konflikte und den Weg in eine zweite Profession."
 categories:
-  - Mediation
+  - blog
 tags:
   - Mediation
 keywords:

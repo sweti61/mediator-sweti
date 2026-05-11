@@ -4,7 +4,6 @@ description: "Warum hoch eskalierte Nachbarschaftskonflikte selten lösbar sind:
 summary: "Wenn Nachbarschaftskonflikte über Jahre eskalieren, geht es oft nicht mehr um den ursprünglichen Anlass. Der Beitrag ordnet ein, warum Verständigung dann häufig scheitert – und welche Rolle Verfahren realistisch spielen können."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

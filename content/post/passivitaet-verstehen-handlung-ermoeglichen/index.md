@@ -7,7 +7,7 @@ summary = "Passivität ist kein Zeichen von Schwäche, sondern ein Schutzmechani
 
 tags = ["Transaktionsanalyse", "Mediation"]
 
-categories = ["Beratung", "Mediation", "Coaching"]
+categories = ["Blog"]
 
 slug = "passivitaet-verstehen-handlung-ermoeglichen"
 url = "/post/passivitaet-verstehen-handlung-ermoeglichen/"

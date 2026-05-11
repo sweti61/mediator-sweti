@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'fallgeschichten', 'Nachbarschaftskonflikt']
 
 title = "Ein Zaun zu viel – Wenn Nachbarn sich trennen (und wiederfinden)"

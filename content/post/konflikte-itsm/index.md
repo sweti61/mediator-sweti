@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['IT-Dienstleister']
 title = 'Wenn Prozesse blockieren – Konflikte in der IT sichtbar machen'
 

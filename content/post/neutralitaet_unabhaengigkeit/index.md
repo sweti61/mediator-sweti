@@ -1,12 +1,12 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsprinzipien', 'MediationsG']
 title = 'Neutralität, Unabhängigkeit und Allparteilichkeit als Grundmerkmale der Mediation'
 
 description = 'Entdecken Sie die zentralen Prinzipien der Mediation: Neutralität, Unabhängigkeit und Allparteilichkeit. Erfahren Sie, wie sie faire und ausgewogene Konfliktlösungen ermöglichen und Vertrauen schaffen.'
 summary = "Neutralität, Unabhängigkeit und Allparteilichkeit sind die tragenden Prinzipien jeder Mediation. Dieser Artikel erklärt, was sie bedeuten, wie das Mediationsgesetz Unabhängigkeit rechtlich sichert – und warum erst ihr Zusammenspiel echtes Vertrauen und faire Konfliktlösung ermöglicht."
 date = 2024-07-31T09:35:30+02:00
-
+slug = "neutralitaet_unabhaengigkeit"
 read_more_copy = 'Weiter zu Neutralität, Unabhaengigkeit und Allparteilichkeit'
 
 Keywords=['Neutralität', 'Unabhängigkeit', 'Allparteilichkeit', 'Mediation', 'Konfliktlösung', 'Verfahrensneutralität', 'persönliche Neutralität', 'Vertraulichkeit', 'Eigenverantwortung', 'Gleichbehandlung', 'Unparteilichkeit', 'Mediationsgesetz', 'absolute Verbote', 'relative Verbote', 'Vertrauensbildung', 'Konfliktlösung', 'Gleiche Regeln', 'Transparenz', 'gleicher Zugang zu Informationen', 'unparteiische Unterstützung', 'Selbstreflexion', 'Empathie', 'Verfahren', 'Fairness', 'Nachhaltigkeit']
@@ -18,7 +18,7 @@ noindex= true
 
 +++
 
-![Neutralität, Unabhängigkeit und Allparteilichkeit](/images/neutral_unabh.png)
+![Neutralität, Unabhängigkeit und Allparteilichkeit](neutral_unabh.png)
 
 In den beiden Artikel [Eigenverantwortung in der Mediation: Gemeinsam Lösungen finden]({{< ref "post/eigenverantwortung">}} "Eigenverantwortung in der Mediation") und [Die Bedeutung der Vertraulichkeit in der Mediation]({{< ref "post/vertraulichkeit">}} "Vertraulichkeit") habe ich zwei Grundprinzipien der Mediation vorgestellt.  Dieser Artikel betrachtet drei weitere Prinzipien der Mediation – Neutralität, Unabhängigkeit und Allparteilichkeit –, die allerdings nicht voneinander unabhängig sind.
 

@@ -9,6 +9,8 @@ categories: ["blog"]
 keywords: ["Ruhestand", "Übergänge", "Veränderung", "systemische Beratung", "Coaching", "Identität", "Selbstgestaltung", "Lebensphasen"]
 author: "Swetoslaw Beltschew"
 draft: false
+
+noindex: true
 ---
 {{< metadescription >}}
 

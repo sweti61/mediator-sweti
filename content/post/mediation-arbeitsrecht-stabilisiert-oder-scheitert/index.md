@@ -4,7 +4,6 @@ description: "Wann Mediation im Arbeitsrecht Arbeitsbeziehungen stabilisiert –
 summary: "Mediation kann Arbeitsverhältnisse stabilisieren – oder Konflikte verlängern. Entscheidend ist nicht die Methode, sondern die Logik des Konflikts. Dieser Beitrag schafft Klarheit darüber, wann Mediation im Arbeitsrecht trägt – und wann nicht."
 categories:
   - Blog
-  - Mediation
 tags:
   - Mediation
   - Fuer Rechtsanwelte

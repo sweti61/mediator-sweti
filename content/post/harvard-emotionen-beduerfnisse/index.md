@@ -7,7 +7,7 @@ summary = "Dieser Artikel verknüpft die fünf Grundbedürfnisse nach Shapiro & 
 
 keywords = ["Harvard-Konzept", "emotionale Grundbedürfnisse", "Shapiro und Fisher", "Transaktionsanalyse", "Systemische Beratung", "Mediation", "Konfliktlösung", "Gefühle und Bedürfnisse"]
 
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 
 
