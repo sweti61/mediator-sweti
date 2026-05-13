@@ -6,13 +6,6 @@ summary: "Begleitung für Teams in sozialen Einrichtungen, Pflege und Verwaltung
 keywords: ["Teamberatung", "Teamkonflikte", "Moderation Teamgespräche", "Teamcoaching Pflege", "Klärung im Team", "Zusammenarbeit verbessern", "systemische Teamentwicklung"]
 categories: ["zielgruppen"]
 angebote: [
-  "vertrauen-aufbauen",
-  "zusammenarbeit-klaeren",
-  "entscheidungen-ermoeglichen",
-  "veraenderung-durchdenken",
-  "projektteam-spannung",
-  "konfliktpraevention-team",
-  "beziehungs-und-familiengespraeche",
   "praxisaufbau-mediation-dresden"
 ]
 date: 2025-06-04
@@ -28,6 +21,8 @@ Belastung durch unklare Rollen, verdeckte Konflikte, Veränderungsdruck oder hoh
 
 **Was diese Zielgruppe durch meine Unterstützung gewinnt:**  
 In moderierten Klärungsgesprächen, reflektierenden Formaten oder strukturierten Prozessbegleitungen erleben Teams, dass sie gemeinsam Lösungen entwickeln können. Vertrauen wächst, Rollen werden geklärt, Spannungen reduziert – und eine tragfähige, resiliente Arbeitsbasis entsteht.
+
+🌐 Mehr über diese Zielgruppe finden Sie unter **{{< extlink "https://beltschew.de">}} beltschew.de {{< /extlink >}}**  
 
 {{< customerjourney >}}
 

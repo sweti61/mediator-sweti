@@ -1,6 +1,7 @@
 ---
 title: "Veränderungen begleiten – für Privatpersonen in Umbruchsphasen"
 description: "Einzelpersonen, Paare oder Angehörige in Lebensübergängen erhalten durch systemische Begleitung Klarheit, Stabilität und Orientierung – ohne Druck, aber mit Tiefe."
+summary: "Einzelpersonen, Paare oder Angehörige in Lebensübergängen erhalten durch systemische Begleitung Klarheit, Stabilität und Orientierung – ohne Druck, aber mit Tiefe."
 keywords: ["Lebensübergänge", "Ruhestand", "Trennung verarbeiten", "Pflegesituation begleiten", "systemische Einzelberatung", "Familiengespräche"]
 categories: ["zielgruppen"]
 angebote:

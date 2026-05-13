@@ -230,4 +230,4 @@ Wenn Sie ähnliche Dynamiken in einem anderen Kontext wiederfinden:
 Wenn Sie merken, dass das Thema Erbe Ihre Familie beschäftigt,  
 kann ein erster Austausch helfen, die Situation einzuordnen.
 
-👉 {{< extlink "https://calendly.com/sweti-mediator" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}

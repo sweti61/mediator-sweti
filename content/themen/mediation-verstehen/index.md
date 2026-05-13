@@ -73,16 +73,6 @@ Manchmal wird gar nicht mehr gesprochen.
 
 ---
 
-### Konflikte in Organisationen
-
-- unklare Rollen  
-- Spannungen im Team  
-- Konflikte in Projekten  
-
-→ [Zusammenarbeit in Organisationen klären]({{< relref "/angebote/zusammenarbeit-klaeren/" >}})
-
----
-
 Diese Situationen sind unterschiedlich –  
 aber sie haben etwas gemeinsam:
 

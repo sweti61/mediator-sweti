@@ -174,7 +174,6 @@ Oft reichen 1–3 Sitzungen. Nachbarschaftskonflikte lassen sich bei vorhandener
 |---|---|
 | Nachbarschaftskonflikt — beide Seiten gesprächsbereit | Mediation – diese Seite |
 | Sie möchten sich zunächst allein vorbereiten | [Konfliktklärung vorbereiten]({{< relref "/angebote/konfliktklaerung-vorbereiten/">}}) |
-| Das Gespräch stockt, Entscheidungen sind blockiert | [Entscheidungen ermöglichen]({{< relref "/angebote/entscheidungen-ermoeglichen/">}}) |
 | Sie möchten das Gespräch wieder öffnen | [Beziehung beruhigen]({{< relref "/angebote/beziehung-beruhigen/">}}) |
 | Konflikt ist hoch eskaliert, Gericht wird erwogen | [Wann Mediation, wann Rechtsanwalt?]({{< relref "/post/mediation-oder-rechtsanwalt-dresden/">}}) |
 {class="UserTable"}

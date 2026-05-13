@@ -4,7 +4,9 @@ slug: "it"
 description: "Systemische Prozessberatung und Konfliktmoderation für IT-Abteilungen und Dienstleister – wenn Technik und Zusammenarbeit ineinandergreifen müssen."
 summary: "Beratung, Moderation und Mediation an den Schnittstellen von Technik, Organisation und Mensch – für klare Kommunikation, tragfähige Prozesse und wirksame Veränderung."
 keywords: ["IT-Projekt Mediation", "ITIL Konflikte", "Change Kommunikation IT", "DevOps Spannungen lösen", "Konfliktberatung IT"]
-angebote: ["projektteam-spannung", "entscheidungen-ermoeglichen", "veraenderung-durchdenken", "zusammenarbeit-klaeren", "beziehungs-und-familiengespraeche", praxisaufbau-mediation-dresden]
+angebote: [
+	praxisaufbau-mediation-dresden
+]
 date: 2025-06-04
 layout: "zielgruppe"
 ---
@@ -17,6 +19,8 @@ Kommunikationsprobleme zwischen Entwicklung und Betrieb, Spannungen bei der Einf
 
 **Was diese Zielgruppe durch meine Unterstützung gewinnt:**  
 Ich kombiniere technisches Verständnis mit systemischer Prozess- und Konfliktberatung. Durch Moderation, Mediation und Rollenklärung entstehen tragfähige Vereinbarungen, transparentere Abläufe und mehr Handlungssicherheit. So wird nicht nur die Technik eingeführt, sondern auch die Zusammenarbeit tragfähig gestaltet.
+
+🌐 Mehr über diese Zielgruppe finden Sie unter **{{< extlink "https://beltschew.de">}} beltschew.de {{< /extlink >}}**  
 
 {{< customerjourney >}}
 

@@ -12,8 +12,6 @@ toc: true
 author: "Swetoslaw Beltschew"
 categories: ["angebote"]
 weight: 3
-aliases:
-  - /angebote/konfliktverstehen/
 ---
 
 # Konfliktklärung vorbereiten – strukturiert und klar
