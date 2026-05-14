@@ -2,15 +2,19 @@
 title: "Konfliktklärung vorbereiten – strukturiert und klar"
 description: "Gesprächsvorbereitung und Mediationsberatung in Dresden. Wenn ein direktes Gespräch noch nicht möglich ist, unterstütze ich bei Analyse, Rollenklärung und nächstem Schritt."
 summary: "Nicht jedes Gespräch ist sofort möglich. Ich unterstütze Sie dabei, Konflikte zu analysieren, Ihre Rolle zu klären und einen tragfähigen nächsten Schritt vorzubereiten."
-categories: ["Angebote"]
-keywords: ["konflikt vorbereiten dresden", "gespräch vorbereiten konflikt", "mediationsberatung dresden", "rollenklärung konflikt", "konfliktanalyse familie"]
+categories: ["marketing"]
+keywords:
+  - "konflikt vorbereiten dresden"
+  - "gespräch vorbereiten konflikt"
+  - "mediationsberatung dresden"
+  - "rollenklärung konflikt"
+  - "konfliktanalyse familie"
 slug: "konfliktklaerung-vorbereiten"
 url: "/angebote/konfliktklaerung-vorbereiten/"
 date: 2026-02-25
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
-categories: ["angebote"]
 weight: 3
 ---
 

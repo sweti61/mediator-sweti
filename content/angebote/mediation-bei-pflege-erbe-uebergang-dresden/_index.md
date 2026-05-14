@@ -1,29 +1,42 @@
 ---
 title: "Mediation bei Pflege, Erbe und Übergang in Dresden"
-description: "Mediation bei Pflege und Erbkonflikten in Dresden. Wenn Gespräche zwischen Generationen schwer werden, unterstütze ich mit strukturierter Klärung. Orientierungsgespräch kostenfrei."
-summary: "Übergänge im Leben brauchen Gespräch – nicht Eskalation. Ich begleite Familien bei Pflege, Erbe und veränderten Rollen in strukturierten Gesprächen zwischen Generationen."
-keywords: ["mediation dresden pflege", "erbkonflikte mediation dresden", "pflegekonflikt geschwister", "erbengemeinschaft konflikt", "pflegeverantwortung geschwister", "mediation bei erbe", "konfliktklärung familie dresden", "gesprächsvorbereitung pflege", "coaching bei pflegebelastung", "gespräche zwischen generationen"]
+description: "Mediation bei Pflege- und Erbkonflikten in Dresden – auch als Elder-Mediation. Ich begleite ältere Menschen, pflegende Angehörige und Familien in strukturierten Gesprächen. Orientierungsgespräch kostenfrei."
+summary: "Übergänge im Leben brauchen Gespräch – nicht Eskalation. Ich begleite ältere Menschen, pflegende Angehörige und Familien bei Pflege, Erbe und veränderten Rollen – als Mediator in Dresden, auch im Format der Elder-Mediation."
+categories: ["marketing"]
+keywords:
+  - "mediation dresden pflege"
+  - "erbkonflikte mediation dresden"
+  - "pflegekonflikt geschwister"
+  - "erbengemeinschaft konflikt"
+  - "pflegeverantwortung geschwister"
+  - "mediation bei erbe"
+  - "konfliktklärung familie dresden"
+  - "gesprächsvorbereitung pflege"
+  - "coaching bei pflegebelastung"
+  - "gespräche zwischen generationen"
+  - "elder-mediation"
+  - "altersmediation"
+  - "mediation für senioren dresden"
+  - "pflegende angehörige schuldgefühle"
+  - "pflegende angehörige entlastung"
+  - "patientenverfügung mediation"
+  - "hofübergabe konflikt"
 slug: "mediation-bei-pflege-erbe-uebergang-dresden"
 url: "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/"
-categories: ["angebote"]
 date: 2026-02-25
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 featured_image: "mediation-pflege-erbkonflikt-dresden-strichbild.png"
-
-tags:
-  - Pflege
-
 ---
 
 **Übergänge im Leben brauchen Gespräch – nicht Eskalation.**  
-*Ich begleite Familien bei Pflege, Erbe und veränderten Rollen in strukturierten Gesprächen zwischen Generationen.*
+*Ich begleite ältere Menschen, pflegende Angehörige und Familien bei Pflege, Erbe und veränderten Rollen – als Mediator in Dresden, auch im Format der Elder-Mediation.*
 
-In solchen Situationen kann eine [Mediation mit einem erfahrenen Mediator in Dresden]({{<relref "/mediator-dresden/">}})  helfen, wieder zu tragfähigen Gesprächen zu finden.
+In solchen Situationen kann eine [Mediation mit einem erfahrenen Mediator in Dresden]({{<relref "/mediator-dresden/">}}) helfen, wieder zu tragfähigen Gesprächen zu finden.
 
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)  
-*Oder zunächst das PDF [„Familiengespräche bei Pflege vorbereiten“](https://drive.google.com/file/d/1OfQouvsYzmqE76p9yl0vH60kh-GdmXkV/view?usp=sharing) herunterladen.*
+*Oder zunächst das PDF [„Familiengespräche bei Pflege vorbereiten"](https://drive.google.com/file/d/1OfQouvsYzmqE76p9yl0vH60kh-GdmXkV/view?usp=sharing) herunterladen.*
 
 ---
 
@@ -38,19 +51,17 @@ Vielleicht erleben Sie es gerade hier in Dresden:
 - In einer Erbengemeinschaft entstehen Misstrauen oder Vorwürfe.  
 - Gespräche enden im Rückzug oder im Streit.
 
-Solche Konflikte entstehen selten plötzlich.  
-Oft beginnen sie leise – mit Überforderung, unausgesprochenen Erwartungen oder dem Gefühl, allein verantwortlich zu sein.
+Solche Konflikte entstehen selten plötzlich. Oft beginnen sie leise – mit Überforderung, unausgesprochenen Erwartungen oder dem Gefühl, allein verantwortlich zu sein.
 
 Was organisatorisch beginnt, wird schnell zu einem Beziehungskonflikt zwischen Generationen.
 
-In solchen Situationen braucht es keinen weiteren Druck.  
-Sondern Struktur.
+In solchen Situationen braucht es keinen weiteren Druck. Sondern Struktur.
 
 ---
 
 ## Pflegeverantwortung klären – Belastung sichtbar machen
 
-Pflege betrifft nie nur Organisation – sondern Beziehungen.
+Pflege betrifft nie nur Organisation – sondern Beziehungen. Viele pflegende Angehörige beschreiben es ähnlich: Man hat angefangen zu helfen – und plötzlich trägt man alles allein. Wer eigene Grenzen benennt, fühlt sich schnell wie jemand, der im Stich lässt. Diese Schuldgefühle sind kein Ausdruck von Schwäche, sondern Folge einer Rolle, die sich oft still entwickelt hat – und die selten ausgesprochen wurde.
 
 Typische Spannungsfelder:
 
@@ -59,10 +70,9 @@ Typische Spannungsfelder:
 - Wer fühlt sich übergangen?  
 - Wer trägt die emotionale Last?  
 
-In moderierten Gesprächen können Belastungen ausgesprochen werden – ohne Schuldzuweisung.  
-Ziel ist nicht, jemanden zu überzeugen, sondern Verantwortung transparenter zu verteilen.
+In moderierten Gesprächen können diese Dynamiken sichtbar gemacht werden – ohne Schuldzuweisung. Welche Rollen haben sich entwickelt, welche davon sind noch tragfähig? Welche Absprachen fehlen, damit Verantwortung fairer verteilt werden kann?
 
-Gerade für pflegende Angehörige entsteht dadurch oft spürbare Entlastung.
+Ziel ist nicht, jemanden zu überzeugen, sondern Verantwortung transparenter zu verteilen. Gerade für pflegende Angehörige entsteht dadurch oft spürbare Entlastung.
 
 ---
 
@@ -80,8 +90,18 @@ Es geht um:
 
 Ich moderiere Erbgespräche als präventiven Raum – bevor juristische Schritte notwendig werden.
 
-Rechtliche Fragen gehören in anwaltliche oder notarielle Beratung.  
-Die Kommunikation zwischen den Beteiligten kann hier strukturiert vorbereitet und begleitet werden.
+Rechtliche Fragen gehören in anwaltliche oder notarielle Beratung. Die Kommunikation zwischen den Beteiligten kann hier strukturiert vorbereitet und begleitet werden.
+
+---
+
+## Elder-Mediation – Konflikte rund um ältere Menschen
+
+Im Alter verändern sich Lebensumstände, Rollen und Beziehungen oft schneller als erwartet. Fragen zu Pflege, Wohnort, Vermögensverteilung oder zum Umgang mit Krankheit können Familien belasten und langjährige Konflikte neu entfachen. Elder-Mediation – auch Altersmediation genannt – schafft dafür einen strukturierten Rahmen, in dem die Stimme der älteren Person im Mittelpunkt steht und nicht im Hintergrund verhandelt wird.
+
+Typische Themen reichen von der Wohnsituation (zuhause bleiben oder in eine Einrichtung?) über Patientenverfügungen und Behandlungsentscheidungen bis hin zu Hofübergaben oder Nachfolgefragen im Familienbetrieb.
+
+Methodisch wird der Prozess auf die Bedürfnisse älterer Menschen abgestimmt: angepasstes Tempo, verständliche Sprache, barrierefreie Räumlichkeiten – auf Wunsch auch Hausbesuche oder Online-Mediation, wenn Familienmitglieder an verschiedenen Orten leben. Bei Bedarf binden wir externe Fachleute ein (Pflegeberater, Anwälte, Ärzte).
+
 ---
 
 ## Welcher nächste Schritt ist sinnvoll?
@@ -97,10 +117,7 @@ Wenn mehrere Beteiligte miteinander sprechen möchten – etwa bei:
 
 kann eine strukturierte Mediation helfen.
 
-Alle Beteiligten sprechen gemeinsam.  
-Positionen werden gehört.  
-Interessen werden transparent.  
-Lösungen werden entwickelt – nicht verordnet.
+Alle Beteiligten sprechen gemeinsam. Positionen werden gehört. Interessen werden transparent. Lösungen werden entwickelt – nicht verordnet.
 
 ---
 
@@ -147,12 +164,15 @@ In solchen Fällen ist zunächst fachliche Unterstützung (juristisch oder thera
 
 ## Rolle und Abgrenzung zur Rechtsberatung
 
-Ich moderiere Gespräche.  
-Ich bewerte keine Rechtsansprüche.  
-Ich ersetze keine anwaltliche Beratung.
+Ich moderiere Gespräche. Ich bewerte keine Rechtsansprüche. Ich ersetze keine anwaltliche Beratung.
 
-Die strukturierte Klärung schafft Gespräch –  
-rechtliche Absicherung erfolgt gegebenenfalls gesondert.
+Die strukturierte Klärung schafft Gespräch – rechtliche Absicherung erfolgt gegebenenfalls gesondert.
+
+---
+
+## Aus meiner Praxis
+
+Eine Familie aus dem Dresdner Umland: Die 78-jährige Mutter lebt noch allein, zwei der drei Kinder möchten einen Heimeinzug – das dritte lehnt das strikt ab. Die Mutter selbst wurde im bisherigen Austausch kaum gehört. In zwei Elder-Mediationssitzungen erhielt sie erstmals den Raum, ihre eigenen Wünsche klar zu benennen. Das Ergebnis: eine gemeinsam getragene Übergangslösung mit klaren Überprüfungsterminen – und ein Familiengespräch, das wieder möglich war.
 
 ---
 
@@ -173,8 +193,7 @@ Wir arbeiten heraus, welche Bedürfnisse, Sorgen oder Befürchtungen hinter Posi
 Gemeinsam werden tragfähige Optionen erarbeitet – ohne Druck, aber mit Klarheit.
 
 **5. Vereinbarung und nächste Schritte**   
-Auf Wunsch werden Ergebnisse schriftlich festgehalten.
-In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
+Auf Wunsch werden Ergebnisse schriftlich festgehalten. In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
 
 ---
 
@@ -186,11 +205,9 @@ In Erb- oder Vermögensfragen kann eine notarielle Begleitung sinnvoll sein.
 ## Weiterführende Angebote
 
 → [Mediation für pflegende Angehörige in Dresden]({{<relref "/pflegende-angehoerige-dresden/">}})   
-→ [Pflegesituation klären – Entlastung für pflegende Angehörige]({{<relref "/angebote/pflege-reflektieren/">}})   
-→ [Ruhe schaffen – für pflegende Angehörige]({{<relref "/angebote/ruhe-schaffen/">}})   
-→ [Elder Mediation in Dresden]({{<relref "/angebote/elder-mediation/">}})   
 → [Erbschaftsstreit klären – Mediation in Dresden]({{< relref "/angebote/erbschaftsstreit-mediation-dresden/">}})   
-
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})   
+→ [Coaching in Übergängen]({{< relref "/angebote/coaching-in-uebergaengen/">}})   
 
 ---
 
@@ -203,4 +220,4 @@ In einem unverbindlichen Gespräch (30–45 Minuten) klären wir:
 - Welcher Rahmen ist sinnvoll?  
 
 👉 [Orientierungsgespräch vereinbaren](https://calendly.com/mediator-sweti)   
-*Oder zunächst das PDF [„Familiengespräche bei Pflege vorbereiten“](https://drive.google.com/file/d/1OfQouvsYzmqE76p9yl0vH60kh-GdmXkV/view?usp=sharing) herunterladen.*
+*Oder zunächst das PDF [„Familiengespräche bei Pflege vorbereiten"](https://drive.google.com/file/d/1OfQouvsYzmqE76p9yl0vH60kh-GdmXkV/view?usp=sharing) herunterladen.*
