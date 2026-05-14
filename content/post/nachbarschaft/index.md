@@ -160,4 +160,5 @@ Diese Methoden sind effektiv, weil sie den Parteien ermöglichen, ihre Sichtweis
 Wenn Nachbarschaftskonflikte eskalieren, kann eine Mediation durch einen [Mediator in Dresden]({{<relref "/mediator-dresden/">}}) helfen, wieder zu konstruktiven Gesprächen zu kommen.
 
 Wenn Konflikte nicht nur die Nachbarschaft, sondern auch Familienmitglieder verschiedener Generationen betreffen:  
-→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/klarkommen-generationen/">}})
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})   
+
