@@ -176,3 +176,24 @@ ErrorDocument 500 /404.html
 # ═══════════════════════════════════════════════════════════════
 # ENDE .htaccess — mediator.sweti.de
 # ═══════════════════════════════════════════════════════════════
+
+# =============================================================================
+# 301-Redirects: Konsolidierung Cluster 1-4 (Mai 2026)
+# =============================================================================
+
+# Cluster 1 - Übergang / Coaching
+RewriteRule ^angebote/orientierung-finden/?$ /angebote/coaching-in-uebergaengen/ [R=301,L]
+
+# Cluster 2 - Pflege & ältere Eltern
+RewriteRule ^angebote/pflege-reflektieren/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+RewriteRule ^angebote/elder-mediation/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+
+# Cluster 3 - Familie & Generationen
+RewriteRule ^angebote/klarkommen-generationen/?$ /angebote/familienkonflikt-generationen-dresden/ [R=301,L]
+
+# Cluster 4 - Karteileiche (Pflege-Belastung)
+RewriteRule ^angebote/ruhe-schaffen/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+
+# =============================================================================
+# Ende Konsolidierung Cluster 1-4
+# =============================================================================
