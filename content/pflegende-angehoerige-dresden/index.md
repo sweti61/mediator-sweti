@@ -140,11 +140,11 @@ Ja. Gerade bei Distanzpflege – wenn Familienmitglieder in verschiedenen Städt
 |---|---|
 | Pflegekonflikt eskaliert, Gespräche allein nicht mehr möglich | Mediation – diese Seite |
 | Konkrete Fragen zu Pflege, Erbe und Übergängen klären | [Mediation bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
-| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/" >}}) |
-| Präventiv sprechen, bevor Konflikt eskaliert | [Familiengespräche bei Pflege und Übergang]({{< relref "/angebote/klarkommen-generationen/" >}}) |
+| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
+| Präventiv sprechen, bevor Konflikt eskaliert | [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}}) |
 | Generationenkonflikt über Pflege und Familienrollen | [Familienkonflikt zwischen den Generationen]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}}) |
-| Ich bin überlastet und brauche Raum für mich | [Ruhe schaffen – für pflegende Angehörige]({{< relref "/angebote/ruhe-schaffen/" >}}) |
-| Pflegeverantwortung im Familienkreis reflektieren | [Pflegesituation klären – Entlastung für pflegende Angehörige]({{< relref "/angebote/pflege-reflektieren/" >}}) |
+|  Ich bin überlastet und brauche Raum für mich | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
+| Pflegeverantwortung im Familienkreis reflektieren | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
 {class="UserTable"}
 
 ---

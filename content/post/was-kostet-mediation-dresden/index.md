@@ -167,4 +167,4 @@ Sie möchten wissen, was Mediation für Ihre konkrete Situation kostet?
 
 ---
 
-*Verwandte Themen: [Mediation für pflegende Angehörige in Dresden](/pflegende-angehoerige-dresden/) · [Elder Mediation in Dresden](/angebote/elder-mediation/) · [Familienkonflikt zwischen den Generationen](/angebote/familienkonflikt-generationen-dresden/) · [Über mich](/about/)*
+*Verwandte Themen: [Mediation für pflegende Angehörige in Dresden](/pflegende-angehoerige-dresden/) · [Mediation bei Pflege, Erbe und Übergang in Dresden](/angebote/mediation-bei-pflege-erbe-uebergang-dresden/) · [Familienkonflikt zwischen den Generationen](/angebote/familienkonflikt-generationen-dresden/) · [Über mich](/about/)*

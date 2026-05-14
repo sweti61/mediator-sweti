@@ -121,7 +121,7 @@ Nicht geeignet bei laufenden Gerichtsverfahren zu denselben Streitpunkten, akute
 |---|---|
 | Erbschaftsstreit zwischen Geschwistern | Mediation – diese Seite |
 | Pflege und Erbe überschneiden sich | [Mediation bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}}) |
-| Älterer Mensch steht im Mittelpunkt | [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/">}}) |
+| Älterer Mensch steht im Mittelpunkt | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}}) |
 | Pflegekonflikt unter Geschwistern | [Mediation für pflegende Angehörige]({{< relref "/pflegende-angehoerige-dresden/">}}) |
 | Generationenkonflikt in der Familie | [Familienkonflikt zwischen den Generationen]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}}) |
 {class="UserTable"}
@@ -132,7 +132,7 @@ Nicht geeignet bei laufenden Gerichtsverfahren zu denselben Streitpunkten, akute
 
 - 👉 [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - 👉 [Erbe klären ohne Streit – wie Familien Vermögensfragen friedlich regeln]({{< relref "/post/erbe-klaeren-ohne-streit-dresden/">}})
-- 👉 [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/">}})
+- 👉 [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - 👉 [Was kostet Mediation in Dresden?]({{< relref "/post/was-kostet-mediation-dresden/">}})
 
 ---

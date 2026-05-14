@@ -66,7 +66,7 @@ Mit unseren maßgeschneiderten Angeboten und einem ganzheitlichen Ansatz zur Kon
 Weitere Informationen und Unterstützung erhalten Sie durch Kontaktaufnahme mit unserem Team. Gemeinsam finden wir die beste Lösung für Ihre WG.
 
 Wenn Konflikte nicht nur die Nachbarschaft, sondern auch Familienmitglieder verschiedener Generationen betreffen:  
-→ [Familiengespräche bei Generationenkonflikten]({{< relref "/angebote/klarkommen-generationen/">}})
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})
 
 
 

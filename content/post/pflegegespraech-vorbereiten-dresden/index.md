@@ -100,7 +100,7 @@ Manchmal gelingt ein ruhiges Gespräch trotz guter Vorbereitung nicht. Wenn Gesp
 Eine Mediation in Dresden bietet einen strukturierten Rahmen, in dem alle Beteiligten zu Wort kommen. Ziel ist nicht eine Einigung um jeden Preis, sondern eine Klärung, die für alle tragfähig ist. Häufig entsteht dadurch nicht nur eine Lösung für die konkrete Pflegefrage, sondern auch mehr gegenseitiges Verständnis.
 
 Mehr zur Mediation bei Pflege, Erbe und Übergängen in Dresden:   
-→ [Familiengespräche bei Pflege und Übergang – wenn mehrere Generationen betroffen sind]({{<relref "/angebote/klarkommen-generationen/">}})
+→ [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{<relref "/angebote/familienkonflikt-generationen-dresden/">}})
 
 ---
 

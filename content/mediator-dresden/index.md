@@ -110,7 +110,7 @@ Ich begleite Gespräche bei:
 
 → [Mediation für pflegende Angehörige in Dresden]({{< relref "/pflegende-angehoerige-dresden/">}})   
 → [Gespräche bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})   
-→ [Elder Mediation in Dresden]({{< relref "/angebote/elder-mediation/">}})   
+→ [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 
 Zur Einordnung typischer Situationen:
 
