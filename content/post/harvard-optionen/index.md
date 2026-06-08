@@ -32,7 +32,8 @@ toc=true
 image="harvard-optionen.png"
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

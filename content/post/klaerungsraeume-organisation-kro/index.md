@@ -37,7 +37,8 @@ readingTime: true
 image: klaerungsraeume-organisation-kro.png
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

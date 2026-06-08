@@ -20,6 +20,10 @@ draft: false
 
 toc: true
 image: in-ruhe-sprechen-familiengespraeche.png
+
+noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< smartimg

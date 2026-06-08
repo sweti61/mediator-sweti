@@ -22,7 +22,8 @@ toc=true
 image="harvard-emotionen-beduerfnisse.png"
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

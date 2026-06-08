@@ -11,7 +11,8 @@ read_more_copy = 'Mehr über die Informirtheit'
 Keywords=['Informiertheit in der Mediation', 'Mediationsprozess', 'Rolle des Mediators', 'Konfliktlösung', 'rechtliche Rahmenbedingungen', 'Mediationsgesetz', 'ZMediatAusbV', 'Supervision', 'Rechtsberatung', 'Vertraulichkeit', 'Nachhaltigkeit der Mediation', 'Informationspflicht Mediator', 'Mediationsvereinbarung', 'Kompetenz Mediator', 'Transparenz in der Mediation', 'juristische Aspekte Mediation', 'Neutralität des Mediators', 'Ausbildung Mediator', 'Fortbildung Mediator', 'Konfliktparteien informieren']
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 ![Informirtheit](informiertheit.png)

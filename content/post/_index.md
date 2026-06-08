@@ -1,7 +1,7 @@
 ---
 title: "Über die Mediation"
 # description: 'Mediation, Mediator'
-date: 2017-03-02T12:00:00+02:00
+date: 2026-08-06
 
 # read_more_copy: "Mehr über die Mediation"
 noindex: true

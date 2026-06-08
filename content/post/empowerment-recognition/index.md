@@ -12,7 +12,8 @@ url = "/post/empowerment-recognition/"
 slug = "empowerment-recognition"
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

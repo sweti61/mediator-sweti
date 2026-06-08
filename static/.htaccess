@@ -1,6 +1,7 @@
 # ═══════════════════════════════════════════════════════════════
 # .htaccess — mediator.sweti.de
-# HUGO · Shared Hosting (Strato) · Stand März 2026
+# HUGO · Shared Hosting (Strato)
+# Stand: Mai 2026
 # ═══════════════════════════════════════════════════════════════
 
 # ───────────────────────────────────────────────────────────────
@@ -12,64 +13,83 @@ RewriteEngine On
 RewriteBase /
 
 # ───────────────────────────────────────────────────────────────
-# HTTPS ERZWINGEN
-# Alle HTTP-Anfragen auf HTTPS umleiten
+# 301-REDIRECTS: KONKRETE ALTE URLS
+# Wichtig: Diese Regeln stehen VOR HTTPS / WWW / Trailing Slash,
+# damit alte URLs direkt auf die finale Ziel-URL gehen.
 # ───────────────────────────────────────────────────────────────
 
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+# Blog-Artikel umbenannt
+RewriteRule ^post/my-first-post/?$ https://mediator.sweti.de/post/was-ist-mediation-mediator-dresden/ [R=301,L]
+RewriteRule ^post/my-second-post/?$ https://mediator.sweti.de/post/wie-arbeitet-der-mediator-dresden/ [R=301,L]
+
+# Testimonials-Seite umbenannt
+RewriteRule ^testimonials/?$ https://mediator.sweti.de/testimoni/ [R=301,L]
+
+# Dienstleistungen gelöscht
+RewriteRule ^dienstleistungen/?$ https://mediator.sweti.de/angebote/ [R=301,L]
+
+# Phantomseite umleiten
+RewriteRule ^post/kreationsphase-moeglichkeitsraeume/?$ https://mediator.sweti.de/post/kreationsphase-p3-systemische-mediation/ [R=301,L]
+
+# itsm zu beltschew.de kopiert
+RewriteRule ^itsm/?$ https://beltschew.de//services/itsm/ [R=301,L]
+
 
 # ───────────────────────────────────────────────────────────────
-# WWW ENTFERNEN
+# 301-REDIRECTS: KONSOLIDIERUNG CLUSTER 1–4
+# ───────────────────────────────────────────────────────────────
+
+# Cluster 1 - Übergang / Coaching
+RewriteRule ^angebote/orientierung-finden/?$ https://mediator.sweti.de/angebote/coaching-in-uebergaengen/ [R=301,L]
+
+# Cluster 2 - Pflege & ältere Eltern
+RewriteRule ^angebote/pflege-reflektieren/?$ https://mediator.sweti.de/angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+RewriteRule ^angebote/elder-mediation/?$ https://mediator.sweti.de/angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+
+# Cluster 3 - Familie & Generationen
+RewriteRule ^angebote/klarkommen-generationen/?$ https://mediator.sweti.de/angebote/familienkonflikt-generationen-dresden/ [R=301,L]
+
+# Cluster 4 - Karteileiche Pflege-Belastung
+RewriteRule ^angebote/ruhe-schaffen/?$ https://mediator.sweti.de/angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
+
+# ───────────────────────────────────────────────────────────────
+# 301-REDIRECTS: B2B-ANGEBOTE
+# mediator.sweti.de → beltschew.de
+# Strategie: Domain-Trennung
+# ───────────────────────────────────────────────────────────────
+
+# Service-Redirects: methodisch exakte Zuordnung
+RewriteRule ^angebote/rolle-klaeren/?$ https://beltschew.de/services/mensch-rolle-erwartungen-mre/ [R=301,L]
+RewriteRule ^angebote/entscheidungen-ermoeglichen/?$ https://beltschew.de/services/klaerungsraeume-organisation/ [R=301,L]
+
+# Zielgruppen-Redirects: Team-Adressierung
+RewriteRule ^angebote/veraenderung-durchdenken/?$ https://beltschew.de/zielgruppen/teams/ [R=301,L]
+RewriteRule ^angebote/projektteam-spannung/?$ https://beltschew.de/zielgruppen/teams/ [R=301,L]
+RewriteRule ^angebote/zusammenarbeit-klaeren/?$ https://beltschew.de/zielgruppen/teams/ [R=301,L]
+RewriteRule ^angebote/vertrauen-aufbauen/?$ https://beltschew.de/zielgruppen/teams/ [R=301,L]
+RewriteRule ^angebote/konfliktpraevention-team/?$ https://beltschew.de/zielgruppen/teams/ [R=301,L]
+
+# ───────────────────────────────────────────────────────────────
+# HTTPS UND CANONICAL HOST ERZWINGEN
+# http → https
 # www.mediator.sweti.de → mediator.sweti.de
+# Beides in EINER Regel, um unnötige Redirect-Ketten zu vermeiden.
 # ───────────────────────────────────────────────────────────────
 
-RewriteCond %{HTTP_HOST} ^www\.mediator\.sweti\.de$ [NC]
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^mediator\.sweti\.de$ [NC]
 RewriteRule ^ https://mediator.sweti.de%{REQUEST_URI} [R=301,L]
 
 # ───────────────────────────────────────────────────────────────
 # TRAILING SLASH ERZWINGEN
-# Wichtig für HUGO: /seite → /seite/
-# Ausnahme: Dateien mit Endung (z.B. .xml, .jpg, .css)
+# Wichtig für Hugo: /seite → /seite/
+# Ausnahme: Dateien mit Endung, z. B. .xml, .jpg, .css, .js
 # ───────────────────────────────────────────────────────────────
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !/$
 RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{1,6}$
-RewriteRule ^ %{REQUEST_URI}/ [R=301,L]
-
-# ───────────────────────────────────────────────────────────────
-# 301-REDIRECTS: UMBENANNTE SEITEN
-# ───────────────────────────────────────────────────────────────
-
-# Blog-Artikel umbenannt (Page Bundles)
-RewriteRule ^post/my-first-post/?$ /post/was-ist-mediation-mediator-dresden/ [R=301,L]
-RewriteRule ^post/my-second-post/?$ /post/wie-arbeitet-der-mediator-dresden/ [R=301,L]
-
-# Testimonials-Seite umbenannt
-RewriteRule ^testimonials/?$ /testimoni/ [R=301,L]
-
-# =============================================================================
-# 301-Redirects: B2B-Angebote von mediator.sweti.de → beltschew.de
-# Stand: Mai 2026
-# Strategie: Domain-Trennung — B2B-Inhalte werden konsequent auf beltschew.de
-# konsolidiert, mediator.sweti.de bleibt fokussiert auf Privatpersonen 50+
-# =============================================================================
-
-# Service-Redirects: methodisch exakte Zuordnung
-Redirect 301 /angebote/rolle-klaeren/ https://beltschew.de/services/mensch-rolle-erwartungen-mre/
-Redirect 301 /angebote/entscheidungen-ermoeglichen/ https://beltschew.de/services/klaerungsraeume-organisation/
-
-# Zielgruppen-Redirects: Team-Adressierung
-Redirect 301 /angebote/veraenderung-durchdenken/ https://beltschew.de/zielgruppen/teams/
-Redirect 301 /angebote/projektteam-spannung/ https://beltschew.de/zielgruppen/teams/
-Redirect 301 /angebote/zusammenarbeit-klaeren/ https://beltschew.de/zielgruppen/teams/
-Redirect 301 /angebote/vertrauen-aufbauen/ https://beltschew.de/zielgruppen/teams/
-Redirect 301 /angebote/konfliktpraevention-team/ https://beltschew.de/zielgruppen/teams/
-
-# =============================================================================
-# Ende B2B-Redirects
-# =============================================================================
+RewriteRule ^ https://mediator.sweti.de%{REQUEST_URI}/ [R=301,L]
 
 # ───────────────────────────────────────────────────────────────
 # FEHLERSEITEN
@@ -87,7 +107,7 @@ ErrorDocument 500 /404.html
 <IfModule mod_expires.c>
   ExpiresActive On
 
-  # HTML: kurz cachen (Inhalt ändert sich)
+  # HTML: kurz cachen
   ExpiresByType text/html                  "access plus 1 hour"
 
   # CSS & JavaScript
@@ -101,7 +121,7 @@ ErrorDocument 500 /404.html
   ExpiresByType image/webp                 "access plus 1 year"
   ExpiresByType image/gif                  "access plus 1 year"
   ExpiresByType image/svg+xml              "access plus 1 year"
-  ExpiresByType image/x-icon              "access plus 1 year"
+  ExpiresByType image/x-icon               "access plus 1 year"
 
   # Fonts
   ExpiresByType font/woff                  "access plus 1 year"
@@ -109,14 +129,13 @@ ErrorDocument 500 /404.html
   ExpiresByType application/font-woff      "access plus 1 year"
   ExpiresByType application/font-woff2     "access plus 1 year"
 
-  # XML (Sitemap, RSS)
+  # XML: Sitemap, RSS
   ExpiresByType application/xml            "access plus 1 day"
   ExpiresByType text/xml                   "access plus 1 day"
 </IfModule>
 
 # ───────────────────────────────────────────────────────────────
-# KOMPRIMIERUNG (GZIP)
-# Kleinere Übertragungsgrößen → schnellere Ladezeiten
+# KOMPRIMIERUNG GZIP
 # ───────────────────────────────────────────────────────────────
 
 <IfModule mod_deflate.c>
@@ -150,15 +169,15 @@ ErrorDocument 500 /404.html
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
 
   # HSTS: Browser merkt sich HTTPS für 1 Jahr
-  # Nur aktivieren wenn HTTPS dauerhaft genutzt wird!
+  # Nur aktivieren, wenn HTTPS dauerhaft korrekt funktioniert.
   Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 
-  # Cache-Header für statische Assets (Hugo fingerprinted files)
+  # Cache-Header für statische Assets
   <FilesMatch "\.(css|js|woff|woff2|jpg|jpeg|png|webp|gif|svg|ico)$">
     Header set Cache-Control "public, max-age=31536000, immutable"
   </FilesMatch>
 
-  # HTML nicht cachen
+  # HTML kurz cachen
   <FilesMatch "\.(html)$">
     Header set Cache-Control "public, max-age=3600, must-revalidate"
   </FilesMatch>
@@ -176,24 +195,3 @@ ErrorDocument 500 /404.html
 # ═══════════════════════════════════════════════════════════════
 # ENDE .htaccess — mediator.sweti.de
 # ═══════════════════════════════════════════════════════════════
-
-# =============================================================================
-# 301-Redirects: Konsolidierung Cluster 1-4 (Mai 2026)
-# =============================================================================
-
-# Cluster 1 - Übergang / Coaching
-RewriteRule ^angebote/orientierung-finden/?$ /angebote/coaching-in-uebergaengen/ [R=301,L]
-
-# Cluster 2 - Pflege & ältere Eltern
-RewriteRule ^angebote/pflege-reflektieren/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
-RewriteRule ^angebote/elder-mediation/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
-
-# Cluster 3 - Familie & Generationen
-RewriteRule ^angebote/klarkommen-generationen/?$ /angebote/familienkonflikt-generationen-dresden/ [R=301,L]
-
-# Cluster 4 - Karteileiche (Pflege-Belastung)
-RewriteRule ^angebote/ruhe-schaffen/?$ /angebote/mediation-bei-pflege-erbe-uebergang-dresden/ [R=301,L]
-
-# =============================================================================
-# Ende Konsolidierung Cluster 1-4
-# =============================================================================

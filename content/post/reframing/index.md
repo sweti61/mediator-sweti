@@ -10,7 +10,8 @@ read_more_copy = "Mehr über der Reframing"
 draft = false
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 

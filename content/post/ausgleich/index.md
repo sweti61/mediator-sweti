@@ -20,6 +20,8 @@ draft = false
 image = "ausgleich.png"
 
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

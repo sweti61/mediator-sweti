@@ -18,6 +18,8 @@ draft = false
 image = "verhandeln.png"
 
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

@@ -26,7 +26,8 @@ toc: true
 read_more_copy: 'Mehr über Mensch – Rolle – Erwartungen (MRE)'
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

@@ -19,6 +19,7 @@ keywords:
 slug: kontaktabbruch-familie-verstehen
 url: /post/kontaktabbruch-familie-verstehen/
 date: 2026-02-26
+lastmod: 2026-02-26
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"

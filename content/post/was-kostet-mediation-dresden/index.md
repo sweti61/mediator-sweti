@@ -24,6 +24,10 @@ toc: true
 slug: "was-kostet-mediation-dresden"
 url: "/post/was-kostet-mediation-dresden/"
 author: "Dr. Swetoslaw Beltschew"
+
+featured: true
+weight: 60
+
 ---
 
 {{< metadescription >}}

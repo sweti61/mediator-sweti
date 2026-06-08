@@ -16,6 +16,8 @@ draft: false
 image: "kreationsphase-p3-systemische-mediation.png"
 
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

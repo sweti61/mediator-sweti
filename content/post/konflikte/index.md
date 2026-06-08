@@ -3,13 +3,15 @@ categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen']
 title = 'Warum entstehen Konflikte?'
 description = 'Konflikte, Bedürfnisse, Anerkennung, Zugehörigkeit, Sicherheit, Strokes, Psychologische Spiele, Verhaltensmuster'
+summary = 'Konflikte, Bedürfnisse, Anerkennung, Zugehörigkeit, Sicherheit, Strokes, Psychologische Spiele, Verhaltensmuster'
 slug = "konflikte"
 date = 2024-06-03T15:55:07+02:00
 
 read_more_copy = 'Mehr über Konflikte'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< figure src="konflikte.png">}}

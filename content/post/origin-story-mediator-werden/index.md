@@ -21,6 +21,9 @@ toc: true
 author: "Dr. Swetoslaw Beltschew"
 image: origin-story-mediator-werden.png
 
+featured: true
+weight: 40
+
 ---
 
 {{< metadescription >}}

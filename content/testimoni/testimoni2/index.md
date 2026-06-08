@@ -10,6 +10,9 @@ url = "/testimoni/testimoni2/"
 images = ["/testimoni/testimoni2/markus-k.png"]
 
 date = 2025-05-21T18:20:31+02:00
+noindex= true
+[sitemap]
+disable = true
 +++
 
 {{< figure src="markus-k.png" title="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" alt="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" class="mein-bild" >}}

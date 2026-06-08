@@ -17,6 +17,8 @@ draft: false
 
 toc: true
 noindex: true
+sitemap:
+  disable: true
 
 ---
 {{< figure src="image.png">}}

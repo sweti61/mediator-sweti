@@ -12,6 +12,8 @@ image: zwischenraeume-wo-wandel-wirklich-passiert.png
 toc: true
 
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

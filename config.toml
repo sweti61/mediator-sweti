@@ -19,6 +19,8 @@ permalinkable = true
   [privacy.youtube]
     privacyEnhanced = true
 
+[frontmatter]
+  lastmod = ["lastmod", "date"]
 
 [outputs]
 home = ["HTML", "RSS", "RobotsTXT"]
@@ -46,6 +48,7 @@ enableEmoji = true
 [taxonomies]
   angebote = "angebote"
   tags="tags"
+  categories="categories"
   
 # Sitemap Settings
 [sitemap]
@@ -138,40 +141,6 @@ googleMapsApiKey = "AIzaSyB-ExsHpwFOby3DWnnHx_0dE-V-u3M-HOE"
     url = "/angebote/"
     weight = 3
 	
-	[[menu.main]]
-    identifier = "dienstleistung-orga"
-    name = "Systemische Prozessberatung"
-    url = "/dienstleistungen/orga/"
-    parent = "dienstleistungen"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "dienstleistung-sozial"
-    name = "für soziale Einrichtungen & Träger"
-    url = "/dienstleistungen/sozial/"
-    parent = "dienstleistungen"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "dienstleistung-fuehrung"
-    name = "Konflikt-Coaching"
-    url = "/dienstleistungen/fuehrung/"
-    parent = "dienstleistungen"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "dienstleistung-privat"
-    name = "Konfliktbegleitung"
-    url = "/dienstleistungen/privat/"
-    parent = "dienstleistungen"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "dienstleistung-itsm"
-    name = "für IT-Prozesse"
-    url = "/dienstleistungen/itsm/"
-    parent = "dienstleistungen"
-    weight = 5
 	
   [[menu.main]]
     name = "Fragen & Antworten"

@@ -22,11 +22,11 @@ tags:
   
 categories:
   - Blog
-  - Mediation
 author: "Dr. Swetoslaw Beltschew"
 toc: true
 
-noindex: true
+featured: true
+weight: 50
 ---
 
 {{< metadescription >}}

@@ -14,8 +14,8 @@ Keywords=['Neutralität', 'Unabhängigkeit', 'Allparteilichkeit', 'Mediation', '
 draft = false
 
 noindex= true
-
-
+[sitemap]
+disable = true
 +++
 
 ![Neutralität, Unabhängigkeit und Allparteilichkeit](neutral_unabh.png)

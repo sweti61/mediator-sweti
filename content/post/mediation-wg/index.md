@@ -1,5 +1,5 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'fallgeschichten', 'Dienstleistungen', 'Nachbarschaftskonflikt']
 title = 'Konfliktbearbeitung in Studenten-Wohngemeinschaften'
 description = 'Dienstleistungen zur Konfliktbearbeitung in Studenten-Wohngemeinschaften; Konflikte effektiv zu lösen'
@@ -11,6 +11,8 @@ url='/post/mediation-wg/'
 slug='mediation-wg'
 
 noindex=true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

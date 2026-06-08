@@ -21,6 +21,8 @@ image: "p4-umsetzungsphase-systemisch.png"
 author: "Dr. Swetoslaw Beltschew"
 
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

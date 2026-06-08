@@ -8,7 +8,9 @@ date = 2025-05-21T18:20:37+02:00
 slug = "testimoni3"
 url = "/testimoni/testimoni3/"
 images = ["/testimoni/testimoni3/thomas-s.png"] 
-
+noindex= true
+[sitemap]
+disable = true
 +++
 
 {{< figure src="thomas-s.png" title="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" alt="Klient berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" class="mein-bild" >}}

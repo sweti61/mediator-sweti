@@ -1,10 +1,11 @@
 +++
-categories = ['Blog', 'Medaition']
+categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen', 'Nachbarschaftskonflikt']
 title = 'Mediation in Nachbarschaft und Wohnungswirtschaft'
 description = 'Nachbarschaftsstreitigkeiten; Konflikte zu klären und ein friedliches Zusammenleben zu fördern.'
 summary = "Nachbarschaftskonflikte entstehen oft aus Missverständnissen, Erwartungen und unausgesprochenen Bedürfnissen. Dieser Beitrag zeigt typische Ursachen, erklärt das Eisbergmodell und beschreibt, wie Mediation in Nachbarschaft und Wohnungswirtschaft zu tragfähigen, alltagstauglichen Lösungen beitragen kann."
-date = 2024-06-06T08:35:52+02:00
+date = 2024-06-06
+lastmod = 2024-06-06
 url='/post/nachbarschaft/'
 slug='nachbarschaft'
 read_more_copy = 'Mehr über die Nachbarschaftskonflikte'

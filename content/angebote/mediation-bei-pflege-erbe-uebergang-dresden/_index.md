@@ -40,7 +40,7 @@ In solchen Situationen kann eine [Mediation mit einem erfahrenen Mediator in Dre
 
 ---
 
-## Konflikte bei Pflege und Erbe zwischen Generationen
+## Konflikte bei Pflege und Erbe zwischen Generationen {#fragen}
 
 Vielleicht erleben Sie es gerade hier in Dresden:
 
@@ -94,7 +94,7 @@ Rechtliche Fragen gehören in anwaltliche oder notarielle Beratung. Die Kommunik
 
 ---
 
-## Elder-Mediation – Konflikte rund um ältere Menschen
+## Elder-Mediation – Konflikte rund um ältere Menschen {#elder}
 
 Im Alter verändern sich Lebensumstände, Rollen und Beziehungen oft schneller als erwartet. Fragen zu Pflege, Wohnort, Vermögensverteilung oder zum Umgang mit Krankheit können Familien belasten und langjährige Konflikte neu entfachen. Elder-Mediation – auch Altersmediation genannt – schafft dafür einen strukturierten Rahmen, in dem die Stimme der älteren Person im Mittelpunkt steht und nicht im Hintergrund verhandelt wird.
 
@@ -121,7 +121,7 @@ Alle Beteiligten sprechen gemeinsam. Positionen werden gehört. Interessen werde
 
 ---
 
-### Gesprächsvorbereitung
+### Gesprächsvorbereitung {#angehörige}
 
 Wenn ein gemeinsames Gespräch noch nicht möglich ist, kann eine strukturierte Vorbereitung sinnvoll sein.
 
@@ -133,7 +133,7 @@ Wir klären:
 
 ---
 
-### Coaching für pflegende Angehörige oder Betroffene
+### Coaching für pflegende Angehörige oder Betroffene {#reflektion}
 
 Manchmal steht nicht die gemeinsame Klärung im Vordergrund, sondern Ihre persönliche Belastung.
 

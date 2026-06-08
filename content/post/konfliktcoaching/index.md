@@ -11,6 +11,8 @@ date = 2024-09-04T08:24:23+02:00
 read_more_copy = 'Mehr über Konfliktcoaching'
 slug = 'konfliktcoaching'
 noindex = true
+[sitemap]
+disable = true
 +++
 
 

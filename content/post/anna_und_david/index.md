@@ -3,6 +3,7 @@ categories = ['Blog']
 tags = ['Mediation', 'Konfliktmanagement', 'Mediation kurz erklärt', 'fallgeschichten']
 title = 'Die Geschichte von Anna und David'
 description = 'Scheidungsmediation, Mediation, Erfolg'
+summary = 'Scheidungsmediation, Mediation, Erfolg'
 date = 2024-05-17T09:47:51+02:00
 url='/post/anna_und_david/'
 slug='anna_und_david'
@@ -10,7 +11,8 @@ slug='anna_und_david'
 read_more_copy = 'Mehr über die Geschichte von Ana und David'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< figure src="anna_und_david.png">}}

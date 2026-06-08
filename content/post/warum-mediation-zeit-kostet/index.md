@@ -19,12 +19,11 @@ keywords:
 slug: warum-mediation-zeit-kostet
 url: /post/warum-mediation-zeit-kostet/
 date: 2026-02-05
+lastmod: 2026-02-05
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 image: warum-mediation-zeit-kostet.png
-
-noindex: true
 ---
 
 {{< metadescription >}}

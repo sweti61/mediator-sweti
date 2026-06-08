@@ -2,16 +2,21 @@
 
   <div class="h-100 pa4 bl bw2 br2 bg-near-white" style="border-color: #ffa500;">
 
-    <!-- Kopf -->
     <div class="flex items-center mb3">
 
       {{ with .Get "icon" }}
-        <div class="mr3 flex-shrink-0">
-          {{ if or (hasPrefix . "http") (hasPrefix . "/") }}
+        <div class="mr3 flex-shrink-0 dark-gray">
+          
+          {{ if eq ($.Get "icon_type") "feather" }}
+            <i data-feather="{{ . }}" class="w2 h2"></i>
+
+          {{ else if or (hasPrefix . "http") (hasPrefix . "/") }}
             <img src="{{ . }}" class="w3 h3 br-100" alt="">
+
           {{ else }}
             <span class="f2 lh-solid dark-gray">{{ . }}</span>
           {{ end }}
+
         </div>
       {{ end }}
 
@@ -23,7 +28,6 @@
 
     </div>
 
-    <!-- Text -->
     <div class="f6 lh-copy mid-gray">
       {{ .Inner | markdownify }}
     </div>

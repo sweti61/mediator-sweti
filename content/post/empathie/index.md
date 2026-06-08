@@ -4,6 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement']
 title = 'Empathie als Voraussetzung für ein besseres Verständnis, Vertrauen und eine tiefere Verbindung zwischen den Gesprächspartnern in der Mediation'
 
 description = 'Erfahren Sie, wie Empathie in der Mediation zu besserem Verständnis, Vertrauen und effektiver Konfliktlösung führt'
+summary = 'Erfahren Sie, wie Empathie in der Mediation zu besserem Verständnis, Vertrauen und effektiver Konfliktlösung führt'
 keywords = ['Empathie', 'Mediation', 'Konfliktlösung', 'Vertrauen', 'Verständnis', 'aktive Zuhören', 'Kommunikation', 'Ausgleich', 'Mediationsprozess', 'Konfliktparteien', 'Fairness', 'emotionale Intelligenz', 'Spiegeln von Emotionen', 'Gegenseitigkeit', 'Win-Win-Lösungen', 'Ausgleichsgedanke', 'Konfliktmanagement', 'emotionale Bedürfnisse', 'Mediatoren', 'aktive Kommunikation', 'faire Lösungen']
 
 date = 2024-10-09T10:28:21+02:00
@@ -11,7 +12,8 @@ date = 2024-10-09T10:28:21+02:00
 read_more_copy = 'Mehr über Empatie'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< figure src="empathie.png">}}

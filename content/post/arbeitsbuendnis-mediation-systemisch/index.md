@@ -22,7 +22,8 @@ toc: true
 draft: false
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

@@ -16,6 +16,8 @@ draft = false
 image = "slm.png"
 
 noindex=true
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

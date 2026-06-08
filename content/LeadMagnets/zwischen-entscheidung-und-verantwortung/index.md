@@ -12,11 +12,14 @@ keywords:
 - Reflexion
 - Systemische Beratung
 categories:
-- LeadMagnet
+- Marketing
 date: 2026-01-28
 author: "Swetoslaw Beltschew"
 draft: false
 toc: true
+noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< figure src="image.png" >}}

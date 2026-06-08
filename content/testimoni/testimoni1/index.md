@@ -9,7 +9,9 @@ slug = "testimoni1"
 url = "/testimoni/testimoni1/"
 
 images = ["/testimoni/testimoni1/julia-m.png"] 
-
+noindex= true
+[sitemap]
+disable = true
 +++
 
 {{< figure src="julia-m.png" title="Klientin berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" alt="Klientin berichtet von ihrer Erfahrung mit der Mediation bei Dr. Swetoslaw Beltschew" class="mein-bild" >}}

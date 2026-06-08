@@ -11,7 +11,8 @@ slug='eigenverantwortung'
 read_more_copy = 'Mehr über die Eigenverantwortung'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 {{< figure src="Eigenverantwortung.png">}}
 

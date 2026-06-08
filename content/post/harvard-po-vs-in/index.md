@@ -31,7 +31,8 @@ toc=true
 image="harvard-po-vs-in.png"
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

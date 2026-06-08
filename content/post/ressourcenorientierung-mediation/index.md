@@ -11,7 +11,8 @@ date: 2025-08-07
 draft: false
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

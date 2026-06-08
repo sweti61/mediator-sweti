@@ -20,6 +20,8 @@ author = "Dr. Swetoslaw Beltschew"
 image = "transformation.png"
 
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

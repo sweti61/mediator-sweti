@@ -23,6 +23,8 @@ draft: false
 toc: true
 
 noindex: true
+sitemap:
+  disable: true
 
 ---
 

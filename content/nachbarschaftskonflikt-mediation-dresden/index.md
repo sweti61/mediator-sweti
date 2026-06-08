@@ -27,13 +27,21 @@ tags:
   - "Dresden"
   - "Privatpersonen"
 categories: ["angebote"]
+
 noindex: false
+
+toc: true
+show_related: false
+type: "Seite"
+
 featured_image: "nachbarschaftskonflikt-mediation-dresden2.png"
 featured_image_class: "contain bg-top"
 cover_dimming_class: "bg-black-20"
 background_color_class: "bg-light-green"
-omit_header_text: true 	
+omit_header_text: false 	
 
+featured: true
+weight: 30
 ---
 
 Der Lärm kommt wieder. Jeden Abend. Oder das Schreiben vom Anwalt liegt auf dem Tisch, und Sie wohnen noch fünf Meter voneinander entfernt. Oder aus einem harmlosen Gespräch über den Zaun ist etwas geworden, das sich schwer benennen lässt — aber seitdem ist nichts mehr wie vorher.

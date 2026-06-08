@@ -1,6 +1,6 @@
 ---
-title: "Über mich – Dr. Swetoslaw Beltschew, Mediator in Dresden"
-description: "Mediator (zertifiziert nach MediationsG), Coach und systemischer Berater in Dresden. 35 Jahre öffentliche Verwaltung, Ausbildung am INKOVEMA Institut Leipzig. Klarheit entsteht im Gespräch."
+title: "Dr. Swetoslaw Beltschew – Mediator Dresden"
+description: "Mediator in Dresden mit 35 Jahren Verwaltungserfahrung. Systemische Methode für Familien-, Erbe- und Teamkonflikte. Klarheit entsteht im Gespräch."
 summary: "Über die Person hinter mediator.sweti.de: Dr. Swetoslaw Beltschew, Mediator und systemischer Berater in Dresden, mit 35 Jahren Erfahrung in der sächsischen Verwaltung."
 keywords:
   - Sweti Beltschew Mediator
@@ -110,7 +110,7 @@ Dr. Swetoslaw Beltschew
 Mediator · Coach · systemischer Berater
 
 mediator@sweti.de · 0163 803 5634   
-[mediator.sweti.de](https://mediator.sweti.de) · {{< extlink "https://calendly.com/mediator-sweti">}}calendly.de/mediator-sweti{{< /extlink >}}   
+[mediator.sweti.de](https://mediator.sweti.de) · {{< extlink "https://calendly.com/mediator-sweti">}}calendly.com/mediator-sweti{{< /extlink >}}   
 
 ---
 

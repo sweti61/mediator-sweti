@@ -22,6 +22,8 @@ image = "harvard-batna.png"
 toc = true
 
 noindex= true
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

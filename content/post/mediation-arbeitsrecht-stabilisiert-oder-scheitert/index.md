@@ -23,6 +23,8 @@ toc: true
 author: "Swetoslaw Beltschew"
 
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

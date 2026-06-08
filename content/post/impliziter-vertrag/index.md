@@ -20,7 +20,8 @@ draft = false
 image = "impliziter-vertrag.png"
 
 noindex= true
-
+[sitemap]
+disable = true
 
 +++
 

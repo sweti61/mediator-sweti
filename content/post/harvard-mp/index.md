@@ -31,7 +31,8 @@ toc=true
 image="harvard-mp.png"
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}

@@ -16,8 +16,8 @@ draft: false
 image: "zyklus-der-hypothesenarbeit-systemisches-denken.png"
 
 noindex: true
-
-
+sitemap:
+  disable: true
 ---
 
 #{{< metadescription >}}

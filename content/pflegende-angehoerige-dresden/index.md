@@ -22,7 +22,10 @@ date: 2026-03-19
 lastmod: 2026-03-22
 author: "Dr. Swetoslaw Beltschew"
 type: "Seite"
+
 toc: true
+show_related: false
+
 noindex: false
 draft: false
 
@@ -31,8 +34,10 @@ featured_image: "pflegende-angehoerige-dresden.png"
 featured_image_class: "contain bg-top"
 cover_dimming_class: "bg-black-20"
 background_color_class: "bg-light-green"
-omit_header_text: true 	
+omit_header_text: false 	
 
+featured: true
+weight: 20
 ---
 
 Wer pflegt Mama, wenn du arbeitest? Dein Bruder meldet sich kaum noch. Du bist erschöpft und hast das Gefühl, allein damit zu sein. Und wenn die Familie zusammenkommt, endet es im Streit.
@@ -139,12 +144,12 @@ Ja. Gerade bei Distanzpflege – wenn Familienmitglieder in verschiedenen Städt
 | Ihre Situation | Passendes Angebot |
 |---|---|
 | Pflegekonflikt eskaliert, Gespräche allein nicht mehr möglich | Mediation – diese Seite |
-| Konkrete Fragen zu Pflege, Erbe und Übergängen klären | [Mediation bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
-| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
-| Präventiv sprechen, bevor Konflikt eskaliert | [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}}) |
-| Generationenkonflikt über Pflege und Familienrollen | [Familienkonflikt zwischen den Generationen]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}}) |
-|  Ich bin überlastet und brauche Raum für mich | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
-| Pflegeverantwortung im Familienkreis reflektieren | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/" >}}) |
+| Konkrete Fragen zu Pflege, Erbe und Übergängen klären | [Mediation bei Pflege, Erbe und Übergang]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/#fragen" >}}) |
+| Älterer Mensch steht im Mittelpunkt, Autonomie und Würde schützen | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/#elder" >}}) |
+| Präventiv sprechen, bevor Konflikt eskaliert | [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/#prev-geschpraech" >}}) |
+| Generationenkonflikt über Pflege und Familienrollen | [Familienkonflikt zwischen den Generationen]({{< relref "/angebote/familienkonflikt-generationen-dresden/#genkonflikt" >}}) |
+|  Ich bin überlastet und brauche Raum für mich | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/#angehörige" >}}) |
+| Pflegeverantwortung im Familienkreis reflektieren | [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/#reflektion" >}}) |
 {class="UserTable"}
 
 ---

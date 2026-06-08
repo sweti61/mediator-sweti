@@ -11,6 +11,9 @@ angebote: [
 date: 2025-06-04
 layout: "default"
 read_more_copy : "Weiter zu Teams in Pflege und Verwaltung"
+noindex: true
+sitemap:
+  disable: true
 ---
 
 **Typische Mitglieder:**  

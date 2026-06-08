@@ -14,6 +14,8 @@ slug = "change"
 url = "/post/change/"
 
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< metadescription >}}
@@ -62,7 +64,7 @@ Ein Change wird genehmigt, obwohl ein anderes Team gleichzeitig eine Infrastrukt
 **6. Intransparente Entscheidungsprozesse**  
 Wer hat was entschieden – und warum? Wenn CAB-Entscheidungen nicht dokumentiert oder nachvollziehbar sind, leidet das Vertrauen.
 
-Diese Konflikte sind kein Zeichen von Scheitern – sie zeigen, dass das System mehr Struktur, Klarheit und Kommunikation braucht. ✅
+Diese Konflikte sind kein Zeichen von Scheitern – sie zeigen, dass das System mehr Struktur, Klarheit und Kommunikation braucht.
 
 ---
 
@@ -120,7 +122,7 @@ Ich unterstütze Sie gern dabei. 🤝
 
 #### *Dieser Artikel ist Teil der Serie "Konflikte in ITIL-Prozessen verstehen und lösen"*
 
-- [Konflikte in Organisationen & KMU – gemeinsam klären, bevor sie eskalieren]({{<ref "itsm">}} "Konflikte in ITIL-Prozessen verstehen und lösen")   
+- [Konflikte in Organisationen & KMU – gemeinsam klären, bevor sie eskalieren](https://beltschew.de/services/itsm/ "Konflikte in ITIL-Prozessen verstehen und lösen")   
 - [Konfliktmanagement für ITIL-Prozesse]({{<ref "itil_mediation">}} "Konfliktmanagement für ITIL-Prozesse")   
 - [Wenn Prozesse blockieren – Konflikte in der IT sichtbar machen]({{<ref "konflikte-itsm">}} "Wenn Prozesse blockieren")   
 - [Konfliktmanagement ITIL: SLAs als Zündstoff im Service Level Management (SLM)]({{<ref "slm">}} "Konfliktmanagement ITIL: SLAs als Zündstoff im Service Level Management (SLM)")

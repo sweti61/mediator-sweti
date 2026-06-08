@@ -10,7 +10,8 @@ date = 2024-08-30T11:54:42+02:00
 read_more_copy = 'Weiter zu Konfliktberatung'
 slug ='konfliktberatung'
 noindex=true
-
+[sitemap]
+disable = true
 +++
 
 ![Konfliktberatung](konfliktberatung.png)

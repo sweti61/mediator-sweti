@@ -5,6 +5,7 @@ summary: "Lärmkonflikte mit Nachbarn entstehen oft schleichend. Dieser Artikel 
 slug: streit-nachbarn-laerm-was-tun
 url: /post/streit-nachbarn-laerm-was-tun/
 date: 2026-04-23
+lastmod: 2026-04-23
 draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
@@ -12,7 +13,6 @@ categories: ["Blog"]
 tags: ["Nachbarschaftskonflikt", "Mediation"]
 keywords: ["streit nachbarn lärm was tun", "ruhestörung nachbarn lösung", "nachbarschaftskonflikt lärm dresden", "lärm konflikt nachbarn mediation"]
 
-noindex: true
 ---
 {{< metadescription >}}
 

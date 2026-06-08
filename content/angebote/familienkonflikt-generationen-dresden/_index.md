@@ -56,7 +56,7 @@ Manche Themen werden über Jahre umkreist, aber nie wirklich besprochen: der Umz
 
 ---
 
-## Wann ein präventives Gespräch sinnvoll ist
+## Wann ein präventives Gespräch sinnvoll ist {#prev-geschpraech}
 
 Nicht jeder Generationenkonflikt ist bereits offen ausgebrochen. Oft zeigt sich Belastung zuerst leise: unterschiedliche Einschätzungen des Pflegebedarfs, ungeklärte Entscheidungen über Umzug oder Zusammenziehen, das wachsende Gefühl, dass Eltern und Kinder aneinander vorbeireden.
 
@@ -71,7 +71,7 @@ Typische Situationen sind:
 
 ---
 
-## Wie Mediation bei Generationenkonflikten funktioniert
+## Wie Mediation bei Generationenkonflikten funktioniert {#genkonflikt}
 
 Mediation ist kein Gespräch, das einfach moderiert wird. Es ist ein strukturierter Prozess, der Sicherheit schafft – auch wenn die Fronten verhärtet sind. Derselbe Rahmen trägt auch präventive Familiengespräche, wenn der Konflikt noch nicht eskaliert ist.
 

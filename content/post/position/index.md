@@ -17,6 +17,8 @@ author= "Dr. Swetoslaw Beltschew"
 slug= "position"
 url= "/post/position/"
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

@@ -9,6 +9,9 @@ angebote: [
 ]
 date: 2025-06-04
 layout: "zielgruppe"
+noindex: true
+sitemap:
+  disable: true
 ---
 
 **Typische Mitglieder:**  

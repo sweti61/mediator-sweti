@@ -20,11 +20,11 @@ keywords:
 slug: pflegegespraech-vorbereiten-dresden
 url: /post/pflegegespraech-vorbereiten-dresden/
 date: 2026-02-25
+lastmod: 2026-02-25
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 image: "pflegegespraech-vorbereiten-dresden.png"
-noindex: true
 ---
 
 {{< metadescription >}}

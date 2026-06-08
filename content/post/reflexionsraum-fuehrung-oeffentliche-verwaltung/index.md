@@ -26,7 +26,8 @@ read_more_copy: 'Mehr über Zwischen Entscheidung und Verantwortung'
 image: reflexionsraum-fuehrung-oeffentliche-verwaltung.png
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

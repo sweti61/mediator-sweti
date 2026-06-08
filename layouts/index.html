@@ -26,7 +26,7 @@
     {{/* Derive the section name  */}}
     {{ $section_name := . }}
     {{/* Create a variable with that section to use in multiple places. */}}
-    {{ $section := where $.Site.RegularPages "Section" "in" $section_name }}
+    {{ $section := where (where $.Site.RegularPages.ByWeight "Section" "in" $section_name) "Params.featured" true }}
     {{ $section_count := len $section }}
     {{ if ge $section_count 1 }}
       <div class="pa3 pa4-ns w-100 w-70-ns center">
@@ -50,7 +50,7 @@
 
         {{ if ge $section_count (add $n_posts 1) }}
         <section class="w-100">
-          <h1 class="f3">{{ i18n "more" }}</h1>
+          <h3 class="f3 fw4">{{ i18n "more" }}</h3>
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (first 4 (after $n_posts $section))  }}
             <h2 class="f5 fw4 mb4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">

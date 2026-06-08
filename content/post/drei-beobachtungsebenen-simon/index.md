@@ -18,6 +18,8 @@ toc: true
 author: "Dr. Swetoslaw Beltschew"
 
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

@@ -12,6 +12,7 @@ keywords: ["Erbe klären ohne Streit", "Erbstreit vermeiden Dresden", "Familieng
 slug: "erbe-klaeren-ohne-streit-dresden"
 url: "/post/erbe-klaeren-ohne-streit-dresden/"
 date: 2026-02-26
+lastmod: 2026-02-26
 draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"

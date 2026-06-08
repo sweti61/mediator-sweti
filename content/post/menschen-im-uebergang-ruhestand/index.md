@@ -3,6 +3,7 @@ title: "Übergang Ruhestand – Wenn das Alte nicht mehr trägt und das Neue noc
 description: "Ruhestand ist nicht nur das Ende der Arbeit, sondern ein tiefgreifender Übergang in eine neue Identität. Systemische Perspektiven auf Sinn, Struktur und Selbstgestaltung im Wandel."
 summary: "Der Ruhestand markiert nicht einfach das Ende der Arbeit, sondern eine Phase der Neuorientierung. Wie Menschen diesen Übergang erleben – und was die Systemtheorie dazu beitragen kann."
 date: 2025-10-14
+lastmod: 2025-10-14
 slug: "menschen-im-uebergang-ruhestand"
 tags: ["Systemische Beratung", "Coaching"]
 categories: ["blog"]
@@ -10,7 +11,6 @@ keywords: ["Ruhestand", "Übergänge", "Veränderung", "systemische Beratung", "
 author: "Swetoslaw Beltschew"
 draft: false
 
-noindex: true
 ---
 {{< metadescription >}}
 

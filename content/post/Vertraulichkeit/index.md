@@ -9,7 +9,8 @@ slug = "Vertraulichkeit"
 read_more_copy = 'Mehr über die Vertraulichkeit'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< figure src="Mediation3.png">}}

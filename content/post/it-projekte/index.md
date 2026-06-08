@@ -11,6 +11,8 @@ read_more_copy = 'Mehr über IT-Projekte'
 draft = false
 
 noindex = true
+[sitemap]
+disable = true
 +++
 
 {{< figure src="it-projekte.png">}}

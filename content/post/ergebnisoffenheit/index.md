@@ -11,7 +11,8 @@ slug='ergebnisoffenheit'
 read_more_copy = 'Mehr über die Ergebnisoffenheit'
 
 noindex= true
-
+[sitemap]
+disable = true
 +++
 
 {{< figure src="Ergebnisoffenheit.png">}}

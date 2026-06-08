@@ -32,7 +32,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@type": ["LocalBusiness", "ProfessionalService"],
   "name": "Mediator Sweti",
   "alternateName": "Swetoslaw Beltschew – Mediation & Beratung",
-  "description": "Systemischer Mediator in Dresden für pflegende Angehörige, Familienkonflikte und Teams. Zertifiziert (INKOVEMA Leipzig). Kostenloses Erstgespräch.",
+  "description": "Systemischer Mediator in Dresden für pflegende Angehörige, Familienkonflikte und Teams. Zertifiziert. Kostenfreies Erstgespräch.",
   "image": "https://mediator.sweti.de/images/logo.png",
   "url": "https://mediator.sweti.de/",
   "telephone": "+491638035634",
@@ -77,11 +77,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "founder": {
     "@type": "Person",
     "name": "Swetoslaw Beltschew",
-    "jobTitle": "Systemischer Mediator & Berater",
-    "description": "Zertifizierter Mediator (INKOVEMA Leipzig), systemischer Organisationsberater, Coach. Spezialisierung: Pflegekonflikte, Familienmediation, Teams.",
-    "url": "https://mediator.sweti.de/ueber-mich/",
+    "jobTitle": "Mediator (zertifiziert nach MediationsG)",
+    "description": "Zertifizierter Mediator, systemischer Organisationsberater, Coach. Spezialisierung: Pflegekonflikte, Familienmediation, Teams.",
+    "url": "https://mediator.sweti.de/about/",
     "sameAs": [
-      "https://www.linkedin.com/in/sweti/"
+      "https://www.linkedin.com/in/mediator-sweti/"
     ]
   },
 
@@ -129,6 +129,119 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "https://www.facebook.com/mediator.sweti"
   ]
 }</script>
+
+{{ if eq .RelPermalink "/about/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. Swetoslaw Beltschew",
+  "givenName": "Swetoslaw",
+  "familyName": "Beltschew",
+  "honorificPrefix": "Dr.",
+  "jobTitle": "Mediator (zertifiziert nach MediationsG)",
+  "description": "Mediator, Coach und systemischer Berater in Dresden. 35 Jahre Erfahrung in der sächsischen Verwaltung. Spezialisierung auf Familienkonflikte, Erbstreit, Pflege-Situationen und schwierige Gespräche in Lebensübergängen.",
+  "url": "https://mediator.sweti.de/about/",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://mediator.sweti.de/about/Ueber_mich4.png",
+    "caption": "Dr. Swetoslaw Beltschew, Mediator in Dresden"
+  },
+  "email": "mediator@sweti.de",
+  "telephone": "+49-163-8035634",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bünaustraße 52",
+    "addressLocality": "Dresden",
+    "postalCode": "01159",
+    "addressCountry": "DE",
+    "addressRegion": "Sachsen"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/mediator-sweti/",
+    "https://maps.google.com/?cid=14661824328600799898"
+  ],
+  "knowsAbout": [
+    "Mediation",
+    "Konfliktlösung",
+    "Elder Mediation",
+    "Familienmediation",
+    "Erbstreit",
+    "Pflegekonflikte",
+    "Nachbarschaftskonflikte",
+    "Systemische Beratung",
+    "Coaching",
+    "Organisationsmediation"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Mediationsausbildung nach MediationsG",
+      "credentialCategory": "Zertifikat",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "INKOVEMA Institut für Konfliktmanagement und Mediation",
+        "url": "https://www.inkovema.de"
+      },
+      "dateCreated": "2024",
+      "url": "https://mediator.sweti.de/about/GAMED_2024_Beltschew.pdf"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Organisationsmediation",
+      "credentialCategory": "Zertifikat",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "INKOVEMA Institut für Konfliktmanagement und Mediation",
+        "url": "https://www.inkovema.de"
+      },
+      "dateCreated": "2025",
+      "url": "https://mediator.sweti.de/about/OMED_2025_Beltschew.pdf"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Systemische Organisationsberatung",
+      "credentialCategory": "Zertifikat",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "INKOVEMA Institut für Konfliktmanagement und Mediation",
+        "url": "https://www.inkovema.de"
+      },
+      "dateCreated": "2025",
+      "url": "https://mediator.sweti.de/about/SYSTEO_2025-Beltschew.pdf"
+    }
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "INKOVEMA Institut für Konfliktmanagement und Mediation",
+    "url": "https://www.inkovema.de"
+  },
+  "worksFor": {
+    "@type": "LocalBusiness",
+    "name": "Mediator Sweti",
+    "url": "https://mediator.sweti.de",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bünaustraße 52",
+      "addressLocality": "Dresden",
+      "postalCode": "01159",
+      "addressCountry": "DE"
+    }
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Dresden"
+    },
+    {
+      "@type": "State",
+      "name": "Sachsen"
+    }
+  ]
+}
+</script>
+{{ end }}
+
 
 <!-- ============================= -->
 <!-- FAQ JSON-LD (nur wenn faq im Front Matter) -->
@@ -184,11 +297,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Feather Icons -->
 <script src="https://unpkg.com/feather-icons"></script>
-
-<!-- Keywords -->
-{{ with .Params.keywords }}
-<meta name="keywords" content="{{ delimit . ", " }}">
-{{ end }}
 
 <!-- noindex -->
 {{ $noindex := false }}

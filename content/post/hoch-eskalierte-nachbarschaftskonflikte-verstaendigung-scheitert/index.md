@@ -19,9 +19,14 @@ keywords:
 slug: "hoch-eskalierte-nachbarschaftskonflikte-verstaendigung-scheitert"
 url: "/post/hoch-eskalierte-nachbarschaftskonflikte-verstaendigung-scheitert/"
 date: 2026-02-05
+lastmod: 2026-02-05
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
+
+featured: true
+weight: 60
+
 ---
 
 

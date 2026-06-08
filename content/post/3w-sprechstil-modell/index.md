@@ -9,7 +9,8 @@ summary: "Der 3W-Sprechstil – Wahrnehmen, Wirkung, Wunsch – ist keine starre
 description: "Wie der 3W-Sprechstil (Wahrnehmen – Wirkung – Wunsch) in Mediation und Coaching als Denkstruktur für den Berater wirkt. Mit Beispielen, wie Mediator:innen durch 3W-Logik Hypothesen bilden und Resonanz fördern. Ein praxisnaher Beitrag für die Arbeit mit Menschen in Übergängen."
 
 noindex: true
-
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}

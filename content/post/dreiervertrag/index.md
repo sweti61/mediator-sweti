@@ -18,6 +18,8 @@ image ='zweiervertrag.png'
 author ="Dr. Swetoslaw Beltschew"
 
 noindex=true
+[sitemap]
+disable = true
 +++
 
 {{< smartimg

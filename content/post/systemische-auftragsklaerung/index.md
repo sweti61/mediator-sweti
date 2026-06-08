@@ -30,6 +30,8 @@ draft: false
 author: "Dr. Swetoslaw Beltschew"
 toc: true
 noindex: true
+sitemap:
+  disable: true
 ---
 
 {{< metadescription >}}
@@ -1085,8 +1087,7 @@ Für die praktische Umsetzung finden Sie im [Anhang A](anlage01-systemische-lese
 
 ### Weiterführend empfohlen
 
-- [Das 9-Felder-Modell systemisch anwenden]({{< relref "/post/9-felder-modell/">}})
-- [Kohärenzfaktoren nach Rieforth – systemische Vertiefung der 9-Felder-Methode]({{< relref "post/9-felder-modell-kochernz/">}})
+- [Die 9-Felder-Methode nach Rieforth]({{< relref "/post/9-felder-methode-rieforth/">}})
 - [Dreierverträge in der Transaktionsanalyse: Rollenklarheit und Systemtransparenz]({{< relref "/post/dreiervertrag/">}})
 
 Wenn Sie systemische Auftragsklärung in Ihrer Organisation oder für Ihren nächsten Beratungsprozess gezielt stärken möchten, lade ich Sie herzlich zu einem unverbindlichen Erstgespräch ein. Buchen Sie direkt einen Termin über **{{< extlink "https://calendly.com/mediator-sweti" >}}meinen Kalender{{< /extlink >}}**
