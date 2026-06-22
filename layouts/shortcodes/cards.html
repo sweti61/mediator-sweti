@@ -1,3 +1,13 @@
-<div class="flex flex-wrap justify-center nl3 nr3 mw8 center">
-  {{ .Inner }}
-</div>
+<section class="pv5 bg-near-white">
+  <div class="center" style="max-width: 1200px; padding: 0 1rem;">
+    {{ with .Get "title" }}
+      <h2 class="f3 fw4 lh-title mt4 mb3 dark-gray">
+        {{ . }}
+      </h2>
+    {{ end }}
+
+    <div class="flex flex-wrap justify-center nl3 nr3">
+      {{ .Inner }}
+    </div>
+  </div>
+</section>

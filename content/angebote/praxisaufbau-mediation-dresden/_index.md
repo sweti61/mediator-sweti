@@ -100,12 +100,13 @@ Kommunale Anfragen bitte direkt an mediator@sweti.de.
 
 ## Kontakt
 
-Dr. Swetoslaw Beltschew
+Dr. Swetoslaw Beltschew   
 Mediator
 
-mediator@sweti.de   
-0163 803 5634   
-[calendly.de/mediator.sweti](https://calendly.de/mediator.sweti)
+{{< icon "phone" >}} 0163 803 5634   
+{{< icon "mail" >}} mediator@sweti.de   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "message-square" >}} [Kontaktformular]({{< relref "/contact/" >}})
 
 ---
 

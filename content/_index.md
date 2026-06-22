@@ -32,7 +32,7 @@ Jahre gewachsene Haltung.
 
 {{< /intro-split >}}
 
-## Meine Arbeit ruht auf drei Saeulen: {.f3 .fw4 .lh-title .mt4 .mb3}
+## Meine Arbeit ruht auf drei Säulen: {.f3 .fw4 .lh-title .mt4 .mb3}
 {{< cards >}}
 
 {{< card title="KLÄREN – Mediation" icon="message-circle" icon_type="feather">}}

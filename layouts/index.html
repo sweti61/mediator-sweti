@@ -7,7 +7,7 @@
 
 	<section class="pv5 bg-near-white">
 	  <div class="center" style="max-width: 1200px; padding: 0 1rem;">
-		<h2 class="tc f3 mb4">Stimmen unserer Kund:innen</h2>
+		<h2 class="f3 fw4 lh-title mt4 mb3}">Stimmen unserer Kund:innen</h2>
 		<div class="testimonial-grid">
 		  {{ range where .Site.RegularPages "Params.categories" "intersect" (slice "Testemonials") }}
 			{{ partial "testimonial-card.html" . }}

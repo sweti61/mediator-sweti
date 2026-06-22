@@ -1,103 +1,109 @@
-+++
-categories = ['Blog']
-tags = ['Mediation', 'Konfliktmanagement', 'Dienstleistungen']
-title = 'Konfliktcoaching: Dein persönlicher Kompass in stürmischen Zeiten'
+---
+title: "Konflikt-Coaching: Was es ist, was es nicht ist und wann es das Richtige ist"
+description: "Konflikt-Coaching stärkt die Handlungsfähigkeit in Konfliktsituationen - für Einzelpersonen im B2B-Kontext und im Privatbereich. Eine Begriffsklärung mit rechtlichem Rahmen."
+summary: "Konflikt-Coaching richtet sich an Einzelpersonen, die in einem Konflikt Klarheit über die eigene Position gewinnen wollen. Dieser Artikel klärt den Begriff, grenzt ihn von Mediation und allgemeinem Coaching ab und zeigt, wann das Format das richtige ist - vor, während und nach einem Konflikt."
+slug: "konfliktcoaching"
+url: "/post/konfliktcoaching/"
+date: 2026-06-15
+draft: true
+toc: true
+author: "Dr. Swetoslaw Beltschew"
+image: "konfliktcoaching.png"
+tags:
+  - Mediation
+  - Konfliktmanagement
+  - Dienstleistungen
+categories:
+  - Blog
+  
+read_more_copy: 'Mehr über Konfliktcoaching'
 
-description = 'Erfahre, wie Konfliktcoaching als persönlicher Kompass in stürmischen Zeiten hilft, Konfliktkompetenz zu stärken, Kommunikation zu verbessern und konstruktive Lösungen für berufliche und persönliche Herausforderungen zu entwickeln. Entdecke systemische Ansätze und praxisnahe Methoden.'
-summary = "Konfliktcoaching ist ein individueller, systemischer Prozess zur Stärkung persönlicher Konfliktkompetenz – für Führungskräfte, Teams und Einzelpersonen. Im Unterschied zu Mediation und Konfliktberatung steht die Selbstreflexion des Coachees im Mittelpunkt: eigene Muster erkennen, Kommunikation verbessern, konstruktiv handeln."
-keywords = ['Konfliktcoaching', 'Konfliktlösung', 'Konfliktkompetenz', 'systemische Beratung', 'Führungskräfteentwicklung', 'Konfliktmanagement', 'Selbstreflexion', 'Teamarbeit verbessern', 'Stressbewältigung', 'emotionale Intelligenz']
-date = 2024-09-04T08:24:23+02:00
+---
 
-read_more_copy = 'Mehr über Konfliktcoaching'
-slug = 'konfliktcoaching'
-noindex = true
-[sitemap]
-disable = true
-+++
+{{< smartimg
+  src="konfliktcoaching.png"
+  alt="Konflikt-Coaching: Eine Person sortiert ihre Position in einem Konflikt - systemische Begleitung durch Dr. Swetoslaw Beltschew in Dresden"
+  caption=""
+  class="smartimg--narrow"
+  size="1200x"
+>}}
 
+Wer zum Konflikt-Coaching kommt, kommt selten wegen des Konflikts.
 
-![Konfliktcoaching](konfliktcoaching.png)
+Das klingt paradox, trifft aber einen wesentlichen Punkt. In meiner Praxis kommen Menschen nicht mit dem Wunsch, den Konflikt zu "lösen" - zumindest nicht als erstes. Sie kommen mit einer anderen Frage: Wie bleibe ich in dieser Situation handlungsfähig? Was kann ich tun, wenn die andere Seite nicht gesprächsbereit ist? Wie sortiere ich, was ich selbst zu diesem Geschehen beitrage - und was nicht?
 
+Das ist der eigentliche Kern von Konflikt-Coaching.
 
-Stell dir vor, du stehst in einem dichten Wald, umgeben von hohen Bäumen, und hast die Orientierung verloren. Du suchst verzweifelt nach einem Weg, doch jede Richtung scheint gleich zu sein. In diesem Moment wünscht du dir einen Kompass, der dir die richtige Richtung weist. **Konfliktcoaching** ist genau dieser Kompass in stürmischen Zeiten – es hilft dir, aus festgefahrenen Mustern herauszufinden, den eigenen Weg zu erkennen und Konflikte konstruktiv zu bewältigen.
+## Was der Begriff meint - und was nicht
 
-## **Was versteht man unter Konfliktcoaching? – Eine Definition**
+Der Begriff "Coaching" ist im deutschsprachigen Raum weit verbreitet und wird uneinheitlich verwendet. Persönlichkeitsentwicklung, Karriereberatung, Potenzialentfaltung - vieles firmiert unter diesem Begriff. Konflikt-Coaching ist davon zu unterscheiden.
 
-Konfliktcoaching ist ein individuell ausgerichteter, zielorientierter Prozess, der Menschen dabei unterstützt, ihre Konfliktkompetenz zu verbessern. Es geht darum, dem Coachee (die Person, die gecoacht wird) zu helfen, seine eigenen Reaktionsmuster und Denkschemata in Konfliktsituationen zu reflektieren und alternative, konstruktivere Verhaltensweisen zu entwickeln. Anders als bei der Konfliktberatung, die sich auf die systemische Analyse eines Konflikts im organisatorischen oder zwischenmenschlichen Kontext konzentriert, und der Mediation, die als Vermittlungsprozess zwischen Konfliktparteien dient, liegt der Fokus im Konfliktcoaching auf der individuellen Entwicklung des Coachees. Der Coach unterstützt den Coachee dabei, Konflikte als Chancen zur persönlichen und beruflichen Weiterentwicklung zu erkennen und diese gezielt zu nutzen.
+Allgemeines Coaching setzt häufig dort an, wo jemand sich weiterentwickeln möchte - ohne dass ein konkreter Konflikt der Auslöser ist. Konflikt-Coaching hingegen hat einen klaren, situativen Anlass: ein Konflikt ist vorhanden, er belastet, und eine Person sucht Unterstützung dabei, die eigene Position darin zu klären.
 
-## **Einsatzgebiete des Konfliktcoachings: Wann ist Konfliktcoaching sinnvoll?**
+Das andere Ende der Abgrenzung ist die Mediation. Mediation ist ein strukturiertes Verfahren, das mindestens zwei Konfliktparteien zusammenbringt, um gemeinsam eine Einigung zu erarbeiten. Der Mediator ist allparteilich - er ist beiden Seiten gleichermaßen verpflichtet, schlägt keine Lösungen vor und bewertet keine der Parteien. Konflikt-Coaching ist das Gegenteil davon: Es gibt nur eine Person im Coaching-Raum, und der Coach begleitet diese eine Person bei der Klärung ihrer Situation.
 
-Konfliktcoaching ist besonders in Situationen sinnvoll, in denen es um die individuelle Entwicklung und das persönliche Wachstum im Umgang mit Konflikten geht. Hier sind einige konkrete Einsatzgebiete:
+Zwischen diesen beiden Polen liegt Konflikt-Coaching: nicht Persönlichkeitsentwicklung ohne Anlass, nicht Einigungsverfahren mit mehreren Parteien - sondern Begleitung einer Person in einem konkreten Konfliktgeschehen.
 
-- **Führungskräfteentwicklung**: Führungskräfte, die lernen möchten, wie sie Konflikte in ihren Teams effektiver managen können, profitieren von Konfliktcoaching. Es stärkt ihre Rolle als Konfliktmoderatoren und hilft ihnen, konstruktive Lösungen zu fördern.
-- **Persönliche Weiterentwicklung**: Einzelpersonen, die ihre Konfliktfähigkeit verbessern möchten, um besser mit Stress, Emotionen und schwierigen Gesprächen umzugehen, finden im Konfliktcoaching eine wertvolle Unterstützung.
-- **Vorbereitung auf schwierige Gespräche oder Verhandlungen**: Konfliktcoaching bietet eine gezielte Vorbereitung auf herausfordernde Gespräche, wie z. B. Gehaltsverhandlungen oder Konfliktgespräche mit Kollegen und Vorgesetzten.
-- **Wiederkehrende Konfliktmuster**: Für Menschen, die sich oft in ähnlichen Konfliktsituationen wiederfinden, hilft Konfliktcoaching, die zugrunde liegenden Muster zu erkennen und zu ändern.
-- **Stressbewältigung und emotionale Intelligenz**: Es ist hilfreich für Personen, die ihre emotionale Reaktion auf Konflikte besser kontrollieren und ihre emotionale Intelligenz stärken möchten, um in angespannten Situationen ruhig und lösungsorientiert zu bleiben.
+## Was in einem Konflikt-Coaching tatsächlich passiert
 
-## **Wesentliche Aspekte des Konfliktcoachings**
+Ein Beispiel aus meiner Praxis, anonymisiert: Eine Führungskraft in einem IT-Dienstleister arbeitet seit Monaten mit einem Kollegen in derselben Projektstruktur. Die Zusammenarbeit ist zerrüttet. Abstimmungen scheitern, E-Mails bleiben unbeantwortet, Meetings laufen ins Leere. Die Führungskraft fragt sich: Soll sie eskalieren? Das Gespräch suchen? Abwarten? Sie weiß nicht mehr, was sie noch tun kann.
 
-Konfliktcoaching umfasst mehrere wesentliche Aspekte, die den Coaching-Prozess prägen und ihn von anderen Ansätzen unterscheiden:
+Im Konflikt-Coaching geht es zunächst nicht darum, was die andere Seite falsch macht. Es geht um die Klärung der eigenen Position: Welche Anteile hat die Person selbst an der Dynamik? Welche Handlungsoptionen bestehen tatsächlich - und welche sind nur scheinbar vorhanden? Was braucht die Person, um wieder klar und handlungsfähig zu sein?
 
-1. **Individuelle Reflexion und Selbstwahrnehmung**: Ein zentraler Bestandteil des Konfliktcoachings ist die Förderung der Selbstreflexion. Der Coachee wird dazu angeregt, seine eigenen Verhaltensmuster, Denkschemata und emotionalen Reaktionen in Konfliktsituationen kritisch zu hinterfragen und neue Perspektiven zu entwickeln.
+Der systemische Ansatz ist dabei zentral. Konflikte entstehen nicht in Einzelpersonen, sondern in Beziehungen und Strukturen. Konflikt-Coaching richtet den Blick deshalb nicht nur auf das Verhalten der anderen Partei, sondern auf das Muster, in dem beide agieren. Welche Rollen sind besetzt? Welche Erwartungen prallen aufeinander? Was hält das Muster aufrecht?
 
-2. **Kompetenzentwicklung im Umgang mit Konflikten**: Das Coaching zielt darauf ab, die Fähigkeiten des Coachees im Umgang mit Konflikten zu verbessern. Dies umfasst die Entwicklung von Kommunikationsfähigkeiten, Verhandlungstechniken und der Fähigkeit, konstruktive Lösungen zu finden.
+Das Ergebnis eines Konflikt-Coachings ist keine Lösung des Konflikts. Es ist Klarheit - über die eigene Situation, die eigenen Optionen und den nächsten sinnvollen Schritt.
 
-3. **Zielorientierter Ansatz**: Konfliktcoaching ist stark auf konkrete Ziele ausgerichtet. Es unterstützt den Coachee dabei, klare, umsetzbare Ziele für den Umgang mit Konflikten zu setzen und effektive Strategien zu entwickeln, um diese Ziele zu erreichen.
+## Wann Konflikt-Coaching das richtige Format ist: vor, während und nach dem Konflikt
 
-4. **Praxisorientierte Übungen und Feedback**: Der Coaching-Prozess beinhaltet praxisnahe Übungen wie Rollenspiele und Simulationen, die dem Coachee helfen, neue Fähigkeiten in einem sicheren Rahmen zu üben und zu verankern. Das Feedback des Coaches unterstützt die kontinuierliche Verbesserung.
+Ein häufiges Missverständnis ist, dass Konflikt-Coaching erst dann sinnvoll ist, wenn ein Konflikt bereits eskaliert ist. Das stimmt nicht. Das Format ist in drei unterschiedlichen Phasen einsetzbar.
 
-5. **Förderung von Selbstverantwortung und Eigeninitiative**: Konfliktcoaching stärkt die Fähigkeit des Coachees, eigenverantwortlich und proaktiv Konflikte zu bewältigen. Der Coach hilft dem Coachee, eigene Ressourcen zu entdecken und selbstständig Lösungen zu entwickeln.
+**Vor dem Konfliktfall** kann Konflikt-Coaching zur Vorbereitung dienen: auf ein schwieriges Gespräch, auf eine herausfordernde Verhandlung, auf eine Situation, in der Spannungen bereits spürbar sind, aber noch nicht offen ausgebrochen. Rollenklärung, Erwartungsklärung, Vorbereitung auf schwierige Gesprächspartner - das alles ist Konflikt-Coaching in präventiver Funktion.
 
-## **Wie verläuft ein Konfliktcoaching? – Settings, Erst- und Folge-Coaching**
+**Im laufenden Konflikt** ist es das Format der Wahl, wenn die andere Partei nicht erreichbar oder nicht gesprächsbereit ist, wenn Mediation noch nicht möglich ist oder wenn die Person zunächst die eigene Position sortieren muss, bevor sie in einen gemeinsamen Prozess gehen kann.
 
-Der Prozess des Konfliktcoachings ist klar strukturiert und folgt mehreren Phasen, die darauf abzielen, die Konfliktkompetenz des Coachees systematisch zu entwickeln und zu stärken.
+**Nach einem Konfliktfall** dient Konflikt-Coaching der Nachbearbeitung und Stabilisierung: Was hat diese Situation ausgelöst? Was lässt sich daraus für zukünftige Konfliktsituationen mitnehmen? Wie wird die eigene Konfliktkompetenz gestärkt, damit Ähnliches künftig anders verläuft?
 
-**Settings im Konfliktcoaching: Einzelsetting**
+---
 
-Das Konfliktcoaching findet meist im **Einzelsetting** statt, was bedeutet, dass der Coach und der Coachee in einem vertraulichen, geschützten Rahmen zusammenarbeiten. Dieses Setting ermöglicht eine intensive, persönliche Arbeit und bietet Raum für individuelle Reflexion und gezielte Weiterentwicklung. Die Sitzungen können vor Ort in einem ruhigen Raum oder online über Videokonferenzen stattfinden und dauern in der Regel zwischen 60 und 90 Minuten.
+Wenn Sie merken, dass Sie in einer Konfliktsituation feststecken und Klarheit über Ihre eigene Position gewinnen möchten, lassen Sie uns darüber ins Gespräch kommen. Ein erstes Gespräch dient der Orientierung - nicht der Verpflichtung.
 
-**Erst-Coaching: Auftragsklärung und Zielsetzung**
+[Jetzt kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)
 
-Die erste Phase des Konfliktcoachings ist die **Erst-Coaching-Sitzung**, die der Auftragsklärung und Zielsetzung dient. Hierbei wird der Coaching-Rahmen festgelegt, und der Coachee formuliert seine spezifischen Anliegen und Ziele. Der Coach stellt gezielte Fragen, um die Erwartungen des Coachees zu klären und ein tiefes Verständnis für die Konfliktsituation zu entwickeln.
+---
 
-**Folge-Coaching: Konfliktanalyse, Entwicklung von Lösungsstrategien und Transfer in den Alltag**
+## Zielgruppen: B2B und Privatpersonen
 
-Die **Folge-Coachings** bauen auf den Erkenntnissen aus dem Erst-Coaching auf und sind in mehrere Phasen unterteilt:
+Konflikt-Coaching richtet sich an Einzelpersonen - unabhängig davon, ob der Konflikt im beruflichen oder privaten Kontext entstanden ist.
 
-1. **Konfliktanalyse und Selbstreflexion**: Der Coachee reflektiert über seine eigenen Verhaltensmuster, Reaktionen und Emotionen in Konfliktsituationen. Der Coach verwendet systemische Methoden wie Fragetechniken und Visualisierungen, um tiefere Einsichten zu fördern.
+Im B2B-Kontext sind das häufig Führungskräfte, Projektverantwortliche oder Fachkräfte in Organisationen, die mit anhaltenden Spannungen in der Zusammenarbeit konfrontiert sind. Hier ist Konflikt-Coaching in der Regel ein strukturierter Prozess über mehrere Sitzungen, mit einer Auftragsklärung zu Beginn.
 
-2. **Entwicklung von Lösungsstrategien**: Basierend auf der Konfliktanalyse entwickelt der Coach gemeinsam mit dem Coachee alternative Handlungsmöglichkeiten und Strategien zur Konfliktbewältigung. Rollenspiele und Simulationen werden eingesetzt, um die neuen Ansätze in einem sicheren Rahmen zu erproben.
+Im privaten Bereich kann Konflikt-Coaching niedrigschwelliger gestaltet sein. Manchmal reicht eine einzige Orientierungssitzung, um Klarheit zu gewinnen - etwa vor einem schwierigen Familiengespräch, bei einem Konflikt mit einem Nachbarn oder in einer Situation, in der jemand schlicht wissen möchte, ob und wie externe Unterstützung hilfreich sein könnte. Für solche Situationen biete ich gezielte Formate an: die {{< extlink "https://mediator.sweti.de/angebote/konfliktklaerung-vorbereiten/" >}}Konfliktklärung vorbereiten{{< /extlink >}} als strukturierte Einzelsitzung sowie die Seite {{< extlink "https://mediator.sweti.de/themen/schwierige-gespraeche-familie/" >}}Schwierige Gespräche in der Familie{{< /extlink >}} als Orientierungshilfe für familiäre Konfliktsituationen. Für Lebensübergänge, in denen Konflikte und persönliche Veränderungen ineinandergreifen, steht das {{< extlink "https://mediator.sweti.de/angebote/coaching-in-uebergaengen/" >}}Coaching in Übergängen{{< /extlink >}} zur Verfügung.
 
-3. **Umsetzung und Transfer in den Alltag**: Der Coach unterstützt den Coachee dabei, die erarbeiteten Strategien in den Alltag zu integrieren und anzuwenden. Der Coachee wird ermutigt, seine Erfahrungen zu dokumentieren und regelmäßig über Erfolge sowie Herausforderungen zu reflektieren.
+## Was Konflikt-Coaching nicht leistet - und der rechtliche Rahmen
 
-4. **Nachbereitung und Abschlussreflexion**: In der Abschlussphase reflektieren der Coach und der Coachee gemeinsam über den gesamten Coaching-Prozess, die erreichten Ziele und die gemachten Erfahrungen. Es wird besprochen, wie die neuen Fähigkeiten langfristig verankert werden können.
+Konflikt-Coaching ist kein Mediationsverfahren. Es erzeugt keine Einigung zwischen zwei Parteien, weil nur eine Partei im Raum ist. Es ist keine Rechtsberatung und keine therapeutische Behandlung.
 
-| **Merkmal**            | **Konfliktcoaching**                             | **Konfliktberatung**                               | **Mediation**                                     |
-|------------------------|--------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| **Ziel**               | Individuelle Entwicklung und Reflexion           | Analyse und Lösung des gesamten Konfliktsystems    | Vermittlung zwischen Konfliktparteien              |
-| **Fokus**              | Selbstreflexion und Kompetenzentwicklung         | Systemische Analyse und Bearbeitung von Konflikten | Kommunikation und Einigung der Konfliktparteien    |
-| **Methoden**           | Coaching-Techniken, Rollenspiele, Feedback       | Systemische Fragetechniken, Aufstellungen          | Mediationsgespräche, Moderation                    |
-| **Anwendung**          | Einzelpersonen, Führungskräfte                   | Teams, Organisationen, größere Gruppen             | Zwischenmenschliche Konflikte, Paare, kleine Gruppen|
-| **Dauer**              | Langfristig, mehrere Sitzungen                   | Langfristig, mehrere Sitzungen                     | Kurzfristig, wenige Sitzungen
-{class="UserTable"}                      |
+Ein wichtiger rechtlicher Hinweis für die Praxis: Wenn ich als Mediator jemanden in einer Konfliktsache coache, darf ich in derselben Sache grundsätzlich nicht mehr als Mediator tätig werden. Diese Einschränkung folgt aus dem Gebot der Allparteilichkeit nach § 2 Abs. 3 MediationsG. Eine Ausnahme ist nur dann möglich, wenn alle am Konflikt Beteiligten über das Coaching informiert sind und dem Wechsel in die Mediation ausdrücklich zustimmen.
 
-## **Methoden im Konfliktcoaching: Der systemische Ansatz**
+Das ist keine Schwäche des Formats, sondern eine wichtige Orientierung bei der Wahl des richtigen Verfahrens. Die Frage "Coaching oder Mediation?" sollte deshalb vor Beginn eines Prozesses - nicht während oder danach - geklärt werden. Wer unsicher ist, welches Format für die eigene Situation passt, kann das in einem kostenfreien Orientierungsgespräch besprechen. Einen Überblick über die Verfahren bietet auch die Seite [Mediation verstehen] ({{< relref "/themen/mediation-verstehen/" >}}).
 
-Das Konfliktcoaching setzt auf eine Vielzahl von Methoden, die flexibel an die Bedürfnisse des Coachees angepasst werden. Der **systemische Ansatz** ist dabei zentral, da er Konflikte nicht isoliert betrachtet, sondern immer im Kontext der Beziehungen und Wechselwirkungen, in denen sie entstehen.
+## Abgrenzung zur Konflikt-Beratung
 
-- **Systemische Fragetechniken**: Diese helfen dem Coachee, neue Perspektiven zu gewinnen und festgefahrene Denk- und Verhaltensmuster zu erkennen und zu durchbrechen. Zirkuläre Fragen, hypothetische Fragen und Skalierungsfragen sind typische Beispiele.
+Konflikt-Coaching und Konflikt-Beratung werden häufig verwechselt oder gleichgesetzt. Der Unterschied ist konzeptionell wesentlich.
 
-- **Reframing**: Durch das Umdeuten von Konfliktsituationen oder Verhaltensweisen wird der Coachee ermutigt, Probleme in einem neuen Licht zu sehen und konstruktive Lösungen zu entwickeln.
+Konflikt-Coaching richtet sich auf eine Person und deren Handlungsfähigkeit in einem Konflikt. Konflikt-Beratung richtet sich auf das System - auf Teams, Strukturen, Rollen und Kommunikationsmuster in einem Konfliktsystem mit mehreren Beteiligten. Was das in der Praxis bedeutet, habe ich im Artikel {{< extlink "https://mediator.sweti.de/post/konfliktberatung/" >}}Konflikt-Beratung: Wenn nicht die Person, sondern das System im Fokus steht{{< /extlink >}} ausgeführt.
 
-- **Systemische Aufstellungen**: Diese Methode visualisiert die Beziehungen und Dynamiken im Konflikt und ermöglicht es dem Coachee, unbewusste Muster zu erkennen und neue Perspektiven zu entwickeln.
+Beide Formate können in einem Gesamtprozess ineinandergreifen - sie sind aber konzeptionell und, wie oben beschrieben, auch rechtlich zu trennen.
 
-- **Reflecting Team**: Ein Team von Beobachtern gibt nach dem Coachinggespräch Reflexionen und Anregungen, die dem Coachee
+{{< werbebox >}}
 
- helfen, neue Einsichten und Perspektiven zu gewinnen.
+## Fazit
 
-- **Perspektivwechsel und Rollenwechsel**: Der Coachee wird ermutigt, die Perspektive anderer Konfliktparteien einzunehmen, um Empathie zu entwickeln und neue Verhaltensweisen zu erproben.
+Konflikt-Coaching ist kein Allheilmittel und kein Ersatz für Mediation oder andere Verfahren. Es ist ein eigenständiges Format, das dann seinen Platz hat, wenn eine Person in einem Konflikt Klarheit über die eigene Position gewinnen will - vor, während oder nach dem eigentlichen Konfliktgeschehen.
 
-## **Fazit**
+Die entscheidende Frage ist nicht, ob Konflikt-Coaching oder Mediation "besser" ist. Die entscheidende Frage ist: Was braucht diese Person in dieser Situation? Manchmal ist es die Begleitung durch einen Prozess mit allen Parteien. Manchmal ist es zunächst die Klärung der eigenen Position, bevor überhaupt ein gemeinsamer Prozess möglich wird.
 
-Konfliktcoaching ist ein kraftvoller Prozess, der darauf abzielt, die individuelle Konfliktkompetenz zu stärken und konstruktive Lösungen zu fördern. Durch den Einsatz systemischer Methoden und einen strukturierten Coaching-Prozess unterstützt Konfliktcoaching Menschen dabei, sich selbst besser zu verstehen, festgefahrene Muster zu durchbrechen und ihre Fähigkeit zur Konfliktbewältigung nachhaltig zu verbessern. Ob für Führungskräfte, Teams oder Einzelpersonen – Konfliktcoaching bietet maßgeschneiderte Unterstützung für alle, die ihre Konfliktkompetenz gezielt entwickeln möchten.
+Wenn Sie sich in einer solchen Situation befinden, sprechen Sie mich an.
+
+{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
