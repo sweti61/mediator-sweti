@@ -169,7 +169,7 @@ Aus diesem Grund biete ich 2026 und 2027 eine begrenzte Anzahl kostenfreier Medi
 
 Wer eine konkrete Situation hat, in der ein Mediationsverfahren oder ein Konflikt-Coaching helfen könnte – oder wer jemanden kennt, in dessen Situation das passen würde –, ist eingeladen, sich zu melden. Ein erstes Orientierungsgespräch ist kostenfrei und dauert 30–45 Minuten.
 
-→ 
+→ [Über mich – Ausbildung und Werdegang]({{< relref "/about/" >}})
 
 ---
 

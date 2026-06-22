@@ -2,6 +2,7 @@
 title: "Mediator in Dresden – Konflikte in Familie, Pflege & Nachbarschaft klären"
 description: "Systemischer Mediator in Dresden – Klärung bei Konflikten in Familie, Pflege, Erbe und Nachbarschaft. Kostenfreies Orientierungsgespräch, vertraulich, ohne Verpflichtung."
 summary: "Dr. Swetoslaw Beltschew begleitet seit drei Jahren Menschen in Dresden und Umgebung bei festgefahrenen Konflikten - mit systemischem Ansatz, Allparteilichkeit nach Mediationsgesetz und der Ruhe aus 35 Jahren Verwaltungserfahrung."
+full_title: "Systemischer Mediator in Dresden für Konflikte in Familie, Pflege, Erbe und Nachbarschaft. Kostenfreies Orientierungsgespräch, vertraulich."
 
 slug: "mediator-dresden"
 url: "/mediator-dresden/"
@@ -23,8 +24,8 @@ faq:
 show_related: false
 image: "mediator-dresden.png"
 featured_image: "mediator-dresden.png"
-featured: true
 weight: 10
+featured: true
 ---
 
 Wenn Gespräche in der Familie festgefahren sind, Nachbarschaftskonflikte eskalieren oder Entscheidungen im Pflegekontext nicht mehr gemeinsam getroffen werden können, begleite ich Sie als Mediator in Dresden dabei, wieder ins Gespräch zu kommen.
@@ -42,7 +43,7 @@ Viele Konflikte haben ähnliche Muster - unabhängig vom konkreten Thema.
 
 Ich arbeite in **Dresden und im Umkreis von 50 km** - u. a. in Radebeul, Freital, Pirna und Meißen.
 
-{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+[Jetzt kostenfreies Orientierungsgespräch](https://calendly.com/mediator-sweti) buchen
 
 ---
 
@@ -187,7 +188,7 @@ Ich bin Dr. Swetoslaw Beltschew, Mediator (zertifiziert nach MediationsG) und sy
 
 {{< icon "phone" >}} 0163 803 5634   
 {{< icon "mail" >}} mediator@sweti.de   
-{{< icon "calendar" >}} {{< extlink "https://calendly.com/mediator-sweti" >}}Online-Termin buchen{{< /extlink >}}   
+{{< icon "calendar" >}} [Online-Termin buchen9(https://calendly.com/mediator-sweti)   
 {{< icon "message-square" >}} [Kontaktformular]({{< relref "/contact/" >}})   
 
 ---
@@ -198,6 +199,8 @@ Wenn Sie Ihre Situation zunächst einordnen möchten:
 
 → [Schwierige Gespräche in der Familie]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
 → [Wenn Eltern älter werden]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})   
-→ [Mediation verstehen]({{< relref "/themen/mediation-verstehen/" >}})   
+→ [Mediation verstehen]({{< relref "/themen/mediation-verstehen/" >}})  
+→ [Konflikt-Coaching: Was es ist und wann es hilft]({{< relref "/post/konfliktcoaching/" >}})   
+→ [Konfliktberatung: Wenn das System im Fokus steht]({{< relref "/post/konfliktberatung/" >}})    
 
 {{< cta-link url="/" text="Zurück zur Startseite" >}}

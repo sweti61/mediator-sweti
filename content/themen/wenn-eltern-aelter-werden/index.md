@@ -162,7 +162,8 @@ Für übergreifende familiäre Gespräche:
 
 Wenn Sie sich zunächst selbst orientieren möchten:
 
-→ [Impulse und Leitfäden für schwierige Gespräche herunterladen]({{< relref "/leadmagnets/" >}})
+→ [Impulse und Leitfäden für schwierige Gespräche herunterladen]({{< relref "/leadmagnets/" >}})   
+→ [Über mich – Mediator Dr. Swetoslaw Beltschew]({{< relref "/about/" >}})
 
 Diese können helfen, Gedanken zu sortieren und Gespräche vorzubereiten.
 

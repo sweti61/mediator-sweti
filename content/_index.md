@@ -1,9 +1,7 @@
 +++
 title='Mediation in Dresden bei Familien- und Pflegekonflikten'
 
-description = "Familienmediation in Dresden bei Pflegekonflikten, Erbstreit, Nachbarschaftskonflikt und Generationenkonflikten. Systemischer Mediator – ruhig, strukturiert, kostenloses Erstgespräch."
-
-keywords = ["Mediator Dresden", "Mediation Dresden", "Familienmediation Dresden", "Pflegekonflikt Mediation Dresden", "Nachbarschaftskonflikt Mediator Dresden", "Erbstreit Mediation Dresden", "Generationenkonflikt Dresden", "Konflikt lösen Dresden", "systemischer Mediator Dresden"]
+description = "Familienmediation in Dresden bei Pflegekonflikten, Erbstreit, Nachbarschaftskonflikt und Generationenkonflikten. Systemischer Mediator - ruhig, strukturiert, kostenfreies Erstgespräch."
 
 type = "page"
 
@@ -11,23 +9,24 @@ theme_version = '2.8.2'
 featured_image = '/images/mediator-sweti-startseite.png'
 
 recent_copy = "Für meine Leser:"
+
 +++
 
 {{< intro-split src="/images/mediation-maenchen-dresden.png" alt="Swetoslaw Beltschew als Mediator vor einem Flipchart" >}}
 
-Wenn Gespraeche nicht mehr moeglich scheinen, braucht es einen 
-geschuetzten Rahmen. Konflikte in der Familie – um Pflege, Erbe 
+Wenn Gespräche nicht mehr möglich scheinen, braucht es einen 
+geschützten Rahmen. Konflikte in der Familie – um Pflege, Erbe 
 oder den eigenen Platz nach dem Berufsleben – entstehen selten 
-ploetzlich. Sie wachsen ueber Jahre, gespeist aus ungeklaerten 
-Rollen, unausgesprochenen Erwartungen und stiller Ueberforderung.
+plötzlich. Sie wachsen über Jahre, gespeist aus ungeklärten 
+Rollen, unausgesprochenen Erwartungen und stiller Überforderung.
 
-In 35 Jahren in der oeffentlichen Verwaltung Sachsens habe ich 
+In 35 Jahren in der öffentlichen Verwaltung Sachsens habe ich 
 gelernt, mit komplexen Situationen ruhig umzugehen: viele 
 Interessen, viele Beteiligte, klare Strukturen. Diese Erfahrung 
-traegt heute meine Arbeit als Mediator. Distanz ist dabei keine 
-Kuehle – sondern die Voraussetzung, allen Beteiligten gerecht 
+trägt heute meine Arbeit als Mediator. Distanz ist dabei keine 
+Kühle – sondern die Voraussetzung, allen Beteiligten gerecht 
 zu werden. Allparteilichkeit, wie sie das Mediationsgesetz 
-vorgibt, ist fuer mich keine Methode, sondern eine ueber viele 
+vorgibt, ist für mich keine Methode, sondern eine über viele 
 Jahre gewachsene Haltung.
 
 {{< /intro-split >}}
@@ -44,9 +43,9 @@ Wenn eine einzelne Person Klarheit sucht in einer schwierigen Situation oder vor
 {{< /card >}}
 
 {{< card title="STRUKTURIEREN – Systemische Beratung" icon="layers" icon_type="feather">}}
-Wenn ein Familien-, Pflege- oder Erbsystem als Ganzes neu geordnet werden muss.
-Methodisch arbeite ich systemisch und loesungs- und 
-ressourcenorientiert. Das heisst: Ich suche nicht nach Schuld, 
+Wenn ein Familien-, Pflege- oder Erbsystem als Ganzes neu geordnet werden muß.
+Methodisch arbeite ich systemisch und lösungs- und 
+ressourcenorientiert. Das heißt: Ich suche nicht nach Schuld, 
 sondern nach Mustern. Und ich frage nicht zuerst, was fehlt, 
 sondern was bereits da ist und tragen kann.
 {{< /card >}}
@@ -55,10 +54,10 @@ sondern was bereits da ist und tragen kann.
 
 ---
 
-Ein erstes Gespraech dient der Orientierung – nicht der 
+Ein erstes Gespräch dient der Orientierung – nicht der 
 Verpflichtung. Kostenlos, vertraulich, etwa 30 bis 45 Minuten.
 
-{{< icon "message-circle" >}} ["Jetzt kostenloses Erstgespräch vereinbaren"](https://calendly.com/mediator-sweti)
+{{< icon "calendar" >}} [Jetzt kostenfreies Erstgespräch vereinbaren](https://calendly.com/mediator-sweti)
 
 Erfahren Sie hier mehr über meine Arbeit als [Mediator in Dresden](/mediator-dresden/).
 

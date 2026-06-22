@@ -230,4 +230,5 @@ Wenn Sie ähnliche Dynamiken in einem anderen Kontext wiederfinden:
 Wenn Sie merken, dass das Thema Erbe Ihre Familie beschäftigt,  
 kann ein erster Austausch helfen, die Situation einzuordnen.
 
-👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+→ [Erbstreit in der Familie klären – Hintergründe und Dynamiken]({{< relref "/themen/erbstreit-familie-klaeren-dresden/" >}})   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)

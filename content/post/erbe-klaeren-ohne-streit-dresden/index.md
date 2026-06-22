@@ -153,13 +153,14 @@ lassen Sie uns darüber ins Gespräch kommen.
 Wenn Sie mehr Klarheit wünschen,  
 können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 
-👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)
 
 ## Mehr Orientierung zu schwierigen Gesprächen
 
 Wenn Sie sich einen Überblick über typische Dynamiken in Familien verschaffen möchten:
 
-→ [Schwierige Gespräche in der Familie führen – Orientierung und Wege zur Klärung]({{< relref "/themen/schwierige-gespraeche-familie/" >}})
+→ [Schwierige Gespräche in der Familie führen – Orientierung und Wege zur Klärung]({{< relref "/themen/schwierige-gespraeche-familie/" >}})   
+→ [Erbstreit in der Familie klären – typische Dynamiken und Wege]({{< relref "/themen/erbstreit-familie-klaeren-dresden/" >}})
 
 ---
 

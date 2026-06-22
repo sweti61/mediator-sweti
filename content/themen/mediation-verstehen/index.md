@@ -170,4 +170,7 @@ kann ein erster Austausch helfen, das einzuordnen.
 Wenn Sie mehr Klarheit wünschen,  
 können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 
-👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+→ [Konflikt-Coaching: Was es ist und wann es hilft]({{< relref "/post/konfliktcoaching/" >}})   
+→ [Konfliktberatung: Wenn das System im Fokus steht]({{< relref "/post/konfliktberatung/" >}})   
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)

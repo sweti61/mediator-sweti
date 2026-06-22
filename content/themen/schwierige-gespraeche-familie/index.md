@@ -184,7 +184,8 @@ können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 Vielleicht ist auch einer dieser Aspekte für Ihre Situation relevant:
 
 → [Wenn Eltern älter werden – Orientierung für Angehörige]({{< relref "/themen/wenn-eltern-aelter-werden/" >}})  
-→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})
+→ [Mediation verstehen – Möglichkeiten und Grenzen]({{< relref "/themen/mediation-verstehen/" >}})   
+→ [Über mich – Mediator Dr. Swetoslaw Beltschew]({{< relref "/about/" >}})   
 
 ---
 
