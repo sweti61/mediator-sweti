@@ -23,7 +23,8 @@ RewriteRule ^post/my-first-post/?$ https://mediator.sweti.de/post/was-ist-mediat
 RewriteRule ^post/my-second-post/?$ https://mediator.sweti.de/post/wie-arbeitet-der-mediator-dresden/ [R=301,L]
 
 # Testimonials-Seite umbenannt
-RewriteRule ^testimonials/?$ https://mediator.sweti.de/testimoni/ [R=301,L]
+# Testimonials-Seite - hat nie existiert
+RewriteRule ^testimonials/?$ - [G,L]
 
 # Dienstleistungen gelöscht
 RewriteRule ^dienstleistungen/?$ https://mediator.sweti.de/angebote/ [R=301,L]

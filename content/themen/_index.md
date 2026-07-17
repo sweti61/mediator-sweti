@@ -1,6 +1,6 @@
 ---
 title: "Themen – Orientierung bei Konflikten, Gesprächen und Übergängen"
-description: "Überblick über zentrale Themen: schwierige Gespräche in der Familie, Pflege und Übergänge sowie Mediation und Konfliktklärung."
+description: "Orientierung bei schwierigen Gesprächen, Pflegekonflikten, Erbstreit und Nachbarschaftskonflikten in Dresden. Ruhig einordnen, bevor nächste Schritte entstehen."
 summary: "Wenn Gespräche schwierig werden oder sich etwas verändert, ist oft unklar, worum es eigentlich geht. Diese Seite bietet Orientierung zu typischen Situationen und Dynamiken – als ruhiger Einstieg, bevor nächste Schritte entstehen."
 slug: themen
 url: /themen/
@@ -9,7 +9,6 @@ draft: false
 toc: false
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-keywords: ["Konfliktklärung Themen", "Mediation Themen", "Familienkonflikte Überblick", "Pflegekonflikte Orientierung"]
 
 featured_image: "/images/themen.png"
 featured_image_class: "cover bg-top"

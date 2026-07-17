@@ -9,7 +9,6 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-keywords: ["nachbarschaftskonflikt dresden", "streit mit nachbarn lösen", "mediation nachbarschaft dresden", "lärm nachbarn konflikt"]
 
 featured_image: nachbarschaftskonflikte-klaeren-dresden.png
 featured_image_class: "cover bg-bottom"
@@ -17,8 +16,6 @@ cover_dimming_class: "bg-black-10"
 background_color_class: "bg-light-green"
 omit_header_text: true 	
 ---
-
-# Nachbarschaftskonflikte klären – Mediation statt Eskalation
 
 Ein Geräusch zu viel.  
 Ein falsch verstandener Blick.  

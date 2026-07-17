@@ -1,6 +1,6 @@
 ---
 title: "Mediation verstehen – Möglichkeiten, Ablauf und Grenzen in der Konfliktklärung"
-description: "Was ist Mediation, wann ist sie sinnvoll – und wann nicht? Diese Seite gibt Orientierung zu Ablauf, Kosten und Grenzen der Mediation in Dresden."
+description: "Was ist Mediation, wann ist sie sinnvoll – und wann nicht? Orientierung zu Ablauf, Kosten und Grenzen der Mediation in Dresden. Kostenloses Erstgespräch."
 summary: "Mediation wird oft als Lösung für Konflikte gesehen. Diese Seite hilft zu verstehen, wann Mediation sinnvoll ist, wie sie funktioniert und wo ihre Grenzen liegen."
 slug: mediation-verstehen
 url: /themen/mediation-verstehen/
@@ -9,7 +9,6 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-keywords: ["was ist mediation", "mediation sinnvoll wann", "mediation kosten dresden", "mediation oder anwalt"]
 
 featured_image: mediation-verstehen.png
 featured_image_class: "cover bg-bottom"

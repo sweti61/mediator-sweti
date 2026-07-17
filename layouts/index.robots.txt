@@ -2,11 +2,9 @@ User-agent: *
 {{ if eq hugo.Environment "production" }}
 # Hinweis: Diese Version ist für produktive Umgebungen
 Allow: /
-Disallow: /admin/
-Disallow: /search/
+Disallow: /post/
 Disallow: /tags/
 Disallow: /categories/
-Disallow: /page/
 Disallow: /index.xml
 # Sitemap-Hinweis für alle Crawler
 Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}

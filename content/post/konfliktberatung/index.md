@@ -5,7 +5,6 @@ summary: "Konflikt-Beratung richtet sich nicht auf eine Person, sondern auf das 
 slug: "konfliktberatung"
 url: "/post/konfliktberatung/"
 date: 2026-06-15
-draft: true
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 image: "konfliktberatung.png"

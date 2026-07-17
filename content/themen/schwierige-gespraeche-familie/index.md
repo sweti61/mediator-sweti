@@ -9,7 +9,6 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-keywords: ["schwierige Gespräche in der Familie", "Familienkonflikte klären", "Pflegegespräch vorbereiten", "Kontaktabbruch Familie", "Erbe ohne Streit", "Familienmediation Dresden"]
 
 featured_image: schwierige-gespraeche-familie.png
 featured_image_class: "cover bg-bottom"
@@ -175,7 +174,7 @@ lassen Sie uns darüber ins Gespräch kommen.
 Wenn Sie mehr Klarheit wünschen,  
 können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 
-{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
 
 ---
 

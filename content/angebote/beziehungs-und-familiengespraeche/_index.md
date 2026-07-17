@@ -9,7 +9,7 @@ categories: ["angebote"]
 draft: false
 author: "Swetoslaw Beltschew"
 date: 2026-02-25 
-weight: 2
+weight: 25
 ---
 
 Manchmal reden Menschen noch miteinander – aber nicht mehr wirklich.

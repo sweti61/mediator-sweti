@@ -5,7 +5,6 @@ summary: "Konflikt-Coaching richtet sich an Einzelpersonen, die in einem Konflik
 slug: "konfliktcoaching"
 url: "/post/konfliktcoaching/"
 date: 2026-06-15
-draft: true
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 image: "konfliktcoaching.png"

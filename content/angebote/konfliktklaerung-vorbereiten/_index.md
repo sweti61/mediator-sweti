@@ -15,7 +15,7 @@ date: 2026-02-25
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
-weight: 3
+weight: 30
 ---
 
 # Konfliktklärung vorbereiten – strukturiert und klar

@@ -7,14 +7,6 @@ summary: "Kostenfreie Mediation und Konflikt-Coaching im Praxisaufbau 2026/2027 
 
 categories: ["angebote"]
 
-keywords:
-  - Mediation Dresden kostenlos
-  - Praxisaufbau Mediation
-  - Konflikt-Coaching Dresden
-  - Familienmediation Dresden
-  - Nachbarschaftsmediation Dresden
-  - Mediator Aufbauphase
-  
 slug: praxisaufbau-mediation-dresden
 url: /angebote/praxisaufbau-mediation-dresden/
 draft: false
@@ -24,7 +16,7 @@ author: "Dr. Swetoslaw Beltschew"
 image: praxisaufbau-mediation-dresden.png
 featured_image: praxisaufbau-mediation-dresden.png
 # text_color: "bg-near-white"
-weight: 1
+weight: 10
 
 ---
 

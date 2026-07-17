@@ -15,6 +15,7 @@ angebote:
   - erbschaftsstreit-mediation-dresden
   - beziehungs-und-familiengespraeche
   - praxisaufbau-mediation-dresden
+  - mediation-hofnachfolge-landwirtschaft-sachsen
   
 slug: "privatpersonen"
 date: 2025-06-04

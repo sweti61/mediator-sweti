@@ -1,6 +1,6 @@
 ---
 title: "Wenn Eltern älter werden – Orientierung für Angehörige bei Pflege, Entscheidungen und Konflikten"
-description: "Wenn Eltern älter werden, entstehen neue Fragen zu Pflege, Verantwortung und Entscheidungen. Diese Seite bietet Orientierung für Angehörige – ruhig, strukturiert und ohne vorschnelle Lösungen."
+description: "Wenn Eltern älter werden, entstehen in Familien Fragen zu Pflege, Verantwortung und Entscheidungen. Orientierung für Angehörige in Dresden – strukturiert und ohne Druck."
 summary: "Wenn Eltern älter werden, verändert sich vieles – oft schleichend. Diese Seite hilft, typische Situationen zu verstehen und einen ersten Überblick zu gewinnen, bevor Gespräche schwierig werden."
 slug: wenn-eltern-aelter-werden
 url: /themen/wenn-eltern-aelter-werden/
@@ -9,7 +9,6 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Themen"]
-keywords: ["wenn eltern älter werden was tun", "pflege gespräch familie", "angehörige überfordert pflege", "pflege konflikt familie dresden"]
 
 featured_image: wenn-eltern-aelter-werden.png
 featured_image_class: "cover bg-bottom"
