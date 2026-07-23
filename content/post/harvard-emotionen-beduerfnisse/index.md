@@ -1,11 +1,9 @@
 +++
 title = "Emotionen verhandeln – Grundbedürfnisse als Kompass in der Harvard-Mediation"
 
-description = "Wie emotionale Grundbedürfnisse nach Shapiro & Fisher systemisch und transaktionsanalytisch mit dem Harvard-Konzept verbunden werden – ein Beitrag für Fachleute in Mediation, Beratung und Coaching."
+description = "Emotionale Grundbedürfnisse nach Shapiro und Fisher: Wie Affiliation, Autonomie, Status, Rolle und Wertschätzung Verhandlungen prägen – systemisch erklärt."
 
-summary = "Dieser Artikel verknüpft die fünf Grundbedürfnisse nach Shapiro & Fisher mit der Transaktionsanalyse, der Systemtheorie und dem Harvard-Konzept – und zeigt, wie emotionale Intelligenz und Verhandlungsstrategie gemeinsam wirken."
-
-keywords = ["Harvard-Konzept", "emotionale Grundbedürfnisse", "Shapiro und Fisher", "Transaktionsanalyse", "Systemische Beratung", "Mediation", "Konfliktlösung", "Gefühle und Bedürfnisse"]
+summary = "Verhandlungen scheitern nicht an Argumenten, sondern an verletzten Bedürfnissen. Dieser Artikel verknüpft die fünf Grundbedürfnisse nach Shapiro und Fisher mit Transaktionsanalyse, Systemtheorie und Harvard-Prinzipien."
 
 categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
@@ -13,7 +11,7 @@ tags = ['Mediation', 'Harvard-Konzept']
 
 date = 2025-05-29T00:00:00Z
 
-read_more_copy = 'Mehr über die Grundgefühle nach Shapiro/Fishet'
+read_more_copy = 'Mehr über Grundbedürfnisse nach Shapiro und Fisher'
 url = "/post/harvard-emotionen-beduerfnisse/"
 slug = "harvard-emotionen-beduerfnisse"
 author = "Dr. Swetoslaw Beltschew"
@@ -56,7 +54,7 @@ Diese Grundbedürfnisse wirken wie der unsichtbare Teil eines Eisbergs: nicht di
 | **Status**        | Bedürfnis nach Anerkennung und Kompetenzzuschreibung      | Scham, Wut, subtile Abwertung anderer                 |
 | **Role**          | Bedürfnis nach klarer, sinnvoller Funktion im System      | Verwirrung, Rollenkonflikte, Überforderung            |
 | **Appreciation**  | Bedürfnis nach Wertschätzung und wahrgenommenem Beitrag  | Kränkung, Rückzug, emotionale Abkühlung               |
-{.UserTableSimple}
+
 
 ## Verbindung zur Transaktionsanalyse (TA): Gefühle und Ersatzgefühle
 
@@ -137,15 +135,11 @@ Für systemische Beratung heißt das: Bedürfnisse sind keine Defizite, sondern 
 
 Das Modell von Shapiro und Fisher ist kein emotionales Add-on, sondern ein **diagnostisches und systemisch anschlussfähiges Instrument**, das die Tiefenstruktur von Konflikten erkennbar macht.
 
-Es verbindet:
-- **die Sprache der Gefühle** (Transaktionsanalyse),
-- **die Logik der Kommunikation** (Systemtheorie),
-- **und die Struktur des Verhandelns** (Harvard-Konzept).
+Es verbindet die Sprache der Gefühle (Transaktionsanalyse), die Logik der Kommunikation (Systemtheorie) und die Struktur des Verhandelns (Harvard-Konzept) zu einem integrierten Ansatz.
 
 Für Mediator:innen, Coaches und Berater:innen entsteht daraus ein erweitertes Verständnis von Konfliktdynamiken – und ein Werkzeugkasten, der Haltung, Struktur und Emotionen integriert.
 
 **Verhandeln auf Augenhöhe bedeutet nicht nur, Interessen zu klären – sondern auch, Bedürfnisse zu verstehen.**
 
-> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
-👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
-🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}**   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

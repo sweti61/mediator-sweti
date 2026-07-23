@@ -298,27 +298,3 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Feather Icons -->
 <script src="https://unpkg.com/feather-icons"></script>
 
-<!-- noindex -->
-{{ $noindex := false }}
-
-{{ $noindexTaxonomies := slice "tags" "categories" }}
-
-{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
-  {{ if in $noindexTaxonomies .Type }}
-    {{ $noindex = true }}
-  {{ end }}
-{{ end }}
-
-{{ if eq .Section "leadmagnets" }}
-  {{ $noindex = true }}
-{{ end }}
-
-{{ with .Params.noindex }}
-  {{ if . }}
-    {{ $noindex = true }}
-  {{ end }}
-{{ end }}
-
-{{ if $noindex }}
-<meta name="robots" content="noindex, follow">
-{{ end }}

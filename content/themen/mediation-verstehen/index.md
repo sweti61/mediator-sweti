@@ -172,4 +172,5 @@ können wir gemeinsam einen kurzen Orientierungstermin vereinbaren.
 → [Konflikt-Coaching: Was es ist und wann es hilft]({{< relref "/post/konfliktcoaching/" >}})   
 → [Konfliktberatung: Wenn das System im Fokus steht]({{< relref "/post/konfliktberatung/" >}})   
 
-{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

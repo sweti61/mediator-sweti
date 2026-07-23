@@ -4,10 +4,9 @@ tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Entwicklung und Vergleich der BATNA – Handlungsfähigkeit durch Verhandlungsalternativen stärken"
 
-description = "Wie Verhandlungsalternativen die Qualität von Lösungen erhöhen: Das Harvard-Prinzip BATNA im Kontext systemischer Organisationsmediation erklärt."
-summary = "Wie Verhandlungsalternativen die Qualität von Lösungen erhöhen: Das Harvard-Prinzip BATNA im Kontext systemischer Organisationsmediation erklärt."
+description = "BATNA, WATNA, ZOPA: Wie Verhandlungsalternativen in der Organisationsmediation Handlungsfähigkeit stärken und Entscheidungen auf Augenhöhe ermöglichen."
 
-keywords = ["BATNA", "Verhandlungsalternativen", "Organisationsmediation", "Verhandlung auf Augenhöhe", "systemische Verhandlung", "Konfliktlösung", "Entscheidungsstrategie", "Harvard-Konzept", "Mediationstechniken", "WATNA", "ZOPA"]
+summary = "Wer seine Alternativen kennt, verhandelt nicht aus Ohnmacht. Dieser Artikel erklärt BATNA, WATNA und ZOPA im Kontext systemischer Organisationsmediation – mit Methoden, Fallbeispiel und BATNA-Matrix."
 
 date = 2025-05-18T12:49:52+02:00
 
@@ -30,7 +29,7 @@ disable = true
 
 {{< smartimg
   src="harvard-batna.png"
-  alt="BATN"
+  alt="BATNA – Verhandlungsalternativen in der Organisationsmediation"
   caption=""
   class="smartimg--narrow"
   size="1200x"
@@ -68,12 +67,12 @@ BATNA steht im Zusammenhang mit weiteren Konzepten:
 
   | Beteiligte | Untergrenze (BATNA) | Obergrenze (max. akzeptabel) |
   |:--------------|----------------------|-------------------------------|
-  | Partei B     | 40.000 €             | 50.000 €                      |
-  | Partei A     | 45.000 €             | 55.000 €                      |
+  | Käufer        | 40.000 €             | 50.000 €                      |
+  | Verkäufer     | 45.000 €             | 55.000 €                      |
 {.UserTable}
 
 
-  → Verhandelbarer Bereich: **45.000–50.000 €**
+  → Verhandelbarer Bereich (ZOPA): **45.000–50.000 €**
 
 - **ZAPTA** (*Zone of Agreement Possible to All*): Der Bereich minimal akzeptabler Lösungen, bei denen keine Partei ihr Gesicht verliert oder Grundwerte verletzt sieht. Sie beschreibt den kleinsten gemeinsamen Nenner – etwa eine temporäre Übergangslösung oder ein Teilabkommen, das auf späteren Nachverhandlungen aufbaut.
 
@@ -95,7 +94,7 @@ Die Entwicklung von BATNAs beginnt meist mit offenen, reflexiven Fragen: „Was 
 
 In einem nächsten Schritt folgt die **Szenarienarbeit**: Die Beteiligten skizzieren realistische Alternativen – von Rückzug über Eskalation bis hin zu Zwischenlösungen. Diese Szenarien werden bewusst mit ihren Auswirkungen auf Zeit, Ressourcen, Beziehungen und Image verbunden. Hierbei kann auch visuell gearbeitet werden – etwa mit Entscheidungsbäumen oder Karten.
 
-Ein dritter Aspekt ist die **Unterscheidung zwischen Wunsch, Drohung und tragfähiger Option**. Viele Aussagen wie „Dann machen wir eben gar nichts mehr“ sind Affektaussagen oder Appelle, keine echten BATNAs. Die Mediator:in hilft, diese Ebenen zu entflechten und herauszuarbeiten, welche Alternativen tragfähig sind – auch wenn niemand zuschaut.
+Ein dritter Aspekt ist die **Unterscheidung zwischen Wunsch, Drohung und tragfähiger Option**. Viele Aussagen wie „Dann machen wir eben gar nichts mehr“ sind Affektaussagen oder Appelle, keine echten BATNAs. Die Mediation hilft, diese Ebenen zu entflechten und herauszuarbeiten, welche Alternativen tragfähig sind – auch wenn niemand zuschaut.
 
 ## Vergleich und Bewertung
 
@@ -107,7 +106,7 @@ Eine strukturierte Methode zur Bewertung ist die **BATNA-Matrix**. Dabei werden 
 
 ## Mediatorische Interventionen
 
-Ein zentraler Beitrag der Mediator:in in der BATNA-Arbeit liegt darin, Reflexionsräume zu schaffen, in denen Alternativen nicht als Drohung, sondern als Orientierungsinstrument betrachtet werden können. Die folgenden Interventionen fördern Perspektivwechsel und fördern die Selbstverantwortung der Beteiligten.
+Ein zentraler Beitrag in der BATNA-Arbeit liegt darin, Reflexionsräume zu schaffen, in denen Alternativen nicht als Drohung, sondern als Orientierungsinstrument betrachtet werden können. Die folgenden Interventionen fördern Perspektivwechsel und fördern die Selbstverantwortung der Beteiligten.
 
 Die Technik des **Spiegelns** erlaubt es, implizite Denkweisen oder Strategien der Beteiligten zurückzugeben – nicht als Korrektiv, sondern als Einladung zur Reflexion. Beispielsweise könnte gefragt werden: „Wenn Sie diesen Weg tatsächlich gehen – was verändert sich dann konkret in Ihrem Team oder im Projektverlauf?“ Ziel ist es, dass die Person ihre Entscheidung innerlich durchspielt und deren Folgen systemisch abschätzt.
 
@@ -119,7 +118,7 @@ Die Methode der **Externalisierung** schafft eine Distanz zur eigenen BATNA, ind
 
 **Fall:** In einem mittelständischen Unternehmen verhandeln die Abteilungen Controlling und Produktentwicklung über die Priorisierung eines geplanten Softwareprojekts. Während das Controlling auf Einhaltung des vorgegebenen Budgets pocht, besteht die Entwicklungsabteilung auf zusätzlichen Mitteln zur Qualitätssicherung. Die Gespräche verlaufen festgefahren – beide Seiten drohen indirekt mit Rückzug oder Eskalation auf die Geschäftsführungsebene.
 
-**Anwendung von BATNA:** In der Mediation werden beide Seiten eingeladen, ihre Alternativen zur Verhandlungslösung zu formulieren. Die Produktentwicklung erwägt, das Projekt zu verschieben oder in reduzierter Form umzusetzen – allerdings mit klaren Risiken für Markterfolg und Teamstabilität. Das Controlling wiederum erkennt, dass ein Scheitern der Einigung zu interner Unzufriedenheit und Reputationsverlust führen könnte. Die Mediator:in nutzt zirkuläre Fragen, um die gegenseitige Wirkung der Alternativen sichtbar zu machen und hilft, realistische Handlungsoptionen zu vergleichen. In der Folge entsteht ein Vorschlag für ein Zwischenbudget mit externem Review nach drei Monaten – getragen von beiden Seiten als tragfähige Lösung.
+**Anwendung von BATNA:** In der Mediation werden beide Seiten eingeladen, ihre Alternativen zur Verhandlungslösung zu formulieren. Die Produktentwicklung erwägt, das Projekt zu verschieben oder in reduzierter Form umzusetzen – allerdings mit klaren Risiken für Markterfolg und Teamstabilität. Das Controlling wiederum erkennt, dass ein Scheitern der Einigung zu interner Unzufriedenheit und Reputationsverlust führen könnte. Der Mediator nutzt zirkuläre Fragen, um die gegenseitige Wirkung der Alternativen sichtbar zu machen und hilft, realistische Handlungsoptionen zu vergleichen. In der Folge entsteht ein Vorschlag für ein Zwischenbudget mit externem Review nach drei Monaten – getragen von beiden Seiten als tragfähige Lösung.
 
 {{< werbebox >}}
 
@@ -129,6 +128,5 @@ BATNAs machen Verhandlungen erwachsen. Sie bieten keine Drohung, sondern **Orien
 
 In der systemischen Mediation ist die Arbeit mit BATNAs ein zentrales Instrument zur Klärung von Macht, Verantwortung und Entscheidungsfähigkeit – besonders dann, wenn komplexe Organisationen und vielschichtige Interessen aufeinandertreffen.
 
-> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
-👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
-🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}**   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

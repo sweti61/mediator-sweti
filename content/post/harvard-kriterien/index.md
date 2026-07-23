@@ -4,21 +4,9 @@ tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Verhandeln auf Augenhöhe: Objektive Maßstäbe systemisch nutzen"
 
-description = "Wie objektive Kriterien Konflikte in Organisationen lösbar machen: Einblicke in das vierte Prinzip des Harvard-Konzepts, systemisch fundiert und praxisnah erklärt."
-summary = "Wie objektive Kriterien Konflikte in Organisationen lösbar machen: Einblicke in das vierte Prinzip des Harvard-Konzepts, systemisch fundiert und praxisnah erklärt."
+description = "Objektive Kriterien in der Mediation: Wie gemeinsam akzeptierte Maßstäbe Einigungen tragfähig und nachvollziehbar machen – systemisch fundiert."
 
-keywords = [
-  "Harvard-Konzept",
-  "objektive Kriterien",
-  "Organisationsmediation",
-  "faire Verhandlung",
-  "systemische Mediation",
-  "Verhandlungsmanagement",
-  "Gerechtigkeit in Organisationen",
-  "Mediationstechniken",
-  "Konstruktivismus und Fairness",
-  "normative Standards in der Mediation"
-]
+summary = "Das vierte Prinzip des Harvard-Konzepts: Objektive Kriterien schaffen ein gemeinsames Fundament für Entscheidungen – jenseits von Macht und subjektiven Meinungen. Mit systemischer Einbettung und Praxisbeispielen aus der Organisationsmediation."
 
 date = 2025-05-15T09:26:59+02:00
 
@@ -58,8 +46,8 @@ Besonders im organisationalen Kontext, in dem Rollen, Interessen und Machtasymme
 
 Zwei frühere Blogartikel bilden den theoretischen Hintergrund für diesen Abschnitt:
 
-* [*Der Verhandlungsgedanke in der Mediation*]({{< relref "/post/verhandeln.md" >}}) behandelt die Unterscheidung zwischen sachbezogenem und positionsbezogenem Verhandeln sowie die Rolle der Verhandlungsphasen.
-* [*Kooperative und kompetitive Verhandlungstechniken in der Mediation*]({{< relref "/post/verhandeln2.md" >}}) beschreibt, wie Mediator\:innen mit unterschiedlichen Verhandlungsstilen umgehen und zeigt, wie wichtig objektive Kriterien in kompetitiven Settings sind.
+* [*Der Verhandlungsgedanke in der Mediation*]({{< relref "/post/verhandeln/" >}}) behandelt die Unterscheidung zwischen sachbezogenem und positionsbezogenem Verhandeln sowie die Rolle der Verhandlungsphasen.
+* [*Kooperative und kompetitive Verhandlungstechniken in der Mediation*]({{< relref "/post/verhandeln2/" >}}) beschreibt, wie Mediator\:innen mit unterschiedlichen Verhandlungsstilen umgehen und zeigt, wie wichtig objektive Kriterien in kompetitiven Settings sind.
 
 Beide Texte verdeutlichen, warum in konflikthaften oder asymmetrischen Verhandlungssituationen ein Rückgriff auf gemeinsam akzeptierte Maßstäbe essenziell ist, um faire und tragfähige Lösungen zu ermöglichen.
 In vielen Organisationen sind Entscheidungen das Ergebnis von Status, Einfluss oder rhetorischer Überlegenheit. Doch was passiert, wenn eine Partei das Ergebnis nicht nachvollziehen kann oder sich übergangen fühlt?
@@ -108,7 +96,7 @@ Dieser Widerspruch lässt sich auflösen, wenn man Objektivität nicht als absol
 * Interne Dokumente (Leitbilder, Verfahrensanweisungen): z. B. bei der Frage nach Zuständigkeiten mit Bezug auf bestehende Organisationshandbücher.
 * Expertise von Dritten (Gutachten, Erfahrungswerte): z. B. bei der Klärung technischer Fragen durch Einschaltung eines unabhängigen Sachverständigen.
 
-### Rolle der Mediator\:innen
+### Rolle der Mediation
 
 * Identifikation möglicher Kriterienquellen
 * Moderation der Auswahl: Was wird von beiden Seiten akzeptiert?
@@ -140,7 +128,7 @@ Ergebnis: Akzeptierte Entscheidung und Grundlage für zukünftige Konfliktvermei
 
 Objektive Kriterien wirken wie ein Kompass im Nebel emotionaler und machtgeprägter Verhandlungen. Sie machen Vereinbarungen nachvollziehbar, stärken die Akzeptanz und bieten Orientierung jenseits persönlicher Meinungen.
 
-In der Organisationsmediation sind sie ein zentrales Werkzeug für Mediator\:innen, um Dialogräume zu strukturieren, die Fairness zu erhöhen und den Beteiligten Orientierung zu geben.
+In der Organisationsmediation sind sie ein zentrales Werkzeug, um Dialogräume zu strukturieren, die Fairness zu erhöhen und den Beteiligten Orientierung zu geben.
 
 **Ausblick:** Im nächsten Artikel der Reihe widmen wir uns der Entwicklung und dem Vergleich von Alternativen – insbesondere der BATNA (Best Alternative to a Negotiated Agreement) – und zeigen, wie sie in der Mediation systemisch reflektiert werden können.
 
@@ -148,12 +136,7 @@ In der Organisationsmediation sind sie ein zentrales Werkzeug für Mediator\:inn
 
 Wenn Sie in Ihrer Organisation mit komplexen Entscheidungsprozessen oder festgefahrenen Auseinandersetzungen zu tun haben – ich begleite Sie mit systemischer Mediation auf Augenhöhe.
 
-**Kontakt:**
-Dr. Swetoslaw Beltschew – Konfliktbegleitung   
-E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
-Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
-Dresden & Umgebung – auf Wunsch auch online   
-> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
-👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
-🌐 **{{< extlink "https://beltschew.de" >}}beltschew.de besuchen {{< /extlink  >}}**   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)
+
 

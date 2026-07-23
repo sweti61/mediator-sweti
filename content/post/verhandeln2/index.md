@@ -4,14 +4,12 @@ tags = ['Mediation', 'Konfliktmanagement', 'Mediationsgrundlagen', '3 Grundgedan
 
 title = 'Kooperative und kompetitive Verhandlungstechniken in der Mediation: Ein Vergleich'
 
-description = 'Vergleich von kooperativen und kompetitiven Verhandlungstechniken in der Mediation. Mediatoren fördern kooperative Ansätze, während Medianten oft kompetitiv agieren. Effektive Techniken für nachhaltige Lösungen und erfolgreiche Mediationsphasen werden vorgestellt.'
+description = "Kooperatives und kompetitives Verhandeln im Vergleich: Wie Mediatoren unterschiedliche Verhandlungsstile erkennen, einordnen und konstruktiv steuern."
 
-summary = 'Vergleich von kooperativen und kompetitiven Verhandlungstechniken in der Mediation. Mediatoren fördern kooperative Ansätze, während Medianten oft kompetitiv agieren. Effektive Techniken für nachhaltige Lösungen und erfolgreiche Mediationsphasen werden vorgestellt.'
+summary = "Dieser Artikel vergleicht kooperative und kompetitive Verhandlungstechniken in der Mediation, erläutert das Harvard-Konzept und integratives Verhandeln und zeigt, wie Mediatoren Medianten in Richtung kooperativer Lösungen begleiten."
 
-keywords = ["Kooperative Verhandlungstechniken", "kompetitive Verhandlungstechniken", "Mediation", "Verhandlungsstile", "Harvard-Konzept", "interessenbasiertes Verhandeln", "integratives Verhandeln", "positionales Verhandeln", "Verhandlungsprozess", "Mediationsphasen", "Feilschen", "Win-Win-Lösungen", "Verhandlungsstrategie", "Konfliktlösung", "Verhandlungsführung", "Verhandlungstaktiken", "Mediatoren", "Medianten", "Verhandlungsmanagement", "Verhandlungskonzepte", "kompetitives Verhandeln", "kooperatives Verhandeln", "Verhandlungspsychologie"]
-
-
-date = 2024-08-21T08:56:07+02:00
+date = 2024-08-21
+lastmlod = 2026-07-23
 
 read_more_copy = 'Mehr über Verhandlungstechniken'
 
@@ -24,6 +22,7 @@ noindex = true
 [sitemap]
 disable = true
 +++
+{{< metadescription >}}
 
 {{< smartimg
   src="verhandeln2.png"
@@ -157,3 +156,6 @@ Nachfolgend eine Übersicht über die Anwendung von kooperativen und kompetitive
 ## Fazit
 
 In der Mediation stehen Mediatoren und Konfliktparteien vor der Wahl zwischen kooperativen und kompetitiven Verhandlungstechniken. Während das Harvard-Prinzip und integratives Verhandeln nachhaltige und kreative Lösungen fördern, kann in bestimmten Situationen auch der kompetitive Ansatz von Nutzen sein. Medianten neigen oft zu kompetitiven Verhandlungstechniken, während der Mediator bestrebt ist, sie in Richtung kooperativer Ansätze zu führen. Eine sorgfältige Auswahl der Verhandlungstechniken und ihre Anpassung an die jeweilige Phase der Mediation sind entscheidend, um zu erfolgreichen und langfristig tragfähigen Ergebnissen zu gelangen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

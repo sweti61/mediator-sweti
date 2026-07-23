@@ -3,25 +3,14 @@ categories = ['Blog']
 tags = ['Mediation', 'Harvard-Konzept']
 title = 'Menschen und Probleme trennen – Eine systemische Kerntechnik in der Organisationsmediation'
 
-description = 'Erfahren Sie, warum das Trennen von Mensch und Problem in der Organisationsmediation entscheidend ist – fundiert erklärt mit systemischen und psychologischen Grundlagen.'
-summary = 'Erfahren Sie, warum das Trennen von Mensch und Problem in der Organisationsmediation entscheidend ist – fundiert erklärt mit systemischen und psychologischen Grundlagen.'
+description = "Menschen und Probleme trennen: Das erste Prinzip des Harvard-Konzepts systemisch, kommunikationspsychologisch und transaktionsanalytisch erklärt."
 
-keywords = [
-  "Organizational mediation",
-  "Harvard concept",
-  "Separate people and problems",
-  "Conflict management",
-  "Systemic mediation",
-  "Schulz von Thun",
-  "Transactional analysis",
-  "Resolving team conflicts",
-  "Emotional conflicts",
-  "Communication in organizations"
-]
+summary = "Warum Konflikte eskalieren, wenn Personen mit Problemen gleichgesetzt werden – und wie die Technik 'Menschen und Probleme trennen' in der Organisationsmediation Deeskalation ermöglicht. Mit systemischen Grundlagen, Schulz von Thun und Transaktionsanalyse."
 
 date = 2025-05-04T07:14:20+02:00
+lastmlod = 2026-07-23
 
-read_more_copy = 'More über Menschen und Probleme'
+read_more_copy = 'Mehr über Menschen und Probleme trennen'
 
 url = "/post/harvard-mp/"
 slug = "harvard-mp"
@@ -166,18 +155,11 @@ Die Trennung von Mensch und Problem ist mehr als ein Kommunikationstrick. Sie is
 **Weiterführend:** In den nächsten Artikeln dieser Serie beleuchten wir die weiteren Prinzipien des Harvard-Konzepts – mit Blick auf deren Anwendbarkeit in komplexen Organisationsstrukturen.
 
 ---
-Wietre Informationen über Verhandlungstechnicken finde Sie in folgenden Artikeln:
+Weitere Informationen über Verhandlungstechniken finden Sie in folgenden Artikeln:
 - [Der Verhandlungsgedanke in der Mediation](/post/verhandeln/)
 - [Kooperative und kompetitive Verhandlungstechniken in der Mediation: Ein Vergleich](/post/verhandeln2/)
 
 ---
 
-**Kontakt:**
-Dr. Swetoslaw Beltschew – Konfliktbegleitung   
-E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
-Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
-Dresden & Umgebung – auf Wunsch auch online
-
-> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
-👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
-🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}** 
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

@@ -97,6 +97,21 @@ aber nicht in jeder Situation die richtige.
 
 ---
 
+Wer verstehen möchte, wie Mediation von innen funktioniert,   
+findet hier eine zugängliche Einführung.
+
+## Wie gute Gespräche gelingen
+
+Manche Gespräche scheitern nicht an der Sache –   
+sondern daran, dass der Rahmen fehlt.
+
+Vier Grundgedanken aus der Mediationsforschung erklären,   
+was in gelingenden Gesprächen anders ist.
+
+→ [Wie gute Gespräche gelingen – die Grundlagen der Mediation]({{< relref "/themen/wie-mediation-gelingt/" >}})
+
+---
+
 ## Wie Sie sich orientieren können
 
 Wenn Sie sich nicht sicher sind, welches Thema Ihre Situation am besten beschreibt,  
@@ -113,4 +128,4 @@ Diese helfen, Gedanken zu sortieren und erste Klarheit zu gewinnen.
 Wenn Sie merken, dass Sie sich in einem dieser Themen wiederfinden,  
 kann ein erster Austausch helfen, die Situation einzuordnen.
 
-👉 {{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  

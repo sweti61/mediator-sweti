@@ -4,21 +4,9 @@ tags = ['Mediation', 'Harvard-Konzept']
 
 title = "Entscheidungsoptionen entwickeln – Drittes Prinzip des Harvard-Konzepts in der Organisationsmediation"
 
-description = "Erfahren Sie, wie Sie in der Mediation durch kreative Entscheidungsoptionen tragfähige Win-Win-Lösungen entwickeln – mit systemischer Tiefe und konkreten Methoden."
-summary = "Erfahren Sie, wie Sie in der Mediation durch kreative Entscheidungsoptionen tragfähige Win-Win-Lösungen entwickeln – mit systemischer Tiefe und konkreten Methoden."
+description = "Entscheidungsoptionen entwickeln statt früh auf Kompromisse einigen: Das dritte Harvard-Prinzip in der Organisationsmediation systemisch erklärt."
 
-keywords = [
-  "Harvard-Konzept",
-  "Entscheidungsoptionen",
-  "Organisationsmediation",
-  "kreative Konfliktlösung",
-  "systemische Mediation",
-  "Mediationstechniken",
-  "Win-Win-Strategie",
-  "Konfliktlösung",
-  "Kommunikation in Organisationen",
-  "systemisches Konfliktmanagement"
-]
+summary = "Wer zu früh einen Kompromiss sucht, verengt den Lösungsraum. Dieser Artikel zeigt, wie das dritte Prinzip des Harvard-Konzepts – Optionenvielfalt vor Bewertung – in der Organisationsmediation angewendet wird."
 
 date = 2025-05-12T09:34:20+02:00
 
@@ -131,7 +119,7 @@ Die Vielfalt der Ideen führt zu einer stabileren und flexibleren Lösung.
 
 Das Entwickeln von Entscheidungsoptionen ist ein kreativer, systemischer Prozess. Er erweitert die Perspektiven, stärkt das Vertrauen in die Mediation und bietet die Chance auf Win-Win-Lösungen. Besonders in komplexen Organisationen ist dieses Prinzip unverzichtbar – denn dort sind einfache Kompromisse selten nachhaltig.
 
-Mediatoren und Berater\:innen, die mit diesem Prinzip arbeiten, ermöglichen ihren Klienten mehr als eine Lösung: Sie ermöglichen **Bewegung**.
+Mediatoren und Berater, die mit diesem Prinzip arbeiten, ermöglichen ihren Klienten mehr als eine Lösung: Sie ermöglichen **Bewegung**.
 
 ---
 
@@ -139,12 +127,6 @@ Mediatoren und Berater\:innen, die mit diesem Prinzip arbeiten, ermöglichen ihr
 
 ---
 
-**Kontakt:**
-Dr. Swetoslaw Beltschew – Konfliktbegleitung   
-E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
-Webseite: [mediator.sweti.de](https://mediator.sweti.de)   
-Dresden & Umgebung – auf Wunsch auch online   
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)
 
-> Ich bin für Sie da. Kostenlos starten. Vertraulich bleiben.   
-👉️ **{{< extlink "https://calendly.com/mediator-sweti" >}}Jetzt kostenfreies Orientierungsgespräch buchen{{< /extlink >}}**   
-🌐 **{{< extlink "https://beltschew.de">}} beltschew.de besuchen {{< /extlink >}}** 
