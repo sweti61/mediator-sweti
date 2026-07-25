@@ -177,7 +177,6 @@ Zur Vorbereitung:
 
 → [Konfliktklärung vorbereiten – strukturiert und klar]({{< relref "/angebote/konfliktklaerung-vorbereiten/" >}})  
 → [Beziehung beruhigen – wieder ins Gespräch kommen]({{< relref "/angebote/beziehung-beruhigen/" >}})  
-→ [Konflikt verstehen – allein beginnen]({{< relref "/angebote/konfliktverstehen/" >}})
 
 ---
 

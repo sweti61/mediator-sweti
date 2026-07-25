@@ -10,7 +10,6 @@ angebote:
   - konfliktklaerung-vorbereiten
   - coaching-in-uebergaengen
   - beziehung-beruhigen
-  - konfliktverstehen
   - familienkonflikt-generationen-dresden
   - erbschaftsstreit-mediation-dresden
   - beziehungs-und-familiengespraeche

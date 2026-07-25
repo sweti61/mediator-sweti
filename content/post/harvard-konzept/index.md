@@ -127,5 +127,8 @@ Für Fachleute in Mediation und Beratung lohnt sich die Frage, welche Prinzipien
 
 Wenn Sie dazu Austausch oder eine begleitete Fallreflexion wünschen, stehe ich Ihnen gern zur Verfügung.
 
+Einen alltagsnahen Einstieg in diese Grundgedanken bietet die Seite
+[Wie gute Gespräche gelingen]({{< relref "/themen/wie-mediation-gelingt/" >}}).   
+
 {{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)  
 {{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)
