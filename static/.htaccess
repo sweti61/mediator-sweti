@@ -29,6 +29,9 @@ RewriteRule ^testimonials/?$ - [G,L]
 # Dienstleistungen gelöscht
 RewriteRule ^dienstleistungen/?$ https://mediator.sweti.de/angebote/ [R=301,L]
 
+# Duplikat-Aufloesung Konflikt-Vorbereitung (Juli 2026)
+RewriteRule ^angebote/konfliktverstehen/?$ /angebote/konfliktklaerung-vorbereiten/ [R=301,L]
+
 # Phantomseite umleiten
 RewriteRule ^post/kreationsphase-moeglichkeitsraeume/?$ https://mediator.sweti.de/post/kreationsphase-p3-systemische-mediation/ [R=301,L]
 
