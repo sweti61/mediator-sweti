@@ -84,7 +84,7 @@ googleMapsApiKey = "AIzaSyB-ExsHpwFOby3DWnnHx_0dE-V-u3M-HOE"
   follow = { networks = ["linkedin", "facebook", "x-twitter", "email", "kontakt", "calendar"] }
 
 [params.ananke.social.linkedin]
-  profilelink = "https://www.linkedin.com/in/sweti/"
+  profilelink = "https://www.linkedin.com/in/mediator-sweti/"
   username = "sweti"
   label = "LinkedIn"
   icon = "linkedin"

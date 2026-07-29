@@ -4,6 +4,7 @@ tags = ['Mediation', 'Konfliktmanagement', 'Mediationstechniken', 'Interaktionen
 title = 'Framing und Reframing in der Mediation: Ein Weg zu neuen Perspektiven'
 date = 2024-06-18T13:19:14+02:00
 description = 'Framing und Reframing in der Mediation; Verständnissicherung, Perspektivenwechsel, Lösungssuche, Flexibilität, Kreativität'
+summary = 'Framing und Reframing in der Mediation; Verständnissicherung, Perspektivenwechsel, Lösungssuche, Flexibilität, Kreativität'
 slug = "reframing"
 read_more_copy = "Mehr über der Reframing"
 

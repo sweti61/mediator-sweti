@@ -9,7 +9,6 @@ date: 2026-02-25
 lastmod: 2026-07-24
 draft: false
 toc: true
-author: "Swetoslaw Beltschew"
 weight: 40
 ---
 

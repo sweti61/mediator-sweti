@@ -4,6 +4,9 @@ tags = ['Mediation', 'Konfliktmanagement']
 title = '7 unsichtbare Kosten von Konflikten – und warum sie Ihr Unternehmen teuer zu stehen kommen'
 
 description = 'Versteckte Konfliktkosten in Unternehmen erkennen und senken – praxisnah erklärt mit Beispielen und Tipps für IT, Verwaltung und soziale Organisationen.'
+
+summary = 'Versteckte Konfliktkosten in Unternehmen erkennen und senken – praxisnah erklärt mit Beispielen und Tipps für IT, Verwaltung und soziale Organisationen.'
+
 keywords = ['Konfliktkosten', 'Konfliktmanagement', 'Mediation', 'Konfliktprävention', 'IT-Projekte', 'Konflikte in Organisationen', 'Eisbergmodell', 'Führungskräfte', 'Prozessberatung', 'versteckte Kosten']
 
 date = 2025-04-30T09:01:14+02:00
