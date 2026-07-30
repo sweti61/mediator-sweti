@@ -1,7 +1,7 @@
 ---
-title: "Auftragsklärung systemisch gestalten: Was professionelle Berater:innen, Coaches und Mediator:innen wissen sollten"
+title: "Auftragsklärung systemisch gestalten"
 description: "Wie Sie systemische Auftragsklärung mit dem 4-Felder-Modell, 9-Felder-Modell und Dreiervertrag wirksam gestalten und typische Fallstricke souverän meistern."
-summary: "Systemische Auftragsklärung ist der Schlüssel zu tragfähigen Beratungs-, Coaching- und Mediationsprozessen. Dieser Beitrag zeigt, wie Sie sie mit fundierten Modellen und einer klaren Haltung gestalten."
+summary: "Erster Beitrag der Reihe zu den vier Phasen der Mediation. Systemische Auftragsklärung als Grundlage tragfähiger Beratungs-, Coaching- und Mediationsprozesse."
 keywords:
   - Auftragsklärung
   - systemische Auftragsklärung
@@ -23,11 +23,11 @@ categories:
 slug: "systemische-auftragsklaerung"
 url: "/post/systemische-auftragsklaerung/"
 date: 2025-06-11
-
-read_more_copy: 'Mehr zu Auftragsklärung systemisch gestalten'
-
+lastmod: 2026-07-30
+read_more_copy: 'Mehr zur systemischen Auftragsklärung'
 draft: false
 author: "Dr. Swetoslaw Beltschew"
+image: "systemische-auftragsklaerung.png"
 toc: true
 noindex: true
 sitemap:
@@ -48,29 +48,31 @@ sitemap:
 
 ## 1. Einleitung
 
-**Auftragsklärung** gehört zu den zentralen, oft unterschätzten Momenten professioneller Beratungs-, Coaching- und Mediationsprozesse. Sie legt die Grundlage dafür, ob ein gemeinsamer Arbeitsprozess tragfähig wird — oder ob er in implizite Erwartungen, verdeckte Allianzen oder unklare Rollenmuster gerät.
+**Auftragsklärung** gehört zu den zentralen, oft unterschätzten Momenten professioneller Beratungs-, Coaching- und Mediationsprozesse. Sie legt die Grundlage dafür, ob ein gemeinsamer Arbeitsprozess tragfähig wird oder ob er in implizite Erwartungen, verdeckte Allianzen oder unklare Rollenmuster gerät.
 
-Gerade in komplexen Organisationen zeigt die Praxis: Ein einmal formulierter Auftrag ist selten stabil oder eindeutig. Vielmehr unterliegt er systemischen Dynamiken: Er wird im Lauf des Prozesses interpretiert, umdefiniert, ausgehandelt — von allen beteiligten Akteur:innen. In diesem Sinne ist **Auftragsklärung kein einmaliger Akt**, sondern ein fortlaufender Reflexionsprozess, der immer wieder aktualisiert und bewusst gestaltet werden muss.
+Dieser Beitrag eröffnet eine kleine Reihe zu den vier Phasen der Mediation aus systemischer Perspektive. Er behandelt die erste Phase, die Auftragsklärung, und dient als methodischer Referenzpunkt für die weiteren Beiträge zur [Klärungsphase P2]({{< relref "/post/klaerungsphase-p2-systemische-mediation" >}}), zur [Kreationsphase P3]({{< relref "/post/kreationsphase-p3-systemische-mediation" >}}) und zur [Umsetzungsphase P4]({{< relref "/post/p4-umsetzungsphase-systemisch" >}}). Er richtet sich an Kolleg:innen mit systemischem Hintergrund, die in Beratung, Coaching und Mediation an der Qualität ihrer Auftragsklärung arbeiten.
 
-In dieser Perspektive reicht es nicht aus, im Vorgespräch einen formalen Vertrag zu schließen. Vielmehr braucht es eine **systemische Sensibilität für das, was mit dem Auftrag „mitschwingt“**:
+Gerade in komplexen Organisationen zeigt die Praxis: Ein einmal formulierter Auftrag ist selten stabil oder eindeutig. Vielmehr unterliegt er systemischen Dynamiken. Er wird im Lauf des Prozesses interpretiert, umdefiniert, ausgehandelt, von allen beteiligten Akteur:innen. In diesem Sinne ist **Auftragsklärung kein einmaliger Akt**, sondern ein fortlaufender Reflexionsprozess, der immer wieder aktualisiert und bewusst gestaltet werden muss.
+
+In dieser Perspektive reicht es nicht aus, im Vorgespräch einen formalen Vertrag zu schließen. Vielmehr braucht es eine **systemische Sensibilität für das, was mit dem Auftrag „mitschwingt"**:
 
 - Welche ungesagten Erwartungen gibt es im System?
 - Wer definiert informell, was als „Erfolg“ gilt?
 - In welchem Verhältnis stehen die formalen Auftragsziele zu den Interessen und Bedürfnissen der Beteiligten?
 - Wie verändert sich der Auftrag im Wechselspiel zwischen Organisation, Berater:in und Klient:innen?
 
-Gerade bei **Organisationsmediationen**, **organisationalem Coaching** und **Organisationsberatung** — also in allen Settings, in denen **Dreierverträge** eine Rolle spielen — ist diese systemische Dimension der Auftragsklärung unverzichtbar. Aber auch im klassischen Coaching und in Zweier-Mediationssettings wirkt sie: Kein Prozess ist frei von Kontext.
+Gerade bei **Organisationsmediationen**, **organisationalem Coaching** und **Organisationsberatung**, also in allen Settings, in denen **Dreierverträge** eine Rolle spielen, ist diese systemische Dimension der Auftragsklärung unverzichtbar. Aber auch im klassischen Coaching und in Zweier-Mediationssettings wirkt sie: Kein Prozess ist frei von Kontext.
 
 ### Systemische Modelle zur Unterstützung der Auftragsklärung
 
 Um diese Komplexität professionell zu handhaben, braucht es Reflexionsmodelle, die mehr bieten als eine formale Vertragscheckliste. In diesem Artikel stelle ich dafür folgende Modelle und Perspektiven integriert vor:
 
-- **Das 4-Felder-Modell** — als **zentraler Kompass** für die Klärung von Anliegen, Auftrag, Systemumfeld und Rolle.
-- **Das 9-Felder-Modell (Prof. Joseph Rieforth)** — als vertiefende **Analyse- und Kontextmatrix**, um Ressourcen, Interessen und Problemdimensionen systematisch im Zeitverlauf zu erfassen.
-- **Die Kohärenzfaktoren (nach Rieforth)** — als **qualitative Vertiefung**: Sie ermöglichen es, die in den Feldern erfassten Inhalte auf der Ebene von **Sinn, Kognition, Emotion, Wahrnehmung, Körper und Verhalten** zu reflektieren und damit tiefere Wirkmechanismen sichtbar zu machen.
-- **Der Dreiervertrag (nach Fanita English)** — als zentrales Instrument der **Rollenklärung und Systemtransparenz** in Mehrpersonensystemen. Er hilft, die häufig unterschätzte Rolle von Auftraggeber:innen im System prozessbewusst zu gestalten.
+- **Das 4-Felder-Modell**, als **zentraler Kompass** für die Klärung von Anliegen, Auftrag, Systemumfeld und Rolle.
+- **Das 9-Felder-Modell (Prof. Joseph Rieforth)**, als vertiefende **Analyse- und Kontextmatrix**, um Ressourcen, Interessen und Problemdimensionen systematisch im Zeitverlauf zu erfassen.
+- **Die Kohärenzfaktoren (nach Rieforth)**, als **qualitative Vertiefung**: Sie ermöglichen es, die in den Feldern erfassten Inhalte auf der Ebene von **Sinn, Kognition, Emotion, Wahrnehmung, Körper und Verhalten** zu reflektieren und damit tiefere Wirkmechanismen sichtbar zu machen.
+- **Der Dreiervertrag (nach Fanita English)**, als zentrales Instrument der **Rollenklärung und Systemtransparenz** in Mehrpersonensystemen. Er hilft, die häufig unterschätzte Rolle von Auftraggeber:innen im System prozessbewusst zu gestalten.
 
-Diese Modelle ergänzen sich in der Praxis hervorragend. Sie unterstützen Mediator:innen, Berater:innen und Coaches dabei, die eigene **Rolle als stiller Begleiter und systemischer Prozessbegleiter** bewusst zu gestalten — und damit Klarheit, Verbindlichkeit und professionelle Integrität im Prozess zu sichern.
+Diese Modelle ergänzen sich in der Praxis hervorragend. Sie unterstützen Mediator:innen, Berater:innen und Coaches dabei, die eigene **Rolle als stiller Begleiter und systemischer Prozessbegleiter** bewusst zu gestalten, und damit Klarheit, Verbindlichkeit und professionelle Integrität im Prozess zu sichern.
 
 ### Auftragsklärung als systemischer Prozess
 
@@ -80,17 +82,17 @@ Die Grundhaltung, die diesem Verständnis von Auftragsklärung zugrunde liegt, i
 - Diese Systeme sind nicht neutral: Sie transportieren Werte, Machtlogiken, Interessen und implizite Regeln.
 - Auch Berater:innen, Mediator:innen und Coaches sind Teil dieses Systems und wirken mit ihrem eigenen Anliegen und Rollenverständnis auf den Prozess ein.
 
-Daher ist es hilfreich, die eigene Praxis der Auftragsklärung nicht nur als **inhaltliche Klärung** (Was soll getan werden?), sondern immer auch als **prozessuale und relationale Klärung** (Wer erwartet was von wem — in welchem Kontext?) zu gestalten.
+Daher ist es hilfreich, die eigene Praxis der Auftragsklärung nicht nur als **inhaltliche Klärung** (Was soll getan werden?), sondern immer auch als **prozessuale und relationale Klärung** (Wer erwartet was von wem, in welchem Kontext?) zu gestalten.
 
 Das **4-Felder-Modell** bietet dafür eine ausgezeichnete Grundstruktur. Es hilft, sowohl die eigene Haltung als auch die **Komplexität der systemischen Bezüge** im Blick zu behalten. In den folgenden Abschnitten zeige ich, wie es sich in der Praxis nutzen und mit den genannten ergänzenden Modellen wirkungsvoll verbinden lässt.
 
-**Denn gelingende Auftragsklärung schafft nicht nur Klarheit im Prozess — sie ermöglicht Vertrauen, schützt Rollenintegrität und erhöht die Wirksamkeit jeder professionellen Begleitung.**
+**Denn gelingende Auftragsklärung schafft nicht nur Klarheit im Prozess, sie ermöglicht Vertrauen, schützt Rollenintegrität und erhöht die Wirksamkeit jeder professionellen Begleitung.**
 
 ## 2. Grundprinzipien systemischer Auftragsklärung
 
 Wer sich professionell mit **systemischer Auftragsklärung** beschäftigt, erkennt schnell: Der Auftrag selbst ist immer Teil eines größeren sozialen Systems. Er entsteht nicht im luftleeren Raum, sondern ist geprägt durch die Dynamiken, Logiken und Kommunikationsmuster des jeweiligen Kontextes.
 
-Damit unterscheidet sich systemische Auftragsklärung grundlegend von einem rein vertraglichen oder administrativ verstandenen Vorgehen. Während klassische Auftragsklärung häufig versucht, eine **fixierte, möglichst stabile Vereinbarung** zwischen Berater:in und Auftraggeber:in herzustellen, geht systemische Auftragsklärung davon aus, dass **Aufträge in Bewegung** sind. Sie spiegeln Interessen und Beziehungen wider — und verändern sich im Lauf der Zusammenarbeit.
+Damit unterscheidet sich systemische Auftragsklärung grundlegend von einem rein vertraglichen oder administrativ verstandenen Vorgehen. Während klassische Auftragsklärung häufig versucht, eine **fixierte, möglichst stabile Vereinbarung** zwischen Berater:in und Auftraggeber:in herzustellen, geht systemische Auftragsklärung davon aus, dass **Aufträge in Bewegung** sind. Sie spiegeln Interessen und Beziehungen wider, und verändern sich im Lauf der Zusammenarbeit.
 
 Diese Sichtweise bringt spezifische **Grundprinzipien** mit sich, die das Vorgehen und die Haltung von systemisch arbeitenden Mediator:innen, Berater:innen und Coaches prägen. Im Folgenden beleuchte ich die wichtigsten davon.
 
@@ -107,9 +109,9 @@ Gerade in **Organisationsmediationen** und in **OE-naher Beratung** sind diese P
 - Die Organisation möchte eine formale Lösung (z. B. „Konflikt ist beigelegt“).
 - Einzelne Führungskräfte erwarten implizit, dass ihre Deutungsmuster bestätigt werden.
 - Mitarbeitende suchen Schutz und Orientierung.
-- Der Berater oder die Mediatorin wird als neutrale Instanz erwartet — soll aber dennoch die „richtigen“ Dynamiken stärken oder schwächen.
+- Der Berater oder die Mediatorin wird als neutrale Instanz erwartet, soll aber dennoch die „richtigen“ Dynamiken stärken oder schwächen.
 
-Diese **Ambivalenz** ist systemisch gesehen nicht vermeidbar. Sie ist Ausdruck der Vielfalt von Interessen und Perspektiven in sozialen Systemen. Aufgabe der systemischen Auftragsklärung ist es, diese Mehrdeutigkeit **wahrzunehmen, offen zu benennen** und **bewusst zu halten** — nicht, sie vorschnell „aufzulösen“.
+Diese **Ambivalenz** ist systemisch gesehen nicht vermeidbar. Sie ist Ausdruck der Vielfalt von Interessen und Perspektiven in sozialen Systemen. Aufgabe der systemischen Auftragsklärung ist es, diese Mehrdeutigkeit **wahrzunehmen, offen zu benennen** und **bewusst zu halten**, nicht, sie vorschnell „aufzulösen“.
 
 ### Systemische Zirkularität: Auftrag als Teil von Organisationsmustern
 
@@ -125,7 +127,7 @@ Gleichzeitig wirkt der Auftrag **rekursiv** auf das System zurück:
 
 - Ein klar formulierter Auftrag kann neue Möglichkeitsräume schaffen.
 - Ein vager oder widersprüchlicher Auftrag verstärkt bestehende Ambivalenzen.
-- Ein in der Auftragsklärung erlebtes hohes Maß an **Kohärenz und Transparenz** fördert systemisches Vertrauen — ein unklarer oder unethisch konstruierter Auftrag schwächt es.
+- Ein in der Auftragsklärung erlebtes hohes Maß an **Kohärenz und Transparenz** fördert systemisches Vertrauen, ein unklarer oder unethisch konstruierter Auftrag schwächt es.
 
 **Zirkularität** bedeutet: Mediator:innen, Berater:innen und Coaches sind in diesem Spiel **nicht außenstehend**, sondern Teil des Geschehens. Schon die Art und Weise, wie wir Aufträge klären, verändert das System. Systemische Auftragsklärung ist daher immer auch ein **interventioneller Prozess**.
 
@@ -137,10 +139,10 @@ Als **stiller Begleiter** und **systemischer Prozessbegleiter** gehe ich nicht d
 
 - Den **Reflexionsraum** für die Klärung des Auftrags zu öffnen und zu halten.
 - **Widersprüche und Ambivalenzen transparent zu machen**, ohne sie vorschnell zu bewerten.
-- Meine eigene **Rolle klar zu positionieren**: Wofür bin ich da — und wofür nicht?
+- Meine eigene **Rolle klar zu positionieren**: Wofür bin ich da, und wofür nicht?
 - **Systemgrenzen und Loyalitäten bewusst zu machen**, damit ich nicht unbemerkt in verdeckte Allianzen oder Rollenerwartungen gerate.
 
-In dieser Haltung ist es hilfreich, sich der eigenen **Perspektiven und Hypothesen** bewusst zu sein — und die Kohärenzdimensionen des eigenen Erlebens (Sinn, Kognition, Emotion, Wahrnehmung, Körper, Verhalten) als **Reflexionsgrundlage** aktiv zu nutzen.
+In dieser Haltung ist es hilfreich, sich der eigenen **Perspektiven und Hypothesen** bewusst zu sein, und die Kohärenzdimensionen des eigenen Erlebens (Sinn, Kognition, Emotion, Wahrnehmung, Körper, Verhalten) als **Reflexionsgrundlage** aktiv zu nutzen.
 
 ### Zusammenfassung
 
@@ -159,9 +161,9 @@ Das **4-Felder-Modell** bietet in dieser Logik eine hervorragende Strukturhilfe,
 
 Das Modell liefert einen **klaren Kompass**, um die wichtigsten Dimensionen einer professionellen Auftragsklärung systematisch zu beleuchten. Es ist gleichzeitig so offen und flexibel, dass es **verschiedene Prozessformen** unterstützt:
 
-- Mediation — insbesondere in der **Organisationsmediation** mit Dreierverträgen
-- Systemische OE-Beratung — speziell in **nicht-direktiver Beratung**
-- Coaching — sowohl in **organisationalem** als auch in **privatem** Kontext
+- Mediation, insbesondere in der **Organisationsmediation** mit Dreierverträgen
+- Systemische OE-Beratung, speziell in **nicht-direktiver Beratung**
+- Coaching, sowohl in **organisationalem** als auch in **privatem** Kontext
 
 In all diesen Feldern hilft das 4-Felder-Modell, den Blick zu weiten und eine **systemische Grundhaltung** zu bewahren.
 
@@ -178,7 +180,7 @@ Dabei stehen vier Felder im Zentrum der Reflexion:
 3. **Systemumfeld**  
    → In welchem organisationalen, institutionellen oder sozialen System bewegen wir uns?  
 4. **Rolle / berufliches Selbstverständnis**  
-   → In welcher Rolle trete ich in diesem Prozess auf — und mit welchem Rollenverständnis?
+   → In welcher Rolle trete ich in diesem Prozess auf, und mit welchem Rollenverständnis?
 
 Diese vier Felder bilden gemeinsam eine **landkartenartige Struktur**, mit der Berater:innen, Coaches und Mediator:innen ihre eigene Positionierung im Prozess reflektieren können. Gleichzeitig dienen sie dazu, im Gespräch mit den Auftraggeber:innen und Beteiligten eine **gemeinsame Auftragslandschaft** sichtbar zu machen.
 
@@ -206,18 +208,18 @@ In der Visualisierung steht das Modell häufig als einfache **Vier-Felder-Matrix
 
 Dabei ist es wichtig zu betonen:
 
-- Die Felder **wirken zirkulär aufeinander ein** — sie sind **nicht linear** zu verstehen.
+- Die Felder **wirken zirkulär aufeinander ein**, sie sind **nicht linear** zu verstehen.
 - Die Arbeit mit dem Modell ist **prozesshaft**: Felder werden im Verlauf des Klärungsprozesses immer wieder ergänzt, geschärft und reflektiert.
-- Das Modell ist **kein Fragebogen**, sondern ein **Reflexionsrahmen** — es lädt ein, in offenen Gesprächen und in der eigenen Supervision **systemische Hypothesen** zu entwickeln.
+- Das Modell ist **kein Fragebogen**, sondern ein **Reflexionsrahmen**, es lädt ein, in offenen Gesprächen und in der eigenen Supervision **systemische Hypothesen** zu entwickeln.
 
 ### Anwendung in der Auftragsklärung
 
 In der praktischen Auftragsklärung arbeite ich mit dem Modell in mehreren Schritten:
 
-1. **Selbstklärung** — vor dem ersten Kontakt oder Vorgespräch: Ich reflektiere für mich selbst alle vier Felder. Insbesondere das **personale Anliegen** und das **Rollenverständnis** sind oft unbewusst mitschwingende Faktoren.
-2. **Dialogische Auftragsklärung** — im Gespräch mit den Auftraggeber:innen und ggf. Klient:innen: Hier werden die vier Felder explizit gemacht und als **gemeinsamer Bezugsrahmen** formuliert.
-3. **Prozessbegleitende Reflexion** — während des Prozesses nutze ich das 4-Felder-Modell als **Landkarte zur Prozesssteuerung**: Verschiebt sich das Rollenverständnis? Wandelt sich der Auftrag? Verändert sich das Systemumfeld?
-4. **Abschlussreflexion** — am Ende des Prozesses ist es hilfreich, die Felder noch einmal zu betrachten: **Was wurde erreicht, was hat sich verändert?**
+1. **Selbstklärung**, vor dem ersten Kontakt oder Vorgespräch: Ich reflektiere für mich selbst alle vier Felder. Insbesondere das **personale Anliegen** und das **Rollenverständnis** sind oft unbewusst mitschwingende Faktoren.
+2. **Dialogische Auftragsklärung**, im Gespräch mit den Auftraggeber:innen und ggf. Klient:innen: Hier werden die vier Felder explizit gemacht und als **gemeinsamer Bezugsrahmen** formuliert.
+3. **Prozessbegleitende Reflexion**, während des Prozesses nutze ich das 4-Felder-Modell als **Landkarte zur Prozesssteuerung**: Verschiebt sich das Rollenverständnis? Wandelt sich der Auftrag? Verändert sich das Systemumfeld?
+4. **Abschlussreflexion**, am Ende des Prozesses ist es hilfreich, die Felder noch einmal zu betrachten: **Was wurde erreicht, was hat sich verändert?**
 
 Gerade bei **Mediationsprozessen im Organisationskontext** erlebe ich das Modell als wertvolles Mittel, um:
 
@@ -229,7 +231,7 @@ Gerade bei **Mediationsprozessen im Organisationskontext** erlebe ich das Modell
 
 Im nächsten Abschnitt stelle ich Ihnen die **systemische Lesebrille** für die vier Felder vor. Sie zeigt, wie wir das Modell mit **systemisch fundierten Fragen und Hypothesen** anreichern und dadurch eine noch **tiefere, differenziertere Auftragsklärung** gestalten können.
 
-Dabei integrieren wir auch die **Kohärenzfaktoren** als qualitative Vertiefung — und zeigen die Verbindung zu weiteren systemischen Modellen wie dem **9-Felder-Modell**.
+Dabei integrieren wir auch die **Kohärenzfaktoren** als qualitative Vertiefung, und zeigen die Verbindung zu weiteren systemischen Modellen wie dem **9-Felder-Modell**.
 
 ## 3.2 Systemische Lesebrille für die vier Felder
 
@@ -284,7 +286,7 @@ Im Folgenden zeige ich, wie sich diese systemische Lesebrille konkret auf die vi
 **Zentrale Fragen:**
 
 - Was soll formal und konkret erreicht werden?
-- Welche Erfolgskriterien existieren explizit — und welche implizit?
+- Welche Erfolgskriterien existieren explizit, und welche implizit?
 - Wer definiert im System, was als "gelungener" Prozess gilt?
 - Welche unbesprochenen Nebenaufträge könnten mitschwingen?
 
@@ -323,7 +325,7 @@ Im Folgenden zeige ich, wie sich diese systemische Lesebrille konkret auf die vi
 - **Sinn:** Welches implizite Sinnsystem hält das aktuelle Systemumfeld stabil?
 - **Kognition:** Welche dominanten Narrative und Erzählungen kursieren im System?
 - **Emotion:** Wie wird emotional auf Störungen oder Irritationen reagiert?
-- **Wahrnehmung:** Welche Systemaspekte sind sichtbar — und welche werden systematisch ausgeblendet?
+- **Wahrnehmung:** Welche Systemaspekte sind sichtbar, und welche werden systematisch ausgeblendet?
 - **Körper:** Welche somatischen Resonanzen zeigen sich im Kontakt mit dem Systemumfeld?
 - **Verhalten:** Welche typischen systemstabilisierenden oder -vermeidenden Verhaltensmuster sind erkennbar?
 
@@ -401,14 +403,14 @@ Das 9FM ergänzt das 4-Felder-Modell auf mehreren Ebenen:
 
 Während das 4FM primär die **aktuelle Prozessarchitektur** betrachtet (Was steht im Raum? Mit welchen Haltungen gehen wir hinein?), hilft das 9FM, die **Entwicklungsgeschichte und Zukunftsperspektiven** eines Themas systematisch zu reflektieren.
 
-Gerade in der Arbeit mit **Organisationen** und **Teams** zeigt sich oft, dass aktuelle Aufträge auf lange historische Dynamiken zurückgehen — oder dass verdeckte Zukunftsängste einen Auftrag unbewusst mitsteuern.
+Gerade in der Arbeit mit **Organisationen** und **Teams** zeigt sich oft, dass aktuelle Aufträge auf lange historische Dynamiken zurückgehen, oder dass verdeckte Zukunftsängste einen Auftrag unbewusst mitsteuern.
 
 #### Differenzierte Bearbeitung von Interessen
 
-Das 4FM spricht im Feld **Systemumfeld** und im Feld **Sachlicher Auftrag** zwar implizit Interessenlagen an — doch diese lassen sich mit dem 9FM deutlich präziser und strukturierter erfassen.
+Das 4FM spricht im Feld **Systemumfeld** und im Feld **Sachlicher Auftrag** zwar implizit Interessenlagen an, doch diese lassen sich mit dem 9FM deutlich präziser und strukturierter erfassen.
 
 - Welche Interessen waren in der Vergangenheit prägend?
-- Welche aktuellen Interessen sind offen sichtbar — und welche eher tabuisiert?
+- Welche aktuellen Interessen sind offen sichtbar, und welche eher tabuisiert?
 - Welche Zukunftsinteressen sollten in der Auftragsklärung explizit berücksichtigt werden?
 
 Gerade in **Dreierverträgen** (z. B. in der Organisationsmediation) ist diese Unterscheidung hoch relevant: Nicht selten divergieren die Interessen von Auftraggeber, Klientensystem und Berater:in deutlich.
@@ -421,14 +423,14 @@ Das 9FM lädt explizit dazu ein, systematisch nach Ressourcen zu suchen:
 - Welche Ressourcen stehen aktuell zur Verfügung?
 - Welche Ressourcenpotenziale können für die Zukunft aktiviert werden?
 
-In einer **ressourcenorientierten Auftragsklärung** wird so von Anfang an eine Perspektive auf das **Mögliche und Unterstützende** eingebracht — statt sich ausschließlich am Defizit zu orientieren.
+In einer **ressourcenorientierten Auftragsklärung** wird so von Anfang an eine Perspektive auf das **Mögliche und Unterstützende** eingebracht, statt sich ausschließlich am Defizit zu orientieren.
 
 ### Integration von 9FM und 4FM in der Praxis
 
 In der Auftragsklärung nutze ich das 9FM typischerweise in folgender Weise ergänzend zum 4FM:
 
 - **Selbstklärung / Vorbereitung:** Vor der ersten Auftragsklärung reflektiere ich intern das 9FM entlang der neun Felder, um **Hypothesen** und **Fragen** für das Erstgespräch zu entwickeln.
-- **Dialogische Auftragsklärung:** Im Gespräch nutze ich Elemente des 9FM, um systemisch fundierte Fragen einzubringen — ohne das Modell explizit als „Struktur“ zu präsentieren. Beispiel: *„Welche Interessen waren früher bei diesem Thema besonders wichtig?“* oder *„Welche Ressourcen sehen Sie heute im System, die wir nutzen können?“*
+- **Dialogische Auftragsklärung:** Im Gespräch nutze ich Elemente des 9FM, um systemisch fundierte Fragen einzubringen, ohne das Modell explizit als „Struktur“ zu präsentieren. Beispiel: *„Welche Interessen waren früher bei diesem Thema besonders wichtig?“* oder *„Welche Ressourcen sehen Sie heute im System, die wir nutzen können?“*
 - **Prozessbegleitend:** Im Verlauf nutze ich das 9FM immer wieder, um **Veränderungen in den Feldern sichtbar zu machen** und den Auftrag an die sich entwickelnde Systemdynamik anzupassen.
 
 ### Verbindung zur Systemischen Lesebrille
@@ -456,7 +458,7 @@ In meiner Praxis hat sich der Einsatz des 9FM insbesondere in folgenden Kontexte
 - **nicht-direktive OE-Beratung**
 - **Coaching im organisationalen Kontext** mit vielschichtigen Stakeholder-Erwartungen
 
-**Im nächsten Abschnitt** zeige ich, wie sich diese systemische Auftragsklärung besonders in **Dreiervertragskontexten** nutzen lässt — und welche Chancen und Fallstricke sich dabei ergeben.
+**Im nächsten Abschnitt** zeige ich, wie sich diese systemische Auftragsklärung besonders in **Dreiervertragskontexten** nutzen lässt, und welche Chancen und Fallstricke sich dabei ergeben.
 
 ## 5. Besonderheiten in der Auftragsklärung mit Dreiervertrag
 
@@ -467,10 +469,10 @@ Gerade in **Organisationsmediationen** und in **beratungsgestützten Veränderun
 3. Der **Mediator / Coach / Berater**
 
 In solchen **Mehrpersonensystemen** ist der klassische **Zweiervertrag** nicht ausreichend.  
-Hier braucht es den **Dreiervertrag** — ein Konzept, das von **Fanita English** in den 1970er-Jahren in die Transaktionsanalyse eingeführt und heute in der systemischen Praxis breit genutzt wird.
+Hier braucht es den **Dreiervertrag**, ein Konzept, das von **Fanita English** in den 1970er-Jahren in die Transaktionsanalyse eingeführt und heute in der systemischen Praxis breit genutzt wird.
 
 Ein sauber geführter **Dreiervertrag** ist zugleich ein zentrales Element einer **systemisch fundierten Auftragsklärung**.  
-Er sichert von Anfang an **Transparenz, Rollenklarheit und Vertrauen** im System — und schützt alle Beteiligten vor **unausgesprochenen Erwartungen, Loyalitätskonflikten und Rollendiffusion**.
+Er sichert von Anfang an **Transparenz, Rollenklarheit und Vertrauen** im System, und schützt alle Beteiligten vor **unausgesprochenen Erwartungen, Loyalitätskonflikten und Rollendiffusion**.
 
 ### Ziel und Struktur des Dreiervertrags
 
@@ -478,7 +480,7 @@ Ein Dreiervertrag klärt systematisch:
 
 - **Wer** (Auftraggeber) **beauftragt wen** (Mediator:in / Berater:in / Coach), **mit wem** (Klient:innen) **woran** (Ziel und Thema des Prozesses) **zu arbeiten**.
 - **Welche Rollen und Verantwortlichkeiten** die drei Parteien jeweils im Prozess tragen.
-- **Welche Kommunikations- und Berichtspflichten** bestehen — und wo Vertraulichkeit gilt.
+- **Welche Kommunikations- und Berichtspflichten** bestehen, und wo Vertraulichkeit gilt.
 - **Wie mit Spannungen und Zielkonflikten** im Verlauf des Prozesses umgegangen wird.
 
 Das Grundmodell unterscheidet drei klare Positionen:
@@ -490,14 +492,14 @@ Das Grundmodell unterscheidet drei klare Positionen:
 | **Berater:in / Mediator:in / Coach** | Steuert den Prozess methodisch und prozessual |
 {class="UserTable"}
 
-Ein **reflektierter Dreiervertrag** wird in einem **gemeinsamen Auftaktgespräch** geschlossen — oft unter expliziter Bezugnahme auf das 4-Felder-Modell.  
+Ein **reflektierter Dreiervertrag** wird in einem **gemeinsamen Auftaktgespräch** geschlossen, oft unter expliziter Bezugnahme auf das 4-Felder-Modell.  
 
 **Beispielhafte Klärungsfragen dabei:**
 
 - *Was ist das konkrete Anliegen des Auftraggebers?*  
 - *Was wünschen sich die Klient:innen vom Prozess?*  
-- *Was soll die Rolle der Prozessbegleitung sein — und was explizit nicht?*  
-- *Was darf an wen zurückgespiegelt werden — was bleibt vertraulich?*
+- *Was soll die Rolle der Prozessbegleitung sein, und was explizit nicht?*  
+- *Was darf an wen zurückgespiegelt werden, was bleibt vertraulich?*
 
 ### Integration des Dreiervertrags in die Felder des 4FM
 
@@ -578,7 +580,7 @@ Statt als **Expert:innen für Inhalte** oder als **Change-Manager:innen** aufzut
 Ziel ist es, die Organisation und ihre Mitglieder zu unterstützen, **eigene Lösungen** zu entwickeln und ihre **Systemkompetenz** zu stärken.
 
 Diese Haltung hat direkte Auswirkungen auf die **Gestaltung der Auftragsklärung**.  
-Gerade hier entscheidet sich, ob die Berater:innen ihre Rolle als **stiller systemischer Prozessbegleiter** klar und tragfähig positionieren können — oder ob sie in die Falle **verdeckter Erwartungen** geraten.
+Gerade hier entscheidet sich, ob die Berater:innen ihre Rolle als **stiller systemischer Prozessbegleiter** klar und tragfähig positionieren können, oder ob sie in die Falle **verdeckter Erwartungen** geraten.
 
 ### Spezifische Anforderungen an die Auftragsklärung
 
@@ -612,13 +614,13 @@ Berater:innen sollten sich frühzeitig darüber klar werden:
 
 Hier gilt es, im Dialog mit der Organisation folgende Aspekte klar zu klären:
 
-- **Was genau soll im Rahmen des Prozesses bearbeitet werden — und was nicht?**
+- **Was genau soll im Rahmen des Prozesses bearbeitet werden, und was nicht?**
 - **Welche Verantwortung bleibt explizit bei der Organisation?**
 - **Wie wird mit Themen umgegangen, die sich im Prozessverlauf möglicherweise zeigen, aber nicht Teil des aktuellen Auftrags sind?**
 
 Ein expliziter Hinweis auf die **nicht-direktive Grundhaltung** ist hier essenziell:
 
-> "Ich verstehe meine Rolle so, dass ich Prozesse begleite und die Organisation darin unterstütze, eigene Lösungen zu entwickeln — ich übernehme keine inhaltliche Steuerung."
+> "Ich verstehe meine Rolle so, dass ich Prozesse begleite und die Organisation darin unterstütze, eigene Lösungen zu entwickeln, ich übernehme keine inhaltliche Steuerung."
 
 #### Feld 3: Systemumfeld
 
@@ -631,7 +633,7 @@ In der **nicht-direktiven OE-Beratung** spielt das **Systemumfeld** eine herausr
 Hier kann das 9FM ergänzend wertvolle Hinweise liefern:
 
 - Welche **historischen Interessen** und Ressourcen wirken?
-- Welche **Gegenwartsinteressen** sind offen — welche eher verdeckt?
+- Welche **Gegenwartsinteressen** sind offen, welche eher verdeckt?
 - Welche **Zukunftsinteressen** sollten bewusst in die Prozessgestaltung einfließen?
 
 #### Feld 4: Rolle / berufliches Selbstverständnis
@@ -673,7 +675,7 @@ Gerade in der **nicht-direktiven OE-Beratung** ist die Auftragsklärung ein **ho
 
 Das **4-Felder-Modell** und das **9-Felder-Modell** bieten in diesem Kontext einen **starken methodischen Rahmen**, um die Auftragsklärung sowohl **inhaltlich** als auch **prozessual** differenziert und tragfähig zu gestalten.
 
-**Im nächsten Abschnitt** betrachten wir, wie sich diese Prinzipien spezifisch im **Coachingprozess** umsetzen lassen — insbesondere bei Coachingaufträgen im organisationalen Kontext.
+**Im nächsten Abschnitt** betrachten wir, wie sich diese Prinzipien spezifisch im **Coachingprozess** umsetzen lassen, insbesondere bei Coachingaufträgen im organisationalen Kontext.
 
 ## 6.2 Coachingprozess
 
@@ -684,7 +686,7 @@ Gleichzeitig findet Coaching im organisationalen Kontext häufig in einem **Mehr
 
 - Eine Führungskraft oder HR-Abteilung **beauftragt** das Coaching.
 - Der/die Coachee soll **Empfänger:in** und **aktive Gestalter:in** des Coachingprozesses sein.
-- Die Organisation hat **Erwartungen an Wirkung und Ergebnis** — formal oder informell.
+- Die Organisation hat **Erwartungen an Wirkung und Ergebnis**, formal oder informell.
 
 Diese Konstellation birgt für die **Auftragsklärung im Coaching** spezifische Herausforderungen.  
 Ein **klar strukturierter und systemisch reflektierter Klärungsprozess** ist hier besonders wichtig, um **Rollen, Grenzen und Ziele** sauber zu definieren.
@@ -709,7 +711,7 @@ Hier hilft eine **fundierte Auftragsklärung**, die von Anfang an **Transparenz 
 
 ### Nutzung des 4-Felder-Modells im Coaching
 
-Das **4-Felder-Modell** ist auch im Coaching ein äußerst hilfreiches Instrument zur Strukturierung der Auftragsklärung — sowohl mit dem **Auftraggeber** als auch im direkten **Vorgespräch mit dem Coachee**.
+Das **4-Felder-Modell** ist auch im Coaching ein äußerst hilfreiches Instrument zur Strukturierung der Auftragsklärung, sowohl mit dem **Auftraggeber** als auch im direkten **Vorgespräch mit dem Coachee**.
 
 #### Feld 1: Personales Anliegen
 
@@ -739,25 +741,25 @@ Gerade im **organisationalen Coaching** ist es wichtig, die systemischen Rahmenb
 
 - Welche **systemischen Erwartungen** bestehen an den Coachee?  
 - Welche organisationalen **Tabus oder blinden Flecken** wirken im Umfeld?  
-- Welche **impliziten Erfolgskriterien** existieren — und sind diese mit dem persönlichen Anliegen kompatibel?  
+- Welche **impliziten Erfolgskriterien** existieren, und sind diese mit dem persönlichen Anliegen kompatibel?  
 - Wie geht das System mit **Scheitern oder Nicht-Erreichen** von Erwartungen um?
 
 Das 9FM ergänzt hier die Reflexion um folgende Fragen:
 
 - **Historische Dynamiken:** Gab es frühere vergleichbare Coachingprozesse? Wie wurden diese im System bewertet?
-- **Zukunftsinteressen:** Welche Entwicklungsrichtung verfolgt das System — und wie gut passt der aktuelle Coachingauftrag dazu?
+- **Zukunftsinteressen:** Welche Entwicklungsrichtung verfolgt das System, und wie gut passt der aktuelle Coachingauftrag dazu?
 
 #### Feld 4: Rolle / berufliches Selbstverständnis
 
 Gerade im organisationalen Coaching ist eine **klare Rollendefinition** essenziell:
 
-- Ich bin **Coach für den Coachee** — nicht **Veränderungsagent** für die Organisation.
-- Ich stehe für **prozessoffene Begleitung** — nicht für ein vorgegebenes Ergebnis.
-- Ich wahre die **Vertraulichkeit** gegenüber der Organisation — in den Grenzen des gemeinsam definierten Dreiervertrags.
+- Ich bin **Coach für den Coachee**, nicht **Veränderungsagent** für die Organisation.
+- Ich stehe für **prozessoffene Begleitung**, nicht für ein vorgegebenes Ergebnis.
+- Ich wahre die **Vertraulichkeit** gegenüber der Organisation, in den Grenzen des gemeinsam definierten Dreiervertrags.
 
 Typische Fragen im Dreierklärungsgespräch können hier sein:
 
-- Welche Informationen dürfen an den Auftraggeber zurückfließen — und in welcher Form?
+- Welche Informationen dürfen an den Auftraggeber zurückfließen, und in welcher Form?
 - Wie sichern wir den **Autonomieschutz des Coachees**?
 - Wer definiert, wann der Coachingprozess als erfolgreich gilt?
 
@@ -787,20 +789,20 @@ Das **4-Felder-Modell**, ergänzt durch die **Kohärenzfaktoren** und das **9-Fe
 - Es stärkt die **Autonomie und Prozessverantwortung** der Coachees.
 - Es schützt Coaches vor **impliziten Steuerungsanforderungen** seitens der Organisation.
 
-**Im nächsten Abschnitt** beleuchten wir, wie sich diese Prinzipien konkret auf die **Organisationsmediation** übertragen lassen — und wie der **Dreiervertrag** dabei als strukturgebendes Element wirksam wird.
+**Im nächsten Abschnitt** beleuchten wir, wie sich diese Prinzipien konkret auf die **Organisationsmediation** übertragen lassen, und wie der **Dreiervertrag** dabei als strukturgebendes Element wirksam wird.
 
 ## 6.3. Organisationsmediation
 
 **Organisationsmediation** ist eines der komplexesten Felder professioneller Prozessbegleitung.  
 Hier treffen unterschiedliche **Hierarchieebenen**, **Abteilungen**, **Rollenverständnisse** und oft auch **politische Interessen** aufeinander.  
-Konflikte sind selten rein **inhaltlich** oder **sachlich** zu lösen — sie sind eingebettet in **organisatorische Strukturen, Kulturen und Historien**.
+Konflikte sind selten rein **inhaltlich** oder **sachlich** zu lösen, sie sind eingebettet in **organisatorische Strukturen, Kulturen und Historien**.
 
 Die **Auftragsklärung** wird in diesem Kontext zum entscheidenden Moment:  
 → Sie entscheidet darüber, **wie tragfähig der Mediationsprozess gestaltet werden kann**,  
 → **welche Rollen und Grenzen** im Prozess klar sind,  
 → und **welche Dynamiken** bewusst gesteuert und bearbeitet werden.
 
-Ohne eine sorgfältige, systemisch fundierte Auftragsklärung droht die **Organisationsmediation** schnell zu einem **instrumentellen Mittel organisationaler Machtdynamiken** zu verkommen — anstatt zu einem Raum echter Verständigung und Entwicklung.
+Ohne eine sorgfältige, systemisch fundierte Auftragsklärung droht die **Organisationsmediation** schnell zu einem **instrumentellen Mittel organisationaler Machtdynamiken** zu verkommen, anstatt zu einem Raum echter Verständigung und Entwicklung.
 
 ### Typische Konstellation in der Organisationsmediation
 
@@ -811,7 +813,7 @@ In der Praxis begegnen wir häufig folgender Ausgangslage:
 - **Konfliktbeteiligte / Mediand:innen** (z. B. Teammitglieder, Führungskräfte)  
   → sind oft ambivalent oder skeptisch gegenüber dem Verfahren.
 - **Mediator:in**  
-  → wird als neutrale Instanz beauftragt — häufig mit unklaren Erwartungen hinsichtlich **Rolle**, **Ergebnis** und **Berichtspflichten**.
+  → wird als neutrale Instanz beauftragt, häufig mit unklaren Erwartungen hinsichtlich **Rolle**, **Ergebnis** und **Berichtspflichten**.
 
 In dieser Situation ist die **explizite Nutzung des Dreiervertrags** (vgl. Abschnitt 5) in Verbindung mit dem **4-Felder-Modell** besonders hilfreich.
 
@@ -822,7 +824,7 @@ In dieser Situation ist die **explizite Nutzung des Dreiervertrags** (vgl. Absch
 Für die Mediator:innen stellt sich die zentrale Frage:
 
 - **Mit welchem Anliegen gehe ich in diesen Mediationsprozess?**  
-- Wie kann ich **allparteilich und transparent** bleiben — auch bei verdeckten systemischen Dynamiken?  
+- Wie kann ich **allparteilich und transparent** bleiben, auch bei verdeckten systemischen Dynamiken?  
 - Wo könnte ich unbewusst in **Loyalitätskonflikte** geraten?
 
 Die Reflexion mit den **Kohärenzfaktoren** (Abschnitt 3.2) unterstützt hier eine klare innere Haltung.
@@ -862,8 +864,8 @@ Das **9-Felder-Modell** bietet hier ergänzend eine hervorragende Matrix, um sys
 Für die Mediator:innen ist eine **glasklare Rollendefinition** in der Auftragsklärung unabdingbar:
 
 - Ich bin **Mediator:in**, nicht **Change Manager:in**, nicht **Organisationsentwickler:in**, nicht **Personalberater:in**.
-- Ich steuere den Prozess der Verständigung — nicht die Inhalte oder die organisationalen Entscheidungsprozesse.
-- Ich wahre **Vertraulichkeit** — innerhalb der im Dreiervertrag explizit vereinbarten Grenzen.
+- Ich steuere den Prozess der Verständigung, nicht die Inhalte oder die organisationalen Entscheidungsprozesse.
+- Ich wahre **Vertraulichkeit**, innerhalb der im Dreiervertrag explizit vereinbarten Grenzen.
 
 Gerade in der Organisationsmediation kommt es häufig zu Versuchen, die Mediator:innen als **Steuerungsinstrument** des Systems zu vereinnahmen.  
 Eine kontinuierliche Reflexion des eigenen Rollenverhaltens (mit Unterstützung der Kohärenzfaktoren) ist daher essenziell.
@@ -896,9 +898,9 @@ Das **4-Felder-Modell**, ergänzt durch den **Dreiervertrag**, die **Kohärenzfa
 - Es schützt Mediator:innen vor **Rollenverführung** und **Vereinnahmung**.
 - Es ermöglicht eine **realistische und tragfähige Gestaltung** der Prozessarchitektur.
 
-Eine fundierte und bewusst geführte Auftragsklärung ist der beste Schutz vor späteren Prozessabbrüchen oder Vertrauensverlusten — und damit ein zentraler Erfolgsfaktor jeder professionellen Organisationsmediation.
+Eine fundierte und bewusst geführte Auftragsklärung ist der beste Schutz vor späteren Prozessabbrüchen oder Vertrauensverlusten, und damit ein zentraler Erfolgsfaktor jeder professionellen Organisationsmediation.
 
-**Im nächsten Abschnitt** betrachten wir die **Fallstricke und Paradoxien**, die systemische Auftragsklärung in all diesen Prozessen immer wieder begleiten — und wie wir ihnen begegnen können.
+**Im nächsten Abschnitt** betrachten wir die **Fallstricke und Paradoxien**, die systemische Auftragsklärung in all diesen Prozessen immer wieder begleiten, und wie wir ihnen begegnen können.
 
 
 ## 7. Fallstricke und Paradoxien in der systemischen Auftragsklärung
@@ -907,7 +909,7 @@ Eine fundierte und bewusst geführte Auftragsklärung ist der beste Schutz vor s
 Gerade weil sie in **komplexen organisationalen Feldern** stattfindet, ist sie von **dynamischen Wechselwirkungen** und **unbewussten Erwartungen** geprägt.
 
 In der Praxis begegnen Mediator:innen, Berater:innen und Coaches dabei immer wieder **typische Fallstricke und Paradoxien**.  
-Diese bewusst wahrzunehmen — und proaktiv damit umzugehen — ist ein **zentraler Bestandteil professioneller Auftragsklärung**.
+Diese bewusst wahrzunehmen, und proaktiv damit umzugehen, ist ein **zentraler Bestandteil professioneller Auftragsklärung**.
 
 In diesem Abschnitt zeige ich die wichtigsten dieser Dynamiken auf und gebe Hinweise, wie wir ihnen **systemisch angemessen begegnen** können.
 
@@ -952,11 +954,11 @@ Gerade bei komplexen Konflikten oder kulturellen Veränderungsprozessen bestehen
 - "Das Coaching muss spürbare Verhaltensänderung bringen."
 
 **Fallstrick:**  
-Das Prozessdesign wird von Anfang an auf **Ergebniserwartungen** reduziert — statt auf **Ermöglichung von Reflexion und Entwicklung** ausgerichtet.
+Das Prozessdesign wird von Anfang an auf **Ergebniserwartungen** reduziert, statt auf **Ermöglichung von Reflexion und Entwicklung** ausgerichtet.
 
 **Systemische Antwort:**  
 - In der Auftragsklärung bewusst zwischen **Prozesszielen** und **Ergebniserwartungen** unterscheiden.
-- Realistische **Prozessarchitektur** entwickeln — auch im Dialog mit dem Auftraggeber.
+- Realistische **Prozessarchitektur** entwickeln, auch im Dialog mit dem Auftraggeber.
 - Frühzeitig **systemische Zirkularität** des Prozesses ansprechen: Erfolg entsteht **aus dem Zusammenspiel der Systemakteur:innen**, nicht aus der Leistung der Prozessbegleitung allein.
 
 ### Rollendiffusion im Prozessverlauf
@@ -968,7 +970,7 @@ Gerade in längeren Prozessen (Organisationsmediation, OE-Begleitung, Coaching) 
 - Coach wird als **Change-Agent** eingespannt.
 
 **Fallstrick:**  
-Ohne bewusste Reflexion übernimmt die Prozessbegleitung Rollen, für die sie **nicht beauftragt** und nicht positioniert ist — und riskiert damit **Rollenkonflikte und Vertrauensverluste**.
+Ohne bewusste Reflexion übernimmt die Prozessbegleitung Rollen, für die sie **nicht beauftragt** und nicht positioniert ist, und riskiert damit **Rollenkonflikte und Vertrauensverluste**.
 
 **Systemische Antwort:**  
 - Kontinuierliche Reflexion des eigenen Rollenverhaltens mit dem **4-Felder-Modell** und den **Kohärenzfaktoren**.
@@ -979,9 +981,9 @@ Ohne bewusste Reflexion übernimmt die Prozessbegleitung Rollen, für die sie **
 
 In vielen Kontexten sind Organisationen selbst **ambivalent** gegenüber Veränderung und Reflexion:
 
-- Sie wünschen Offenheit — und pflegen zugleich **kulturelle Tabus**.
-- Sie wollen Dialog — und behalten gleichzeitig **rigide Steuerungsmodelle** bei.
-- Sie beauftragen Mediation — und entziehen gleichzeitig der Führung ihre Verantwortung.
+- Sie wünschen Offenheit, und pflegen zugleich **kulturelle Tabus**.
+- Sie wollen Dialog, und behalten gleichzeitig **rigide Steuerungsmodelle** bei.
+- Sie beauftragen Mediation, und entziehen gleichzeitig der Führung ihre Verantwortung.
 
 **Fallstrick:**  
 Unbewusst übernimmt die Prozessbegleitung die Aufgabe, **systemische Paradoxien aufzulösen**, die im System selbst **stabilisierend** wirken.
@@ -989,7 +991,7 @@ Unbewusst übernimmt die Prozessbegleitung die Aufgabe, **systemische Paradoxien
 **Systemische Antwort:**  
 - Systemische Paradoxien in der **Auftragsklärung explizit thematisieren**.
 - Im Prozess immer wieder **Meta-Reflexion ermöglichen**: Was geschieht im System im Umgang mit dem Prozess selbst?
-- **Nicht in die Lösungsfalle gehen** — systemische Paradoxien sind oft **nicht auflösbar**, sondern müssen **bewusst gehalten** und **reflexiv gestaltet** werden.
+- **Nicht in die Lösungsfalle gehen**, systemische Paradoxien sind oft **nicht auflösbar**, sondern müssen **bewusst gehalten** und **reflexiv gestaltet** werden.
 
 ### Fazit
 
@@ -1013,7 +1015,7 @@ Das **4-Felder-Modell**, ergänzt durch die **Kohärenzfaktoren** und das **9-Fe
 **Auftragsklärung** ist in der systemischen Praxis kein formaler Akt, sondern ein **zentraler Bestandteil der Prozessgestaltung**.  
 Sie ist **mehrdimensional**: ein fachlicher, ein relationaler und ein selbstreflexiver Prozess zugleich.
 
-Gerade in **komplexen Kontexten** — sei es in der **Organisationsmediation**, im **Coaching organisationaler Akteur:innen** oder in der **nicht-direktiven OE-Beratung** — entscheidet die Qualität der Auftragsklärung maßgeblich darüber, ob ein Prozess:
+Gerade in **komplexen Kontexten**, sei es in der **Organisationsmediation**, im **Coaching organisationaler Akteur:innen** oder in der **nicht-direktiven OE-Beratung**, entscheidet die Qualität der Auftragsklärung maßgeblich darüber, ob ein Prozess:
 
 - **tragfähig**,
 - **rollenstabil**,
@@ -1037,7 +1039,7 @@ Das bedeutet für die Praxis:
 - Vielmehr muss der Auftrag **laufend reflektiert und ggf. nachjustiert** werden.
 - **Verdeckte Nebenaufträge**, **veränderte Erwartungen** und **neue systemische Dynamiken** gehören zum Alltag professioneller Prozessführung.
 
-Das **4-Felder-Modell** eignet sich hervorragend, um diese Reflexion **strukturiert und dialogisch** zu führen — sowohl intern im Team der Prozessbegleitung als auch im Dialog mit Auftraggebern und Klientensystem.
+Das **4-Felder-Modell** eignet sich hervorragend, um diese Reflexion **strukturiert und dialogisch** zu führen, sowohl intern im Team der Prozessbegleitung als auch im Dialog mit Auftraggebern und Klientensystem.
 
 ### Professionalität durch Haltung
 
@@ -1059,21 +1061,21 @@ Zum Abschluss einige ganz praktische Impulse, die sich in meiner eigenen Arbeit 
    Reflektiere die eigenen vier Felder und Kohärenzfaktoren, bevor du in ein Klärungsgespräch gehst.
 
 2. **Bewusste Prozessarchitektur:**  
-   Plane die Auftragsklärung als **eigenständige Prozessphase** — nicht als Nebenprodukt der ersten Sitzung.
+   Plane die Auftragsklärung als **eigenständige Prozessphase**, nicht als Nebenprodukt der ersten Sitzung.
 
 3. **Explizite Gestaltung des Dreiervertrags:**  
    Gerade in Organisationskontexten: Dreiervertrag nicht "mitlaufen lassen", sondern **bewusst gestalten und dokumentieren**.
 
 4. **Regelmäßige Prozessschleifen:**  
-   Baue im Prozess **Reflexionspunkte zur Auftrags- und Rollenklarheit** ein — z. B. bei Halbzeit oder bei erkennbaren Spannungsverschiebungen.
+   Baue im Prozess **Reflexionspunkte zur Auftrags- und Rollenklarheit** ein, z. B. bei Halbzeit oder bei erkennbaren Spannungsverschiebungen.
 
 5. **Bewusstes Thematisieren von Paradoxien:**  
-   Habe den Mut, systemische Paradoxien und Ambivalenzen im System **offen anzusprechen** — und halte sie bewusst im Prozessraum.
+   Habe den Mut, systemische Paradoxien und Ambivalenzen im System **offen anzusprechen**, und halte sie bewusst im Prozessraum.
 
 ### Weiterführende Entwicklung
 
 Die hier dargestellten Modelle und Impulse können und sollen **kontinuierlich weiterentwickelt** werden.  
-In der Praxis zeigt sich immer wieder: **Jeder Auftragsklärungsprozess ist einzigartig** — weil jedes System seine eigene Logik, Kultur und Dynamik entfaltet.
+In der Praxis zeigt sich immer wieder: **Jeder Auftragsklärungsprozess ist einzigartig**, weil jedes System seine eigene Logik, Kultur und Dynamik entfaltet.
 
 Daher lade ich alle Kolleg:innen ein:
 
@@ -1081,13 +1083,27 @@ Daher lade ich alle Kolleg:innen ein:
 - sie mit **eigenen Erfahrungen und Perspektiven** anzureichern,
 - und den Prozess der Auftragsklärung als **gemeinsame Lernreise** mit Auftraggebern und Klientensystemen zu gestalten.
 
-Denn gerade in einer Welt zunehmender **Komplexität und Veränderung** brauchen wir keine vorgefertigten Lösungen, sondern **reflektierte, dialogische Prozessgestaltung** — und diese beginnt immer bei der **Auftragsklärung**.
+Denn gerade in einer Welt zunehmender **Komplexität und Veränderung** brauchen wir keine vorgefertigten Lösungen, sondern **reflektierte, dialogische Prozessgestaltung**, und diese beginnt immer bei der **Auftragsklärung**.
 
 Für die praktische Umsetzung finden Sie im [Anhang A](anlage01-systemische-lesebrille-4fm.pdf) eine kompakte Checkliste zur systemischen Auftragsklärung.
 
-### Weiterführend empfohlen
+## Zur Reihe „Phasen der Mediation"
+
+Dieser Artikel gehört zu einer kleinen Reihe zu den vier Phasen der Mediation aus systemischer Perspektive:
+
+- [Klärungsphase P2, Konflikte verstehen statt lösen]({{< relref "/post/klaerungsphase-p2-systemische-mediation" >}}): Wie sich Konfliktdynamiken systemisch beleuchten und bearbeiten lassen, mit Methoden wie Eisberg, zirkulärem Fragen und Hypothesenbildung.
+- [Kreationsphase P3, Möglichkeitsräume gestalten]({{< relref "/post/kreationsphase-p3-systemische-mediation" >}}): Wie Lösungen entstehen, die auf Anschlussfähigkeit setzen statt auf Konsens.
+- [Umsetzungsphase P4, Konflikte umsetzen statt abhaken]({{< relref "/post/p4-umsetzungsphase-systemisch" >}}): Wie die Umsetzung als Resonanzraum gestaltet werden kann und typische Fallstricke systemisch bearbeitet werden.
+
+## Weiterführend
+
+Für die methodische Vertiefung der in diesem Artikel behandelten Modelle:
 
 - [Die 9-Felder-Methode nach Rieforth]({{< relref "/post/9-felder-methode-rieforth/">}})
-- [Dreierverträge in der Transaktionsanalyse: Rollenklarheit und Systemtransparenz]({{< relref "/post/dreiervertrag/">}})
+- [Dreierverträge in der Transaktionsanalyse, Rollenklarheit und Systemtransparenz]({{< relref "/post/dreiervertrag/">}})
+- [Hypothesenbildung, systemische Klarheit statt vorschneller Deutung]({{< relref "/post/hypothesenbildung-systemische-beratung" >}})
+- [Zyklus der Hypothesenarbeit im systemischen Denken]({{< relref "/post/zyklus-der-hypothesenarbeit-systemisches-denken" >}})
 
-Wenn Sie systemische Auftragsklärung in Ihrer Organisation oder für Ihren nächsten Beratungsprozess gezielt stärken möchten, lade ich Sie herzlich zu einem unverbindlichen Erstgespräch ein. Buchen Sie direkt einen Termin über **{{< extlink "https://calendly.com/mediator-sweti" >}}meinen Kalender{{< /extlink >}}**
+## Für den kollegialen Austausch
+
+Wenn Sie in Ihrer eigenen Praxis mit systemischer Auftragsklärung arbeiten oder Erfahrungen zu 4-Felder-Modell, 9-Felder-Modell oder Dreiervertrag teilen möchten, freue ich mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
