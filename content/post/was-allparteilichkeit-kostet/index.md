@@ -1,6 +1,6 @@
 +++
 categories = ['Blog']
-tags = ['systemisches-denken', 'systemische-beratung', 'Fallgeschichte']
+tags = ['systemisches-denken', 'systemische-beratung', 'fallgeschichten']
 
 title = "Was Allparteilichkeit eigentlich kostet"
 

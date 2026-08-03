@@ -199,3 +199,7 @@ ErrorDocument 500 /404.html
 # ═══════════════════════════════════════════════════════════════
 # ENDE .htaccess — mediator.sweti.de
 # ═══════════════════════════════════════════════════════════════
+
+# Bot mit gefälschtem iOS 13.2.3 User-Agent blockieren
+RewriteCond %{HTTP_USER_AGENT} "iPhone OS 13_2_3" [NC]
+RewriteRule .* - [F,L]
