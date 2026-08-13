@@ -1,5 +1,5 @@
 ---
-title: "Mediator in Dresden – Konflikte in Familie, Pflege & Nachbarschaft klären"
+title: "Mediator Dresden - Konflikte klären"
 description: "Systemischer Mediator in Dresden – Klärung bei Konflikten in Familie, Pflege, Erbe und Nachbarschaft. Kostenfreies Orientierungsgespräch, vertraulich, ohne Verpflichtung."
 summary: "Dr. Swetoslaw Beltschew begleitet seit drei Jahren Menschen in Dresden und Umgebung bei festgefahrenen Konflikten - mit systemischem Ansatz, Allparteilichkeit nach Mediationsgesetz und der Ruhe aus 35 Jahren Verwaltungserfahrung."
 full_title: "Systemischer Mediator in Dresden für Konflikte in Familie, Pflege, Erbe und Nachbarschaft. Kostenfreies Orientierungsgespräch, vertraulich."

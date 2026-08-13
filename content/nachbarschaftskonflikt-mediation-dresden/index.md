@@ -1,5 +1,5 @@
 ---
-title: "Nachbarschaftskonflikt in Dresden klären - Mediation statt Gericht"
+title: "Nachbarschaftskonflikt Dresden - Mediation"
 description: "Streit mit dem Nachbarn in Dresden? Mediation klärt Nachbarschaftskonflikte schnell und ohne Gericht - bei Lärm, Grundstücksstreit, Gemeinschaftsflächen und mehr. Kostenfreies Orientierungsgespräch."
 full_title: "Nachbarschaftsstreit in Dresden? Mediation klärt ohne Gericht - Lärm, Grundstücksstreit, Gemeinschaftsflächen. Kostenfreies Orientierungsgespräch."
 slug: "nachbarschaftskonflikt-mediation-dresden"

@@ -29,7 +29,7 @@ sitemap:
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< figure src="image.png" alt="Grenzen gerichtlicher klaerung Privatkonflikte">}}
 
 
 

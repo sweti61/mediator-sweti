@@ -115,7 +115,7 @@ Spätestens an diesem Punkt wird ein konstruktiver Dialog schwierig. Das Gesprä
 
 ---
 
-# Für die zurückbleibenden Eltern oder Geschwister
+## Für die zurückbleibenden Eltern oder Geschwister
 
 Ein Kontaktabbruch wird von den Zurückbleibenden oft tief erschütternd erlebt. Er fühlt sich nicht selten an wie Zurückweisung oder Undankbarkeit, manchmal sogar wie Verrat. Für manche entsteht zusätzlich das Gefühl von Kontrollverlust – als würde etwas Wesentliches entgleiten, ohne dass man es beeinflussen kann.
 

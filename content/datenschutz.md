@@ -1,24 +1,26 @@
 +++
-title = 'Datenschutzerklärung'
+title = 'Datenschutzerklärung – mediator.sweti.de'
+description = 'Datenschutzerklärung der Website mediator.sweti.de – Informationen zur Datenverarbeitung gemäß DSGVO.'
 date = 2025-04-29T17:25:23+02:00
-
+noindex = true
 +++
-### 1. Allgemeine Hinweise
+
+### Allgemeine Hinweise
 
 Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TMG). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
 ---
 
-### 2. Verantwortlicher
+### Verantwortlicher
 
-**Name:** Swetoslaw Beltschew\
-**Anschrift:** Bünau Str. 52, 01159 Dresden\
-**E-Mail:** [mediator@sweti.de](mailto\:mediator@sweti.de)\
-**Telefon:** 0163 803 5634
+Name: Swetoslaw Beltschew   
+Anschrift: Bünaustr. 52, 01159 Dresden   
+E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
+Telefon: 0163 803 5634   
 
 ---
 
-### 3. Zugriffsdaten (Server-Logfiles)
+### Zugriffsdaten (Server-Logfiles)
 
 Beim Besuch dieser Webseite werden durch den Webserver automatisch Informationen in sogenannten Server-Logfiles gespeichert. Diese Informationen umfassen:
 
@@ -32,19 +34,19 @@ Diese Daten dienen ausschließlich der technischen Überwachung und zur Sicherst
 
 ---
 
-### 4. Keine Verwendung von Cookies
+### Keine Verwendung von Cookies
 
-Diese Webseite verwendet **keine Cookies**.
-
----
-
-### 5. Keine Weitergabe an Dritte
-
-Es erfolgt **keine Weitergabe** Ihrer Daten an Dritte. Es werden keine externen Inhalte (z. B. Google Fonts, YouTube, Social-Media-Plug-ins) eingebunden.
+Diese Webseite verwendet keine Cookies.
 
 ---
 
-### 6. Ihre Rechte
+### Keine Weitergabe an Dritte
+
+Es erfolgt keine Weitergabe Ihrer Daten an Dritte. Es werden keine externen Inhalte (z. B. Google Fonts, YouTube, Social-Media-Plug-ins) eingebunden.
+
+---
+
+### Ihre Rechte
 
 Sie haben jederzeit das Recht auf:
 
@@ -55,21 +57,20 @@ Sie haben jederzeit das Recht auf:
 - Widerspruch gegen die Verarbeitung
 - Datenübertragbarkeit
 
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt, haben Sie das Recht, sich bei einer **Datenschutz-Aufsichtsbehörde** zu beschweren.
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt, haben Sie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
 
 ---
 
-### 7. Kontaktaufnahme
+### Kontaktaufnahme
 
 Wenn Sie per E-Mail Kontakt mit uns aufnehmen, werden Ihre Angaben zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen gespeichert. Diese Daten geben wir nicht weiter.
 
 ---
 
-### 8. Änderungen
+### Änderungen
 
 Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, etwa bei Änderungen gesetzlicher Vorgaben.
 
 ---
 
-**Stand:** April 2025
-
+Stand: April 2026

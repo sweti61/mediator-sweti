@@ -14,7 +14,7 @@ noindex= true
 disable = true
 +++
 
-{{< figure src="konflikte.png">}}
+{{< figure src="konflikte.png" alt="Konflikte">}}
 
 _Konflikte_ gehören zum Leben dazu, aber warum entstehen sie überhaupt? Oft sind die Gründe tief in unseren psychologischen Grundbedürfnissen und Verhaltensmustern verwurzelt. Hier möchte ich einige der Hauptursachen erläutern und zeigen, wie diese Konflikte entstehen können.
 

@@ -15,7 +15,7 @@ noindex= true
 disable = true
 +++
 
-{{< figure src="Ergebnisoffenheit.png">}}
+{{< figure src="Ergebnisoffenheit.png" alt="Ergebnisoffenheit">}}
 
 
 [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") ist ein [vertraulicher]({{< ref "post/vertraulichkeit" >}} "Vertraulichkeit in der Mediation") Prozess, bei dem die Beteiligten zusammenarbeiten, um eine Lösung für ihren Konflikt zu finden. Aber was bedeutet es, wenn wir von "Ergebnisoffenheit" sprechen?

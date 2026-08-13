@@ -10,7 +10,6 @@ draft: false
 toc: true
 author: "Swetoslaw Beltschew"
 layout: "angebot"
-noindex: "true"
 
 weight: 20
 ---

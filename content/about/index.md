@@ -2,15 +2,10 @@
 title: "Dr. Swetoslaw Beltschew – Mediator Dresden"
 description: "Mediator in Dresden mit 35 Jahren Verwaltungserfahrung. Systemische Methode für Familien-, Erbe- und Teamkonflikte. Klarheit entsteht im Gespräch."
 summary: "Über die Person hinter mediator.sweti.de: Dr. Swetoslaw Beltschew, Mediator und systemischer Berater in Dresden, mit 35 Jahren Erfahrung in der sächsischen Verwaltung."
-keywords:
-  - Sweti Beltschew Mediator
-  - Beltschew Dresden
-  - Mediator Dresden Sweti
-  - systemischer Berater Dresden
-  - Mediator INKOVEMA Ausbildung
 slug: about
 url: /about/
 date: 2026-04-26
+lastmod: 2026-08-13
 draft: false
 toc: false
 author: "Dr. Swetoslaw Beltschew"
@@ -55,6 +50,8 @@ Was ich aus der systemischen Arbeit mitnehme:
 - Menschen handeln nicht nach festem Charakter, sondern nach Rollen und Bedürfnissen. Wenn die Rollenzuweisung sich verschiebt, ändert sich das Verhalten.
 - Beobachtungen sind nicht neutral. Wer beobachtet, gestaltet, was er sieht. Diese Einsicht – das Beobachten der Beobachtungen – ist für die Mediation zentral.
 - Interventionen führen nicht immer zum gewünschten Ergebnis. Menschen sind autonom. Das ist keine Einschränkung der Arbeit, sondern ihr Ausgangspunkt.
+
+Was diese Einsichten verbindet, ist eine Grundhaltung: Ich betrachte Menschen, Gruppen und Organisationen nicht isoliert, sondern eingebettet in ihr jeweiliges Umfeld – in Beziehungen, Kommunikationsstrukturen, Rollen und wechselseitige Einflüsse. Konflikte entstehen selten durch Einzelpersonen. Sie entstehen durch Muster, Erwartungen und Dynamiken im System. Diese Haltung durchzieht meine Arbeit als Mediator, Coach und Berater – und sie unterscheidet systemische Arbeit von direktiver Problemlösung.
 
 Daraus ist eine Position entstanden, die meine Arbeit trägt:
 
@@ -114,4 +111,6 @@ mediator@sweti.de · 0163 803 5634
 
 ---
 
-Ich befinde mich derzeit in der Aufbauphase meiner Mediationspraxis. Was das konkret bedeutet, beschreibe ich im [Praxisaufbauprogramm 2026/2027](/angebote/praxisaufbau-mediation-dresden/).
+Ich befinde mich derzeit in der Aufbauphase meiner Mediationspraxis. Was das konkret bedeutet, beschreibe ich im [Praxisaufbauprogramm 2026/2027]({{< relref "/angebote/praxisaufbau-mediation-dresden/" >}}).
+
+Was der Übergang von direktiver zu systemischer Haltung für mich persönlich bedeutet hat, beschreibe ich im Artikel [Warum ich aufgehört habe, Lösungen anzubieten]({{< relref "/post/warum-ich-aufgehoert-habe-loesungen-anzubieten/" >}}).

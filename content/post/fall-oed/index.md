@@ -88,7 +88,7 @@ Konflikte im öffentlichen Dienst sind kein Zeichen von Schwäche, sondern ein S
 
 **Möchten Sie mehr über mögliche Klärungsprozesse in Ihrer Organisation erfahren?**
 
-👉️ [**Meine Marktpositionierung**]({{< relref "/post/position/">}} "Marktpositionierung")
+→ [Warum ich aufgehört habe, Lösungen anzubieten]({{< relref "/post/warum-ich-aufgehoert-habe-loesungen-anzubieten/">}} "Marktpositionierung")
 
 {{< werbebox >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "Mediation für pflegende Angehörige in Dresden - Pflegekonflikte klären, Entlastung finden"
+title: "Mediation für pflegende Angehörige Dresden"
 description: "Wenn Geschwister sich über die Pflege der Eltern streiten oder die Last ungleich verteilt ist: Mediation in Dresden unterstützt pflegende Angehörige - vertraulich, allparteilich, kostenfreies Orientierungsgespräch."
 full_title: "Pflegekonflikt in der Familie? Mediation in Dresden unterstützt pflegende Angehörige - vertraulich, allparteilich, kostenfreies Orientierungsgespräch."
 summary: "Pflegekonflikte in der Familie belasten alle Beteiligten. Als Mediator in Dresden begleite ich pflegende Angehörige dabei, Rollen zu klären, Geschwisterkonflikte zu lösen und tragfähige Vereinbarungen zu finden - kostenfreies Orientierungsgespräch."

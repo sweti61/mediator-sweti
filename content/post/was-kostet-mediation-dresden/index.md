@@ -32,7 +32,7 @@ weight: 60
 
 {{< metadescription >}}
 
-{{< figure src="was-kostet-mediation-dresden.png" >}}
+{{< figure src="was-kostet-mediation-dresden.png" alt="Was kostet Mediation - Dresden">}}
 
 
 Eine der häufigsten Fragen vor dem ersten Gespräch: Was kostet das eigentlich? Die kurze Antwort: Mediation ist in den meisten Fällen deutlich günstiger als ein Gerichtsverfahren — und oft schneller abgeschlossen, als man erwartet.

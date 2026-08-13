@@ -10,7 +10,6 @@ categories = ["zielgruppen"]
 date = 2025-04-27T11:57:58+02:00
 layout = "zielgruppen"
 type = "zielgruppen"
-noindex = true
 
 +++
 

@@ -31,7 +31,7 @@ weight: 50
 
 {{< metadescription >}}
 
-{{< figure src="mediation-oder-rechtsanwalt-dresden.png" >}}
+{{< figure src="mediation-oder-rechtsanwalt-dresden.png" alt="Mediator oder Rechtsanwalt">}}
 
 
 Eine der häufigsten Fragen, die Menschen stellen, bevor sie sich an einen Mediator wenden: „Sollte ich nicht lieber zum Anwalt?"

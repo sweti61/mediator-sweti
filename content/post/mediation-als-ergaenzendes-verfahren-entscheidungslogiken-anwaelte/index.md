@@ -28,7 +28,7 @@ sitemap:
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< figure src="image.png" alt="Mediation als ergaenzendes Verfahren - Entscheidungslogiken für Anwaelte">}}
 
 ## Einleitung: Verfahrenswahl unter Druck
 

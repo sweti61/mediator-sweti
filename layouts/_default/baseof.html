@@ -12,7 +12,7 @@
     {{ hugo.Generator }}
 	
 
-    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command; noindes Logik wie privat */}}}
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command; noindes Logik wie privat */}}
 	{{ $noindex := or
 		(ne hugo.Environment "production")
 		.Params.private

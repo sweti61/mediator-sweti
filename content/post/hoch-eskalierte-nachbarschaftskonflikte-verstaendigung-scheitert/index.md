@@ -32,7 +32,7 @@ weight: 60
 
 {{< metadescription >}}
 
-{{< figure src="image.png" >}}
+{{< figure src="image.png" alt="Hocheskalierte Nachbarschaftskonflikte - Verstaendigung scheitert">}}
 
 
 Nachbarschaftskonflikte gehören zu den belastendsten Auseinandersetzungen überhaupt. Sie betreffen den unmittelbaren Lebensraum, lassen sich nicht einfach verlassen und wirken oft über Jahre nach. Viele Betroffene erleben dabei eine paradoxe Situation: Je mehr gesprochen, gestritten oder geklärt wird, desto verfestigter scheint der Konflikt. Verständigung wird zum leeren Versprechen.

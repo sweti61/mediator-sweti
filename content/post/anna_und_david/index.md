@@ -15,7 +15,7 @@ noindex= true
 disable = true
 +++
 
-{{< figure src="anna_und_david.png">}}
+{{< figure src="anna_und_david.png" alt="Ana und David">}}
 
 Ich erzähle die Geschichte von Anna und David, einem Paar, das sich inmitten einer schwierigen Scheidung befand. Ihre Beziehung war einst voller Liebe und Versprechen, aber im Laufe der Jahre hatten sich Missverständnisse und Unstimmigkeiten angehäuft, und sie fanden sich in einem scheinbar unlösbaren Konflikt wieder.
 

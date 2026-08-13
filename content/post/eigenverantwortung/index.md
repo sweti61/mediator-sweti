@@ -14,7 +14,7 @@ noindex= true
 [sitemap]
 disable = true
 +++
-{{< figure src="Eigenverantwortung.png">}}
+{{< figure src="Eigenverantwortung.png" alt="Eigenverantwortung">}}
 
 In der [Mediation]({{< relref "/post/was-ist-mediation-mediator-dresden/" >}} "Was ist Mediation? Ein einfacher Leitfaden") trägt jeder seine eigene Verantwortung, um zu einer fairen und ausgewogenen Lösung des Konflikts beizutragen. Dies gilt sowohl für den [Mediator]({{< relref "wie-arbeitet-der-mediator-dresden">}} "Arbeit des Mediators") als auch für die Medianten.
 
