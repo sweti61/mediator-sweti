@@ -8,11 +8,13 @@ categories: ["Blog"]
 slug: klaerungsphase-p2-systemische-mediation
 url: "/post/klaerungsphase-p2-systemische-mediation/"
 date: 2025-06-17
-lastmod: 2026-07-30
+lastmod: 2026-08-16
 read_more_copy: 'Mehr zur Klärungsphase in der Mediation'
 draft: false
 image: "klaerungsphase-p2-systemische-mediation.png"
 author: "Dr. Swetoslaw Beltschew"
+weight: 400
+
 toc: true
 noindex: true
 sitemap:
@@ -199,3 +201,6 @@ Für die methodische Vertiefung zentraler Konzepte dieses Artikels:
 ## Für den kollegialen Austausch
 
 Wenn Sie in Ihrer eigenen Praxis mit der Klärungsphase arbeiten oder Erfahrungen zu Eisberg-Modell, zirkulärem Fragen, Hypothesenbildung oder der Haltung als reflexive Prozessbegleitung teilen möchten, freue ich mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

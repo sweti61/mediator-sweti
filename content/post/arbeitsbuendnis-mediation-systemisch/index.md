@@ -5,7 +5,7 @@ summary: "Vierter Beitrag der Reihe zu TA-Vertragskonzepten. Das Arbeitsbündnis
 slug: "arbeitsbuendnis-mediation-systemisch"
 url: "/post/arbeitsbuendnis-mediation-systemisch/"
 date: 2025-06-08
-lastmod: 2026-07-29
+lastmod: 2026-08-16
 author: "Dr. Swetoslaw Beltschew"
 categories: ["Blog"]
 tags: ["Mediation", "Phasen der Mediation", "Transaktionsanalyse", "Verträge in der Transaktionsanalyse"]
@@ -13,6 +13,9 @@ keywords: ["Arbeitsbündnis Mediation", "Vertrauen in der Mediation", "Systemisc
 image: "arbeitsbuendnis-mediation-systemisch.png"
 toc: true
 draft: false
+weight: 600
+
+
 noindex: true
 sitemap:
   disable: true
@@ -208,3 +211,6 @@ Für weiterführende thematische Vertiefungen, die mit dem Arbeitsbündnis eng v
 ## Für den kollegialen Austausch
 
 Ich lade alle Kolleg:innen ein, diesen Blick auf das Arbeitsbündnis in ihrer eigenen Praxis zu reflektieren und weiterzuentwickeln. Wenn Sie eigene Erfahrungen mitteilen möchten, ich freue mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

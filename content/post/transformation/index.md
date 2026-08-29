@@ -247,10 +247,3 @@ Weiterführende Artikel dieser Reihe:
 
 {{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
 {{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)
-Weiterführende Artikel dieser Reihe:
-- [Der Ausgleichsgedanke in der Mediation]({{< relref "/post/ausgleich/" >}})
-- [Der Vermittlungsgedanke in der Mediation]({{< relref "/post/vermittlung/" >}})
-- [Der Verhandlungsgedanke in der Mediation]({{< relref "/post/verhandeln/" >}})
-
-{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
-{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

@@ -8,11 +8,14 @@ categories: ["Blog"]
 slug: kreationsphase-p3-systemische-mediation
 url: "/post/kreationsphase-p3-systemische-mediation/"
 date: 2025-06-25
-lastmod: 2026-07-30
+lastmod: 2026-08-16
 read_more_copy: 'Mehr zur Kreationsphase in der Mediation'
 author: "Dr. Swetoslaw Beltschew"
 draft: false
 image: "kreationsphase-p3-systemische-mediation.png"
+weight: 400
+
+
 toc: true
 noindex: true
 sitemap:
@@ -92,3 +95,6 @@ Dieser Artikel gehört zu einer kleinen Reihe zu den vier Phasen der Mediation a
 ## Für den kollegialen Austausch
 
 Wenn Sie in Ihrer eigenen Praxis mit der Kreationsphase arbeiten oder Erfahrungen zu Anschlussfähigkeit statt Konsens, Ambiguitätstoleranz und Resonanzphänomenen teilen möchten, freue ich mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

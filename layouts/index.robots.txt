@@ -2,8 +2,6 @@ User-agent: *
 {{ if eq hugo.Environment "production" }}
 # Hinweis: Diese Version ist für produktive Umgebungen
 Allow: /
-Disallow: /post/
-Disallow: /tags/
 Disallow: /categories/
 Disallow: /index.xml
 # Sitemap-Hinweis für alle Crawler
@@ -12,6 +10,8 @@ Sitemap: {{ "/sitemap.xml" | urls.AbsURL }}
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 1
+User-agent: SemrushBot
+Crawl-delay: 10
 {{ else }}
 # Hinweis: Diese Version ist für nicht-produktive Umgebungen
 Disallow: /

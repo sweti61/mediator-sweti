@@ -15,7 +15,7 @@ Elder Mediation ist ein strukturiertes Verfahren, das Familien hilft, gemeinsam 
 
 ---
 
-## 🚨 Erkennen Sie sich hier wieder?
+## Erkennen Sie sich hier wieder?
 
 ### "Meine Geschwister lassen mich mit der Pflege allein"
 Sie pflegen seit Monaten Ihre Mutter. Die Geschwister helfen kaum, melden sich selten. Sie fühlen sich ausgenutzt und sind am Ende Ihrer Kräfte. Jedes Gespräch endet im Streit.
@@ -33,16 +33,16 @@ Nach dem Todesfall eskaliert der Konflikt. Einer hat jahrelang gepflegt und füh
 
 ---
 
-## 💬 Was Elder Mediation leistet – und was nicht
+## Was Elder Mediation leistet – und was nicht
 
 Elder Mediation ist ein strukturiertes Gesprächsverfahren mit einem neutralen Vermittler. Ziel ist, dass Sie als Familie gemeinsam eine Lösung finden, mit der alle leben können – selbstbestimmt, nicht von außen auferlegt.
 
 ### So läuft Elder Mediation ab
 
-✅ **3-5 Sitzungen à 90 Minuten** im Abstand von 1-2 Wochen  
-✅ **Alle Beteiligten sind anwesend** (bei Bedarf mit rechtlicher Beratung im Hintergrund)  
-✅ **Der Mediator strukturiert das Gespräch**, trifft aber keine Entscheidungen  
-✅ **Ergebnis:** Schriftliche Vereinbarung, die alle mittragen
+{{< icon "check-circle" >}} **3-5 Sitzungen à 90 Minuten** im Abstand von 1-2 Wochen  
+{{< icon "check-circle" >}} **Alle Beteiligten sind anwesend** (bei Bedarf mit rechtlicher Beratung im Hintergrund)  
+{{< icon "check-circle" >}} **Der Mediator strukturiert das Gespräch**, trifft aber keine Entscheidungen  
+{{< icon "check-circle" >}} **Ergebnis:** Schriftliche Vereinbarung, die alle mittragen
 
 ### Was dabei herauskommt
 
@@ -52,13 +52,13 @@ Elder Mediation ist ein strukturiertes Gesprächsverfahren mit einem neutralen V
 
 ### Was Elder Mediation NICHT ist
 
-❌ **Keine Therapie** – Es geht um konkrete Lösungen, nicht um tiefenpsychologische Aufarbeitung  
-❌ **Keine Rechtsberatung** – Der Mediator gibt keine juristischen Ratschläge  
-❌ **Keine Entscheidung durch Dritte** – Die Lösung kommt von Ihnen, nicht vom Mediator
+{{< icon "x-circle" >}} **Keine Therapie** – Es geht um konkrete Lösungen, nicht um tiefenpsychologische Aufarbeitung  
+{{< icon "x-circle" >}} **Keine Rechtsberatung** – Der Mediator gibt keine juristischen Ratschläge  
+{{< icon "x-circle" >}} **Keine Entscheidung durch Dritte** – Die Lösung kommt von Ihnen, nicht vom Mediator
 
 ---
 
-## 📖 Ein konkretes Beispiel: Wie eine Familie den Streit löste
+## Ein konkretes Beispiel: Wie eine Familie den Streit löste
 
 **Ausgangslage:**  
 Eine Familie mit drei erwachsenen Kindern, alle berufstätig. Die 78-jährige Mutter kann nicht mehr alleine wohnen. Die Tochter möchte die Mutter zu sich nehmen, die beiden Söhne drängen auf ein Pflegeheim. Alte Familienkonflikte kochen hoch – die Tochter wirft den Brüdern vor, sich nie gekümmert zu haben, die Söhne halten die Schwester für überfordert.
@@ -74,7 +74,7 @@ Die Mutter ist gut versorgt, die Tochter fühlt sich nicht mehr allein verantwor
 
 ---
 
-## 💰 Was kostet Elder Mediation? (Transparenz ist wichtig)
+## Was kostet Elder Mediation? (Transparenz ist wichtig)
 
 Ein typisches Elder-Mediationsverfahren umfasst **3-5 Sitzungen à 90 Minuten**. Der Stundensatz beträgt **150 Euro**.
 
@@ -83,46 +83,46 @@ Ein typisches Elder-Mediationsverfahren umfasst **3-5 Sitzungen à 90 Minuten**.
 | **Im Vergleich** | Ein Rechtsstreit kostet meist mehrere Tausend Euro |
 
 **Warum sich das lohnt:**
-- ⚡ **Schneller:** Wochen statt Monate oder Jahre
-- 💵 **Kostengünstiger:** 600-900 Euro statt mehrere Tausend
-- 🤝 **Beziehung bleibt intakt:** Familie lernt, wieder miteinander zu sprechen
-- 🎯 **Selbstbestimmte Lösung:** Sie entscheiden, nicht ein Gericht
+- **Schneller:** Wochen statt Monate oder Jahre
+- **Kostengünstiger:** 600-900 Euro statt mehrere Tausend
+- **Beziehung bleibt intakt:** Familie lernt, wieder miteinander zu sprechen
+- **Selbstbestimmte Lösung:** Sie entscheiden, nicht ein Gericht
 
 ---
 
-## ✅ Wann ist Elder Mediation das Richtige für Sie?
+## Wann ist Elder Mediation das Richtige für Sie?
 
 Mediation ist eine gute Option, wenn:
 
-✅ Die Beteiligten grundsätzlich noch miteinander reden (auch wenn es schwierig ist)  
-✅ Alle eine Lösung finden wollen, auch wenn sie unterschiedliche Vorstellungen haben  
-✅ Es keine akute Gefährdung gibt (körperliche Gewalt, schwere Misshandlung)  
-✅ Die Beteiligten freiwillig teilnehmen (Mediation funktioniert nicht unter Zwang)  
-✅ Eine dauerhafte Lösung wichtiger ist als Schuldzuweisung
+{{< icon "check-circle" >}} Die Beteiligten grundsätzlich noch miteinander reden (auch wenn es schwierig ist)  
+{{< icon "check-circle" >}} Alle eine Lösung finden wollen, auch wenn sie unterschiedliche Vorstellungen haben  
+{{< icon "check-circle" >}} Es keine akute Gefährdung gibt (körperliche Gewalt, schwere Misshandlung)  
+{{< icon "check-circle" >}} Die Beteiligten freiwillig teilnehmen (Mediation funktioniert nicht unter Zwang)  
+{{< icon "check-circle" >}} Eine dauerhafte Lösung wichtiger ist als Schuldzuweisung
 
 ### Wann ist Mediation NICHT geeignet?
 
-❌ Bei akuter Gefährdung (Gewalt, Misshandlung, akute Suizidgefahr)  
-❌ Wenn eine Partei unter Druck gesetzt wird oder nicht freiwillig teilnimmt  
-❌ Wenn rechtliche Klarheit dringend erforderlich ist (z.B. Entmündigung)  
-❌ Wenn Schutzmaßnahmen durch Behörden notwendig sind
+{{< icon "x-circle" >}} Bei akuter Gefährdung (Gewalt, Misshandlung, akute Suizidgefahr)  
+{{< icon "x-circle" >}} Wenn eine Partei unter Druck gesetzt wird oder nicht freiwillig teilnimmt  
+{{< icon "x-circle" >}} Wenn rechtliche Klarheit dringend erforderlich ist (z.B. Entmündigung)  
+{{< icon "x-circle" >}} Wenn Schutzmaßnahmen durch Behörden notwendig sind
 
 [→ Weitere häufige Fragen zur Mediation finden Sie hier](/howto/)
 
 ---
 
-## 🛡️ Warum Sie mir vertrauen können
+## Warum Sie mir vertrauen können
 
-✅ **Vertraulichkeit garantiert** – Alles, was in der Mediation besprochen wird, bleibt im Raum  
-✅ **Kostenlose Erstberatung** – Im ersten Gespräch (15-20 Minuten) klären wir, ob Mediation für Ihre Situation passt  
-✅ **Über 35 Jahre Erfahrung** in Konfliktlösung und systemischer Beratung  
-✅ **Spezialisierung auf Alterskonflikte** – In Dresden gibt es derzeit nur wenige Mediatoren mit dieser Spezialisierung
+{{< icon "check-circle" >}} **Vertraulichkeit garantiert** – Alles, was in der Mediation besprochen wird, bleibt im Raum  
+{{< icon "check-circle" >}} **Kostenlose Erstberatung** – Im ersten Gespräch (15-20 Minuten) klären wir, ob Mediation für Ihre Situation passt  
+{{< icon "check-circle" >}} **Über 35 Jahre Erfahrung** in Konfliktlösung und systemischer Beratung  
+{{< icon "check-circle" >}} **Spezialisierung auf Alterskonflikte** – In Dresden gibt es derzeit nur wenige Mediatoren mit dieser Spezialisierung
 
 Elder Mediation erfordert besonderes Einfühlungsvermögen für die Bedürfnisse älterer Menschen und ihre Familien – genau das ist der Schwerpunkt dieser Praxis.
 
 ---
 
-## 📞 Ihr nächster Schritt – kostenloses Erstgespräch
+## Ihr nächster Schritt – kostenloses Erstgespräch
 
 Sie sind unsicher, ob Mediation in Ihrer Situation helfen kann?
 
@@ -135,12 +135,12 @@ Sie sind unsicher, ob Mediation in Ihrer Situation helfen kann?
 [→ Zum Kontaktformular](/contact/)
 
 ### Option 3: Direkter Kontakt
-📧 **E-Mail:** mediator@sweti.de  
-📱 **Telefon:** 0163 803 5634
+{{< icon "mail" >}} **E-Mail:** mediator@sweti.de  
+{{< icon "phone" >}} **Telefon:** 0163 803 5634
 
 ---
 
-## 📥 Kostenloses Dossier: Elder Mediation in Dresden
+## Kostenloses Dossier: Elder Mediation in Dresden
 
 Sie möchten sich erst einmal in Ruhe informieren?
 

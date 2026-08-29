@@ -23,12 +23,15 @@ categories:
 slug: "systemische-auftragsklaerung"
 url: "/post/systemische-auftragsklaerung/"
 date: 2025-06-11
-lastmod: 2026-07-30
+lastmod: 2026-08-16
 read_more_copy: 'Mehr zur systemischen Auftragsklärung'
 draft: false
 author: "Dr. Swetoslaw Beltschew"
 image: "systemische-auftragsklaerung.png"
 toc: true
+weight: 500
+
+
 noindex: true
 sitemap:
   disable: true
@@ -1107,3 +1110,6 @@ Für die methodische Vertiefung der in diesem Artikel behandelten Modelle:
 ## Für den kollegialen Austausch
 
 Wenn Sie in Ihrer eigenen Praxis mit systemischer Auftragsklärung arbeiten oder Erfahrungen zu 4-Felder-Modell, 9-Felder-Modell oder Dreiervertrag teilen möchten, freue ich mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

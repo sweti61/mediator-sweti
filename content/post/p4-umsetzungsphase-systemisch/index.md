@@ -8,11 +8,13 @@ categories: ["Blog"]
 slug: p4-umsetzungsphase-systemisch
 url: /post/p4-umsetzungsphase-systemisch/
 date: 2025-06-26
-lastmod: 2026-07-30
+lastmod: 2026-08-16
 read_more_copy: 'Mehr zur Umsetzungsphase in der Mediation'
 draft: false
 image: "p4-umsetzungsphase-systemisch.png"
 author: "Dr. Swetoslaw Beltschew"
+weight: 200
+
 toc: true
 noindex: true
 sitemap:
@@ -169,3 +171,6 @@ Dieser Artikel gehört zu einer kleinen Reihe zu den vier Phasen der Mediation a
 ## Für den kollegialen Austausch
 
 Wenn Sie in Ihrer eigenen Praxis mit der Umsetzungsphase arbeiten oder Erfahrungen zu Selbstorganisation, Verantwortungsdiffusion, Feedbackschleifen oder dem Übergang von moderierter zu selbstorganisierter Verständigung teilen möchten, freue ich mich über den Austausch. Anregungen, Kritik und Praxisreflexionen sind willkommen.
+
+{{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)

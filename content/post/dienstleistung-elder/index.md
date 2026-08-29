@@ -74,7 +74,6 @@ Elder-Mediation bietet eine wertvolle Unterstützung, um komplexe und emotionale
 ---
 
 **Weiterführende Angebote:**
-- [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})   
 - [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})   
 

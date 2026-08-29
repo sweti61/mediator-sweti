@@ -9,7 +9,7 @@ description = "Vermittlung als zweite Leitidee der Mediation: Wie Kommunikation 
 summary = "Der Vermittlungsgedanke richtet den Blick auf die gegenwärtige Kommunikation. Der Mediator transportiert keine Botschaften und sucht keinen Mittelweg. Er hilft den Beteiligten, ihre Muster zu erkennen und einander wieder so zu hören, dass andere Antworten möglich werden."
 
 date = 2026-08-13
-lastmod = 2026-08-15
+lastmod = 2026-08-16
 read_more_copy = 'Mehr über den Vermittlungsgedanken der Mediation'
 url = "/post/vermittlung/"
 slug = "vermittlung"

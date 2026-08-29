@@ -1,5 +1,5 @@
 ---
-title: "Coaching in Übergängen – Klarheit in Zeiten des Wandels"
+title: "Konflikt-Coaching in Übergängen – Klarheit in Zeiten des Wandels"
 description: "Systemisches Einzelcoaching in Dresden bei Rollenveränderung, Ruhestand, beruflicher Neuorientierung, familiären Umbrüchen oder nach einer Trennung. Orientierungsgespräch kostenfrei."
 summary: "Wenn sich Lebensphasen verändern, braucht es Orientierung. Ich begleite Menschen in Übergängen, strukturiert, ruhig und mit systemischem Blick."
 categories: ["marketing"]

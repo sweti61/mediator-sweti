@@ -66,6 +66,5 @@ Elder-Mediation ist ein wertvolles Werkzeug, um ältere Paare und ihre Familien 
 ---
 
 **Weiterführende Angebote:**
-- [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})
 - [Mediation bei Pflege, Erbe und Übergang in Dresden]({{< relref "/angebote/mediation-bei-pflege-erbe-uebergang-dresden/">}})  
 - [Familienkonflikt zwischen den Generationen – Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/">}})

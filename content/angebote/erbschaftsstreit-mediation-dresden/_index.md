@@ -19,7 +19,6 @@ keywords:
 categories: ["angebote"]
 layout: "angebot"
 author: "Dr. Swetoslaw Beltschew"
-noindex: false
 ---
 
 
