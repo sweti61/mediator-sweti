@@ -6,9 +6,6 @@ keywords = ["Systemtheorie", "funktionale Differenzierung", "Niklas Luhmann", "M
 
 date = 2025-05-14T08:16:44+02:00
 image = "differenzierung.png"
-noindex= true
-[sitemap]
-disable = true
 +++
 ---
 {{< figure src="differenzierung.png">}}

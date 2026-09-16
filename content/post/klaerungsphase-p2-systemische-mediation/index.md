@@ -16,9 +16,6 @@ author: "Dr. Swetoslaw Beltschew"
 weight: 400
 
 toc: true
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< metadescription >}}

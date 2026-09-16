@@ -16,10 +16,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
 image = "transformation.png"
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

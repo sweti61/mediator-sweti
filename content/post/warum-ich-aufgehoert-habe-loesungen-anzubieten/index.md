@@ -17,10 +17,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
 image = "warum-ich-aufgehoert-habe-loesungen-anzubieten.png"
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

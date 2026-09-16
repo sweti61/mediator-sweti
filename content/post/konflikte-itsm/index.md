@@ -13,10 +13,6 @@ url = "/post/konflikte-itsm/"
 slug = "konflikte-itsm"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

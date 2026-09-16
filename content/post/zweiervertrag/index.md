@@ -12,11 +12,6 @@ tags: ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", "
 keywords: ["Zweiervertrag TA", "Transaktionsanalyse Beratung", "TA Mediation", "Vertragsarbeit Coaching", "psychologische Verträge"]
 image: "zweiervertrag.png"
 toc: true
-draft: false
-
-noindex: true
-sitemap:
-  disable: true
   
 read_more_copy: "Mehr zum Zweiervertrag"
 ---

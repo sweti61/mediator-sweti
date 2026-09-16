@@ -18,10 +18,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc=true
 image="harvard-optionen.png"
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

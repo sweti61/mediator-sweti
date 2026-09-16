@@ -7,12 +7,6 @@ summary = "Mediation bei IT-Projekten löst Konflikte in technisch komplexen, in
 date = 2024-06-03T16:03:46+02:00
 
 read_more_copy = 'Mehr über IT-Projekte'
-
-draft = false
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="it-projekte.png">}}

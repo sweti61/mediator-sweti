@@ -16,8 +16,6 @@ tags:
   - "Privatpersonen"
 categories: ["angebote"]
 
-noindex: false
-
 toc: true
 show_related: false
 type: "Seite"

@@ -17,10 +17,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
 image = "vermittlung.png"
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

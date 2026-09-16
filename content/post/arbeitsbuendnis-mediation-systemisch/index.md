@@ -15,10 +15,6 @@ toc: true
 draft: false
 weight: 600
 
-
-noindex: true
-sitemap:
-  disable: true
 read_more_copy: "Mehr zum Arbeitsbündnis"
 ---
 

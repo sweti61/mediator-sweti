@@ -7,10 +7,6 @@ summary = "Vertraulichkeit ist das Rückgrat jeder Mediation: Sie schützt nicht
 date = 2024-05-16T08:30:25+02:00
 slug = "Vertraulichkeit"
 read_more_copy = 'Mehr über die Vertraulichkeit'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="Mediation3.png">}}

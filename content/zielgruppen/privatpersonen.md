@@ -20,10 +20,6 @@ slug: "privatpersonen"
 date: 2025-06-04
 layout: "zielgruppe"
 read_more_copy : "Weiter zu Privatpersonen in Umbruchsphasen"
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 **Typische Mitglieder:**  

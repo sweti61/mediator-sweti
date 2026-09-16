@@ -10,10 +10,6 @@ keywords = ['Empathie', 'Mediation', 'Konfliktlösung', 'Vertrauen', 'Verständn
 date = 2024-10-09T10:28:21+02:00
 
 read_more_copy = 'Mehr über Empatie'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="empathie.png">}}

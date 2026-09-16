@@ -26,10 +26,6 @@ tags:
   - Systemische Beratung
 categories:
   - Blog
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< smartimg

@@ -7,14 +7,11 @@ summary = "Konfliktmanagement für ITIL-Prozesse: Spezialisierte Mediation, Mode
 date = 2024-06-14T14:22:11+02:00
 
 read_more_copy = "Mehr über die ITIL-Mediation"
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}
 
-{{< figure src="/images/ITIL-mediation2.png">}}
+{{< figure src="ITIL-mediation2.png">}}
 
 #### Einleitung
 Unsere Dienstleistung "Konfliktmanagement für ITIL-Prozesse" richtet sich speziell an mittelständische IT-Dienstleister, die ITIL-Prozesse zur Serviceerbringung nutzen. In einem Umfeld, das durch agile Methoden geprägt ist, können Konflikte zwischen verschiedenen Interessengruppen die Effizienz und Qualität der IT-Services erheblich beeinträchtigen. Diese Dienstleistung bietet umfassende Lösungen zur Konfliktbearbeitung, wobei Mediation als eine zentrale Methode dient, ergänzt durch weitere bewährte Konfliktlösungsstrategien. Unsere Mediatoren sind zudem ITIL-zertifiziert und verfügen über langjährige Erfahrung in der IT-Dienstleistungsbranche.

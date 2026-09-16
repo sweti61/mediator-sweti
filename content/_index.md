@@ -51,7 +51,6 @@ sondern was bereits da ist und tragen kann.
 {{< /card >}}
 
 {{< /cards >}}
-
 ---
 
 Ein erstes Gespräch dient der Orientierung – nicht der 

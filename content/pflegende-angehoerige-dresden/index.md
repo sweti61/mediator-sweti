@@ -18,7 +18,6 @@ type: "Seite"
 toc: true
 show_related: false
 
-noindex: false
 draft: false
 
 image: "pflegende-angehoerige-dresden.png"

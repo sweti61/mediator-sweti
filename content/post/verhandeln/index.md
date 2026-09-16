@@ -17,10 +17,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 image = "verhandeln.png"
 toc = true
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

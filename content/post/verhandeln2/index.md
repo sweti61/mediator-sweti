@@ -16,12 +16,8 @@ read_more_copy = 'Mehr über Verhandlungstechniken'
 url = "/post/verhandeln2/"
 slug = "verhandeln2"
 author = "Dr. Swetoslaw Beltschew"
-draft = false
-
-noindex = true
-[sitemap]
-disable = true
 +++
+
 {{< metadescription >}}
 
 {{< smartimg

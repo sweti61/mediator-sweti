@@ -14,10 +14,6 @@ slug = "slm"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 image = "slm.png"
-
-noindex=true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

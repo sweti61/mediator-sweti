@@ -10,9 +10,6 @@ slug = "freiwilligkeit"
 read_more_copy = 'Mehr über die Freiwilligkeit in der Mediation'
 
 Keywords=['Freiwilligkeit', 'Mediation', 'Arbeitsvertrag', 'Direktionsrecht', 'Mediationsgesetz', 'Konfliktlösung', 'Eigenverantwortung', 'Vertrauen', 'Gestaltungsspielraum', 'Zwang', 'Mediationsklauseln', 'Arbeitsumfeld', 'Konfliktparteien', 'Unabhängigkeit', 'Neutralität', 'Allparteilichkeit', 'Betriebliche Mediation', 'Arbeitsrecht', 'Verweigerung', 'Konsequenzen', 'Abmahnung', 'Kündigung', 'Vertrauensatmosphäre', 'Mediationsvertrag', 'Kontraktphase', 'Klärungsgespräche', 'Vertraulichkeit', 'positiven Emotionen', 'Lösungsfindung']
-
-noindex= true
-
 +++
 
 ![Freiwilligkeit](freiwilligkeit.png)

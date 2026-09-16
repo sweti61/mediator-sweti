@@ -9,10 +9,6 @@ url='/post/anna_und_david/'
 slug='anna_und_david'
 
 read_more_copy = 'Mehr über die Geschichte von Ana und David'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="anna_und_david.png" alt="Ana und David">}}

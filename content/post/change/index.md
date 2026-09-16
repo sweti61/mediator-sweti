@@ -12,10 +12,6 @@ date = 2025-04-16T10:38:34+02:00
 read_more_copy = 'Mehr über Change Management'
 slug = "change"
 url = "/post/change/"
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

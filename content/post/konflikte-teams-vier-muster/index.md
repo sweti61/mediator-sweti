@@ -13,10 +13,6 @@ draft: false
 toc: true
 author: "Dr. Swetoslaw Beltschew"
 image: "konflikte-teams-vier-muster.png"
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< smartimg

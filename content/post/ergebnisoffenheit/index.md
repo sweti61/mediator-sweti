@@ -9,10 +9,6 @@ date = 2024-05-17T12:00:13+02:00
 url='/post/ergebnisoffenheit/'
 slug='ergebnisoffenheit'
 read_more_copy = 'Mehr über die Ergebnisoffenheit'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="Ergebnisoffenheit.png" alt="Ergebnisoffenheit">}}

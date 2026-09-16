@@ -22,10 +22,6 @@ draft: false
 
 toc: true
 
-noindex: true
-sitemap:
-  disable: true
-
 ---
 
 {{< figure src="bevor-das-gespraech-beginnt.png" >}}

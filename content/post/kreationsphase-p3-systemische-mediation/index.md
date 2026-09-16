@@ -17,9 +17,6 @@ weight: 400
 
 
 toc: true
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< metadescription >}}

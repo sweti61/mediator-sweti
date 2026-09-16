@@ -7,12 +7,6 @@ description = 'Framing und Reframing in der Mediation; Verständnissicherung, Pe
 summary = 'Framing und Reframing in der Mediation; Verständnissicherung, Perspektivenwechsel, Lösungssuche, Flexibilität, Kreativität'
 slug = "reframing"
 read_more_copy = "Mehr über der Reframing"
-
-draft = false
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 

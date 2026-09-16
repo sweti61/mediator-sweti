@@ -21,10 +21,6 @@ tags:
   - Interaktionen
 categories:
   - Blog
-  
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< smartimg

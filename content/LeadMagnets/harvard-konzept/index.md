@@ -6,11 +6,8 @@ keywords = ["Systemtheorie", "Harvard-Konzept", "Niklas Luhmann", "Mediation", "
 
 date = 2025-05-14T08:16:44+02:00
 image = "differenzierung.png"
-noindex= true
-[sitemap]
-disable = true
 +++
----
+
 {{< figure src="differenzierung.png">}}
 ## Lade dir den Insider-Tipps kostenlos herunter
 

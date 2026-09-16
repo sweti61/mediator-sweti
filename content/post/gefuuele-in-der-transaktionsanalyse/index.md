@@ -16,10 +16,6 @@ date: 2025-05-28T06:50:24+02:00
 slug: "gefuuele-in-der-transaktionsanalyse"
 
 read_more_copy: 'Mehr über Gefühle in der Transaktionsanalyse'
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< metadescription >}}

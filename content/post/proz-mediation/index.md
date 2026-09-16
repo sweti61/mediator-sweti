@@ -8,10 +8,6 @@ summary = "Prozessverbesserungen stoßen häufig auf Widerstände, Missverständ
 url='/post/proz-mediation/'
 slug='proz-mediation'
 read_more_copy = 'Mehr über Konflikte bei Prozessverbesserungen'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="proz-mediation.png">}}

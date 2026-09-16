@@ -12,10 +12,6 @@ date: 2025-11-27
 draft: false
 image: 'emotion-beduerfnis-interesse-position.png'
 author: "Dr. Swetoslaw Beltschew"
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< metadescription >}}

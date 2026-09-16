@@ -27,8 +27,6 @@ url = "/post/fall-zaun/"
 slug = "fall-zaun"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
-
-noindex = true
 +++
 
 Manchmal reicht ein bisschen Holz, um Welten voneinander zu trennen. In unserem heutigen Fall war es ein **blickdichter Holzzaun**, der zwei Nachbarn – Frau Krämer und Herrn Becker – auf Distanz brachte. Und das im wahrsten Sinne des Wortes.

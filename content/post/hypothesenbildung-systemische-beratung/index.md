@@ -20,10 +20,6 @@ url = "/post/hypothesenbildung-systemische-beratung/"
 
 draft = false
 image = "hypothesenbildung-systemische-beratung.png"
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< smartimg

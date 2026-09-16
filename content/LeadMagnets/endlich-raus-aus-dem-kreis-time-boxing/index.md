@@ -21,9 +21,6 @@ draft: false
 
 toc: true
 image: endlich-raus-aus-dem-kreis-time-boxing.png
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< smartimg

@@ -18,10 +18,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc=true
 image="harvard-mp.png"
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

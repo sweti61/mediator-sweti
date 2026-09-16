@@ -13,10 +13,6 @@ keywords: ["implizite Verträge", "Transaktionsanalyse", "Beratung", "Mediation"
 image: "impliziter-vertrag.png"
 toc: true
 draft: false
-
-noindex: true
-sitemap:
-  disable: true
 read_more_copy: "Mehr zu impliziten Verträgen"
 ---
 

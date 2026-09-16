@@ -12,9 +12,6 @@ keywords = ['Konfliktkosten', 'Konfliktmanagement', 'Mediation', 'Konfliktpräve
 date = 2025-04-30T09:01:14+02:00
 slug = 'k-kosten'
 read_more_copy = 'Mehr zu Konfliktkosten'
-noindex = true
-[sitemap]
-disable = true
 +++
 
 ![Konfliktkosten](k-kosten.png)

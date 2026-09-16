@@ -8,10 +8,6 @@ slug = "konflikte"
 date = 2024-06-03T15:55:07+02:00
 
 read_more_copy = 'Mehr über Konflikte'
-
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< figure src="konflikte.png" alt="Konflikte">}}

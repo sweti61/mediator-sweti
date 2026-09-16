@@ -18,10 +18,8 @@ draft = false
 toc = true
 image = "ausgleich.png"
 
-noindex = true
-[sitemap]
-disable = true
 +++
+
 {{< metadescription >}}
 
 {{< smartimg

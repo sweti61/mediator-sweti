@@ -17,11 +17,6 @@ date = 2025-05-31
 read_more_copy = 'Mehr über Passivität in TA'
 image ="passivitaet-verstehen-handlung-ermoeglichen.png"
 author = "Dr. Swetoslaw Beltschew"
-draft = false
-
-noindex=true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

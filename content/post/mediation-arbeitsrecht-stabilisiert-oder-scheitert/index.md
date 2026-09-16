@@ -21,10 +21,6 @@ date: 2026-02-04
 draft: false
 toc: true
 author: "Swetoslaw Beltschew"
-
-noindex: true
-sitemap:
-  disable: true
 ---
 
 {{< metadescription >}}

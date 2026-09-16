@@ -18,9 +18,6 @@ draft = false
 image="harvard-kriterien.png"
 
 toc = true
-noindex= true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

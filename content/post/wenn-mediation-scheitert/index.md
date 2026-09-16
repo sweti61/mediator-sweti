@@ -16,10 +16,6 @@ author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
 image = "wenn-mediation-scheitert.png"
-
-noindex = true
-[sitemap]
-disable = true
 +++
 
 {{< metadescription >}}

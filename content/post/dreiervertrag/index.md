@@ -12,10 +12,6 @@ tags: ["Transaktionsanalyse", "Coaching", "Mediation", "Systemische Beratung", "
 keywords: ["Dreiervertrag TA", "Fanita English", "Transaktionsanalyse", "Rollenklarheit", "Beratung Organisation", "TA Mediation"]
 image: "dreiervertrag.png"
 toc: true
-draft: false
-noindex: true
-sitemap:
-  disable: true
 read_more_copy: "Mehr zum Dreiervertrag"
 ---
 

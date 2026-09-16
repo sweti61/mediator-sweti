@@ -16,9 +16,6 @@ url: "/leadmagnets/"
 
 date: 2026-04-04
 draft: false
-noindex: true
-sitemap:
-  disable: true
 ---
 
 Diese Seite bündelt kostenfreie Leitfäden, die Sie in schwierigen Gesprächssituationen unterstützen.

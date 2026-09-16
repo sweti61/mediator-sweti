@@ -18,11 +18,8 @@ slug = "harvard-konzept"
 author = "Dr. Swetoslaw Beltschew"
 draft = false
 toc = true
-
-noindex= true
-[sitemap]
-disable = true
 +++
+
 {{< metadescription >}}
 
 {{< smartimg
