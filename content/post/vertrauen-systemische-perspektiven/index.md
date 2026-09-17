@@ -432,7 +432,7 @@ Du begleitest Menschen in Beratung, Mediation oder Führung und möchtest deine 
 Du suchst nach konkreten Impulsen für deine Praxis?
 
 Dann lade ich dich ein:   
-👉 Vereinbare ein kostenloses Gespräch mit mir auf [Calendly]("https://calendly.com/mediator-sweti")   
+👉 Vereinbare ein kostenloses Gespräch mit mir auf [Calendly](https://calendly.com/mediator-sweti)   
 Ich freue mich auf den Austausch mit dir.
 
 

@@ -24,7 +24,7 @@
 {{ with $assets_to_concat }}
   {{ $style := . | resources.Concat "ananke/css/main.css" }}
   {{ $style = $style | resources.Minify }}
-  {{ if eq (getenv "HUGO_ENV") "production" }}
+  {{ if hugo.IsProduction }}
     {{ $style = $style | fingerprint }}
   {{ end }}
   {{ $main_style = $style }}

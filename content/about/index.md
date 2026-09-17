@@ -6,7 +6,6 @@ slug: about
 url: /about/
 date: 2026-04-26
 lastmod: 2026-08-13
-draft: false
 toc: false
 author: "Dr. Swetoslaw Beltschew"
 type: page
