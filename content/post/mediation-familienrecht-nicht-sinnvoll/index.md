@@ -28,10 +28,6 @@ author: "Swetoslaw Beltschew"
 
 {{< figure src="image.png" >}}
 
-
-# Wann Mediation im Familienrecht nicht sinnvoll ist  
-*(Einordnung – nicht Empfehlung)*
-
 ## Einleitung – These & Kontext
 
 ### Mediation ist kein Allheilmittel im Familienrecht

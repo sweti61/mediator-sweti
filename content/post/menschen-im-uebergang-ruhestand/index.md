@@ -16,9 +16,6 @@ draft: false
 
 {{< figure src="image.png">}}
 
-
-# Übergang Ruhestand – Wenn das Alte nicht mehr trägt und das Neue noch nicht stabil ist
-
 Der Kalender wird leer – und der Kopf voller Fragen.  
 Der Übergang in den Ruhestand gehört zu den tiefgreifendsten Veränderungen im Leben. Er markiert nicht nur das Ende der Erwerbsarbeit, sondern auch den Beginn einer neuen Lebensphase, in der Identität, Sinn und Struktur neu ausgehandelt werden.
 

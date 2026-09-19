@@ -30,7 +30,7 @@ Ich begleite seit vielen Jahren Organisationen und IT-Dienstleister in Veränder
 
 ---
 
-### Was ist Change Management in ITIL?
+## Was ist Change Management in ITIL?
 
 In **ITIL v3** war Change Management ein definierter Prozess: Änderungen wurden formal beantragt, geprüft und durch das **Change Advisory Board (CAB)** freigegeben. Ziel war es, Risiken zu minimieren und Service-Stabilität zu sichern.
 
@@ -40,7 +40,7 @@ Das klingt modern – führt in der Praxis aber oft zu **neuen Reibungspunkten**
 
 ---
 
-### Typische Konflikte im Change Enablement
+## Typische Konflikte im Change Enablement
 
 **1. Prioritätskonflikte zwischen Business & IT**  
 Fachbereiche drängen auf schnelle Umsetzung – der IT-Betrieb fürchtet um die Systemstabilität. Was für die einen dringend ist, wirkt für andere riskant.
@@ -64,7 +64,7 @@ Diese Konflikte sind kein Zeichen von Scheitern – sie zeigen, dass das System 
 
 ---
 
-### Ein Praxisbeispiel: Wenn Tempo wichtiger ist als Abstimmung
+## Ein Praxisbeispiel: Wenn Tempo wichtiger ist als Abstimmung
 
 Ein städtischer IT-Dienstleister soll kurzfristig ein neues System zur Terminbuchung bereitstellen. Das Projektteam liefert schnell – der Prototyp steht, ein Change-Request ist gestellt.
 
@@ -76,7 +76,7 @@ Was fehlte, war nicht Technik. Sondern: Kommunikation, Transparenz und eine verm
 
 ---
 
-### Wie ich als Mediator in IT-Konflikten unterstütze
+## Wie ich als Mediator in IT-Konflikten unterstütze
 
 Als **systemischer Mediator** und **neutraler Moderator** begleite ich Organisationen dabei, nicht nur Einzelfälle zu klären – sondern Prozesse zu verbessern. Meine Schwerpunkte:
 
@@ -99,7 +99,7 @@ Mein Ziel: Konflikte nicht vermeiden, sondern konstruktiv bearbeiten. 💬
 
 ---
 
-### Meine Angebote für Organisationen & KMU
+## Meine Angebote für Organisationen & KMU
 
 - Moderation von Change-Workshops (remote oder vor Ort)
 - Mediation bei Konflikten zwischen Projektteams und Betrieb
@@ -110,13 +110,13 @@ Mein Ziel: Konflikte nicht vermeiden, sondern konstruktiv bearbeiten. 💬
 
 ---
 
-### Fazit: Change Enablement braucht Struktur & Beziehung
+## Fazit: Change Enablement braucht Struktur & Beziehung
 
 Veränderungen gelingen nicht nur durch gute Prozesse – sondern durch Dialog. Wer Change wirklich ermöglichen will, braucht neben Tools auch Moderation, Klärung und Gesprächsbereitschaft.
 
 Ich unterstütze Sie gern dabei. 🤝
 
-#### *Dieser Artikel ist Teil der Serie "Konflikte in ITIL-Prozessen verstehen und lösen"*
+## *Dieser Artikel ist Teil der Serie "Konflikte in ITIL-Prozessen verstehen und lösen"*
 
 - [Konflikte in Organisationen & KMU – gemeinsam klären, bevor sie eskalieren](https://beltschew.de/services/itsm/ "Konflikte in ITIL-Prozessen verstehen und lösen")   
 - [Konfliktmanagement für ITIL-Prozesse]({{<ref "itil_mediation">}} "Konfliktmanagement für ITIL-Prozesse")   

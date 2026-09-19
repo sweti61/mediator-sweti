@@ -13,7 +13,7 @@ read_more_copy = 'Mehr über IT-Projekte'
 
 Mediation bei IT-Projekten ist eine spezialisierte Dienstleistung, die darauf abzielt, [Konflikte]({{< ref "konflikte">}} "Warum entstehen Konflikte?") und Missverständnisse in der komplexen und dynamischen Welt der IT-Projektarbeit zu lösen. IT-Projekte sind oft durch hohe technische Anforderungen, enge Zeitpläne und diverse Teams geprägt, die verschiedene Fachkenntnisse und Perspektiven einbringen. Diese Faktoren können leicht zu Spannungen und Konflikten führen, die den Fortschritt und Erfolg eines Projekts gefährden.
 
-**Spezifika und Herausforderungen bei IT-Projekten:**
+## Spezifika und Herausforderungen bei IT-Projekten:
 
 1. **Technische Komplexität:**
    IT-Projekte sind oft sehr technisch und erfordern ein tiefes Verständnis der eingesetzten Technologien und Prozesse. Mediatoren müssen die Fähigkeit haben, sich schnell in die technischen Details einzuarbeiten, um die Perspektiven und Anliegen der beteiligten Parteien zu verstehen und zu übersetzen.
@@ -30,7 +30,7 @@ Mediation bei IT-Projekten ist eine spezialisierte Dienstleistung, die darauf ab
 5. **Unterschiedliche Interessen und Ziele:**
    In IT-Projekten arbeiten oft verschiedene Stakeholder mit unterschiedlichen Interessen und Zielen zusammen. Es kann zu Konflikten kommen, wenn diese Interessen nicht ausreichend berücksichtigt oder miteinander in Einklang gebracht werden.
 
-**Leistungen des Mediators bei IT-Projekten:**
+## Leistungen des Mediators bei IT-Projekten:
 
 1. **Kommunikationsverbesserung:**
    Der Mediator unterstützt die Teammitglieder dabei, klare und effektive Kommunikationswege zu etablieren, Missverständnisse zu klären und eine gemeinsame Sprache zu finden.

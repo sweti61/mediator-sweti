@@ -9,7 +9,7 @@ featured_image="angebote_an_meinen_kunden_Dresden2.png"
 
 +++
 
-Jeder Konflikt ist anders – und jedes Gespräch ein neuer Anfang.
+## Jeder Konflikt ist anders – und jedes Gespräch ein neuer Anfang.
 
 Auf dieser Seite findest du meine Angebote für Menschen in herausfordernden Situationen: bei Spannungen im Team, in der Familie, in einer Partnerschaft oder an beruflichen Übergängen.
 

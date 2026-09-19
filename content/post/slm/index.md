@@ -27,7 +27,7 @@ image = "slm.png"
 >}}
 
 
-### Wenn der Dienst nicht zur Erwartung passt 
+## Wenn der Dienst nicht zur Erwartung passt 
 
 "Warum habt ihr das Ticket erst nach zwei Stunden bearbeitet? Es steht doch im SLA, dass ihr nach einer halben Stunde reagieren müsst!"
 
@@ -41,7 +41,7 @@ Als Mediator mit über 30 Jahren Erfahrung in **ITSM, Prozessmanagement** und **
 
 ---
 
-### ITIL Kommunikation verbessern: Was ist Service Level Management überhaupt?
+## ITIL Kommunikation verbessern: Was ist Service Level Management überhaupt?
 
 **Service Level Management (SLM)** ist eine zentrale Praxis im ITIL-Kontext. Es geht darum, mit Kunden messbare und realistische Vereinbarungen zu treffen – zu Verfügbarkeit, Reaktionszeit, Qualität oder Eskalationswegen. SLAs (Service Level Agreements) bilden dabei die Brücke zwischen Kundenbedürfnis und IT-Leistungsfähigkeit. Intern sichern **Operational Level Agreements (OLAs)** die Umsetzung dieser Versprechen ab.
 
@@ -49,7 +49,7 @@ Mit **ITIL 4** hat sich die Ausrichtung von SLM grundlegend verändert: Weg von 
 
 ---
 
-### Konflikte in IT-Projekten erkennen: Typische Stolpersteine im SLM
+## Konflikte in IT-Projekten erkennen: Typische Stolpersteine im SLM
 
 - **Unklare oder überhöhte Erwartungen:** Fachbereiche fordern Leistungen, die nie explizit vereinbart wurden.
 - **Sprachbarrieren:** Begriffe wie „Reaktionszeit“, „Verfügbarkeit“ oder „Servicequalität“ werden unterschiedlich verstanden.
@@ -61,7 +61,7 @@ Diese Konflikte führen nicht nur zu Reibung – sondern zu Vertrauensverlust. U
 
 ---
 
-### Eskalationsmanagement braucht Struktur – und Vertrauen
+## Eskalationsmanagement braucht Struktur – und Vertrauen
 
 Viele Organisationen haben formale Eskalationsprozesse – aber keine gelebte Eskalationskultur. Wenn Eskalation gleichgesetzt wird mit Schuldzuweisung, Versagen oder Gesichtsverlust, dann wird sie vermieden. Und das bedeutet: Konflikte schwelen weiter, blockieren Teams und kosten Produktivität.
 
@@ -75,7 +75,7 @@ Als externer Mediator begleite ich Organisationen dabei, eine solche Kultur aufz
 
 ---
 
-### Prozessoptimierungsmediation & Moderation: Meine Angebote für Organisationen & IT-Dienstleister 
+## Prozessoptimierungsmediation & Moderation: Meine Angebote für Organisationen & IT-Dienstleister 
 
 Als ausgebildeter Mediator nach MediationsG und PRINCE2 Agile-Projektmanager biete ich Ihnen:
 
@@ -85,7 +85,7 @@ Als ausgebildeter Mediator nach MediationsG und PRINCE2 Agile-Projektmanager bie
 
 ---
 
-### Niedrigschwellige Einstiegsangebote zur Konfliktberatung
+## Niedrigschwellige Einstiegsangebote zur Konfliktberatung
 
 - Kostenloses 30-minütiges Erstgespräch (online oder telefonisch)
 - Impulsvortrag „Wenn SLAs blockieren – Mediation als Hebel für Prozessqualität“
@@ -93,7 +93,7 @@ Als ausgebildeter Mediator nach MediationsG und PRINCE2 Agile-Projektmanager bie
 
 ---
 
-### Wie läuft das ab? Ihre Customer Journey mit Sweti Mediator
+## Wie läuft das ab? Ihre Customer Journey mit Sweti Mediator
 
 1. **Kontaktaufnahme**: Sie schreiben mir eine Mail oder buchen direkt einen Termin.
 2. **Erstgespräch**: Wir klären unverbindlich, ob und wie ich helfen kann.
@@ -102,7 +102,7 @@ Als ausgebildeter Mediator nach MediationsG und PRINCE2 Agile-Projektmanager bie
 
 ---
 
-### Professionelle Konfliktmoderation als Schlüssel zur Klarheit
+## Professionelle Konfliktmoderation als Schlüssel zur Klarheit
 
 Technische Lösungen greifen oft zu kurz, wenn es um zwischenmenschliche Spannungen geht. Die Verantwortung für das Gelingen liegt dann diffus verteilt – zwischen Service Level Manager, Projektleitung und Support-Team.
 
@@ -116,7 +116,7 @@ Als externer Moderator kann ich den Raum schaffen, den interne Rollen oft nicht 
 
 {{< werbebox >}}
 
-### Fazit: Konflikte lösen statt Prozesse blockieren
+## Fazit: Konflikte lösen statt Prozesse blockieren
 
 SLAs sind kein Selbstzweck. Sie sind der Versuch, komplexe Erwartungen in konkrete Zusagen zu fassen. Wenn diese Zusagen nicht kommuniziert, verstanden oder intern abgesichert sind, entsteht Konflikt.
 
@@ -126,7 +126,7 @@ Und genau das kann man ändern – mit **systemischer Mediation**, strukturierte
 
 ---
 
-### Neugierig geworden? Jetzt Konflikte lösen
+## Neugierig geworden? Jetzt Konflikte lösen
 
 Sie möchten wissen, ob **Konfliktberatung**, **Mediation bei Firmenübergabe** oder **neutrale Moderation IT** in Ihrer Organisation helfen kann?
 

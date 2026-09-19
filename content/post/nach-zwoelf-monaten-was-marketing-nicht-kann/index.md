@@ -24,8 +24,6 @@ read_more_copy: 'Mehr über mein Weg'
   size="1200x"
 >}}
 
-# Nach zwölf Monaten: Was Marketing nicht kann
-
 Ich schreibe das nicht, um zu klagen. Ich schreibe es, weil ehrliche Reflexion mehr wert ist als Erfolgserzählung.
 
 Nach zwölf Monaten Marketingaufbau stehe ich vor einer klaren Bilanz: null Erstgespräche über die Website, null Erstgespräche über Anwaltskanzleien, null Erstgespräche über Pflegeeinrichtungen. Die Website ist nach dem März 2026 Google Core Update weitgehend deindexiert. LinkedIn erreicht Menschen, aber keine Klienten. Was ich als Marketingarbeit investiert habe, war methodisch sauber - und strukturell wirkungslos.

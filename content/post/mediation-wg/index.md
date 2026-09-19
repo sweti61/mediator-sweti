@@ -26,14 +26,14 @@ Zur Einordnung typischer Konfliktdynamiken:
 
 → [Nachbarschaftskonflikte klären – Orientierung und Wege]({{< relref "/themen/nachbarschaftskonflikte-klaeren-dresden/" >}})
 
-#### Wann sollte Unterstützung in Anspruch genommen werden?
+## Wann sollte Unterstützung in Anspruch genommen werden?
 Mitbewohner können verschiedene Anzeichen wahrnehmen, dass sie Unterstützung bei der Konfliktbearbeitung benötigen, darunter:
 - **Ständige Spannungen und Streitigkeiten**: Häufige Auseinandersetzungen über alltägliche Themen wie Sauberkeit, Lärm oder die Nutzung gemeinsamer Räume.
 - **Kommunikationsprobleme**: Schwierigkeiten, effektiv miteinander zu kommunizieren, Missverständnisse oder das Gefühl, nicht gehört zu werden.
 - **Gefühl der Isolation**: Einer oder mehrere Mitbewohner fühlen sich ausgegrenzt oder isoliert.
 - **Stress und Unwohlsein**: Anhaltender Stress oder ein allgemeines Unwohlsein in der Wohnsituation.
 
-#### Unsere Dienstleistungen
+## Unsere Dienstleistungen
 
 1. **[Konfliktberatung]({{<ref "post/konfliktberatung">}} "Konfliktberatung") und [Konfliktcoaching]({{<ref "post/konfliktcoaching">}} "Konfliktcoaching")**:
    - Individuelle Beratungsgespräche zur Identifizierung und Analyse von Konflikten und zur Entwicklung von Lösungsstrategien.
@@ -53,7 +53,7 @@ Mitbewohner können verschiedene Anzeichen wahrnehmen, dass sie Unterstützung b
 {{< werbebox >}}
 
 
-#### Warum unsere Dienste in Anspruch nehmen?
+## Warum unsere Dienste in Anspruch nehmen?
 Unsere Dienstleistungen sind darauf ausgelegt, die Lebensqualität in WGs zu verbessern, indem sie eine offene und konstruktive Kommunikation fördern und Konflikte nachhaltig lösen. Durch unsere Unterstützung können WG-Bewohner:
 - Ihre Konfliktbewältigungsfähigkeiten verbessern.
 - Eine positive und kooperative Wohnatmosphäre schaffen.

@@ -12,7 +12,7 @@ read_more_copy = "Mehr über der Reframing"
 
 In der Welt der Mediation gibt es zwei mächtige Werkzeuge: _Framing und Reframing_. Diese Konzepte helfen dabei, wie wir Situationen sehen und verstehen. Framing bedeutet, bestimmte Aspekte einer Situation hervorzuheben, um deren Interpretation zu beeinflussen. Reframing hingegen zielt darauf ab, diese festen Deutungen zu verändern und neue Sichtweisen zu eröffnen. Diese Methoden sind besonders nützlich, um Konflikte konstruktiv zu lösen.
 
-**Framing in der Mediation**
+## Framing in der Mediation
 
 ![Framing](framing.png)
 
@@ -22,7 +22,7 @@ Framing kann in der Mediation bewusst oder unbewusst genutzt werden, um die Wahr
 
 **Unbewusstes Framing:** Die eigene Sprache, Körpersprache und die Art der Fragen beeinflussen das Framing. Mediatoren müssen sich ihrer eigenen Annahmen und Werte bewusst sein und darauf achten, diese nicht unbewusst auf die Konfliktparteien zu übertragen.
 
-**Vorteile des Framings in der Mediation**
+## Vorteile des Framings in der Mediation
 
 * **Verständnissicherung:** Komplexe Themen können einfacher und verständlicher dargestellt werden.
 * **Perspektivenwechsel:** Hilft den Konfliktparteien, die Situation aus verschiedenen Blickwinkeln zu sehen.
@@ -40,13 +40,13 @@ Framing kann in der Mediation bewusst oder unbewusst genutzt werden, um die Wahr
 * **Transparenz:** Eigene Annahmen und Werte offenlegen.
 * **Reflektion:** Den Konfliktparteien Raum geben, ihre Sichtweisen zu äußern.
 
-**Reframing: Den Blickwinkel verändern**
+## Reframing: Den Blickwinkel verändern
 
 ![Reframing](reframing.png)
 
 Reframing nimmt die bestehenden Deutungen und verändert sie, um neue Perspektiven zu eröffnen. Der Mediator kann verschiedene Techniken einsetzen, um die Konfliktparteien zu einem Perspektivenwechsel zu bewegen und die Situation neu zu bewerten.
 
-**Drei Richtungen des Reframings**
+## Drei Richtungen des Reframings
 
 1. **Kontext:** Die Bedeutung einer Situation kann durch das Verändern des Kontextes verändert werden. Zum Beispiel könnte ein Verhalten, das in einem bestimmten Kontext als negativ empfunden wird, in einem anderen Kontext als notwendig oder positiv betrachtet werden.
 
@@ -54,13 +54,13 @@ Reframing nimmt die bestehenden Deutungen und verändert sie, um neue Perspektiv
 
 3. **Bedeutung:** Die tiefere Bedeutung oder der Sinn einer Situation kann neu bewertet werden. Dies kann den Parteien helfen, den Konflikt als eine Möglichkeit für persönliches Wachstum oder Verbesserung der Beziehung zu sehen, anstatt als bloße Auseinandersetzung.
 
-**Vorteile des Reframings in der Mediation**
+## Vorteile des Reframings in der Mediation
 
 * **Flexibilität:** Hilft, starre Denkmuster zu durchbrechen und neue Lösungsmöglichkeiten zu finden.
 * **Kreativität:** Fördert die Kreativität der Konfliktparteien und führt zu innovativen Lösungen.
 * **Verständnis:** Trägt dazu bei, dass sich die Konfliktparteien besser verstehen.
 
-**Fazit**
+## Fazit
 
 Framing und Reframing sind zentrale Werkzeuge in der Mediation, die zur Klärung der Kommunikation, zum Perspektivenwechsel und zur Lösungssuche beitragen können. Ein Mediator sollte sich der Macht dieser Techniken bewusst sein und sie verantwortungsvoll einsetzen, um festgefahrene Deutungen aufzubrechen und neue Perspektiven zu eröffnen.
 

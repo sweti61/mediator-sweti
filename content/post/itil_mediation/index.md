@@ -13,10 +13,10 @@ read_more_copy = "Mehr über die ITIL-Mediation"
 
 {{< figure src="ITIL-mediation2.png">}}
 
-#### Einleitung
+## Einleitung
 Unsere Dienstleistung "Konfliktmanagement für ITIL-Prozesse" richtet sich speziell an mittelständische IT-Dienstleister, die ITIL-Prozesse zur Serviceerbringung nutzen. In einem Umfeld, das durch agile Methoden geprägt ist, können Konflikte zwischen verschiedenen Interessengruppen die Effizienz und Qualität der IT-Services erheblich beeinträchtigen. Diese Dienstleistung bietet umfassende Lösungen zur Konfliktbearbeitung, wobei Mediation als eine zentrale Methode dient, ergänzt durch weitere bewährte Konfliktlösungsstrategien. Unsere Mediatoren sind zudem ITIL-zertifiziert und verfügen über langjährige Erfahrung in der IT-Dienstleistungsbranche.
 
-#### Dienstleistungen
+## Dienstleistungen
 
 1. **Analyse und Prävention von Konflikten**
    - **Stakeholder-Analyse**: Identifikation potenzieller Konfliktquellen durch eine umfassende Analyse aller beteiligten Stakeholder.
@@ -32,7 +32,7 @@ Unsere Dienstleistung "Konfliktmanagement für ITIL-Prozesse" richtet sich spezi
    - **Retrospektiven**: Organisation und Moderation von Retrospektiven zur kontinuierlichen Verbesserung und Konfliktbearbeitung.
    - **Moderation von Stand-up-Meetings**: Unterstützung bei täglichen Stand-up-Meetings, um offene Kommunikation und schnelle Problemlösung zu fördern.
 
-#### Konkrete Beispiele aus ITIL-4-Practices
+## Konkrete Beispiele aus ITIL-4-Practices
 
 - **Incident Management**
   - Beispiel: Konflikte können entstehen, wenn verschiedene Teams unterschiedliche Prioritäten bei der Bearbeitung von Incidents haben. Mediationstechniken helfen, gemeinsame Prioritäten zu setzen und sicherzustellen, dass alle Teams an einem Strang ziehen.
@@ -49,7 +49,7 @@ Unsere Dienstleistung "Konfliktmanagement für ITIL-Prozesse" richtet sich spezi
 - **Configuration Management**
   - Beispiel: Konflikte können auftreten, wenn es Unklarheiten oder Unstimmigkeiten bei der Verwaltung und Kontrolle von IT-Ressourcen gibt. Mediation hilft dabei, klare Verantwortlichkeiten und Prozesse zu definieren, um solche Konflikte zu vermeiden.
 
-#### Indikatoren für den Bedarf an Konfliktmanagement
+## Indikatoren für den Bedarf an Konfliktmanagement
 
 IT-Dienstleister sollten unsere Unterstützung in Anspruch nehmen, wenn folgende Anzeichen erkennbar sind:
 - **Wiederholte Konflikte** zwischen verschiedenen Teams oder Abteilungen.
@@ -58,13 +58,13 @@ IT-Dienstleister sollten unsere Unterstützung in Anspruch nehmen, wenn folgende
 - **Mangelnde Zusammenarbeit** und **Kommunikationsprobleme** innerhalb der Organisation.
 - **Veränderungswiderstand** und **Spannungen** bei der Einführung neuer Technologien oder Prozesse.
 
-#### Nachbetreuung und Implementierungsunterstützung
+## Nachbetreuung und Implementierungsunterstützung
 
 Zusätzlich zu den Mediations- und Konfliktlösungsdiensten bieten wir:
 - **Nachbetreuung und Follow-up-Meetings**: Regelmäßige Sitzungen, um den Fortschritt zu überwachen und sicherzustellen, dass die Konfliktlösungen nachhaltig umgesetzt werden.
 - **Implementierungsunterstützung**: Unterstützung bei der Umsetzung der vorgeschlagenen Lösungen und Anpassungen in den ITIL-Prozessen.
 
-#### Erfolgsmessung
+## Erfolgsmessung
 
 Um den Erfolg unserer Konfliktmanagement-Dienstleistungen zu messen, verwenden wir folgende KPIs und Metriken:
 - **Reduktion der Konflikthäufigkeit**: Überwachung der Anzahl der Konflikte vor und nach der Intervention.
@@ -72,7 +72,7 @@ Um den Erfolg unserer Konfliktmanagement-Dienstleistungen zu messen, verwenden w
 - **Produktivitätssteigerung**: Vergleich der Produktivitätskennzahlen vor und nach der Konfliktbearbeitung.
 - **Einhaltung von SLAs**: Analyse der Einhaltung von Service Level Agreements nach der Implementierung der Konfliktlösungen.
 
-#### Fazit
+## Fazit
 Unsere Dienstleistung "Konfliktmanagement für ITIL-Prozesse" bietet IT-Dienstleistern die notwendige Unterstützung, um Konflikte effektiv zu bearbeiten und eine harmonische sowie produktive Arbeitsumgebung zu schaffen. Durch den gezielten Einsatz von Mediation und weiteren Konfliktlösungsstrategien fördern wir eine kollaborative Kultur, die den langfristigen Erfolg von ITIL-Projekten sicherstellt. Unsere Mediatoren sind ITIL-zertifiziert und bringen ihre umfangreiche Erfahrung in die Konfliktlösungsprozesse ein.
 
 Für weitere Informationen oder zur Vereinbarung eines Beratungsgesprächs kontaktieren Sie uns bitte direkt.
