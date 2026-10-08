@@ -188,7 +188,7 @@ Ich bin Dr. Swetoslaw Beltschew, Mediator (zertifiziert nach MediationsG) und sy
 
 {{< icon "phone" >}} 0163 803 5634   
 {{< icon "mail" >}} mediator@sweti.de   
-{{< icon "calendar" >}} [Online-Termin buchen9(https://calendly.com/mediator-sweti)   
+{{< icon "calendar" >}} [Online-Termin buchen](https://calendly.com/mediator-sweti)   
 {{< icon "message-square" >}} [Kontaktformular]({{< relref "/contact/" >}})   
 
 ---

@@ -47,6 +47,8 @@ Vielleicht kommt Ihnen eine der folgenden Lagen bekannt vor:
 - Fachliche Beratung liegt vor, aber die Familie findet keine gemeinsame Gesprächsebene.
 - Es gibt Unsicherheit, ob eine Mediation überhaupt sinnvoll ist.
 
+**Aus meiner Praxis:** Ein Hof sollte an den jüngeren Sohn übergehen, die ältere Tochter fühlte sich übergangen, obwohl sie nie einen eigenen Anspruch angemeldet hatte. In den Gesprächen wurde deutlich, dass es ihr nicht um den Hof ging, sondern um Anerkennung ihrer jahrelangen Mitarbeit. Die Familie einigte sich auf eine klare Würdigung im Übergabegespräch und feste gemeinsame Termine auch nach der Übergabe.
+
 ---
 
 ## Was Mediation leisten kann
@@ -59,9 +61,17 @@ Damit entlastet Mediation nicht nur den anstehenden Entscheidungsprozess, sonder
 
 ---
 
+## Begleitung über die Übergabe hinaus
+
+Mit der unterschriebenen Vereinbarung ist die Arbeit an der Beziehung oft nicht beendet. Wenn die neue Rollenverteilung in den Alltag kommt, zeigt sich erst, was tatsächlich trägt und wo noch nachjustiert werden muss: Wer entscheidet bei der nächsten Investition? Wie verändert sich die Rolle der übergebenden Generation, wenn sie noch auf dem Hof wohnt, aber nicht mehr laufend mitentscheidet? Wie wird die Partnerin oder der Partner des Nachfolgers eingebunden?
+
+Solche Fragen lassen sich vor der Übergabe oft nur begrenzt vorwegnehmen. Deshalb biete ich an, punktuell wieder ansetzen zu können, wenn sich nach einigen Monaten erste Reibung zeigt, statt das erst zu einem größeren Konflikt werden zu lassen. Das kann ein einzelnes Gespräch sein oder ein regelmäßiger Termin, der zur festen Gewohnheit wird.
+
+---
+
 ## Meine Rolle
 
-Ich bin allparteilich. Das heißt: Ich entscheide nicht, wer Recht hat. Ich bewerte keine Hofwerte, keine Anteile, keine Ansprüche. Ich ersetze auch keine steuerliche, rechtliche oder betriebswirtschaftliche Beratung. Diese gehört in die Hände entsprechender Fachleute.
+Ich bin allparteilich. Das heißt: Ich entscheide nicht, wer Recht hat. Ich bewerte keine Hofwerte, keine Anteile, keine Ansprüche. Ich ersetze auch keine steuerliche, rechtliche oder betriebswirtschaftliche Beratung. Diese gehört in die Hände entsprechender Fachleute. Als Mediator unterliege ich der Verschwiegenheit: Was in den Gesprächen besprochen wird, bleibt vertraulich und wird nicht an Dritte weitergegeben.
 
 Was ich tue, ist den Gesprächsprozess strukturieren. Ich achte darauf, dass alle relevanten Stimmen zu Wort kommen, und unterstütze die Beteiligten dabei, tragfähige nächste Schritte zu entwickeln.
 
@@ -95,6 +105,11 @@ Mehrparteienformat mit typischerweise zwei bis vier Sitzungen, online, in Dresde
 **Begleitung parallel zu Fachberatung.**
 Wenn Steuerberatung, Anwaltskanzlei, Notariat oder Landwirtschaftsberatung bereits beteiligt sind, kann Mediation die familiäre Gesprächsebene stabilisieren und fachliche Vorschläge besprechbar machen.
 
+**Standortgespräch nach der Übergabe.**
+Einzelnes Gespräch oder kleine Runde, einige Monate bis Jahre nach der Übergabe, wenn die neue Rollenverteilung im Alltag ankommt und nachjustiert werden muss. Auch als regelmäßiger Termin möglich.
+
+Das Honorar richtet sich nach Format und Anzahl der Sitzungen und wird im kostenfreien Orientierungsgespräch gemeinsam geklärt, bevor eine Entscheidung ansteht.
+
 ---
 
 ## Was dieses Angebot ist und was nicht
@@ -112,6 +127,25 @@ Geeignet ist Mediation, wenn die Beteiligten grundsätzlich bereit sind, miteina
 ## Regionale Ausrichtung
 
 Ich arbeite vor allem in Dresden und im sächsischen Umland, insbesondere in Richtung Mittelsachsen, Sächsische Schweiz-Osterzgebirge, Bautzen und Meißen. Gespräche können online stattfinden, in Dresden-Löbtau, oder nach Absprache vor Ort auf dem Hof. Je nachdem, was den Beteiligten am besten passt.
+
+---
+
+## Häufige Fragen
+
+**Wie lange dauert eine Mediation bei Hofnachfolge?**
+Das hängt von der Situation ab. Häufig sind es zwei bis vier Sitzungen über einige Wochen bis wenige Monate verteilt, damit zwischen den Terminen Zeit zum Nachdenken bleibt. Das Orientierungsgespräch gibt eine erste Einschätzung.
+
+**Was passiert mit dem, was in den Gesprächen gesagt wird?**
+Ich unterliege als Mediator der Verschwiegenheit. Inhalte aus den Gesprächen gebe ich nicht an Dritte weiter, auch nicht an einzelne Familienmitglieder, die nicht dabei waren.
+
+**Was, wenn ein Familienmitglied nicht mitmachen will?**
+Das kommt häufig vor und ist kein Hindernis für den ersten Schritt. Oft beginnt die Klärung mit einem Einzelgespräch, bevor überhaupt alle Beteiligten einbezogen werden. Wer noch zögert, kann später dazukommen.
+
+**Was passiert, wenn die Vereinbarung getroffen ist?**
+Die Mediation endet formal mit der Vereinbarung, aber die Begleitung kann bei Bedarf punktuell weitergehen, wenn sich in der Praxis neue Fragen zeigen. Mehr dazu im Abschnitt „Begleitung über die Übergabe hinaus".
+
+**Ersetzt Mediation den Notar oder Steuerberater?**
+Nein. Mediation bereitet die familiäre Gesprächsebene vor beziehungsweise begleitet sie parallel. Rechtliche, steuerliche und betriebswirtschaftliche Fragen gehören in fachkundige Hände.
 
 ---
 
@@ -134,4 +168,4 @@ Oder schreiben Sie mir: [mediator@sweti.de](mailto:mediator@sweti.de)
 → [Familienkonflikt zwischen den Generationen, Mediation in Dresden]({{< relref "/angebote/familienkonflikt-generationen-dresden/" >}})  
 → [Erbschaftsstreit klären – Mediation in Dresden für Erbengemeinschaften]({{<relref "/angebote/erbschaftsstreit-mediation-dresden/">}})   
 → [Coaching in Übergängen]({{< relref "/angebote/coaching-in-uebergaengen/" >}})  
-→ [Konfliktklärung vorbereiten, strukturiert und klar]({{< relref "/angebote/konfliktklaerung-vorbereiten/" >}})   
+→ [Konfliktklärung vorbereiten, strukturiert und klar]({{< relref "/angebote/konfliktklaerung-vorbereiten/" >}})
