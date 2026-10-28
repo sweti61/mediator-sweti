@@ -140,7 +140,7 @@ Nicht geeignet bei laufenden Gerichtsverfahren zu denselben Streitpunkten, akute
 
 Sie stehen mitten in einem Erbschaftsstreit — oder möchten einen verhindern?
 
-**Telefon:** +49 163 8035634
+**Telefon:** [+ 49 163 803 5634](tel:+491638035634)   
 **E-Mail:** mediator@sweti.de
 **Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
 

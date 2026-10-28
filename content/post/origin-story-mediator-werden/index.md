@@ -175,5 +175,5 @@ Wer eine konkrete Situation hat, in der ein Mediationsverfahren oder ein Konflik
 
 *Dr. Swetoslaw Beltschew*   
 *Mediator · Coach · systemischer Berater*   
-*mediator@sweti.de · 0163 803 5634*   
+*mediator@sweti.de · [+ 49 163 803 5634](tel:+491638035634)*   
 *[mediator.sweti.de](https://mediator.sweti.de) · {{< extlink "https://calendly.com/mediator-sweti">}}calendly.com/mediator-sweti{{< /extlink >}}*      

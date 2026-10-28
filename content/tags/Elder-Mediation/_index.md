@@ -135,8 +135,8 @@ Sie sind unsicher, ob Mediation in Ihrer Situation helfen kann?
 [→ Zum Kontaktformular](/contact/)
 
 ### Option 3: Direkter Kontakt
-{{< icon "mail" >}} **E-Mail:** mediator@sweti.de  
-{{< icon "phone" >}} **Telefon:** 0163 803 5634
+{{< icon "mail" >}} **E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)  
+{{< icon "phone" >}} **Telefon:** [+ 49 163 803 5634](tel:+491638035634)   
 
 ---
 

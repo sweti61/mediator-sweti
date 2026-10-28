@@ -14,7 +14,7 @@ Deutschland
 
 ### Kontakt
 
-Telefon: 0163 803 5634   
+Telefon: [+ 49 163 803 5634](tel:+491638035634)      
 E-Mail: [mediator@sweti.de](mailto:mediator@sweti.de)   
 Webseite: [https://mediator.sweti.de](https://mediator.sweti.de)   
 

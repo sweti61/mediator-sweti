@@ -188,8 +188,8 @@ Wenn Sie sich fragen, ob Mediation für Ihren konkreten Konflikt geeignet ist:
 
 Im Erstgespräch klären wir gemeinsam, ob Mediation für Ihre Situation der richtige Schritt ist — und wenn nicht, welche Alternative sinnvoller wäre.
 
-**Telefon:** +49 163 8035634
-**E-Mail:** mediator@sweti.de
+**Telefon:** [+ 49 163 803 5634](tel:+491638035634)
+**E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)
 **Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}
 
 Diese Überlegungen sind auch für Nachbarschaftskonflikte relevant:

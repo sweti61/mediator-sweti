@@ -165,8 +165,8 @@ Eine Mediationsvereinbarung ist zunächst ein privatrechtlicher Vertrag. Sie kan
 
 Sie möchten wissen, was Mediation für Ihre konkrete Situation kostet?
 
-**Telefon:** +49 163 8035634
-**E-Mail:** mediator@sweti.de
+**Telefon:** [+ 49 163 803 5634](tel:+491638035634)   
+**E-Mail:** [mediator@sweti.de](mailto:mediator@sweti.de)   
 **Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Kostenloses Erstgespräch buchen{{< /extlink >}}
 
 ---

@@ -187,7 +187,7 @@ Oft reichen 1-3 Sitzungen. Nachbarschaftskonflikte lassen sich bei vorhandener G
 
 Sie haben einen Nachbarschaftsstreit in Dresden - und möchten klären, ob Mediation der richtige Schritt ist?
 
-{{< icon "phone" >}} 0163 803 5634   
-{{< icon "mail" >}} mediator@sweti.de   
+{{< icon "phone" >}} [+ 49 163 803 5634](tel:+491638035634)      
+{{< icon "mail" >}} [mediator@sweti.de](mailto:mediator@sweti.de)   
 {{< icon "calendar" >}} [Kostenfreies Orientierungsgespräch buchen](https://calendly.com/mediator-sweti)   
 {{< icon "message-square" >}} [Kontaktformular]({{< relref "/contact/" >}})

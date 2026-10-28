@@ -122,7 +122,7 @@ Ja. Besonders bei Familien, deren Mitglieder in verschiedenen Städten leben, ha
 
 Sie leben in Dresden oder Umgebung und erkennen Ihre Situation in einer der beschriebenen Konstellationen wieder? Im kostenlosen Erstgespräch klären wir gemeinsam, ob Mediation der richtige Schritt ist.
 
-**Telefon:** +49 163 8035634   
+**Telefon:** [+ 49 163 803 5634](tel:+491638035634)   
 **E-Mail:** mediator@sweti.de   
 **Online-Termin:** {{< extlink "https://calendly.com/mediator-sweti">}}Erstgespräch online buchen{{< /extlink >}}   
 
