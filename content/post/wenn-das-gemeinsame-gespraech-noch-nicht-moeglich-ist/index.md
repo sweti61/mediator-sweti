@@ -68,7 +68,7 @@ Was dabei häufig entsteht:
 
 ## Was dieses Gespräch nicht ist
 
-Es ist kein Gespräch gegen die andere Seite. Ich arbeite allparteilich - auch wenn nur eine Person am Tisch sitzt. Das bedeutet: Ich höre, was die Person schildert, aber ich schließe mich ihrer Bewertung der anderen Seite nicht an. Ich halte die Möglichkeit offen, dass die andere Seite eigene Gründe hat, eigene Ängste, eigene Bedenken - auch wenn ich sie nicht kenne.
+Es ist kein Gespräch gegen die andere Seite. ch arbeite für die Person, die zu mir kommt, aber nicht gegen die andere Seite. Das bedeutet: Ich höre, was die Person schildert, aber ich schließe mich ihrer Bewertung der anderen Seite nicht an. Ich halte die Möglichkeit offen, dass die andere Seite eigene Gründe hat, eigene Ängste, eigene Bedenken - auch wenn ich sie nicht kenne.
 
 Das ist manchmal unbequem. Aber es ist der Unterschied zwischen einem Gespräch, das entlastet, und einem, das die Verhärtung verstärkt.
 
