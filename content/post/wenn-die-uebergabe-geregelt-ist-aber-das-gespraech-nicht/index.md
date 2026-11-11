@@ -8,7 +8,7 @@ description = "Der Übergabevertrag ist unterzeichnet - doch in vielen landwirts
 
 summary = "Ein Übergabevertrag regelt Eigentum und Pflichten. Was er nicht regelt: Rollen, Erwartungen und das, was zwischen den Generationen ungesagt geblieben ist. Dieser Artikel beschreibt, wann und wie Mediation in Hofübergaben helfen kann."
 
-date = 2026-11-17
+date = 2026-11-11
 lastmod = 2026-11-11
 read_more_copy = 'Mehr über Mediation bei Hofnachfolge'
 url = "/post/wenn-die-uebergabe-geregelt-ist-aber-das-gespraech-nicht/"

@@ -8,7 +8,7 @@ description = "Wenn Geschwister sich treffen, kehren oft Rollen zurück, die sie
 
 summary = "Warum Gespräche unter Geschwistern manchmal so verlaufen, als wären alle noch zwölf - und was das mit Rollen zu tun hat, die nie wirklich besprochen wurden."
 
-date = 2026-12-15
+date = 2026-11-11
 read_more_copy = 'Mehr über alte Familienrollen und was Mediation dazu beitragen kann'
 url = "/post/alte-familienrollen/"
 slug = "alte-familienrollen"

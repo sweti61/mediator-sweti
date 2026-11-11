@@ -8,7 +8,7 @@ description = "Was tun, wenn man bereit wäre zu reden - aber die andere Seite (
 
 summary = "Bereit sein für ein Gespräch, das die andere Seite noch nicht führen will - das ist eine eigene, oft unterschätzte Situation. Dieser Artikel beschreibt, was in dieser Position möglich ist, bevor das gemeinsame Gespräch stattfinden kann."
 
-date = 2026-12-01
+date = 2026-11-11
 lastmod = 2026-11-11
 read_more_copy = 'Mehr über das Gespräch, wenn die andere Seite noch nicht bereit ist'
 url = "/post/wenn-das-gemeinsame-gespraech-noch-nicht-moeglich-ist/"
