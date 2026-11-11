@@ -1,6 +1,6 @@
 +++
 categories = ['Blog']
-tags = ['Familienmediation', 'Mediation', 'Privatpersonen']
+tags = ['Mediation', 'Privatpersonen']
 
 title = "Wenn die Übergabe geregelt ist, aber das Gespräch nicht"
 
@@ -8,7 +8,8 @@ description = "Der Übergabevertrag ist unterzeichnet - doch in vielen landwirts
 
 summary = "Ein Übergabevertrag regelt Eigentum und Pflichten. Was er nicht regelt: Rollen, Erwartungen und das, was zwischen den Generationen ungesagt geblieben ist. Dieser Artikel beschreibt, wann und wie Mediation in Hofübergaben helfen kann."
 
-date = 2026-11-10
+date = 2026-11-17
+lastmod = 2026-11-11
 read_more_copy = 'Mehr über Mediation bei Hofnachfolge'
 url = "/post/wenn-die-uebergabe-geregelt-ist-aber-das-gespraech-nicht/"
 slug = "wenn-die-uebergabe-geregelt-ist-aber-das-gespraech-nicht"
@@ -20,7 +21,7 @@ toc = true
 
 {{< smartimg
   src="wenn-die-uebergabe-geregelt-ist-aber-das-gespraech-nicht.png"
-  alt="Wenn die Übergabe geregelt ist, aber das Gespräch nicht – Mediation bei Hofnachfolge"
+  alt="Wenn die Übergabe geregelt ist, aber das Gespräch nicht - Mediation bei Hofnachfolge"
   caption=""
   class="smartimg--narrow"
   size="1200x"
@@ -70,7 +71,7 @@ Nicht jede Hofübergabe braucht Mediation. Wenn die Familie gut miteinander rede
 
 Sinnvoll ist eine Begleitung, wenn das Gespräch über das Wichtige immer wieder verschoben wird. Wenn einzelne Familienmitglieder das Gefühl haben, übergangen worden zu sein - nicht im juristischen Sinne, aber im menschlichen. Wenn die Stimmung nach der Übergabe schlechter geworden ist, obwohl doch alles geregelt ist. Wenn sich Spannungen aufbauen, die niemand benennt, weil der Hof Vorrang hat.
 
-In all diesen Situationen ist es nicht zu spät für ein Gespräch. Meistens ist es nur noch nicht stattgefunden.
+In all diesen Situationen ist es nicht zu spät für ein Gespräch. Meistens hat es nur noch nicht stattgefunden.
 
 ## Wie ich zu diesem Thema arbeite
 
@@ -78,7 +79,7 @@ Ich habe keine eigene Erfahrung als Hofübernehmer oder -übergeber. Was ich mit
 
 Die spezifischen Eigenheiten landwirtschaftlicher Betriebe - saisonale Abhängigkeiten, enge Verbindung zwischen Arbeit und Zuhause, die besondere Last der Betriebsführung in Sachsen - kenne ich aus Gesprächen mit Beratern und aus dem, was Ratsuchende mir beschreiben.
 
-Wenn Sie überlegen, ob eine Begleitung für Ihre Familie sinnvoll sein könnte, ist ein erstes Gespräch der sinnvollste nächste Schritt. Es verpflichtet zu nichts - es dient der Orientierung.
+Wenn Sie überlegen, ob eine Begleitung für Ihre Familie sinnvoll sein könnte, ist ein kostenfreies Orientierungsgespräch der sinnvollste nächste Schritt. Es verpflichtet zu nichts.
 
 {{< werbebox >}}
 
